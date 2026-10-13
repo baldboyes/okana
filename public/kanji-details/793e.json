@@ -1,0 +1,241 @@
+{
+  "character": "社",
+  "meanings": "compañía, asociación, sociedad, santuario shintoísta",
+  "words": [
+    {
+      "entryId": "1198550",
+      "spelling": "会社",
+      "reading": "かいしゃ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "会社【かいしゃ】",
+      "meaning": "empresa; compañía; corporación"
+    },
+    {
+      "entryId": "1198550",
+      "spelling": "會社",
+      "reading": "かいしゃ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "會社【かいしゃ】",
+      "meaning": "empresa; compañía; corporación"
+    },
+    {
+      "entryId": "1322700",
+      "spelling": "社会",
+      "reading": "しゃかい",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "社会【しゃかい】",
+      "meaning": "sociedad"
+    },
+    {
+      "entryId": "1322920",
+      "spelling": "社長",
+      "reading": "しゃちょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "社長【しゃちょう】",
+      "meaning": "presidente de la compañía; gerente; director"
+    },
+    {
+      "entryId": "1522630",
+      "spelling": "本社",
+      "reading": "ほんしゃ",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "本社【ほんしゃ】",
+      "meaning": "oficina matriz; oficina principal"
+    },
+    {
+      "entryId": "1522630",
+      "spelling": "本社",
+      "reading": "ほんじゃ",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "本社【ほんじゃ】",
+      "meaning": "oficina matriz; oficina principal"
+    },
+    {
+      "entryId": "1322800",
+      "spelling": "社会党",
+      "reading": "しゃかいとう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "社会党【しゃかいとう】",
+      "meaning": "Partido Socialista"
+    },
+    {
+      "entryId": "1322670",
+      "spelling": "社員",
+      "reading": "しゃいん",
+      "senseNumbers": [
+        9,
+        10
+      ],
+      "japanese": "社員【しゃいん】",
+      "meaning": "empleado de una compañía; accionistas de una compañía (esp. en contextos legales); miembros de una corporación"
+    },
+    {
+      "entryId": "1322740",
+      "spelling": "社会主義",
+      "reading": "しゃかいしゅぎ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "社会主義【しゃかいしゅぎ】",
+      "meaning": "socialismo"
+    },
+    {
+      "entryId": "1347080",
+      "spelling": "商社",
+      "reading": "しょうしゃ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "商社【しょうしゃ】",
+      "meaning": "mercado"
+    },
+    {
+      "entryId": "1466260",
+      "spelling": "入社",
+      "reading": "にゅうしゃ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "入社【にゅうしゃ】",
+      "meaning": "ingreso a una compañía"
+    },
+    {
+      "entryId": "1307820",
+      "spelling": "子会社",
+      "reading": "こがいしゃ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "子会社【こがいしゃ】",
+      "meaning": "empresa filial; sociedad filial"
+    },
+    {
+      "entryId": "1702610",
+      "spelling": "社会的",
+      "reading": "しゃかいてき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "社会的【しゃかいてき】",
+      "meaning": "social"
+    },
+    {
+      "entryId": "1322770",
+      "spelling": "社会人",
+      "reading": "しゃかいじん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "社会人【しゃかいじん】",
+      "meaning": "miembro de la sociedad"
+    },
+    {
+      "entryId": "1362400",
+      "spelling": "新聞社",
+      "reading": "しんぶんしゃ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "新聞社【しんぶんしゃ】",
+      "meaning": "compañia periodística"
+    },
+    {
+      "entryId": "1364670",
+      "spelling": "神社",
+      "reading": "じんしゃ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "神社【じんしゃ】",
+      "meaning": "Templo Sintoísta"
+    },
+    {
+      "entryId": "1364670",
+      "spelling": "神社",
+      "reading": "じんじゃ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "神社【じんじゃ】",
+      "meaning": "Templo Sintoísta"
+    },
+    {
+      "entryId": "1594870",
+      "spelling": "出版社",
+      "reading": "しゅっぱんしゃ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "出版社【しゅっぱんしゃ】",
+      "meaning": "casa editorial"
+    },
+    {
+      "entryId": "1273860",
+      "spelling": "公社",
+      "reading": "こうしゃ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "公社【こうしゃ】",
+      "meaning": "corporación pública"
+    },
+    {
+      "entryId": "1322810",
+      "spelling": "社会福祉",
+      "reading": "しゃかいふくし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "社会福祉【しゃかいふくし】",
+      "meaning": "bienestar social"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "character": "迫",
+  "meanings": "estrechar, acercarse, atormentar, acosar, presionar",
+  "words": [
+    {
+      "entryId": "1475720",
+      "spelling": "迫る",
+      "reading": "せまる",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "迫る【せまる】",
+      "meaning": "acercarse; presionar (a alguien)"
+    },
+    {
+      "entryId": "1475720",
+      "spelling": "迫る",
+      "reading": "せる",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "迫る【せる】",
+      "meaning": "acercarse; presionar (a alguien)"
+    },
+    {
+      "entryId": "1475770",
+      "spelling": "迫力",
+      "reading": "はくりょく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "迫力【はくりょく】",
+      "meaning": "fuerza; impacto"
+    },
+    {
+      "entryId": "1238110",
+      "spelling": "脅迫",
+      "reading": "きょうはく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "脅迫【きょうはく】",
+      "meaning": "amenaza; coacción; terrorismo"
+    },
+    {
+      "entryId": "1241890",
+      "spelling": "緊迫",
+      "reading": "きんぱく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "緊迫【きんぱく】",
+      "meaning": "tensión"
+    },
+    {
+      "entryId": "1475730",
+      "spelling": "迫害",
+      "reading": "はくがい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "迫害【はくがい】",
+      "meaning": "persecución"
+    },
+    {
+      "entryId": "1222520",
+      "spelling": "気迫",
+      "reading": "きはく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "気迫【きはく】",
+      "meaning": "indoblegabilidad; firmeza de convicciones; firmeza de carácter; fuerza interior"
+    },
+    {
+      "entryId": "1153310",
+      "spelling": "圧迫",
+      "reading": "あっぱく",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "圧迫【あっぱく】",
+      "meaning": "opresión; presión"
+    },
+    {
+      "entryId": "1475740",
+      "spelling": "迫撃砲",
+      "reading": "はくげきほう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "迫撃砲【はくげきほう】",
+      "meaning": "mortero (artillería)"
+    },
+    {
+      "entryId": "1630250",
+      "spelling": "迫間",
+      "reading": "はざま",
+      "senseNumbers": [
+        16,
+        17,
+        18
+      ],
+      "japanese": "迫間【はざま】",
+      "meaning": "intervalo; valle; desfiladero; barranco; tronera; aspillera; ojete"
+    },
+    {
+      "entryId": "1385160",
+      "spelling": "切迫",
+      "reading": "せっぱく",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "切迫【せっぱく】",
+      "meaning": "acuciante; apremiante"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "character": "愛",
+  "meanings": "amor, afecto, favorito",
+  "words": [
+    {
+      "entryId": "1150410",
+      "spelling": "愛",
+      "reading": "あい",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "愛【あい】",
+      "meaning": "amor; cariño; afecto; querer; adorar"
+    },
+    {
+      "entryId": "1590550",
+      "spelling": "愛しみ",
+      "reading": "かなしみ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "愛しみ【かなしみ】",
+      "meaning": "tristeza; dolor; pesar; congoja"
+    },
+    {
+      "entryId": "1486360",
+      "spelling": "愛しい",
+      "reading": "うつくしい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "愛しい【うつくしい】",
+      "meaning": "hermoso; bello"
+    },
+    {
+      "entryId": "1150860",
+      "spelling": "愛情",
+      "reading": "あいじょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "愛情【あいじょう】",
+      "meaning": "amor; afecto"
+    },
+    {
+      "entryId": "1558800",
+      "spelling": "恋愛",
+      "reading": "れんあい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "恋愛【れんあい】",
+      "meaning": "amor; pasión; emoción; afecto"
+    },
+    {
+      "entryId": "1150680",
+      "spelling": "愛好",
+      "reading": "あいこう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "愛好【あいこう】",
+      "meaning": "amor; adoración"
+    },
+    {
+      "entryId": "1150710",
+      "spelling": "愛国",
+      "reading": "あいこく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "愛国【あいこく】",
+      "meaning": "amor al país (de uno); patriotismo"
+    },
+    {
+      "entryId": "1150840",
+      "spelling": "愛称",
+      "reading": "あいしょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "愛称【あいしょう】",
+      "meaning": "nombre cariñoso"
+    },
+    {
+      "entryId": "1150450",
+      "spelling": "愛する",
+      "reading": "あいする",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "愛する【あいする】",
+      "meaning": "amar"
+    },
+    {
+      "entryId": "1452880",
+      "spelling": "同性愛",
+      "reading": "どうせいあい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "同性愛【どうせいあい】",
+      "meaning": "amor homosexual"
+    },
+    {
+      "entryId": "1150870",
+      "spelling": "愛人",
+      "reading": "あいじん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "愛人【あいじん】",
+      "meaning": "amante"
+    },
+    {
+      "entryId": "1539990",
+      "spelling": "友愛",
+      "reading": "ゆうあい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "友愛【ゆうあい】",
+      "meaning": "fraternidad; amistad"
+    },
+    {
+      "entryId": "1150420",
+      "spelling": "愛しい",
+      "reading": "いとしい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "愛しい【いとしい】",
+      "meaning": "hermoso; bello; querido; amado"
+    },
+    {
+      "entryId": "1575680",
+      "spelling": "愛着",
+      "reading": "あいちゃく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "愛着【あいちゃく】",
+      "meaning": "afición; amor; afecto codicioso"
+    },
+    {
+      "entryId": "1150640",
+      "spelling": "愛犬",
+      "reading": "あいけん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "愛犬【あいけん】",
+      "meaning": "perro favorito"
+    },
+    {
+      "entryId": "1150670",
+      "spelling": "愛護",
+      "reading": "あいご",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "愛護【あいご】",
+      "meaning": "protección; cuidado cariñoso"
+    },
+    {
+      "entryId": "1150990",
+      "spelling": "愛読",
+      "reading": "あいどく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "愛読【あいどく】",
+      "meaning": "leer con placer"
+    },
+    {
+      "entryId": "1151090",
+      "spelling": "愛用",
+      "reading": "あいよう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "愛用【あいよう】",
+      "meaning": "utilizar con predilección; usar a menudo y con agrado; favorito; uso habitual"
+    },
+    {
+      "entryId": "1575660",
+      "spelling": "愛想",
+      "reading": "あいそ",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "愛想【あいそ】",
+      "meaning": "civilidad; cortesía; saludos; sociabilidad; bendiciones (mesa)"
+    },
+    {
+      "entryId": "1575660",
+      "spelling": "愛想",
+      "reading": "あいそう",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "愛想【あいそう】",
+      "meaning": "civilidad; cortesía; saludos; sociabilidad; bendiciones (mesa)"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

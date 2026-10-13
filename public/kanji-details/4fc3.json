@@ -1,0 +1,90 @@
+{
+  "character": "促",
+  "meanings": "apremiar, urgir",
+  "words": [
+    {
+      "entryId": "1403780",
+      "spelling": "促進",
+      "reading": "そくしん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "促進【そくしん】",
+      "meaning": "promoción; fomento"
+    },
+    {
+      "entryId": "1403760",
+      "spelling": "促す",
+      "reading": "うながす",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "促す【うながす】",
+      "meaning": "instigar; exhortar; fomentar"
+    },
+    {
+      "entryId": "1292200",
+      "spelling": "催促",
+      "reading": "さいそく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "催促【さいそく】",
+      "meaning": "urgir; meter prisa; apremiar; apurar; presionar; apresurar; exhortar; incitación; inducción; persuasión; exhortación"
+    },
+    {
+      "entryId": "1455390",
+      "spelling": "督促",
+      "reading": "とくそく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "督促【とくそく】",
+      "meaning": "instigar; urgir; demandar; requerimiento judicial de pago; apremio; monición"
+    },
+    {
+      "entryId": "1403800",
+      "spelling": "促成",
+      "reading": "そくせい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "促成【そくせい】",
+      "meaning": "obligar; forzar"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

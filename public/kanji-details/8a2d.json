@@ -1,0 +1,221 @@
+{
+  "character": "設",
+  "meanings": "equipar, instalar, establecer, crear",
+  "words": [
+    {
+      "entryId": "1257420",
+      "spelling": "建設",
+      "reading": "けんせつ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "建設【けんせつ】",
+      "meaning": "construcción; establecimiento"
+    },
+    {
+      "entryId": "1310410",
+      "spelling": "施設",
+      "reading": "しせつ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "施設【しせつ】",
+      "meaning": "equipo; maquinaria; infraestructura; instalación; complejo"
+    },
+    {
+      "entryId": "1386050",
+      "spelling": "設置",
+      "reading": "せっち",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "設置【せっち】",
+      "meaning": "instalación; establecimiento"
+    },
+    {
+      "entryId": "1386070",
+      "spelling": "設備",
+      "reading": "せつび",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "設備【せつび】",
+      "meaning": "instalación; infraestructura"
+    },
+    {
+      "entryId": "1386020",
+      "spelling": "設計",
+      "reading": "せっけい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "設計【せっけい】",
+      "meaning": "diseño; plan"
+    },
+    {
+      "entryId": "1386090",
+      "spelling": "設立",
+      "reading": "せつりつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "設立【せつりつ】",
+      "meaning": "establecimiento"
+    },
+    {
+      "entryId": "1386060",
+      "spelling": "設定",
+      "reading": "せってい",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "設定【せってい】",
+      "meaning": "instalar; establecer; constituir; fundar; crear; plantear; establecimiento; creación"
+    },
+    {
+      "entryId": "1202800",
+      "spelling": "開設",
+      "reading": "かいせつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "開設【かいせつ】",
+      "meaning": "inauguración; apertura"
+    },
+    {
+      "entryId": "1356060",
+      "spelling": "常設",
+      "reading": "じょうせつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "常設【じょうせつ】",
+      "meaning": "permanente; establecido con carácter permanente"
+    },
+    {
+      "entryId": "1257460",
+      "spelling": "建設的",
+      "reading": "けんせつてき",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "建設的【けんせつてき】",
+      "meaning": "constructivo"
+    },
+    {
+      "entryId": "1590325",
+      "spelling": "仮設",
+      "reading": "かせつ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "仮設【かせつ】",
+      "meaning": "instalar provisionalmente; temporal; provisional"
+    },
+    {
+      "entryId": "1274160",
+      "spelling": "公設",
+      "reading": "こうせつ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "公設【こうせつ】",
+      "meaning": "púbico; establecido por la administración"
+    },
+    {
+      "entryId": "1386000",
+      "spelling": "設ける",
+      "reading": "もうける",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "設ける【もうける】",
+      "meaning": "crear; establecer; fundar"
+    },
+    {
+      "entryId": "2132560",
+      "spelling": "設定可能",
+      "reading": "せっていかのう",
+      "senseNumbers": [
+        2
+      ],
+      "japanese": "設定可能【せっていかのう】",
+      "meaning": "configurable"
+    },
+    {
+      "entryId": "1386010",
+      "spelling": "設営",
+      "reading": "せつえい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "設営【せつえい】",
+      "meaning": "construcción"
+    },
+    {
+      "entryId": "1220440",
+      "spelling": "既設",
+      "reading": "きせつ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "既設【きせつ】",
+      "meaning": "establecido; existencia"
+    },
+    {
+      "entryId": "1158340",
+      "spelling": "移設",
+      "reading": "いせつ",
+      "senseNumbers": [
+        8,
+        9
+      ],
+      "japanese": "移設【いせつ】",
+      "meaning": "traslado (de una instalación); mudanza de establecimiento; trasladar; mover a un lugar; colocar en un lugar; adaptar; pegar; adherir; instalar"
+    },
+    {
+      "entryId": "1193150",
+      "spelling": "架設",
+      "reading": "かせつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "架設【かせつ】",
+      "meaning": "construcción; edificio"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "character": "湿",
+  "meanings": "humedecer, mojar",
+  "words": [
+    {
+      "entryId": "1320470",
+      "spelling": "湿地",
+      "reading": "しっち",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "湿地【しっち】",
+      "meaning": "humedal"
+    },
+    {
+      "entryId": "1320430",
+      "spelling": "湿原",
+      "reading": "しつげん",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "湿原【しつげん】",
+      "meaning": "humedal; pantano"
+    },
+    {
+      "entryId": "1320490",
+      "spelling": "湿度",
+      "reading": "しつど",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "湿度【しつど】",
+      "meaning": "nivel de humedad; humedad"
+    },
+    {
+      "entryId": "1320410",
+      "spelling": "湿気",
+      "reading": "しっき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "湿気【しっき】",
+      "meaning": "humedad"
+    },
+    {
+      "entryId": "1320410",
+      "spelling": "湿気",
+      "reading": "しっけ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "湿気【しっけ】",
+      "meaning": "humedad"
+    },
+    {
+      "entryId": "1609910",
+      "spelling": "湿っぽい",
+      "reading": "しめっぽい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "湿っぽい【しめっぽい】",
+      "meaning": "húmedo"
+    },
+    {
+      "entryId": "1407730",
+      "spelling": "多湿",
+      "reading": "たしつ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "多湿【たしつ】",
+      "meaning": "humedad elevada"
+    },
+    {
+      "entryId": "1320450",
+      "spelling": "湿しん",
+      "reading": "しっしん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "湿しん【しっしん】",
+      "meaning": "eczema; eccema; sarpullido"
+    },
+    {
+      "entryId": "1320450",
+      "spelling": "湿疹",
+      "reading": "しっしん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "湿疹【しっしん】",
+      "meaning": "eczema; eccema; sarpullido"
+    },
+    {
+      "entryId": "1320390",
+      "spelling": "湿る",
+      "reading": "しとる",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "湿る【しとる】",
+      "meaning": "estar mojado; mojarse"
+    },
+    {
+      "entryId": "1320390",
+      "spelling": "湿る",
+      "reading": "しめる",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "湿る【しめる】",
+      "meaning": "estar mojado; mojarse"
+    },
+    {
+      "entryId": "1170360",
+      "spelling": "陰湿",
+      "reading": "いんしつ",
+      "senseNumbers": [
+        10,
+        11,
+        12
+      ],
+      "japanese": "陰湿【いんしつ】",
+      "meaning": "malicioso; rencoroso; vicioso; tortuoso; solapado; húmedo y oscuro"
+    },
+    {
+      "entryId": "1711240",
+      "spelling": "除湿",
+      "reading": "じょしつ",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "除湿【じょしつ】",
+      "meaning": "dehumidificación"
+    },
+    {
+      "entryId": "1320380",
+      "spelling": "湿り",
+      "reading": "しめり",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "湿り【しめり】",
+      "meaning": "humedad"
+    },
+    {
+      "entryId": "1769230",
+      "spelling": "湿りけ",
+      "reading": "しめりけ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "湿りけ【しめりけ】",
+      "meaning": "humedad"
+    },
+    {
+      "entryId": "1769230",
+      "spelling": "湿り気",
+      "reading": "しめりけ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "湿り気【しめりけ】",
+      "meaning": "humedad"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

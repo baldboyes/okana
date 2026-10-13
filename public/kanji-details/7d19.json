@@ -1,0 +1,240 @@
+{
+  "character": "紙",
+  "meanings": "papel, periódico",
+  "words": [
+    {
+      "entryId": "1311530",
+      "spelling": "紙",
+      "reading": "かみ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "紙【かみ】",
+      "meaning": "papel"
+    },
+    {
+      "entryId": "1327720",
+      "spelling": "手紙",
+      "reading": "てがみ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "手紙【てがみ】",
+      "meaning": "carta"
+    },
+    {
+      "entryId": "1546290",
+      "spelling": "用紙",
+      "reading": "ようし",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "用紙【ようし】",
+      "meaning": "formulario en blanco; impreso"
+    },
+    {
+      "entryId": "1311620",
+      "spelling": "紙面",
+      "reading": "しめん",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "紙面【しめん】",
+      "meaning": "páginas (de los periódicos)"
+    },
+    {
+      "entryId": "1475200",
+      "spelling": "白紙",
+      "reading": "しらかみ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "白紙【しらかみ】",
+      "meaning": "hoja en blanco"
+    },
+    {
+      "entryId": "1475200",
+      "spelling": "白紙",
+      "reading": "はくし",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "白紙【はくし】",
+      "meaning": "hoja en blanco"
+    },
+    {
+      "entryId": "1311600",
+      "spelling": "紙幣",
+      "reading": "しへい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "紙幣【しへい】",
+      "meaning": "billetes"
+    },
+    {
+      "entryId": "1489600",
+      "spelling": "表紙",
+      "reading": "ひょうし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "表紙【ひょうし】",
+      "meaning": "portada; encuadernación"
+    },
+    {
+      "entryId": "1261370",
+      "spelling": "原稿用紙",
+      "reading": "げんこうようし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "原稿用紙【げんこうようし】",
+      "meaning": "papel (para imprimir manuscritos)"
+    },
+    {
+      "entryId": "1362390",
+      "spelling": "新聞紙",
+      "reading": "しんぶんがみ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "新聞紙【しんぶんがみ】",
+      "meaning": "prensa; periódico"
+    },
+    {
+      "entryId": "1362390",
+      "spelling": "新聞紙",
+      "reading": "しんぶんし",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "新聞紙【しんぶんし】",
+      "meaning": "prensa; periódico"
+    },
+    {
+      "entryId": "1562100",
+      "spelling": "和紙",
+      "reading": "わがみ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "和紙【わがみ】",
+      "meaning": "papel japonés"
+    },
+    {
+      "entryId": "1562100",
+      "spelling": "和紙",
+      "reading": "わし",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "和紙【わし】",
+      "meaning": "papel japonés"
+    },
+    {
+      "entryId": "1311580",
+      "spelling": "紙袋",
+      "reading": "かみぶくろ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "紙袋【かみぶくろ】",
+      "meaning": "bolsa de papel"
+    },
+    {
+      "entryId": "1311580",
+      "spelling": "紙袋",
+      "reading": "かんぶくろ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "紙袋【かんぶくろ】",
+      "meaning": "bolsa de papel"
+    },
+    {
+      "entryId": "1581560",
+      "spelling": "紙凧",
+      "reading": "たこ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "紙凧【たこ】",
+      "meaning": "cometa (de juguete)"
+    },
+    {
+      "entryId": "1581560",
+      "spelling": "紙鳶",
+      "reading": "たこ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "紙鳶【たこ】",
+      "meaning": "cometa (de juguete)"
+    },
+    {
+      "entryId": "1168320",
+      "spelling": "印紙",
+      "reading": "いんし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "印紙【いんし】",
+      "meaning": "(ingresos) sello"
+    },
+    {
+      "entryId": "1589450",
+      "spelling": "折り紙",
+      "reading": "おりがみ",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "折り紙【おりがみ】",
+      "meaning": "origami (arte de hacer figuritas de papel)"
+    },
+    {
+      "entryId": "1589450",
+      "spelling": "折紙",
+      "reading": "おりがみ",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "折紙【おりがみ】",
+      "meaning": "origami (arte de hacer figuritas de papel)"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

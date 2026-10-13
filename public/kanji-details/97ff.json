@@ -1,0 +1,171 @@
+{
+  "character": "響",
+  "meanings": "eco, vibración, hacer eco, resonar, vibrar",
+  "words": [
+    {
+      "entryId": "1173660",
+      "spelling": "影響",
+      "reading": "えいきょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "影響【えいきょう】",
+      "meaning": "influencia; efecto; influir en (sobre con); ejercer influencia sobre; influenciar; afectar; influir; ejercer influencia"
+    },
+    {
+      "entryId": "1480310",
+      "spelling": "反響",
+      "reading": "はんきょう",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "反響【はんきょう】",
+      "meaning": "resonancia; repercusión"
+    },
+    {
+      "entryId": "1183780",
+      "spelling": "音響",
+      "reading": "おんきょう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "音響【おんきょう】",
+      "meaning": "sonido; ondas sonoras"
+    },
+    {
+      "entryId": "1271930",
+      "spelling": "交響曲",
+      "reading": "こうきょうきょく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "交響曲【こうきょうきょく】",
+      "meaning": "sinfonía"
+    },
+    {
+      "entryId": "1271920",
+      "spelling": "交響楽団",
+      "reading": "こうきょうがくだん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "交響楽団【こうきょうがくだん】",
+      "meaning": "sinfónica (orquesta)"
+    },
+    {
+      "entryId": "1151440",
+      "spelling": "悪影響",
+      "reading": "あくえいきょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "悪影響【あくえいきょう】",
+      "meaning": "mala influencia"
+    },
+    {
+      "entryId": "1173680",
+      "spelling": "影響力",
+      "reading": "えいきょうりょく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "影響力【えいきょうりょく】",
+      "meaning": "influencia"
+    },
+    {
+      "entryId": "1238610",
+      "spelling": "響く",
+      "reading": "ひびく",
+      "senseNumbers": [
+        22
+      ],
+      "japanese": "響く【ひびく】",
+      "meaning": "resonar"
+    },
+    {
+      "entryId": "1602130",
+      "spelling": "響",
+      "reading": "ひびき",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "響【ひびき】",
+      "meaning": "resonar; eco"
+    },
+    {
+      "entryId": "1602130",
+      "spelling": "響き",
+      "reading": "ひびき",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "響き【ひびき】",
+      "meaning": "resonar; eco"
+    },
+    {
+      "entryId": "1238600",
+      "spelling": "響きわたる",
+      "reading": "ひびきわたる",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "響きわたる【ひびきわたる】",
+      "meaning": "resonar"
+    },
+    {
+      "entryId": "1238600",
+      "spelling": "響き渡る",
+      "reading": "ひびきわたる",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "響き渡る【ひびきわたる】",
+      "meaning": "resonar"
+    },
+    {
+      "entryId": "1684080",
+      "spelling": "音響効果",
+      "reading": "おんきょうこうか",
+      "senseNumbers": [
+        8,
+        9
+      ],
+      "japanese": "音響効果【おんきょうこうか】",
+      "meaning": "efectos de sonido; acústica"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

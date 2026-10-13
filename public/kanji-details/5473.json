@@ -1,0 +1,240 @@
+{
+  "character": "味",
+  "meanings": "sabor, gusto, experiencia",
+  "words": [
+    {
+      "entryId": "1156800",
+      "spelling": "意味",
+      "reading": "いみ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "意味【いみ】",
+      "meaning": "significado"
+    },
+    {
+      "entryId": "1526960",
+      "spelling": "味",
+      "reading": "あじ",
+      "senseNumbers": [
+        23
+      ],
+      "japanese": "味【あじ】",
+      "meaning": "sabor; gusto; sazón"
+    },
+    {
+      "entryId": "1238410",
+      "spelling": "興味",
+      "reading": "きょうみ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "興味【きょうみ】",
+      "meaning": "interés (en algo)"
+    },
+    {
+      "entryId": "1599430",
+      "spelling": "中味",
+      "reading": "なかみ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "中味【なかみ】",
+      "meaning": "interior; contenido; relleno"
+    },
+    {
+      "entryId": "1329000",
+      "spelling": "趣味",
+      "reading": "しゅみ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "趣味【しゅみ】",
+      "meaning": "hobby; gusto; preferencia"
+    },
+    {
+      "entryId": "1222640",
+      "spelling": "気味",
+      "reading": "きび",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "気味【きび】",
+      "meaning": "gusto; sabor; sensación; sentimiento"
+    },
+    {
+      "entryId": "1222640",
+      "spelling": "気味",
+      "reading": "きみ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "気味【きみ】",
+      "meaning": "gusto; sabor; sensación; sentimiento"
+    },
+    {
+      "entryId": "1589410",
+      "spelling": "重味",
+      "reading": "おもみ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "重味【おもみ】",
+      "meaning": "peso; importancia"
+    },
+    {
+      "entryId": "1421490",
+      "spelling": "地味",
+      "reading": "じみ",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "地味【じみ】",
+      "meaning": "discreto; serio; circunspecto"
+    },
+    {
+      "entryId": "1527070",
+      "spelling": "味方",
+      "reading": "みかた",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "味方【みかた】",
+      "meaning": "amigo; aliado; partidario"
+    },
+    {
+      "entryId": "1236140",
+      "spelling": "強味",
+      "reading": "つよみ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "強味【つよみ】",
+      "meaning": "fuerte"
+    },
+    {
+      "entryId": "1527000",
+      "spelling": "味わい",
+      "reading": "あじわい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "味わい【あじわい】",
+      "meaning": "sugestivo; expresivo"
+    },
+    {
+      "entryId": "1156810",
+      "spelling": "意味あい",
+      "reading": "いみあい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "意味あい【いみあい】",
+      "meaning": "implicación; matiz"
+    },
+    {
+      "entryId": "1156810",
+      "spelling": "意味合",
+      "reading": "いみあい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "意味合【いみあい】",
+      "meaning": "implicación; matiz"
+    },
+    {
+      "entryId": "1156810",
+      "spelling": "意味合い",
+      "reading": "いみあい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "意味合い【いみあい】",
+      "meaning": "implicación; matiz"
+    },
+    {
+      "entryId": "1275600",
+      "spelling": "厚味",
+      "reading": "あつみ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "厚味【あつみ】",
+      "meaning": "grosor; profundidad; espesor"
+    },
+    {
+      "entryId": "1491830",
+      "spelling": "不気味",
+      "reading": "ぶきみ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "不気味【ぶきみ】",
+      "meaning": "lúgubre; siniestro; espeluznante; escalofriante"
+    },
+    {
+      "entryId": "1491830",
+      "spelling": "無気味",
+      "reading": "ぶきみ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "無気味【ぶきみ】",
+      "meaning": "lúgubre; siniestro; espeluznante; escalofriante"
+    },
+    {
+      "entryId": "1579450",
+      "spelling": "三味線",
+      "reading": "さみせん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "三味線【さみせん】",
+      "meaning": "samisén; shamisen; sanshin (banjo de tres cuerdas de Okinawa)"
+    },
+    {
+      "entryId": "1579450",
+      "spelling": "三味線",
+      "reading": "しゃみせん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "三味線【しゃみせん】",
+      "meaning": "samisén; shamisen; sanshin (banjo de tres cuerdas de Okinawa)"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

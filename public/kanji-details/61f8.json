@@ -1,0 +1,287 @@
+{
+  "character": "懸",
+  "meanings": "suspender, colgar, depender, estar suspendido",
+  "words": [
+    {
+      "entryId": "1257720",
+      "spelling": "懸念",
+      "reading": "けねん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "懸念【けねん】",
+      "meaning": "desconfianza; aprensión; miedo; temor"
+    },
+    {
+      "entryId": "1257720",
+      "spelling": "懸念",
+      "reading": "けんねん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "懸念【けんねん】",
+      "meaning": "desconfianza; aprensión; miedo; temor"
+    },
+    {
+      "entryId": "1164010",
+      "spelling": "一生懸命",
+      "reading": "いっしょうけんめい",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "一生懸命【いっしょうけんめい】",
+      "meaning": "muy difícil; con todo el esfuerzo posible; con todo el poder de uno"
+    },
+    {
+      "entryId": "1257660",
+      "spelling": "懸案",
+      "reading": "けんあん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "懸案【けんあん】",
+      "meaning": "asunto pendiente"
+    },
+    {
+      "entryId": "1598300",
+      "spelling": "手懸かり",
+      "reading": "てがかり",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "手懸かり【てがかり】",
+      "meaning": "agarradera; asa; mango; asidero"
+    },
+    {
+      "entryId": "1598300",
+      "spelling": "手懸り",
+      "reading": "てがかり",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "手懸り【てがかり】",
+      "meaning": "agarradera; asa; mango; asidero"
+    },
+    {
+      "entryId": "1207610",
+      "spelling": "懸ける",
+      "reading": "かける",
+      "senseNumbers": [
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81
+      ],
+      "japanese": "懸ける【かける】",
+      "meaning": "colgar; elevar; izar; sentarse; empezar a (pero no completamente); tomar o gastar (tiempo, dinero); telefonear; multiplicar; asegurar (ej. con llave); ponerse; llevar puesto (ej. lentes etc); cubrir; cargar con alguien; aplicar (seguro); prender (una máquina, etc); ajustar (botón, despertador, etc); poner un efecto (hechizo, anestesia, etc); construir; sentar; ofrecer (premio); poner (la vida de uno en peligro)"
+    },
+    {
+      "entryId": "1257690",
+      "spelling": "懸賞",
+      "reading": "けんしょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "懸賞【けんしょう】",
+      "meaning": "premio monetario"
+    },
+    {
+      "entryId": "1327390",
+      "spelling": "手懸ける",
+      "reading": "てがける",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "手懸ける【てがける】",
+      "meaning": "manipular; manejar; poner manos a la obra"
+    },
+    {
+      "entryId": "1222020",
+      "spelling": "気懸かり",
+      "reading": "きがかり",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "気懸かり【きがかり】",
+      "meaning": "angustia; preocupación; inquietud"
+    },
+    {
+      "entryId": "1222020",
+      "spelling": "気懸り",
+      "reading": "きがかり",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "気懸り【きがかり】",
+      "meaning": "angustia; preocupación; inquietud"
+    },
+    {
+      "entryId": "1360500",
+      "spelling": "心懸け",
+      "reading": "こころがけ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "心懸け【こころがけ】",
+      "meaning": "atención al detalle; cuidado; intención; previsión; cautela; prudencia; precaución; sensatez"
+    },
+    {
+      "entryId": "1169360",
+      "spelling": "引っ懸ける",
+      "reading": "ひっかける",
+      "senseNumbers": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "japanese": "引っ懸ける【ひっかける】",
+      "meaning": "colgar (algo) en (algo); ponerse ropa; enganchar; atrapar; entrampar; defraudar; evadir pago; saltar un requisito (traducción dudosa); beber (alcohol); escupir en (una persona); golpear la bola al final del bate (béisbol)"
+    },
+    {
+      "entryId": "1360610",
+      "spelling": "心懸ける",
+      "reading": "こころがける",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "心懸ける【こころがける】",
+      "meaning": "poner especial atención en; tener en mente; tener presente; tener en cuenta; procurar; intentar"
+    },
+    {
+      "entryId": "1207590",
+      "spelling": "懸かる",
+      "reading": "かかる",
+      "senseNumbers": [
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75
+      ],
+      "japanese": "懸かる【かかる】",
+      "meaning": "tomarse (tiempo; dinero); colgar; aparecer; llegar; venir bajo un (contrato, impuesto); arrancar (motor, máquinas); tratar con; hacer comenzado a; estar al límite de; (venir a) atacar; coincidir en parte (un manual); cubrir; atacar; estar sujeto; cubrirse (con polvo, mesa con ropa, etc); estar atrapado; tener una llamada; depender (de); estar colgado de"
+    },
+    {
+      "entryId": "1207590",
+      "spelling": "懸る",
+      "reading": "かかる",
+      "senseNumbers": [
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75
+      ],
+      "japanese": "懸る【かかる】",
+      "meaning": "tomarse (tiempo; dinero); colgar; aparecer; llegar; venir bajo un (contrato, impuesto); arrancar (motor, máquinas); tratar con; hacer comenzado a; estar al límite de; (venir a) atacar; coincidir en parte (un manual); cubrir; atacar; estar sujeto; cubrirse (con polvo, mesa con ropa, etc); estar atrapado; tener una llamada; depender (de); estar colgado de"
+    },
+    {
+      "entryId": "1532000",
+      "spelling": "命懸け",
+      "reading": "いのちがけ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "命懸け【いのちがけ】",
+      "meaning": "vida y muerte; riesgo de vida (de uno); desesperado"
+    },
+    {
+      "entryId": "1606110",
+      "spelling": "倚り懸かる",
+      "reading": "よりかかる",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "倚り懸かる【よりかかる】",
+      "meaning": "recargarse; depender"
+    },
+    {
+      "entryId": "1606110",
+      "spelling": "倚り懸る",
+      "reading": "よりかかる",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "倚り懸る【よりかかる】",
+      "meaning": "recargarse; depender"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

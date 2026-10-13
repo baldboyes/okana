@@ -1,0 +1,250 @@
+{
+  "character": "方",
+  "meanings": "dirección, lado, cuadrado, método, manera, persona, forma de hacer",
+  "words": [
+    {
+      "entryId": "1166510",
+      "spelling": "一方",
+      "reading": "いっぽう",
+      "senseNumbers": [
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "japanese": "一方【いっぽう】",
+      "meaning": "por una (otra) parte; un lado; un camino; una dirección; un partido; el otro partido; mientras tanto; sólo; solamente; simple; en turno; visto que; mientras que; aunque; pero al mismo tiempo; (después de un sustativo, adjetivo-raíz o verbo llano) sólo mantén; estar inclinado a; tender ser; continúamente"
+    },
+    {
+      "entryId": "1260070",
+      "spelling": "見方",
+      "reading": "みかた",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "見方【みかた】",
+      "meaning": "punto de vista"
+    },
+    {
+      "entryId": "1421450",
+      "spelling": "地方",
+      "reading": "ちほう",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "地方【ちほう】",
+      "meaning": "región (área geográfica)"
+    },
+    {
+      "entryId": "1516990",
+      "spelling": "方向",
+      "reading": "ほうこう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "方向【ほうこう】",
+      "meaning": "dirección; camino"
+    },
+    {
+      "entryId": "1517040",
+      "spelling": "方針",
+      "reading": "ほうしん",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "方針【ほうしん】",
+      "meaning": "dirección; principio; norma; política"
+    },
+    {
+      "entryId": "1517090",
+      "spelling": "方法",
+      "reading": "ほうほう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "方法【ほうほう】",
+      "meaning": "método; proceso; forma (de hacer); medios; técnica"
+    },
+    {
+      "entryId": "1282180",
+      "spelling": "行方",
+      "reading": "ゆくえ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "行方【ゆくえ】",
+      "meaning": "paradero"
+    },
+    {
+      "entryId": "1281090",
+      "spelling": "考え方",
+      "reading": "かんがえかた",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "考え方【かんがえかた】",
+      "meaning": "modo de pensar; forma de pensar"
+    },
+    {
+      "entryId": "1517030",
+      "spelling": "方式",
+      "reading": "ほうしき",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "方式【ほうしき】",
+      "meaning": "fórmula; método"
+    },
+    {
+      "entryId": "1594110",
+      "spelling": "仕方",
+      "reading": "しかた",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "仕方【しかた】",
+      "meaning": "manera; modo; forma (de hacer); método; recurso; curso (e.g. de acción)"
+    },
+    {
+      "entryId": "1166560",
+      "spelling": "一方的",
+      "reading": "いっぽうてき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "一方的【いっぽうてき】",
+      "meaning": "estar de un lado; unilateral; arbitrario"
+    },
+    {
+      "entryId": "1517100",
+      "spelling": "方面",
+      "reading": "ほうめん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "方面【ほうめん】",
+      "meaning": "dirección"
+    },
+    {
+      "entryId": "1542790",
+      "spelling": "夕方",
+      "reading": "ゆうがた",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "夕方【ゆうがた】",
+      "meaning": "tarde; noche"
+    },
+    {
+      "entryId": "1554010",
+      "spelling": "両方",
+      "reading": "りょうほう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "両方【りょうほう】",
+      "meaning": "ambos lados; ambos grupos"
+    },
+    {
+      "entryId": "1584100",
+      "spelling": "方々",
+      "reading": "かたがた",
+      "senseNumbers": [
+        9,
+        10,
+        11
+      ],
+      "japanese": "方々【かたがた】",
+      "meaning": "ellos; caballeros (de la ...); vosotros; varios"
+    },
+    {
+      "entryId": "1584100",
+      "spelling": "方がた",
+      "reading": "かたがた",
+      "senseNumbers": [
+        9,
+        10,
+        11
+      ],
+      "japanese": "方がた【かたがた】",
+      "meaning": "ellos; caballeros (de la ...); vosotros; varios"
+    },
+    {
+      "entryId": "1584100",
+      "spelling": "方方",
+      "reading": "かたがた",
+      "senseNumbers": [
+        9,
+        10,
+        11
+      ],
+      "japanese": "方方【かたがた】",
+      "meaning": "ellos; caballeros (de la ...); vosotros; varios"
+    },
+    {
+      "entryId": "1270100",
+      "spelling": "後方",
+      "reading": "こうほう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "後方【こうほう】",
+      "meaning": "espalda; dorso"
+    },
+    {
+      "entryId": "1305950",
+      "spelling": "使い方",
+      "reading": "つかいかた",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "使い方【つかいかた】",
+      "meaning": "forma de usar algo; trato; manejo (de la situación, etc.); gestión"
+    },
+    {
+      "entryId": "1305950",
+      "spelling": "遣い方",
+      "reading": "つかいかた",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "遣い方【つかいかた】",
+      "meaning": "forma de usar algo; trato; manejo (de la situación, etc.); gestión"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

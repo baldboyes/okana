@@ -1,0 +1,240 @@
+{
+  "character": "破",
+  "meanings": "dañar, romper, rasgar, derrotar, completar, especial, desgarrar, desgarrarse, desgastarse",
+  "words": [
+    {
+      "entryId": "1471250",
+      "spelling": "破壊",
+      "reading": "はかい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "破壊【はかい】",
+      "meaning": "destrucción"
+    },
+    {
+      "entryId": "1457100",
+      "spelling": "突破",
+      "reading": "とっぱ",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "突破【とっぱ】",
+      "meaning": "penetración"
+    },
+    {
+      "entryId": "1471330",
+      "spelling": "破産",
+      "reading": "はさん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "破産【はさん】",
+      "meaning": "quiebra; insolvencia"
+    },
+    {
+      "entryId": "1475900",
+      "spelling": "爆破",
+      "reading": "ばくは",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "爆破【ばくは】",
+      "meaning": "explosionar; volar; demoler"
+    },
+    {
+      "entryId": "1471420",
+      "spelling": "破片",
+      "reading": "はへん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "破片【はへん】",
+      "meaning": "fragmento; trozo; pedazo"
+    },
+    {
+      "entryId": "1471200",
+      "spelling": "破る",
+      "reading": "やぶる",
+      "senseNumbers": [
+        25
+      ],
+      "japanese": "破る【やぶる】",
+      "meaning": "desgarrar; violar; vencer; aplastar; destruir; romper (e.g. contraseña)"
+    },
+    {
+      "entryId": "1471470",
+      "spelling": "破裂",
+      "reading": "はれつ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "破裂【はれつ】",
+      "meaning": "ruptura"
+    },
+    {
+      "entryId": "1471310",
+      "spelling": "破局",
+      "reading": "はきょく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "破局【はきょく】",
+      "meaning": "catástrofe; cataclismo"
+    },
+    {
+      "entryId": "1471430",
+      "spelling": "破滅",
+      "reading": "はめつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "破滅【はめつ】",
+      "meaning": "destrucción"
+    },
+    {
+      "entryId": "1471380",
+      "spelling": "破損",
+      "reading": "はそん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "破損【はそん】",
+      "meaning": "daño"
+    },
+    {
+      "entryId": "1471300",
+      "spelling": "破棄",
+      "reading": "はき",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "破棄【はき】",
+      "meaning": "derogación; cancelación"
+    },
+    {
+      "entryId": "1471300",
+      "spelling": "破毀",
+      "reading": "はき",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "破毀【はき】",
+      "meaning": "derogación; cancelación"
+    },
+    {
+      "entryId": "1471290",
+      "spelling": "破格",
+      "reading": "はかく",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "破格【はかく】",
+      "meaning": "extraordinario; especial"
+    },
+    {
+      "entryId": "1471390",
+      "spelling": "破たん",
+      "reading": "はたん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "破たん【はたん】",
+      "meaning": "quiebra"
+    },
+    {
+      "entryId": "1471390",
+      "spelling": "破綻",
+      "reading": "はたん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "破綻【はたん】",
+      "meaning": "quiebra"
+    },
+    {
+      "entryId": "1208000",
+      "spelling": "破る",
+      "reading": "わる",
+      "senseNumbers": [
+        32
+      ],
+      "japanese": "破る【わる】",
+      "meaning": "romper; partir; quebrar; fracturar; rajar; dividir"
+    },
+    {
+      "entryId": "1607020",
+      "spelling": "破れ目",
+      "reading": "われめ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "破れ目【われめ】",
+      "meaning": "raja; abertura; grieta; hendidura; ranura; vagina; coño"
+    },
+    {
+      "entryId": "1607020",
+      "spelling": "破目",
+      "reading": "われめ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "破目【われめ】",
+      "meaning": "raja; abertura; grieta; hendidura; ranura; vagina; coño"
+    },
+    {
+      "entryId": "1601260",
+      "spelling": "破家",
+      "reading": "ばか",
+      "senseNumbers": [
+        25
+      ],
+      "japanese": "破家【ばか】",
+      "meaning": "tonto; estúpido; bobo; idiota"
+    },
+    {
+      "entryId": "1208020",
+      "spelling": "破れる",
+      "reading": "われる",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "破れる【われる】",
+      "meaning": "romperse; fracturarse; rajarse; partirse; quebrarse"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

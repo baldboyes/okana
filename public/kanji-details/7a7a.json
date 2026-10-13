@@ -1,0 +1,240 @@
+{
+  "character": "空",
+  "meanings": "cielo, atmósfera, vacío, vacante, quedarse vacío, vaciar",
+  "words": [
+    {
+      "entryId": "1245570",
+      "spelling": "空港",
+      "reading": "くうこう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "空港【くうこう】",
+      "meaning": "aeropuerto"
+    },
+    {
+      "entryId": "1281270",
+      "spelling": "航空",
+      "reading": "こうくう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "航空【こうくう】",
+      "meaning": "aviación; vuelo"
+    },
+    {
+      "entryId": "1245280",
+      "spelling": "空",
+      "reading": "から",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "空【から】",
+      "meaning": "vacío"
+    },
+    {
+      "entryId": "1245470",
+      "spelling": "空気",
+      "reading": "くうき",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "空気【くうき】",
+      "meaning": "aire; atmósfera"
+    },
+    {
+      "entryId": "1281320",
+      "spelling": "航空機",
+      "reading": "こうくうき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "航空機【こうくうき】",
+      "meaning": "avión"
+    },
+    {
+      "entryId": "1245450",
+      "spelling": "空間",
+      "reading": "くうかん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "空間【くうかん】",
+      "meaning": "espacio; lugar; espacio aéreo"
+    },
+    {
+      "entryId": "1630420",
+      "spelling": "空爆",
+      "reading": "くうばく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "空爆【くうばく】",
+      "meaning": "bombardeo aéreo"
+    },
+    {
+      "entryId": "1245520",
+      "spelling": "空軍",
+      "reading": "くうぐん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "空軍【くうぐん】",
+      "meaning": "Fuerza Aérea"
+    },
+    {
+      "entryId": "1353020",
+      "spelling": "上空",
+      "reading": "じょうくう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "上空【じょうくう】",
+      "meaning": "en el cielo; sobrevolando; arriba; aéreo"
+    },
+    {
+      "entryId": "1193130",
+      "spelling": "仮空",
+      "reading": "かくう",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "仮空【かくう】",
+      "meaning": "aéreo; elevado; ficticio; imaginario"
+    },
+    {
+      "entryId": "1193130",
+      "spelling": "架空",
+      "reading": "かくう",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "架空【かくう】",
+      "meaning": "aéreo; elevado; ficticio; imaginario"
+    },
+    {
+      "entryId": "1193130",
+      "spelling": "架空",
+      "reading": "がくう",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "架空【がくう】",
+      "meaning": "aéreo; elevado; ficticio; imaginario"
+    },
+    {
+      "entryId": "1245790",
+      "spelling": "空中",
+      "reading": "くうちゅう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "空中【くうちゅう】",
+      "meaning": "cielo; aire"
+    },
+    {
+      "entryId": "1245950",
+      "spelling": "空白",
+      "reading": "くうはく",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "空白【くうはく】",
+      "meaning": "espacio en blanco"
+    },
+    {
+      "entryId": "1381470",
+      "spelling": "青空",
+      "reading": "あおぞら",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "青空【あおぞら】",
+      "meaning": "cielo azul"
+    },
+    {
+      "entryId": "1245690",
+      "spelling": "空席",
+      "reading": "くうせき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "空席【くうせき】",
+      "meaning": "asiento libre; asiendo desocupado"
+    },
+    {
+      "entryId": "1246020",
+      "spelling": "空母",
+      "reading": "くうぼ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "空母【くうぼ】",
+      "meaning": "portaaviones"
+    },
+    {
+      "entryId": "1609010",
+      "spelling": "空き",
+      "reading": "あき",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "空き【あき】",
+      "meaning": "espacio en blanco; espacio vacío; intervalo; hueco; libre, desocupado; habitación; cuarto; tiempo para compartir; vacío; vacante"
+    },
+    {
+      "entryId": "1245700",
+      "spelling": "空前",
+      "reading": "くうぜん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "空前【くうぜん】",
+      "meaning": "sin precedentes; que bate récords"
+    },
+    {
+      "entryId": "1675940",
+      "spelling": "空域",
+      "reading": "くういき",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "空域【くういき】",
+      "meaning": "espacio aéreo"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "character": "領",
+  "meanings": "punto clave, control, controlar",
+  "words": [
+    {
+      "entryId": "1414650",
+      "spelling": "大統領",
+      "reading": "だいとうりょう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "大統領【だいとうりょう】",
+      "meaning": "presidente (de un país, república, etc)"
+    },
+    {
+      "entryId": "1554790",
+      "spelling": "領土",
+      "reading": "りょうど",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "領土【りょうど】",
+      "meaning": "territorio; colonia; dominio"
+    },
+    {
+      "entryId": "1389610",
+      "spelling": "占領",
+      "reading": "せんりょう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "占領【せんりょう】",
+      "meaning": "ocupación territorial"
+    },
+    {
+      "entryId": "1606280",
+      "spelling": "領承",
+      "reading": "りょうしょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "領承【りょうしょう】",
+      "meaning": "aprobación; entendimiento"
+    },
+    {
+      "entryId": "1553310",
+      "spelling": "領会",
+      "reading": "りょうかい",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "領会【りょうかい】",
+      "meaning": "entendimiento; comprensión"
+    },
+    {
+      "entryId": "1553310",
+      "spelling": "領解",
+      "reading": "りょうかい",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "領解【りょうかい】",
+      "meaning": "entendimiento; comprensión"
+    },
+    {
+      "entryId": "1554720",
+      "spelling": "領域",
+      "reading": "りょういき",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "領域【りょういき】",
+      "meaning": "área; dominio; territorio; campo; región"
+    },
+    {
+      "entryId": "1546850",
+      "spelling": "要領",
+      "reading": "ようりょう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "要領【ようりょう】",
+      "meaning": "punto principal; meollo"
+    },
+    {
+      "entryId": "1330080",
+      "spelling": "受領",
+      "reading": "じゅりょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "受領【じゅりょう】",
+      "meaning": "recibir; cobrar; acuse de recibo (de una carta); confirmación de recibido"
+    },
+    {
+      "entryId": "1401870",
+      "spelling": "総領事",
+      "reading": "そうりょうじ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "総領事【そうりょうじ】",
+      "meaning": "Cónsul General"
+    },
+    {
+      "entryId": "1612270",
+      "spelling": "領海",
+      "reading": "りょうかい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "領海【りょうかい】",
+      "meaning": "aguas territoriales"
+    },
+    {
+      "entryId": "1554760",
+      "spelling": "領収書",
+      "reading": "りょうしゅうしょ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "領収書【りょうしゅうしょ】",
+      "meaning": "recibo de pago"
+    },
+    {
+      "entryId": "1612280",
+      "spelling": "領空",
+      "reading": "りょうくう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "領空【りょうくう】",
+      "meaning": "espacio aereo territorial"
+    },
+    {
+      "entryId": "1588750",
+      "spelling": "領",
+      "reading": "えり",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "領【えり】",
+      "meaning": "solapa; cuello de la camisa; nuca; collar (de una camisa)"
+    },
+    {
+      "entryId": "1554740",
+      "spelling": "領事館",
+      "reading": "りょうじかん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "領事館【りょうじかん】",
+      "meaning": "consulado"
+    },
+    {
+      "entryId": "1554730",
+      "spelling": "領事",
+      "reading": "りょうじ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "領事【りょうじ】",
+      "meaning": "cónsul"
+    },
+    {
+      "entryId": "1554750",
+      "spelling": "領収",
+      "reading": "りょうしゅう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "領収【りょうしゅう】",
+      "meaning": "recepción; obtención"
+    },
+    {
+      "entryId": "1554780",
+      "spelling": "領地",
+      "reading": "りょうち",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "領地【りょうち】",
+      "meaning": "territorio; señorío"
+    },
+    {
+      "entryId": "1861160",
+      "spelling": "英領",
+      "reading": "えいりょう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "英領【えいりょう】",
+      "meaning": "territorio británico (posesión)"
+    },
+    {
+      "entryId": "1757870",
+      "spelling": "領主",
+      "reading": "りょうしゅ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "領主【りょうしゅ】",
+      "meaning": "señor feudal"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

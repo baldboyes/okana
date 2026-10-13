@@ -1,0 +1,241 @@
+{
+  "character": "要",
+  "meanings": "necesidad, punto central, esencia, necesitar",
+  "words": [
+    {
+      "entryId": "1336820",
+      "spelling": "重要",
+      "reading": "じゅうよう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "重要【じゅうよう】",
+      "meaning": "importante; momento; esencial; principal; mayor"
+    },
+    {
+      "entryId": "1487660",
+      "spelling": "必要",
+      "reading": "ひつよう",
+      "senseNumbers": [
+        10,
+        11
+      ],
+      "japanese": "必要【ひつよう】",
+      "meaning": "necesario; esencial; indispensable; necesidad"
+    },
+    {
+      "entryId": "1546680",
+      "spelling": "要求",
+      "reading": "ようきゅう",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "要求【ようきゅう】",
+      "meaning": "pedir; requerir; demandar; reclamar; solicitar; demanda"
+    },
+    {
+      "entryId": "1326320",
+      "spelling": "主要",
+      "reading": "しゅよう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "主要【しゅよう】",
+      "meaning": "importante"
+    },
+    {
+      "entryId": "1330450",
+      "spelling": "需要",
+      "reading": "じゅよう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "需要【じゅよう】",
+      "meaning": "demanda; solicitud"
+    },
+    {
+      "entryId": "1546780",
+      "spelling": "要請",
+      "reading": "ようせい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "要請【ようせい】",
+      "meaning": "exigencia; reclamación; petición"
+    },
+    {
+      "entryId": "1546670",
+      "spelling": "要因",
+      "reading": "よういん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "要因【よういん】",
+      "meaning": "causa principal; factor primordial"
+    },
+    {
+      "entryId": "1487730",
+      "spelling": "必要性",
+      "reading": "ひつようせい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "必要性【ひつようせい】",
+      "meaning": "necesidad"
+    },
+    {
+      "entryId": "1546800",
+      "spelling": "要素",
+      "reading": "ようそ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "要素【ようそ】",
+      "meaning": "elemento"
+    },
+    {
+      "entryId": "1546830",
+      "spelling": "要望",
+      "reading": "ようぼう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "要望【ようぼう】",
+      "meaning": "petición; solicitud"
+    },
+    {
+      "entryId": "1546660",
+      "spelling": "要員",
+      "reading": "よういん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "要員【よういん】",
+      "meaning": "miembro esencial; persona necesaria; personal"
+    },
+    {
+      "entryId": "1546770",
+      "spelling": "要旨",
+      "reading": "ようし",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "要旨【ようし】",
+      "meaning": "lo esencial; punto principal; lo mas importante"
+    },
+    {
+      "entryId": "1602900",
+      "spelling": "不要",
+      "reading": "ふよう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "不要【ふよう】",
+      "meaning": "innecesario; no deseado"
+    },
+    {
+      "entryId": "1546740",
+      "spelling": "要綱",
+      "reading": "ようこう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "要綱【ようこう】",
+      "meaning": "principio"
+    },
+    {
+      "entryId": "1836130",
+      "spelling": "要人",
+      "reading": "ようじん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "要人【ようじん】",
+      "meaning": "persona muy importante; VIP"
+    },
+    {
+      "entryId": "1546610",
+      "spelling": "要する",
+      "reading": "ようする",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "要する【ようする】",
+      "meaning": "precisar; necesitar; requerir; demandar"
+    },
+    {
+      "entryId": "1204500",
+      "spelling": "概要",
+      "reading": "がいよう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "概要【がいよう】",
+      "meaning": "extracto; resumen; sinopsis"
+    },
+    {
+      "entryId": "1546620",
+      "spelling": "要するに",
+      "reading": "ようするに",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "要するに【ようするに】",
+      "meaning": "en breve; en resumen"
+    },
+    {
+      "entryId": "1546750",
+      "spelling": "要頂",
+      "reading": "ようこう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "要頂【ようこう】",
+      "meaning": "puntos importantes"
+    },
+    {
+      "entryId": "1546750",
+      "spelling": "要項",
+      "reading": "ようこう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "要項【ようこう】",
+      "meaning": "puntos importantes"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

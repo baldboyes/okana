@@ -1,0 +1,180 @@
+{
+  "character": "霊",
+  "meanings": "espíritu, alma, dios",
+  "words": [
+    {
+      "entryId": "1579170",
+      "spelling": "霊",
+      "reading": "たましい",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "霊【たましい】",
+      "meaning": "alma; espíritu"
+    },
+    {
+      "entryId": "1613270",
+      "spelling": "慰霊",
+      "reading": "いれい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "慰霊【いれい】",
+      "meaning": "confort del espíritu (de la muerte)"
+    },
+    {
+      "entryId": "1540590",
+      "spelling": "幽霊",
+      "reading": "ゆうれい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "幽霊【ゆうれい】",
+      "meaning": "fantasma; espectro; aparición"
+    },
+    {
+      "entryId": "1557750",
+      "spelling": "霊園",
+      "reading": "れいえん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "霊園【れいえん】",
+      "meaning": "cementerio"
+    },
+    {
+      "entryId": "1557750",
+      "spelling": "霊苑",
+      "reading": "れいえん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "霊苑【れいえん】",
+      "meaning": "cementerio"
+    },
+    {
+      "entryId": "1156970",
+      "spelling": "慰霊祭",
+      "reading": "いれいさい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "慰霊祭【いれいさい】",
+      "meaning": "servicio conmemorativo"
+    },
+    {
+      "entryId": "1518760",
+      "spelling": "亡霊",
+      "reading": "ぼうれい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "亡霊【ぼうれい】",
+      "meaning": "fantasma, espectro de un difunto"
+    },
+    {
+      "entryId": "1174700",
+      "spelling": "英霊",
+      "reading": "えいれい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "英霊【えいれい】",
+      "meaning": "alma de soldado muerto (héroe caído) en guerra"
+    },
+    {
+      "entryId": "1557770",
+      "spelling": "霊感",
+      "reading": "れいかん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "霊感【れいかん】",
+      "meaning": "inspiración"
+    },
+    {
+      "entryId": "1575820",
+      "spelling": "悪霊",
+      "reading": "あくりょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "悪霊【あくりょう】",
+      "meaning": "espíritu maligno"
+    },
+    {
+      "entryId": "1575820",
+      "spelling": "悪霊",
+      "reading": "あくれい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "悪霊【あくれい】",
+      "meaning": "espíritu maligno"
+    },
+    {
+      "entryId": "1361060",
+      "spelling": "心霊",
+      "reading": "しんれい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "心霊【しんれい】",
+      "meaning": "espíritu"
+    },
+    {
+      "entryId": "1662630",
+      "spelling": "全身全霊",
+      "reading": "ぜんしんぜんれい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "全身全霊【ぜんしんぜんれい】",
+      "meaning": "en cuerpo y alma; volcándose por entero; poniendo todo el empeño; con todas sus fuerzas; con toda su alma"
+    },
+    {
+      "entryId": "1176600",
+      "spelling": "怨霊",
+      "reading": "おんりょう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "怨霊【おんりょう】",
+      "meaning": "espectro malvado; espíritu vengativo; fantasma maligno"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

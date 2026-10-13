@@ -1,0 +1,240 @@
+{
+  "character": "義",
+  "meanings": "moralidad, lealtad, significado, artificial, no consanguíneo",
+  "words": [
+    {
+      "entryId": "1561660",
+      "spelling": "論義",
+      "reading": "ろんぎ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "論義【ろんぎ】",
+      "meaning": "discusión; debate; polémica"
+    },
+    {
+      "entryId": "1325260",
+      "spelling": "主義",
+      "reading": "しゅぎ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "主義【しゅぎ】",
+      "meaning": "doctrina (sistema de pensamiento); -ísmo (doctrina de ~)"
+    },
+    {
+      "entryId": "1225900",
+      "spelling": "義務",
+      "reading": "ぎむ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "義務【ぎむ】",
+      "meaning": "deber; obligación; responsabilidad"
+    },
+    {
+      "entryId": "1376910",
+      "spelling": "正義",
+      "reading": "せいぎ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "正義【せいぎ】",
+      "meaning": "justicia"
+    },
+    {
+      "entryId": "1322740",
+      "spelling": "社会主義",
+      "reading": "しゃかいしゅぎ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "社会主義【しゃかいしゅぎ】",
+      "meaning": "socialismo"
+    },
+    {
+      "entryId": "1528840",
+      "spelling": "民主主義",
+      "reading": "みんしゅしゅぎ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "民主主義【みんしゅしゅぎ】",
+      "meaning": "democracia"
+    },
+    {
+      "entryId": "1156520",
+      "spelling": "意義",
+      "reading": "いぎ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "意義【いぎ】",
+      "meaning": "significado"
+    },
+    {
+      "entryId": "1531410",
+      "spelling": "名義",
+      "reading": "めいぎ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "名義【めいぎ】",
+      "meaning": "(bajo mi) nombre; título de propiedad"
+    },
+    {
+      "entryId": "1234490",
+      "spelling": "共産主義",
+      "reading": "きょうさんしゅぎ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "共産主義【きょうさんしゅぎ】",
+      "meaning": "el comunismo"
+    },
+    {
+      "entryId": "1529110",
+      "spelling": "民族主義",
+      "reading": "みんぞくしゅぎ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "民族主義【みんぞくしゅぎ】",
+      "meaning": "nacionalismo"
+    },
+    {
+      "entryId": "1282260",
+      "spelling": "講義",
+      "reading": "こうぎ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "講義【こうぎ】",
+      "meaning": "dar un curso; dar la lección; dar clase; impartir una conferencia; lección; clase; conferencia"
+    },
+    {
+      "entryId": "1312800",
+      "spelling": "資本主義",
+      "reading": "しほんしゅぎ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "資本主義【しほんしゅぎ】",
+      "meaning": "capitalismo"
+    },
+    {
+      "entryId": "1325270",
+      "spelling": "主義者",
+      "reading": "しゅぎしゃ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "主義者【しゅぎしゃ】",
+      "meaning": "-ísta (seguidor de la doctrina ~)"
+    },
+    {
+      "entryId": "1435530",
+      "spelling": "定義",
+      "reading": "ていぎ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "定義【ていぎ】",
+      "meaning": "definición"
+    },
+    {
+      "entryId": "1225860",
+      "spelling": "義父",
+      "reading": "ぎふ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "義父【ぎふ】",
+      "meaning": "suegro; padre adoptivo; padrastro"
+    },
+    {
+      "entryId": "1658640",
+      "spelling": "自由主義",
+      "reading": "じゆうしゅぎ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "自由主義【じゆうしゅぎ】",
+      "meaning": "liberalismo"
+    },
+    {
+      "entryId": "1225920",
+      "spelling": "義理",
+      "reading": "ぎり",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "義理【ぎり】",
+      "meaning": "deberes (civicos y morales)"
+    },
+    {
+      "entryId": "1413380",
+      "spelling": "大義名分",
+      "reading": "たいぎめいぶん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "大義名分【たいぎめいぶん】",
+      "meaning": "(una) causa justa"
+    },
+    {
+      "entryId": "1247990",
+      "spelling": "軍国主義",
+      "reading": "ぐんこくしゅぎ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "軍国主義【ぐんこくしゅぎ】",
+      "meaning": "militarismo"
+    },
+    {
+      "entryId": "1541090",
+      "spelling": "有意義",
+      "reading": "ゆういぎ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "有意義【ゆういぎ】",
+      "meaning": "provechoso; significante; beneficioso"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

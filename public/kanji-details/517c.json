@@ -1,0 +1,130 @@
+{
+  "character": "兼",
+  "meanings": "concurrentemente, y, además, por añadidura, agarrar, coger, combinarse",
+  "words": [
+    {
+      "entryId": "1256490",
+      "spelling": "兼",
+      "reading": "けん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "兼【けん】",
+      "meaning": "(y; en suma; concurrentemente"
+    },
+    {
+      "entryId": "1256520",
+      "spelling": "兼ねる",
+      "reading": "かねる",
+      "senseNumbers": [
+        23
+      ],
+      "japanese": "兼ねる【かねる】",
+      "meaning": "combinar dos roles; estar imposibilitado; descartar"
+    },
+    {
+      "entryId": "1256530",
+      "spelling": "兼ね合い",
+      "reading": "かねあい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "兼ね合い【かねあい】",
+      "meaning": "armonía; equilibrio"
+    },
+    {
+      "entryId": "1256530",
+      "spelling": "兼合い",
+      "reading": "かねあい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "兼合い【かねあい】",
+      "meaning": "armonía; equilibrio"
+    },
+    {
+      "entryId": "1222120",
+      "spelling": "気兼ね",
+      "reading": "きがね",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "気兼ね【きがね】",
+      "meaning": "reserva; cohibición; inhibición"
+    },
+    {
+      "entryId": "1542850",
+      "spelling": "兼ねて",
+      "reading": "かねて",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "兼ねて【かねて】",
+      "meaning": "con anterioridad; previamente"
+    },
+    {
+      "entryId": "1410490",
+      "spelling": "待ち兼ねる",
+      "reading": "まちかねる",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "待ち兼ねる【まちかねる】",
+      "meaning": "estar lleno de ilusión; estar impaciente"
+    },
+    {
+      "entryId": "1578300",
+      "spelling": "兼業",
+      "reading": "けんぎょう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "兼業【けんぎょう】",
+      "meaning": "empleo suplementario; segundo empleo"
+    },
+    {
+      "entryId": "1256720",
+      "spelling": "兼用",
+      "reading": "けんよう",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "兼用【けんよう】",
+      "meaning": "de doble uso"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "character": "晩",
+  "meanings": "tarde, noche, anochecer",
+  "words": [
+    {
+      "entryId": "1482110",
+      "spelling": "晩",
+      "reading": "ばん",
+      "senseNumbers": [
+        12,
+        13
+      ],
+      "japanese": "晩【ばん】",
+      "meaning": "noche; contador para noches"
+    },
+    {
+      "entryId": "1482230",
+      "spelling": "晩年",
+      "reading": "ばんねん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "晩年【ばんねん】",
+      "meaning": "años posteriores; últimos años"
+    },
+    {
+      "entryId": "1421970",
+      "spelling": "晩い",
+      "reading": "おそい",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "晩い【おそい】",
+      "meaning": "tarde; lento; lerdo; corto de mente; obtuso; tardo; ganso; cachazudo; pánfilo"
+    },
+    {
+      "entryId": "1524730",
+      "spelling": "毎晩",
+      "reading": "まいばん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "毎晩【まいばん】",
+      "meaning": "cada noche; todas las noches"
+    },
+    {
+      "entryId": "1165960",
+      "spelling": "ひと晩",
+      "reading": "ひとばん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "ひと晩【ひとばん】",
+      "meaning": "una noche; toda la noche; por la noche"
+    },
+    {
+      "entryId": "1165960",
+      "spelling": "一晩",
+      "reading": "ひとばん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "一晩【ひとばん】",
+      "meaning": "una noche; toda la noche; por la noche"
+    },
+    {
+      "entryId": "1289470",
+      "spelling": "今晩",
+      "reading": "こんばん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "今晩【こんばん】",
+      "meaning": "esta noche; hoy en la noche"
+    },
+    {
+      "entryId": "1298240",
+      "spelling": "昨晩",
+      "reading": "さくばん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "昨晩【さくばん】",
+      "meaning": "anoche"
+    },
+    {
+      "entryId": "1100140",
+      "spelling": "晩香坡",
+      "reading": "バンクーバー",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "晩香坡【バンクーバー】",
+      "meaning": "Vancouver"
+    },
+    {
+      "entryId": "1100140",
+      "spelling": "晩香波",
+      "reading": "バンクーバー",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "晩香波【バンクーバー】",
+      "meaning": "Vancouver"
+    },
+    {
+      "entryId": "1289480",
+      "spelling": "今晩は",
+      "reading": "こんばんは",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "今晩は【こんばんは】",
+      "meaning": "buenas tardes"
+    },
+    {
+      "entryId": "1289480",
+      "spelling": "今晩は",
+      "reading": "こんばんわ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "今晩は【こんばんわ】",
+      "meaning": "buenas tardes"
+    },
+    {
+      "entryId": "1532590",
+      "spelling": "明晩",
+      "reading": "みょうばん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "明晩【みょうばん】",
+      "meaning": "mañana por la tarde"
+    },
+    {
+      "entryId": "1601340",
+      "spelling": "晩ごはん",
+      "reading": "ばんごはん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "晩ごはん【ばんごはん】",
+      "meaning": "cena"
+    },
+    {
+      "entryId": "1601340",
+      "spelling": "晩ご飯",
+      "reading": "ばんごはん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "晩ご飯【ばんごはん】",
+      "meaning": "cena"
+    },
+    {
+      "entryId": "1601340",
+      "spelling": "晩御飯",
+      "reading": "ばんごはん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "晩御飯【ばんごはん】",
+      "meaning": "cena"
+    },
+    {
+      "entryId": "1611360",
+      "spelling": "ひと晩中",
+      "reading": "ひとばんじゅう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "ひと晩中【ひとばんじゅう】",
+      "meaning": "durante toda la noche"
+    },
+    {
+      "entryId": "1611360",
+      "spelling": "一晩じゅう",
+      "reading": "ひとばんじゅう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "一晩じゅう【ひとばんじゅう】",
+      "meaning": "durante toda la noche"
+    },
+    {
+      "entryId": "1611360",
+      "spelling": "一晩中",
+      "reading": "ひとばんじゅう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "一晩中【ひとばんじゅう】",
+      "meaning": "durante toda la noche"
+    },
+    {
+      "entryId": "1611360",
+      "spelling": "１晩中",
+      "reading": "ひとばんじゅう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "１晩中【ひとばんじゅう】",
+      "meaning": "durante toda la noche"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

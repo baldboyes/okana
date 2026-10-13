@@ -1,0 +1,202 @@
+{
+  "character": "周",
+  "meanings": "circunferencia, vuelta, alrededores, difundir",
+  "words": [
+    {
+      "entryId": "1331300",
+      "spelling": "周辺",
+      "reading": "しゅうへん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "周辺【しゅうへん】",
+      "meaning": "en los alrededores"
+    },
+    {
+      "entryId": "1331030",
+      "spelling": "周囲",
+      "reading": "しゅうい",
+      "senseNumbers": [
+        10,
+        11
+      ],
+      "japanese": "周囲【しゅうい】",
+      "meaning": "entorno; alrededores; circunferencia"
+    },
+    {
+      "entryId": "1604290",
+      "spelling": "周り",
+      "reading": "まわり",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "周り【まわり】",
+      "meaning": "los alrededores; el perímetro; la circunferencia"
+    },
+    {
+      "entryId": "1331210",
+      "spelling": "周知",
+      "reading": "しゅうち",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "周知【しゅうち】",
+      "meaning": "sabido; divulgado; conocido; notorio"
+    },
+    {
+      "entryId": "1602010",
+      "spelling": "一周",
+      "reading": "いっしゅう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "一周【いっしゅう】",
+      "meaning": "vuelta una vez; una revolución; una vuelta; una rotación; un año completo"
+    },
+    {
+      "entryId": "1331260",
+      "spelling": "周波数",
+      "reading": "しゅうはすう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "周波数【しゅうはすう】",
+      "meaning": "frecuencia (de ondas)"
+    },
+    {
+      "entryId": "1365590",
+      "spelling": "身の周り",
+      "reading": "みのまわり",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "身の周り【みのまわり】",
+      "meaning": "(artículos de uso, apariencia) personal; circunvecino a mi persona"
+    },
+    {
+      "entryId": "1331090",
+      "spelling": "周期",
+      "reading": "しゅうき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "周期【しゅうき】",
+      "meaning": "ciclo; período"
+    },
+    {
+      "entryId": "1278830",
+      "spelling": "周章てる",
+      "reading": "あわてる",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "周章てる【あわてる】",
+      "meaning": "ajetrearse; trajinar; ponerse nervioso; alterarse; perder la calma; perder la serenidad; azorarse; turbarse; perder los papeles; dejarse llevar por la precipitación; actuar rápida e irreflexivamente; actuar de modo atolondrado"
+    },
+    {
+      "entryId": "1163220",
+      "spelling": "一周年",
+      "reading": "いっしゅうねん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "一周年【いっしゅうねん】",
+      "meaning": "un año completo"
+    },
+    {
+      "entryId": "1163220",
+      "spelling": "１周年",
+      "reading": "いっしゅうねん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "１周年【いっしゅうねん】",
+      "meaning": "un año completo"
+    },
+    {
+      "entryId": "1331230",
+      "spelling": "周到",
+      "reading": "しゅうとう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "周到【しゅうとう】",
+      "meaning": "meticuloso; minucioso; cuidadoso; esmerado"
+    },
+    {
+      "entryId": "1604300",
+      "spelling": "周る",
+      "reading": "まわる",
+      "senseNumbers": [
+        32,
+        33
+      ],
+      "japanese": "周る【まわる】",
+      "meaning": "girar; hacer girar; visitar muchos lugares"
+    },
+    {
+      "entryId": "1175860",
+      "spelling": "円周",
+      "reading": "えんしゅう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "円周【えんしゅう】",
+      "meaning": "circunferencia"
+    },
+    {
+      "entryId": "1163200",
+      "spelling": "一周忌",
+      "reading": "いっしゅうき",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "一周忌【いっしゅうき】",
+      "meaning": "primer aniversario luctuoso"
+    },
+    {
+      "entryId": "1177930",
+      "spelling": "遠周り",
+      "reading": "とおまわり",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "遠周り【とおまわり】",
+      "meaning": "desvío; camino indirecto"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

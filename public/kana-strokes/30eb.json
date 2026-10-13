@@ -1,0 +1,41 @@
+{
+  "character": "ル",
+  "script": "katakana",
+  "viewBox": "0 0 1024 1024",
+  "coordinates": "svg-native-y-down",
+  "strokes": [
+    {
+      "ordinal": 1,
+      "parts": [
+        {
+          "id": "z12523d1",
+          "clipId": "z12523c1",
+          "outline": "M287 325C250 320 268 360 272 374C292 434 248 610 151 754C78 861 81 881 167 789C246 705 303 605 335 493C348 444 351 425 363 388C376 347 334 333 287 325Z",
+          "median": "M 276,335 324,373 257,630 110,834"
+        }
+      ]
+    },
+    {
+      "ordinal": 2,
+      "parts": [
+        {
+          "id": "z12523d2",
+          "clipId": "z12523c2",
+          "outline": "M495 212C516 253 514 322 505 596C503 662 503 718 478 780C461 821 536 889 557 873C593 846 607 835 639 807C758 701 834 652 910 540C954 477 991 385 884 511C800 609 726 672 594 749C551 774 560 721 561 690C563 589 571 340 589 272C606 209 578 191 546 170C460 116 478 177 495 212Z",
+          "median": "M 494,163 543,228 513,785 561,836 726,712 938,468"
+        }
+      ]
+    }
+  ],
+  "provenance": {
+    "commit": "ec5e17cca76c87587790bcbce5ea0b4d4fb753d6",
+    "modifiedAt": "2026-10-02",
+    "license": "LGPL-3.0-or-later",
+    "sourceFilename": "12523.svg",
+    "sourceUrl": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12523.svg",
+    "sourceSha256": "752d7b7d43215aa03d441562ad393625567b5e94feb857f306cd26b056489441",
+    "gitBlobSha1": "1b89a8d7e3246c84319504d4cc24321aa27ba7d6",
+    "sourceHeader": "\nAnimCJK 2016-2026 Copyright FM-SH, https://github.com/parsimonhi/animCJK\nYou can redistribute and/or modify these files under the terms of the GNU\nLesser General Public License as published by the Free Software Foundation,\neither version 3 of the license, or (at your option) any later version. You\nshould have received a copy of this license (the file \"LGPL.txt\") along with\nthese files; if not, see https://www.gnu.org/licenses/.\n",
+    "notice": "Converted SVG outlines and median paths to grouped JSON without geometry changes by Okana on 2026-10-02, from AnimCJK ec5e17cca76c87587790bcbce5ea0b4d4fb753d6. Graphics remain LGPL-3.0-or-later; original copyright and notices are retained in sourceHeader and corresponding source SVG files."
+  }
+}

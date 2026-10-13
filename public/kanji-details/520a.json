@@ -1,0 +1,160 @@
+{
+  "character": "刊",
+  "meanings": "publicar, editar",
+  "words": [
+    {
+      "entryId": "1333460",
+      "spelling": "週刊",
+      "reading": "しゅうかん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "週刊【しゅうかん】",
+      "meaning": "publicación semanal"
+    },
+    {
+      "entryId": "1398320",
+      "spelling": "創刊",
+      "reading": "そうかん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "創刊【そうかん】",
+      "meaning": "publicación; edición"
+    },
+    {
+      "entryId": "1428320",
+      "spelling": "朝刊",
+      "reading": "ちょうかん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "朝刊【ちょうかん】",
+      "meaning": "periódico de la mañana"
+    },
+    {
+      "entryId": "1210570",
+      "spelling": "刊行",
+      "reading": "かんこう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "刊行【かんこう】",
+      "meaning": "publicación; edición; impresión; revista; periódico"
+    },
+    {
+      "entryId": "1255530",
+      "spelling": "月刊",
+      "reading": "げっかん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "月刊【げっかん】",
+      "meaning": "publicación mensual; edición mensual"
+    },
+    {
+      "entryId": "1542690",
+      "spelling": "夕刊",
+      "reading": "ゆうかん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "夕刊【ゆうかん】",
+      "meaning": "periódico de la tarde"
+    },
+    {
+      "entryId": "1463880",
+      "spelling": "日刊",
+      "reading": "にっかん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "日刊【にっかん】",
+      "meaning": "publicación diaria; diario"
+    },
+    {
+      "entryId": "1361580",
+      "spelling": "新刊",
+      "reading": "しんかん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "新刊【しんかん】",
+      "meaning": "libro nuevo; publicación nueva"
+    },
+    {
+      "entryId": "1222810",
+      "spelling": "季刊",
+      "reading": "きかん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "季刊【きかん】",
+      "meaning": "publicación trimestral"
+    },
+    {
+      "entryId": "1333490",
+      "spelling": "週刊誌",
+      "reading": "しゅうかんし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "週刊誌【しゅうかんし】",
+      "meaning": "publicación semanal"
+    },
+    {
+      "entryId": "1938990",
+      "spelling": "新刊書",
+      "reading": "しんかんしょ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "新刊書【しんかんしょ】",
+      "meaning": "libro nuevo; publicación nueva"
+    },
+    {
+      "entryId": "1620760",
+      "spelling": "既刊",
+      "reading": "きかん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "既刊【きかん】",
+      "meaning": "ya publicado"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "character": "堂",
+  "meanings": "templo, salón, vestíbulo",
+  "words": [
+    {
+      "entryId": "1358550",
+      "spelling": "食堂",
+      "reading": "しょくどう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "食堂【しょくどう】",
+      "meaning": "comedor"
+    },
+    {
+      "entryId": "1282340",
+      "spelling": "講堂",
+      "reading": "こうどう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "講堂【こうどう】",
+      "meaning": "auditorio"
+    },
+    {
+      "entryId": "1599260",
+      "spelling": "堂々",
+      "reading": "どうどう",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "堂々【どうどう】",
+      "meaning": "digno; orgulloso; heroico"
+    },
+    {
+      "entryId": "1599260",
+      "spelling": "堂堂",
+      "reading": "どうどう",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "堂堂【どうどう】",
+      "meaning": "digno; orgulloso; heroico"
+    },
+    {
+      "entryId": "1165350",
+      "spelling": "一堂",
+      "reading": "いちどう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "一堂【いちどう】",
+      "meaning": "un edificio (salón; templo; recinto; habitación; cuarto)"
+    },
+    {
+      "entryId": "1453640",
+      "spelling": "堂",
+      "reading": "どう",
+      "senseNumbers": [
+        14,
+        15
+      ],
+      "japanese": "堂【どう】",
+      "meaning": "templo; santuario; sala; magnífico (usado como prefijo)"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

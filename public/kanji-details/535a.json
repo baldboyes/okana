@@ -1,0 +1,120 @@
+{
+  "character": "博",
+  "meanings": "Dr. (doctorado, Ph.D.), exposición, feria, estima, ovación, vencedor por aclamación",
+  "words": [
+    {
+      "entryId": "1474620",
+      "spelling": "博士",
+      "reading": "はかせ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "博士【はかせ】",
+      "meaning": "doctor; persona que se ha doctorado"
+    },
+    {
+      "entryId": "1474720",
+      "spelling": "博物館",
+      "reading": "はくぶつかん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "博物館【はくぶつかん】",
+      "meaning": "museo"
+    },
+    {
+      "entryId": "1474750",
+      "spelling": "博覧会",
+      "reading": "はくらんかい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "博覧会【はくらんかい】",
+      "meaning": "exhibición; feria; exposición"
+    },
+    {
+      "entryId": "1474700",
+      "spelling": "博物",
+      "reading": "はくぶつ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "博物【はくぶつ】",
+      "meaning": "ciencias naturales; historia natural; (abreviatura); conocimientos generales"
+    },
+    {
+      "entryId": "1657550",
+      "spelling": "国立博物館",
+      "reading": "こくりつはくぶつかん",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "国立博物館【こくりつはくぶつかん】",
+      "meaning": "museo nacional"
+    },
+    {
+      "entryId": "1474530",
+      "spelling": "博愛",
+      "reading": "はくあい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "博愛【はくあい】",
+      "meaning": "caridad; benevolencia; filantropía; (amor por la) humanidad"
+    },
+    {
+      "entryId": "1474580",
+      "spelling": "博学",
+      "reading": "はくがく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "博学【はくがく】",
+      "meaning": "erudición"
+    },
+    {
+      "entryId": "2834601",
+      "spelling": "博士",
+      "reading": "はくし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "博士【はくし】",
+      "meaning": "doctorado; experto; profesor"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "character": "議",
+  "meanings": "opinión, consulta, consideración",
+  "words": [
+    {
+      "entryId": "1198360",
+      "spelling": "会議",
+      "reading": "かいぎ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "会議【かいぎ】",
+      "meaning": "congreso; encuentro; convención"
+    },
+    {
+      "entryId": "1226020",
+      "spelling": "議員",
+      "reading": "ぎいん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "議員【ぎいん】",
+      "meaning": "miembro; representante (del congreso)"
+    },
+    {
+      "entryId": "1226040",
+      "spelling": "議会",
+      "reading": "ぎかい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "議会【ぎかい】",
+      "meaning": "congreso; parlamento"
+    },
+    {
+      "entryId": "1226140",
+      "spelling": "議長",
+      "reading": "ぎちょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "議長【ぎちょう】",
+      "meaning": "presidente (del congreso)"
+    },
+    {
+      "entryId": "1235570",
+      "spelling": "協議",
+      "reading": "きょうぎ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "協議【きょうぎ】",
+      "meaning": "asamblea; congreso; deliberar; discutir; debatir"
+    },
+    {
+      "entryId": "1254240",
+      "spelling": "決議",
+      "reading": "けつぎ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "決議【けつぎ】",
+      "meaning": "resolución; decisión; determinación"
+    },
+    {
+      "entryId": "1360360",
+      "spelling": "審議",
+      "reading": "しんぎ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "審議【しんぎ】",
+      "meaning": "discusión; consideración; deliberación"
+    },
+    {
+      "entryId": "1561660",
+      "spelling": "論議",
+      "reading": "ろんぎ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "論議【ろんぎ】",
+      "meaning": "discusión; debate; polémica"
+    },
+    {
+      "entryId": "1226160",
+      "spelling": "議論",
+      "reading": "ぎろん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "議論【ぎろん】",
+      "meaning": "discusión; controversia; polémica"
+    },
+    {
+      "entryId": "1226120",
+      "spelling": "議席",
+      "reading": "ぎせき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "議席【ぎせき】",
+      "meaning": "escaño (parlamentario); asiento parlamentario"
+    },
+    {
+      "entryId": "1278860",
+      "spelling": "抗議",
+      "reading": "こうぎ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "抗議【こうぎ】",
+      "meaning": "objeción; protesta; reproche"
+    },
+    {
+      "entryId": "1226130",
+      "spelling": "議題",
+      "reading": "ぎだい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "議題【ぎだい】",
+      "meaning": "tema de debate; orden del día"
+    },
+    {
+      "entryId": "1302210",
+      "spelling": "参議院",
+      "reading": "さんぎいん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "参議院【さんぎいん】",
+      "meaning": "Cámara de Consejeros (Japón)"
+    },
+    {
+      "entryId": "1449960",
+      "spelling": "討議",
+      "reading": "とうぎ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "討議【とうぎ】",
+      "meaning": "debate; discusión"
+    },
+    {
+      "entryId": "1346970",
+      "spelling": "商工会議所",
+      "reading": "しょうこうかいぎしょ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "商工会議所【しょうこうかいぎしょ】",
+      "meaning": "Cámara de Comercio e Industria"
+    },
+    {
+      "entryId": "1770300",
+      "spelling": "市議会",
+      "reading": "しぎかい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "市議会【しぎかい】",
+      "meaning": "ayuntamiento"
+    },
+    {
+      "entryId": "1226050",
+      "spelling": "議決",
+      "reading": "ぎけつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "議決【ぎけつ】",
+      "meaning": "resolución; decisión; acuerdo; votación"
+    },
+    {
+      "entryId": "1333260",
+      "spelling": "衆議院",
+      "reading": "しゅうぎいん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "衆議院【しゅうぎいん】",
+      "meaning": "Cámara de Representantes de Japón"
+    },
+    {
+      "entryId": "1157580",
+      "spelling": "異議",
+      "reading": "いぎ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "異議【いぎ】",
+      "meaning": "objeción; disentir; protesta"
+    },
+    {
+      "entryId": "1411740",
+      "spelling": "代議士",
+      "reading": "だいぎし",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "代議士【だいぎし】",
+      "meaning": "miembro de la Cámara de Representantes"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

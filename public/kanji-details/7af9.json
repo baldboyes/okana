@@ -1,0 +1,120 @@
+{
+  "character": "竹",
+  "meanings": "bambú",
+  "words": [
+    {
+      "entryId": "1422230",
+      "spelling": "竹",
+      "reading": "たけ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "竹【たけ】",
+      "meaning": "bambú; medio (de un sistema de tres lugares)"
+    },
+    {
+      "entryId": "1956300",
+      "spelling": "小竹",
+      "reading": "ささ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "小竹【ささ】",
+      "meaning": "bambú enano"
+    },
+    {
+      "entryId": "1475880",
+      "spelling": "爆竹",
+      "reading": "ばくちく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "爆竹【ばくちく】",
+      "meaning": "petardo"
+    },
+    {
+      "entryId": "1422340",
+      "spelling": "竹刀",
+      "reading": "しない",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "竹刀【しない】",
+      "meaning": "shinai (espada de bambú)"
+    },
+    {
+      "entryId": "1422340",
+      "spelling": "竹刀",
+      "reading": "ちくとう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "竹刀【ちくとう】",
+      "meaning": "shinai (espada de bambú)"
+    },
+    {
+      "entryId": "1422360",
+      "spelling": "竹馬",
+      "reading": "たけうま",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "竹馬【たけうま】",
+      "meaning": "zancos"
+    },
+    {
+      "entryId": "1422360",
+      "spelling": "竹馬",
+      "reading": "ちくば",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "竹馬【ちくば】",
+      "meaning": "zancos"
+    },
+    {
+      "entryId": "1596900",
+      "spelling": "竹の子",
+      "reading": "たけのこ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "竹の子【たけのこ】",
+      "meaning": "brote de bambú"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

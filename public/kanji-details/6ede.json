@@ -1,0 +1,110 @@
+{
+  "character": "滞",
+  "meanings": "retraso, atraso, estancarse, retrasarse",
+  "words": [
+    {
+      "entryId": "1410930",
+      "spelling": "滞在",
+      "reading": "たいざい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "滞在【たいざい】",
+      "meaning": "estancia"
+    },
+    {
+      "entryId": "1335570",
+      "spelling": "渋滞",
+      "reading": "じゅうたい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "渋滞【じゅうたい】",
+      "meaning": "atasco"
+    },
+    {
+      "entryId": "1435010",
+      "spelling": "停滞",
+      "reading": "ていたい",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "停滞【ていたい】",
+      "meaning": "estancamiento"
+    },
+    {
+      "entryId": "1410940",
+      "spelling": "滞納",
+      "reading": "たいのう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "滞納【たいのう】",
+      "meaning": "retraso; adeudo; déficit"
+    },
+    {
+      "entryId": "1176490",
+      "spelling": "延滞",
+      "reading": "えんたい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "延滞【えんたい】",
+      "meaning": "atraso retardo (e.g., en pagos); retrasarse"
+    },
+    {
+      "entryId": "1410920",
+      "spelling": "滞る",
+      "reading": "とどこおる",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "滞る【とどこおる】",
+      "meaning": "estancarse; vencerse; retrasarse"
+    },
+    {
+      "entryId": "1422080",
+      "spelling": "遅滞",
+      "reading": "ちたい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "遅滞【ちたい】",
+      "meaning": "mora (retraso en el cumplimiento de una obligación)"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

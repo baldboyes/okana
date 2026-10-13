@@ -1,0 +1,240 @@
+{
+  "character": "演",
+  "meanings": "expresar, realizar, llevar a cabo, poner en práctica, representar",
+  "words": [
+    {
+      "entryId": "1176960",
+      "spelling": "演舌",
+      "reading": "えんぜつ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "演舌【えんぜつ】",
+      "meaning": "discurso; oración; dar un discurso"
+    },
+    {
+      "entryId": "1176960",
+      "spelling": "演説",
+      "reading": "えんぜつ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "演説【えんぜつ】",
+      "meaning": "discurso; oración; dar un discurso"
+    },
+    {
+      "entryId": "1273280",
+      "spelling": "公演",
+      "reading": "こうえん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "公演【こうえん】",
+      "meaning": "presentación; exposición"
+    },
+    {
+      "entryId": "1282240",
+      "spelling": "講演",
+      "reading": "こうえん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "講演【こうえん】",
+      "meaning": "discurso"
+    },
+    {
+      "entryId": "1176950",
+      "spelling": "演出",
+      "reading": "えんしゅつ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "演出【えんしゅつ】",
+      "meaning": "dirección artistica; dirección de interpretación; representar; interpretar"
+    },
+    {
+      "entryId": "1338290",
+      "spelling": "出演",
+      "reading": "しゅつえん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "出演【しゅつえん】",
+      "meaning": "actuación; aparición en escena"
+    },
+    {
+      "entryId": "1607520",
+      "spelling": "演奏",
+      "reading": "えんそう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "演奏【えんそう】",
+      "meaning": "tocar (instrumento musical); interpretar o ejecutar una obra musical; interpretación musical; ejecutar; interpretar; tocar"
+    },
+    {
+      "entryId": "1176860",
+      "spelling": "演劇",
+      "reading": "えんげき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "演劇【えんげき】",
+      "meaning": "representación teatral"
+    },
+    {
+      "entryId": "1176820",
+      "spelling": "演技",
+      "reading": "えんぎ",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "演技【えんぎ】",
+      "meaning": "interpretación; ejecución (artistica); representación (teatral); actuación"
+    },
+    {
+      "entryId": "1176930",
+      "spelling": "演習",
+      "reading": "えんしゅう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "演習【えんしゅう】",
+      "meaning": "practica; ejercicio; ensayo; maniobras (militares); seminario"
+    },
+    {
+      "entryId": "1325050",
+      "spelling": "主演",
+      "reading": "しゅえん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "主演【しゅえん】",
+      "meaning": "actuación estelar"
+    },
+    {
+      "entryId": "1352670",
+      "spelling": "上演",
+      "reading": "じょうえん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "上演【じょうえん】",
+      "meaning": "exhibición; presentación; montaje musical o teatral"
+    },
+    {
+      "entryId": "1613620",
+      "spelling": "演出家",
+      "reading": "えんしゅつか",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "演出家【えんしゅつか】",
+      "meaning": "director (artistico); productor"
+    },
+    {
+      "entryId": "1176800",
+      "spelling": "演歌",
+      "reading": "えんか",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "演歌【えんか】",
+      "meaning": "trovador; enka; canción tradicional japonesa"
+    },
+    {
+      "entryId": "1177040",
+      "spelling": "演目",
+      "reading": "えんもく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "演目【えんもく】",
+      "meaning": "programa (título) musical"
+    },
+    {
+      "entryId": "1176850",
+      "spelling": "演芸",
+      "reading": "えんげい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "演芸【えんげい】",
+      "meaning": "artes escenicas"
+    },
+    {
+      "entryId": "1202530",
+      "spelling": "開演",
+      "reading": "かいえん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "開演【かいえん】",
+      "meaning": "comenzar la función; levantando el telón; comienzo (ej. concierto)"
+    },
+    {
+      "entryId": "1177010",
+      "spelling": "演壇",
+      "reading": "えんだん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "演壇【えんだん】",
+      "meaning": "esrado; tribuna"
+    },
+    {
+      "entryId": "1320890",
+      "spelling": "実演",
+      "reading": "じつえん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "実演【じつえん】",
+      "meaning": "exhibición; demostración"
+    },
+    {
+      "entryId": "1176870",
+      "spelling": "演算",
+      "reading": "えんざん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "演算【えんざん】",
+      "meaning": "operación; cuenta; calculo; calcular"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

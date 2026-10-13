@@ -1,0 +1,240 @@
+{
+  "character": "想",
+  "meanings": "concepto, idea, pensamiento",
+  "words": [
+    {
+      "entryId": "1279780",
+      "spelling": "構想",
+      "reading": "こうそう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "構想【こうそう】",
+      "meaning": "concepto (idea; plan)"
+    },
+    {
+      "entryId": "1543130",
+      "spelling": "予想",
+      "reading": "よそう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "予想【よそう】",
+      "meaning": "expectativa; predicción; previsión; pronóstico"
+    },
+    {
+      "entryId": "1589320",
+      "spelling": "想い",
+      "reading": "おもい",
+      "senseNumbers": [
+        21
+      ],
+      "japanese": "想い【おもい】",
+      "meaning": "pensamiento; mente; corazón; sentimientos; amor; afecto; desaire; deseo; esperanza; expectación; imaginación; experiencia; reflexión; idea; sentimiento; aspiración"
+    },
+    {
+      "entryId": "1589350",
+      "spelling": "想う",
+      "reading": "おもう",
+      "senseNumbers": [
+        42
+      ],
+      "japanese": "想う【おもう】",
+      "meaning": "pensar; sentir; creer"
+    },
+    {
+      "entryId": "1309560",
+      "spelling": "思想",
+      "reading": "しそう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "思想【しそう】",
+      "meaning": "pensamiento; idea; ideología"
+    },
+    {
+      "entryId": "1212480",
+      "spelling": "感想",
+      "reading": "かんそう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "感想【かんそう】",
+      "meaning": "impresión; parecer"
+    },
+    {
+      "entryId": "1477660",
+      "spelling": "発想",
+      "reading": "はっそう",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "発想【はっそう】",
+      "meaning": "idea; conceptualización"
+    },
+    {
+      "entryId": "1550020",
+      "spelling": "理想",
+      "reading": "りそう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "理想【りそう】",
+      "meaning": "ideal; sueño"
+    },
+    {
+      "entryId": "1589340",
+      "spelling": "想いで",
+      "reading": "おもいで",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "想いで【おもいで】",
+      "meaning": "recuerdo; memoria; remembranza"
+    },
+    {
+      "entryId": "1589340",
+      "spelling": "想い出",
+      "reading": "おもいで",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "想い出【おもいで】",
+      "meaning": "recuerdo; memoria; remembranza"
+    },
+    {
+      "entryId": "1589340",
+      "spelling": "想出",
+      "reading": "おもいで",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "想出【おもいで】",
+      "meaning": "recuerdo; memoria; remembranza"
+    },
+    {
+      "entryId": "1399610",
+      "spelling": "想像",
+      "reading": "そうぞう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "想像【そうぞう】",
+      "meaning": "imaginar; imaginación; conjetura"
+    },
+    {
+      "entryId": "1262950",
+      "spelling": "幻想",
+      "reading": "げんそう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "幻想【げんそう】",
+      "meaning": "ilusiones"
+    },
+    {
+      "entryId": "1543150",
+      "spelling": "予想外",
+      "reading": "よそうがい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "予想外【よそうがい】",
+      "meaning": "inesperado; imprevisto; extraño"
+    },
+    {
+      "entryId": "1399630",
+      "spelling": "想定",
+      "reading": "そうてい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "想定【そうてい】",
+      "meaning": "simulacro; hipótesis; presunción"
+    },
+    {
+      "entryId": "1550040",
+      "spelling": "理想的",
+      "reading": "りそうてき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "理想的【りそうてき】",
+      "meaning": "ideal; modélico; ejemplar; paradigmático"
+    },
+    {
+      "entryId": "1187740",
+      "spelling": "仮想",
+      "reading": "かそう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "仮想【かそう】",
+      "meaning": "imaginación; suposición; virtualidad; potencialidad"
+    },
+    {
+      "entryId": "1199590",
+      "spelling": "回想",
+      "reading": "かいそう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "回想【かいそう】",
+      "meaning": "reflexión; recuerdo"
+    },
+    {
+      "entryId": "1575660",
+      "spelling": "愛想",
+      "reading": "あいそ",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "愛想【あいそ】",
+      "meaning": "civilidad; cortesía; saludos; sociabilidad; bendiciones (mesa)"
+    },
+    {
+      "entryId": "1575660",
+      "spelling": "愛想",
+      "reading": "あいそう",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "愛想【あいそう】",
+      "meaning": "civilidad; cortesía; saludos; sociabilidad; bendiciones (mesa)"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

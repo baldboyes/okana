@@ -1,0 +1,240 @@
+{
+  "character": "勢",
+  "meanings": "fuerza, poder, influencia, vigor",
+  "words": [
+    {
+      "entryId": "1307740",
+      "spelling": "姿勢",
+      "reading": "しせい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "姿勢【しせい】",
+      "meaning": "postura; posición; actitud"
+    },
+    {
+      "entryId": "1356320",
+      "spelling": "情勢",
+      "reading": "じょうせい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "情勢【じょうせい】",
+      "meaning": "situación; condición; estado actual"
+    },
+    {
+      "entryId": "1356320",
+      "spelling": "状勢",
+      "reading": "じょうせい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "状勢【じょうせい】",
+      "meaning": "situación; condición; estado actual"
+    },
+    {
+      "entryId": "1375150",
+      "spelling": "勢力",
+      "reading": "せいりょく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "勢力【せいりょく】",
+      "meaning": "influencia; poder; fuerza; potencia; energía"
+    },
+    {
+      "entryId": "1375040",
+      "spelling": "勢",
+      "reading": "いきおい",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "勢【いきおい】",
+      "meaning": "ímpetu; fuerza; impulso; vigor"
+    },
+    {
+      "entryId": "1375040",
+      "spelling": "勢い",
+      "reading": "いきおい",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "勢い【いきおい】",
+      "meaning": "ímpetu; fuerza; impulso; vigor"
+    },
+    {
+      "entryId": "1375040",
+      "spelling": "勢い",
+      "reading": "いきよい",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "勢い【いきよい】",
+      "meaning": "ímpetu; fuerza; impulso; vigor"
+    },
+    {
+      "entryId": "1410770",
+      "spelling": "態勢",
+      "reading": "たいせい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "態勢【たいせい】",
+      "meaning": "postura; pose"
+    },
+    {
+      "entryId": "1414220",
+      "spelling": "大勢",
+      "reading": "おおぜい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "大勢【おおぜい】",
+      "meaning": "muchos; numerosos; multitud; muchedumbre; gran cantidad de gente"
+    },
+    {
+      "entryId": "1414220",
+      "spelling": "大勢",
+      "reading": "たいぜい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "大勢【たいぜい】",
+      "meaning": "muchos; numerosos; multitud; muchedumbre; gran cantidad de gente"
+    },
+    {
+      "entryId": "1279240",
+      "spelling": "攻勢",
+      "reading": "こうせい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "攻勢【こうせい】",
+      "meaning": "ataque; agresión; ofensiva"
+    },
+    {
+      "entryId": "1539340",
+      "spelling": "優勢",
+      "reading": "ゆうせい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "優勢【ゆうせい】",
+      "meaning": "superior; predominante"
+    },
+    {
+      "entryId": "1657420",
+      "spelling": "国勢調査",
+      "reading": "こくせいちょうさ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "国勢調査【こくせいちょうさ】",
+      "meaning": "censo (nacional)"
+    },
+    {
+      "entryId": "1250350",
+      "spelling": "形勢",
+      "reading": "けいせい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "形勢【けいせい】",
+      "meaning": "formación; constitución"
+    },
+    {
+      "entryId": "1558480",
+      "spelling": "劣勢",
+      "reading": "れっせい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "劣勢【れっせい】",
+      "meaning": "inferioridad numérica"
+    },
+    {
+      "entryId": "1156300",
+      "spelling": "威勢",
+      "reading": "いせい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "威勢【いせい】",
+      "meaning": "poder; fuerzas; autoridad"
+    },
+    {
+      "entryId": "1599250",
+      "spelling": "動勢",
+      "reading": "どうせい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "動勢【どうせい】",
+      "meaning": "estado; condición; actividad; tendencias"
+    },
+    {
+      "entryId": "1419400",
+      "spelling": "勢む",
+      "reading": "はずむ",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "勢む【はずむ】",
+      "meaning": "rebotar; ser estimulado; estar animado; derrochar"
+    },
+    {
+      "entryId": "1421300",
+      "spelling": "地勢",
+      "reading": "ちせい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "地勢【ちせい】",
+      "meaning": "topografía"
+    },
+    {
+      "entryId": "1258140",
+      "spelling": "権勢",
+      "reading": "けんせい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "権勢【けんせい】",
+      "meaning": "poder; autoridad"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

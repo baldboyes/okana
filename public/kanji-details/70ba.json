@@ -1,0 +1,264 @@
+{
+  "character": "為",
+  "meanings": "hacer, ocurrir, razón, causa",
+  "words": [
+    {
+      "entryId": "1281830",
+      "spelling": "行為",
+      "reading": "こうい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "行為【こうい】",
+      "meaning": "acto; hecho; conducta"
+    },
+    {
+      "entryId": "1157330",
+      "spelling": "為替",
+      "reading": "かわし",
+      "senseNumbers": [
+        10,
+        11
+      ],
+      "japanese": "為替【かわし】",
+      "meaning": "giro postal; cambio; intercambio (ej. extranjero)"
+    },
+    {
+      "entryId": "1157330",
+      "spelling": "為替",
+      "reading": "かわせ",
+      "senseNumbers": [
+        10,
+        11
+      ],
+      "japanese": "為替【かわせ】",
+      "meaning": "giro postal; cambio; intercambio (ej. extranjero)"
+    },
+    {
+      "entryId": "1157080",
+      "spelling": "為",
+      "reading": "ため",
+      "senseNumbers": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "japanese": "為【ため】",
+      "meaning": "bien; beneficio; ventaja; bienestar; por; a fin de; para; a causa de; propósito; objetivo; consecuencia; resultado; efecto; en relación; sobre"
+    },
+    {
+      "entryId": "1157080",
+      "spelling": "為め",
+      "reading": "ため",
+      "senseNumbers": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "japanese": "為め【ため】",
+      "meaning": "bien; beneficio; ventaja; bienestar; por; a fin de; para; a causa de; propósito; objetivo; consecuencia; resultado; efecto; en relación; sobre"
+    },
+    {
+      "entryId": "1305070",
+      "spelling": "為手",
+      "reading": "して",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "為手【して】",
+      "meaning": "protagonista (en noh o kyogen); héroe; parte principal; personaje principal"
+    },
+    {
+      "entryId": "1157390",
+      "spelling": "為替相場",
+      "reading": "かわせそうば",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "為替相場【かわせそうば】",
+      "meaning": "tasa de cambio"
+    },
+    {
+      "entryId": "1366520",
+      "spelling": "人為的",
+      "reading": "じんいてき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "人為的【じんいてき】",
+      "meaning": "artificial"
+    },
+    {
+      "entryId": "1304870",
+      "spelling": "為業",
+      "reading": "しわざ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "為業【しわざ】",
+      "meaning": "acto; acción; proeza"
+    },
+    {
+      "entryId": "1366510",
+      "spelling": "人為",
+      "reading": "じんい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "人為【じんい】",
+      "meaning": "artificio; artificiosidad"
+    },
+    {
+      "entryId": "1305220",
+      "spelling": "為送り",
+      "reading": "しおくり",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "為送り【しおくり】",
+      "meaning": "asignación; mensualidad"
+    },
+    {
+      "entryId": "1375550",
+      "spelling": "為し遂げる",
+      "reading": "なしとげる",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "為し遂げる【なしとげる】",
+      "meaning": "lograr; realizar; acabar; terminar; cumplir; conseguir; alcanzar"
+    },
+    {
+      "entryId": "1375610",
+      "spelling": "為る",
+      "reading": "なる",
+      "senseNumbers": [
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      "japanese": "為る【なる】",
+      "meaning": "convertirse en; llegar a ser; ponerse; hacerse; volverse; obtener; crecer; alcanzar a; lograr; realizar; resultar en; probar ser; consistir de; estar integrado por; tener éxito; completarse; cambiar en; intercambiarse por; jugar un rol; promoverse (shogi)"
+    },
+    {
+      "entryId": "1157090",
+      "spelling": "為さる",
+      "reading": "なさる",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "為さる【なさる】",
+      "meaning": "hacer"
+    },
+    {
+      "entryId": "1157150",
+      "spelling": "為に",
+      "reading": "ために",
+      "senseNumbers": [
+        5,
+        6
+      ],
+      "japanese": "為に【ために】",
+      "meaning": "para; por; para ventaja propia; en favor; en nombre de; a causa de; con el fin de"
+    },
+    {
+      "entryId": "1157170",
+      "spelling": "為る",
+      "reading": "する",
+      "senseNumbers": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ],
+      "japanese": "為る【する】",
+      "meaning": "hacer; intentar; ejecutar; jugar; practicar; costar; servir como; transcurrir; servir; actuar como; trabajar como; ponerse (ropa, una expresión facial, etc.); sentirse (una aroma, ruido, etc.); estar; valer; pasar (tiempo); sufijo verbalizador (aplica a los sustantivos anotados en este diccionario con la parte del habla \"vs\"); crea un verbo humilde (después de un sustantivo con prefijo \"o\" o \"go\"); estar a punto de; tratat de"
+    },
+    {
+      "entryId": "1157220",
+      "spelling": "為過ぎる",
+      "reading": "しすぎる",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "為過ぎる【しすぎる】",
+      "meaning": "hacer demasiado"
+    },
+    {
+      "entryId": "1157310",
+      "spelling": "為続ける",
+      "reading": "しつづける",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "為続ける【しつづける】",
+      "meaning": "continuar a hacer; persistir en hacer"
+    },
+    {
+      "entryId": "1221750",
+      "spelling": "気の所為",
+      "reading": "きのせい",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "気の所為【きのせい】",
+      "meaning": "imaginaciones; malas pasadas que nos juega la imaginación; culpa de la imaginación; cosas de la imaginación; fantasía; visión; alucinación"
+    },
+    {
+      "entryId": "1469350",
+      "spelling": "念の為",
+      "reading": "ねんのため",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "念の為【ねんのため】",
+      "meaning": "por si acaso"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

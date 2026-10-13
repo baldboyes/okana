@@ -1,0 +1,240 @@
+{
+  "character": "益",
+  "meanings": "beneficio, ganancia, ventaja, provecho",
+  "words": [
+    {
+      "entryId": "1549470",
+      "spelling": "利益",
+      "reading": "りえき",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "利益【りえき】",
+      "meaning": "beneficio; ganancias"
+    },
+    {
+      "entryId": "1549470",
+      "spelling": "利益",
+      "reading": "りやく",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "利益【りやく】",
+      "meaning": "beneficio; ganancias"
+    },
+    {
+      "entryId": "1330500",
+      "spelling": "収益",
+      "reading": "しゅうえき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "収益【しゅうえき】",
+      "meaning": "ganancias; dividendos"
+    },
+    {
+      "entryId": "1291360",
+      "spelling": "差益",
+      "reading": "さえき",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "差益【さえき】",
+      "meaning": "beneficios marginales"
+    },
+    {
+      "entryId": "1286150",
+      "spelling": "国益",
+      "reading": "こくえき",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "国益【こくえき】",
+      "meaning": "interés nacional"
+    },
+    {
+      "entryId": "1273220",
+      "spelling": "公益",
+      "reading": "こうえき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "公益【こうえき】",
+      "meaning": "interés público; utilidad pública"
+    },
+    {
+      "entryId": "1576560",
+      "spelling": "益",
+      "reading": "えき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "益【えき】",
+      "meaning": "ganancia; beneficio; provecho; interés; utilidad"
+    },
+    {
+      "entryId": "1576560",
+      "spelling": "益",
+      "reading": "やく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "益【やく】",
+      "meaning": "ganancia; beneficio; provecho; interés; utilidad"
+    },
+    {
+      "entryId": "1576560",
+      "spelling": "益",
+      "reading": "よう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "益【よう】",
+      "meaning": "ganancia; beneficio; provecho; interés; utilidad"
+    },
+    {
+      "entryId": "1273250",
+      "spelling": "公益法人",
+      "reading": "こうえきほうじん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "公益法人【こうえきほうじん】",
+      "meaning": "entidad sin ánimo de lucro; asociación sin ánimo de lucro"
+    },
+    {
+      "entryId": "1406700",
+      "spelling": "損益",
+      "reading": "そんえき",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "損益【そんえき】",
+      "meaning": "pérdidas y ganancias; interés económico"
+    },
+    {
+      "entryId": "1541120",
+      "spelling": "有益",
+      "reading": "ゆうえき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "有益【ゆうえき】",
+      "meaning": "útil; conveniente; provechoso; favorable"
+    },
+    {
+      "entryId": "1341860",
+      "spelling": "純益",
+      "reading": "じゅんえき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "純益【じゅんえき】",
+      "meaning": "rendimiento neto; beneficio neto"
+    },
+    {
+      "entryId": "1697740",
+      "spelling": "受益",
+      "reading": "じゅえき",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "受益【じゅえき】",
+      "meaning": "obtención de beneficio"
+    },
+    {
+      "entryId": "1495230",
+      "spelling": "不利益",
+      "reading": "ふりえき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "不利益【ふりえき】",
+      "meaning": "desventaja"
+    },
+    {
+      "entryId": "1529650",
+      "spelling": "無益",
+      "reading": "むえき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "無益【むえき】",
+      "meaning": "en vano; inútil"
+    },
+    {
+      "entryId": "1403120",
+      "spelling": "益す",
+      "reading": "ます",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "益す【ます】",
+      "meaning": "incrementar; aumentar; sumar; añadir; multiplicar; crecer; incrementarse; acrecentar"
+    },
+    {
+      "entryId": "1603950",
+      "spelling": "益",
+      "reading": "ますます",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "益【ますます】",
+      "meaning": "cada vez más; más y más"
+    },
+    {
+      "entryId": "1603950",
+      "spelling": "益々",
+      "reading": "ますます",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "益々【ますます】",
+      "meaning": "cada vez más; más y más"
+    },
+    {
+      "entryId": "1603950",
+      "spelling": "益益",
+      "reading": "ますます",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "益益【ますます】",
+      "meaning": "cada vez más; más y más"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

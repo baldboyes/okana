@@ -1,0 +1,240 @@
+{
+  "character": "量",
+  "meanings": "cantidad, medida, medir, pesar, sondear",
+  "words": [
+    {
+      "entryId": "1415190",
+      "spelling": "大量",
+      "reading": "たいりょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "大量【たいりょう】",
+      "meaning": "gran cantidad"
+    },
+    {
+      "entryId": "1336900",
+      "spelling": "重量",
+      "reading": "じゅうりょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "重量【じゅうりょう】",
+      "meaning": "masa; peso"
+    },
+    {
+      "entryId": "1373320",
+      "spelling": "数量",
+      "reading": "すうりょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "数量【すうりょう】",
+      "meaning": "cantidad; monto"
+    },
+    {
+      "entryId": "1401850",
+      "spelling": "総量",
+      "reading": "そうりょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "総量【そうりょう】",
+      "meaning": "importe total"
+    },
+    {
+      "entryId": "1252920",
+      "spelling": "軽量",
+      "reading": "けいりょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "軽量【けいりょう】",
+      "meaning": "peso ligero"
+    },
+    {
+      "entryId": "1545450",
+      "spelling": "容量",
+      "reading": "ようりょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "容量【ようりょう】",
+      "meaning": "capacidad; volumen"
+    },
+    {
+      "entryId": "1555260",
+      "spelling": "力量",
+      "reading": "りきりょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "力量【りきりょう】",
+      "meaning": "aptitud; fuerza física; capacidad; tacto"
+    },
+    {
+      "entryId": "1408170",
+      "spelling": "多量",
+      "reading": "たりょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "多量【たりょう】",
+      "meaning": "gran cantidad"
+    },
+    {
+      "entryId": "1595030",
+      "spelling": "小量",
+      "reading": "しょうりょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "小量【しょうりょう】",
+      "meaning": "cantidad pequeña; poco"
+    },
+    {
+      "entryId": "1595030",
+      "spelling": "少量",
+      "reading": "しょうりょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "少量【しょうりょう】",
+      "meaning": "cantidad pequeña; poco"
+    },
+    {
+      "entryId": "1404590",
+      "spelling": "測量",
+      "reading": "そくりょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "測量【そくりょう】",
+      "meaning": "sondeo; medición"
+    },
+    {
+      "entryId": "1172140",
+      "spelling": "雨量",
+      "reading": "うりょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "雨量【うりょう】",
+      "meaning": "precipitaciones"
+    },
+    {
+      "entryId": "1554660",
+      "spelling": "量産",
+      "reading": "りょうさん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "量産【りょうさん】",
+      "meaning": "producción en masa"
+    },
+    {
+      "entryId": "1320790",
+      "spelling": "質・量",
+      "reading": "しつりょう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "質・量【しつりょう】",
+      "meaning": "masa"
+    },
+    {
+      "entryId": "1320790",
+      "spelling": "質量",
+      "reading": "しつりょう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "質量【しつりょう】",
+      "meaning": "masa"
+    },
+    {
+      "entryId": "1644830",
+      "spelling": "量刑",
+      "reading": "りょうけい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "量刑【りょうけい】",
+      "meaning": "fijación de la pena; determinación de la pena; gradación de la pena"
+    },
+    {
+      "entryId": "1658080",
+      "spelling": "産量",
+      "reading": "さんりょう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "産量【さんりょう】",
+      "meaning": "salida (de algo)"
+    },
+    {
+      "entryId": "1672570",
+      "spelling": "無重量",
+      "reading": "むじゅうりょう",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "無重量【むじゅうりょう】",
+      "meaning": "ingravidez; gravedad cero"
+    },
+    {
+      "entryId": "1252080",
+      "spelling": "量りしれない",
+      "reading": "はかりしれない",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "量りしれない【はかりしれない】",
+      "meaning": "insondable; inestimable; inmensurable; inconmensurable; impenetrable; inescrutable"
+    },
+    {
+      "entryId": "1252080",
+      "spelling": "量り知れない",
+      "reading": "はかりしれない",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "量り知れない【はかりしれない】",
+      "meaning": "insondable; inestimable; inmensurable; inconmensurable; impenetrable; inescrutable"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

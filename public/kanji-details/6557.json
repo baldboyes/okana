@@ -1,0 +1,150 @@
+{
+  "character": "敗",
+  "meanings": "fallo, derrota, fracaso, ser derrotado, ser vencido, fracasar",
+  "words": [
+    {
+      "entryId": "1497870",
+      "spelling": "腐敗",
+      "reading": "ふはい",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "腐敗【ふはい】",
+      "meaning": "decadencia; depravación"
+    },
+    {
+      "entryId": "1320140",
+      "spelling": "失敗",
+      "reading": "しっぱい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "失敗【しっぱい】",
+      "meaning": "fallo; fracaso; error; metedura de pata"
+    },
+    {
+      "entryId": "1472560",
+      "spelling": "敗戦",
+      "reading": "はいせん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "敗戦【はいせん】",
+      "meaning": "derrota"
+    },
+    {
+      "entryId": "1472610",
+      "spelling": "敗北",
+      "reading": "はいぼく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "敗北【はいぼく】",
+      "meaning": "derrota"
+    },
+    {
+      "entryId": "1346220",
+      "spelling": "勝敗",
+      "reading": "しょうはい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "勝敗【しょうはい】",
+      "meaning": "victoria o derrota; asunto (de batalla)"
+    },
+    {
+      "entryId": "1165660",
+      "spelling": "一敗",
+      "reading": "いっぱい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "一敗【いっぱい】",
+      "meaning": "una derrota"
+    },
+    {
+      "entryId": "1211550",
+      "spelling": "完敗",
+      "reading": "かんぱい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "完敗【かんぱい】",
+      "meaning": "derrota completa"
+    },
+    {
+      "entryId": "1497980",
+      "spelling": "敗ける",
+      "reading": "まける",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "敗ける【まける】",
+      "meaning": "perder; ser derrotado"
+    },
+    {
+      "entryId": "1497980",
+      "spelling": "敗北る",
+      "reading": "まける",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "敗北る【まける】",
+      "meaning": "perder; ser derrotado"
+    },
+    {
+      "entryId": "1472510",
+      "spelling": "敗れる",
+      "reading": "やぶれる",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "敗れる【やぶれる】",
+      "meaning": "ser derrotado; ser un fracasado"
+    },
+    {
+      "entryId": "1802030",
+      "spelling": "戦敗",
+      "reading": "せんぱい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "戦敗【せんぱい】",
+      "meaning": "derrotado en la guerra"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

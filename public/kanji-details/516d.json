@@ -1,0 +1,233 @@
+{
+  "character": "六",
+  "meanings": "seis, 6",
+  "words": [
+    {
+      "entryId": "1561330",
+      "spelling": "六月",
+      "reading": "ろくがつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "六月【ろくがつ】",
+      "meaning": "junio; Junio"
+    },
+    {
+      "entryId": "1585310",
+      "spelling": "六",
+      "reading": "む",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "六【む】",
+      "meaning": "seis"
+    },
+    {
+      "entryId": "1585310",
+      "spelling": "六",
+      "reading": "むう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "六【むう】",
+      "meaning": "seis"
+    },
+    {
+      "entryId": "1585310",
+      "spelling": "六",
+      "reading": "ろく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "六【ろく】",
+      "meaning": "seis"
+    },
+    {
+      "entryId": "1824040",
+      "spelling": "六〇",
+      "reading": "ろくじゅう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "六〇【ろくじゅう】",
+      "meaning": "sesenta"
+    },
+    {
+      "entryId": "1824040",
+      "spelling": "六十",
+      "reading": "ろくじゅう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "六十【ろくじゅう】",
+      "meaning": "sesenta"
+    },
+    {
+      "entryId": "1824040",
+      "spelling": "六十",
+      "reading": "むそ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "六十【むそ】",
+      "meaning": "sesenta"
+    },
+    {
+      "entryId": "1460850",
+      "spelling": "六かしい",
+      "reading": "むずかしい",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "六かしい【むずかしい】",
+      "meaning": "difícil; complicado"
+    },
+    {
+      "entryId": "1460850",
+      "spelling": "六ヶ敷い",
+      "reading": "むずかしい",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "六ヶ敷い【むずかしい】",
+      "meaning": "difícil; complicado"
+    },
+    {
+      "entryId": "1460850",
+      "spelling": "六借しい",
+      "reading": "むずかしい",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "六借しい【むずかしい】",
+      "meaning": "difícil; complicado"
+    },
+    {
+      "entryId": "1335180",
+      "spelling": "一六",
+      "reading": "じゅうろく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "一六【じゅうろく】",
+      "meaning": "dieciséis"
+    },
+    {
+      "entryId": "1335180",
+      "spelling": "十六",
+      "reading": "じゅうろく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "十六【じゅうろく】",
+      "meaning": "dieciséis"
+    },
+    {
+      "entryId": "1561470",
+      "spelling": "六日",
+      "reading": "むいか",
+      "senseNumbers": [
+        10,
+        11
+      ],
+      "japanese": "六日【むいか】",
+      "meaning": "sexto día del mes; seis días"
+    },
+    {
+      "entryId": "1561470",
+      "spelling": "六日",
+      "reading": "むゆか",
+      "senseNumbers": [
+        10,
+        11
+      ],
+      "japanese": "六日【むゆか】",
+      "meaning": "sexto día del mes; seis días"
+    },
+    {
+      "entryId": "1561470",
+      "spelling": "六日",
+      "reading": "むよか",
+      "senseNumbers": [
+        10,
+        11
+      ],
+      "japanese": "六日【むよか】",
+      "meaning": "sexto día del mes; seis días"
+    },
+    {
+      "entryId": "1585315",
+      "spelling": "六つ",
+      "reading": "むっつ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "六つ【むっつ】",
+      "meaning": "6; seis"
+    },
+    {
+      "entryId": "1585315",
+      "spelling": "六つ",
+      "reading": "むつ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "六つ【むつ】",
+      "meaning": "6; seis"
+    },
+    {
+      "entryId": "2737790",
+      "spelling": "一六日",
+      "reading": "じゅうろくにち",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "一六日【じゅうろくにち】",
+      "meaning": "día dieciséis; dieciséis días"
+    },
+    {
+      "entryId": "2737790",
+      "spelling": "十六日",
+      "reading": "じゅうろくにち",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "十六日【じゅうろくにち】",
+      "meaning": "día dieciséis; dieciséis días"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "character": "査",
+  "meanings": "investigar, examinar, inspeccionar",
+  "words": [
+    {
+      "entryId": "1399660",
+      "spelling": "捜査",
+      "reading": "そうさ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "捜査【そうさ】",
+      "meaning": "investigación"
+    },
+    {
+      "entryId": "1429120",
+      "spelling": "調査",
+      "reading": "ちょうさ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "調査【ちょうさ】",
+      "meaning": "investigación; encuesta"
+    },
+    {
+      "entryId": "1257890",
+      "spelling": "検査",
+      "reading": "けんさ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "検査【けんさ】",
+      "meaning": "inspección (examinación; chequeo); examinación de ~"
+    },
+    {
+      "entryId": "1291430",
+      "spelling": "査察",
+      "reading": "ささつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "査察【ささつ】",
+      "meaning": "inspección"
+    },
+    {
+      "entryId": "1360380",
+      "spelling": "審査",
+      "reading": "しんさ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "審査【しんさ】",
+      "meaning": "inspección; chequeo; juicio; selección"
+    },
+    {
+      "entryId": "1342110",
+      "spelling": "巡査",
+      "reading": "じゅんさ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "巡査【じゅんさ】",
+      "meaning": "policía"
+    },
+    {
+      "entryId": "1590860",
+      "spelling": "監査",
+      "reading": "かんさ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "監査【かんさ】",
+      "meaning": "inspección; auditoría; sentencia"
+    },
+    {
+      "entryId": "1590860",
+      "spelling": "鑑査",
+      "reading": "かんさ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "鑑査【かんさ】",
+      "meaning": "inspección; auditoría; sentencia"
+    },
+    {
+      "entryId": "1291440",
+      "spelling": "査証",
+      "reading": "さしょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "査証【さしょう】",
+      "meaning": "visado; (am) visa"
+    },
+    {
+      "entryId": "1657420",
+      "spelling": "国勢調査",
+      "reading": "こくせいちょうさ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "国勢調査【こくせいちょうさ】",
+      "meaning": "censo (nacional)"
+    },
+    {
+      "entryId": "1308440",
+      "spelling": "市場調査",
+      "reading": "しじょうちょうさ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "市場調査【しじょうちょうさ】",
+      "meaning": "investigación de mercados"
+    },
+    {
+      "entryId": "2134050",
+      "spelling": "捜査官",
+      "reading": "そうさかん",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "捜査官【そうさかん】",
+      "meaning": "investigador"
+    },
+    {
+      "entryId": "2144260",
+      "spelling": "意識調査",
+      "reading": "いしきちょうさ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "意識調査【いしきちょうさ】",
+      "meaning": "encuesta o sondeo de opinión; estudio de actitud"
+    },
+    {
+      "entryId": "1291470",
+      "spelling": "査問",
+      "reading": "さもん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "査問【さもん】",
+      "meaning": "indagación; investigación"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

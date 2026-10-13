@@ -1,0 +1,240 @@
+{
+  "character": "運",
+  "meanings": "suerte, destino, transportar",
+  "words": [
+    {
+      "entryId": "1172910",
+      "spelling": "運動",
+      "reading": "うんどう",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "運動【うんどう】",
+      "meaning": "ejercicio; movimiento"
+    },
+    {
+      "entryId": "1172690",
+      "spelling": "運営",
+      "reading": "うんえい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "運営【うんえい】",
+      "meaning": "administración; supervisión; conducción"
+    },
+    {
+      "entryId": "1172830",
+      "spelling": "運転",
+      "reading": "うんてん",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "運転【うんてん】",
+      "meaning": "operación; movimiento; conducir"
+    },
+    {
+      "entryId": "1173050",
+      "spelling": "運輸",
+      "reading": "うんゆ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "運輸【うんゆ】",
+      "meaning": "transporte"
+    },
+    {
+      "entryId": "1173090",
+      "spelling": "運用",
+      "reading": "うんよう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "運用【うんよう】",
+      "meaning": "haciendo uso de; aplicación; inversión; uso práctico"
+    },
+    {
+      "entryId": "1173060",
+      "spelling": "運輸省",
+      "reading": "うんゆしょう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "運輸省【うんゆしょう】",
+      "meaning": "Ministerio de Transporte"
+    },
+    {
+      "entryId": "1172870",
+      "spelling": "運転手",
+      "reading": "うんてんしゅ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "運転手【うんてんしゅ】",
+      "meaning": "chofer; conductor"
+    },
+    {
+      "entryId": "1172660",
+      "spelling": "運ぶ",
+      "reading": "はこぶ",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "運ぶ【はこぶ】",
+      "meaning": "transportar"
+    },
+    {
+      "entryId": "1172820",
+      "spelling": "運賃",
+      "reading": "うんちん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "運賃【うんちん】",
+      "meaning": "tarifa; pasaje"
+    },
+    {
+      "entryId": "1173030",
+      "spelling": "運命",
+      "reading": "うんめい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "運命【うんめい】",
+      "meaning": "destino"
+    },
+    {
+      "entryId": "1173030",
+      "spelling": "運命",
+      "reading": "さだめ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "運命【さだめ】",
+      "meaning": "destino"
+    },
+    {
+      "entryId": "1220770",
+      "spelling": "機運",
+      "reading": "きうん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "機運【きうん】",
+      "meaning": "oportunidad"
+    },
+    {
+      "entryId": "1588620",
+      "spelling": "運送",
+      "reading": "うんそう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "運送【うんそう】",
+      "meaning": "flete; carga; envío; transporte; remesa"
+    },
+    {
+      "entryId": "1172610",
+      "spelling": "運",
+      "reading": "うん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "運【うん】",
+      "meaning": "suerte (buena o mala fortuna)"
+    },
+    {
+      "entryId": "1172740",
+      "spelling": "運航",
+      "reading": "うんこう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "運航【うんこう】",
+      "meaning": "ruta naval; itinerario naval; navegación (marítima o aérea)"
+    },
+    {
+      "entryId": "1173010",
+      "spelling": "運搬",
+      "reading": "うんぱん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "運搬【うんぱん】",
+      "meaning": "transporte de carga"
+    },
+    {
+      "entryId": "1172750",
+      "spelling": "運行",
+      "reading": "うんこう",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "運行【うんこう】",
+      "meaning": "rotación; giro; revolución"
+    },
+    {
+      "entryId": "1201230",
+      "spelling": "海運",
+      "reading": "かいうん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "海運【かいうん】",
+      "meaning": "transporte maritimo"
+    },
+    {
+      "entryId": "1172710",
+      "spelling": "運河",
+      "reading": "うんが",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "運河【うんが】",
+      "meaning": "canal; vía fluvial"
+    },
+    {
+      "entryId": "1172940",
+      "spelling": "運動会",
+      "reading": "うんどうかい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "運動会【うんどうかい】",
+      "meaning": "encuentro atlético"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

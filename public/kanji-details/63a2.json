@@ -1,0 +1,120 @@
+{
+  "character": "探",
+  "meanings": "explorar, indagar, buscar, sondear",
+  "words": [
+    {
+      "entryId": "1597250",
+      "spelling": "探検",
+      "reading": "たんけん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "探検【たんけん】",
+      "meaning": "exploración; expedición; explorar"
+    },
+    {
+      "entryId": "1597250",
+      "spelling": "探険",
+      "reading": "たんけん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "探険【たんけん】",
+      "meaning": "exploración; expedición; explorar"
+    },
+    {
+      "entryId": "1593670",
+      "spelling": "探す",
+      "reading": "さがす",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "探す【さがす】",
+      "meaning": "buscar (e.g. algo perdido, algo anhelado, algo necesario, al sospechoso de un crimen); buscar (algo perdido; anhelado o sospechoso de un crimen)"
+    },
+    {
+      "entryId": "1418380",
+      "spelling": "探偵",
+      "reading": "たんてい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "探偵【たんてい】",
+      "meaning": "detective; investigador"
+    },
+    {
+      "entryId": "1328100",
+      "spelling": "手探り",
+      "reading": "てさぐり",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "手探り【てさぐり】",
+      "meaning": "(a) tientas; tanteo; exploración"
+    },
+    {
+      "entryId": "1418270",
+      "spelling": "探求",
+      "reading": "たんきゅう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "探求【たんきゅう】",
+      "meaning": "misión; empresa"
+    },
+    {
+      "entryId": "1418290",
+      "spelling": "探究",
+      "reading": "たんきゅう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "探究【たんきゅう】",
+      "meaning": "investigación"
+    },
+    {
+      "entryId": "1418260",
+      "spelling": "探る",
+      "reading": "さぐる",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "探る【さぐる】",
+      "meaning": "buscar; examinar; explorar; investigar; palpar"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

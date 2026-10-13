@@ -1,0 +1,240 @@
+{
+  "character": "芸",
+  "meanings": "arte, técnica",
+  "words": [
+    {
+      "entryId": "1253060",
+      "spelling": "芸術",
+      "reading": "げいじゅつ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "芸術【げいじゅつ】",
+      "meaning": "(fine) arte; las artes"
+    },
+    {
+      "entryId": "1253130",
+      "spelling": "芸能",
+      "reading": "げいのう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "芸能【げいのう】",
+      "meaning": "entretenimiento público; habilidades; logros"
+    },
+    {
+      "entryId": "1956190",
+      "spelling": "芸",
+      "reading": "げい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "芸【げい】",
+      "meaning": "arte; talento; oficio"
+    },
+    {
+      "entryId": "1505290",
+      "spelling": "文芸",
+      "reading": "ぶんげい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "文芸【ぶんげい】",
+      "meaning": "literatura; arte literario"
+    },
+    {
+      "entryId": "1278090",
+      "spelling": "工芸",
+      "reading": "こうげい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "工芸【こうげい】",
+      "meaning": "arte manual; arte industrial"
+    },
+    {
+      "entryId": "1253070",
+      "spelling": "芸術家",
+      "reading": "げいじゅつか",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "芸術家【げいじゅつか】",
+      "meaning": "artista"
+    },
+    {
+      "entryId": "1450620",
+      "spelling": "陶芸",
+      "reading": "とうげい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "陶芸【とうげい】",
+      "meaning": "arte de la cerámica; alfarería"
+    },
+    {
+      "entryId": "1176260",
+      "spelling": "園芸",
+      "reading": "えんげい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "園芸【えんげい】",
+      "meaning": "jardinería; horticultura"
+    },
+    {
+      "entryId": "1629210",
+      "spelling": "安芸",
+      "reading": "あき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "安芸【あき】",
+      "meaning": "antiguo nombre de la prefectura de Hiroshima"
+    },
+    {
+      "entryId": "1176850",
+      "spelling": "演芸",
+      "reading": "えんげい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "演芸【えんげい】",
+      "meaning": "artes escenicas"
+    },
+    {
+      "entryId": "1528680",
+      "spelling": "民芸",
+      "reading": "みんげい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "民芸【みんげい】",
+      "meaning": "artesanía tradicional"
+    },
+    {
+      "entryId": "1253050",
+      "spelling": "芸者",
+      "reading": "げいしゃ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "芸者【げいしゃ】",
+      "meaning": "geisha; mujer experta en canto y danza"
+    },
+    {
+      "entryId": "1253170",
+      "spelling": "芸名",
+      "reading": "げいめい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "芸名【げいめい】",
+      "meaning": "nombre artístico"
+    },
+    {
+      "entryId": "1253150",
+      "spelling": "芸能人",
+      "reading": "げいのうじん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "芸能人【げいのうじん】",
+      "meaning": "artista; actor"
+    },
+    {
+      "entryId": "1162080",
+      "spelling": "一芸",
+      "reading": "いちげい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "一芸【いちげい】",
+      "meaning": "un arte; un talento"
+    },
+    {
+      "entryId": "1327540",
+      "spelling": "手芸",
+      "reading": "しゅげい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "手芸【しゅげい】",
+      "meaning": "artesanias manuales"
+    },
+    {
+      "entryId": "1761140",
+      "spelling": "学芸会",
+      "reading": "がくげいかい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "学芸会【がくげいかい】",
+      "meaning": "festival escolar infantil"
+    },
+    {
+      "entryId": "1843020",
+      "spelling": "芸奴",
+      "reading": "げいぎ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "芸奴【げいぎ】",
+      "meaning": "geisha"
+    },
+    {
+      "entryId": "1843020",
+      "spelling": "芸妓",
+      "reading": "げいぎ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "芸妓【げいぎ】",
+      "meaning": "geisha"
+    },
+    {
+      "entryId": "1843020",
+      "spelling": "芸妓",
+      "reading": "げいこ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "芸妓【げいこ】",
+      "meaning": "geisha"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

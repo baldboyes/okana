@@ -1,0 +1,200 @@
+{
+  "character": "犯",
+  "meanings": "crimen, delito, ofensa, cometer, perpetrar un delito, violar",
+  "words": [
+    {
+      "entryId": "1481590",
+      "spelling": "犯罪",
+      "reading": "はんざい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "犯罪【はんざい】",
+      "meaning": "crimen"
+    },
+    {
+      "entryId": "1481570",
+      "spelling": "犯行",
+      "reading": "はんこう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "犯行【はんこう】",
+      "meaning": "delito; crimen"
+    },
+    {
+      "entryId": "1481630",
+      "spelling": "犯人",
+      "reading": "はんにん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "犯人【はんにん】",
+      "meaning": "delincuente; criminal"
+    },
+    {
+      "entryId": "1630950",
+      "spelling": "現行犯",
+      "reading": "げんこうはん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "現行犯【げんこうはん】",
+      "meaning": "delito flagrante"
+    },
+    {
+      "entryId": "1520570",
+      "spelling": "防犯",
+      "reading": "ぼうはん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "防犯【ぼうはん】",
+      "meaning": "prevención de la delincuencia"
+    },
+    {
+      "entryId": "1480650",
+      "spelling": "犯則",
+      "reading": "はんそく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "犯則【はんそく】",
+      "meaning": "falta; violación"
+    },
+    {
+      "entryId": "1235110",
+      "spelling": "共犯",
+      "reading": "きょうはん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "共犯【きょうはん】",
+      "meaning": "complicidad"
+    },
+    {
+      "entryId": "1390540",
+      "spelling": "戦犯",
+      "reading": "せんぱん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "戦犯【せんぱん】",
+      "meaning": "criminal de guerra"
+    },
+    {
+      "entryId": "1359880",
+      "spelling": "侵犯",
+      "reading": "しんぱん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "侵犯【しんぱん】",
+      "meaning": "invasión"
+    },
+    {
+      "entryId": "1481550",
+      "spelling": "犯す",
+      "reading": "おかす",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "犯す【おかす】",
+      "meaning": "cometer; perpetrar; violar"
+    },
+    {
+      "entryId": "1481610",
+      "spelling": "犯罪者",
+      "reading": "はんざいしゃ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "犯罪者【はんざいしゃ】",
+      "meaning": "criminal; delincuente"
+    },
+    {
+      "entryId": "2144670",
+      "spelling": "防犯カメラ",
+      "reading": "ぼうはんカメラ",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "防犯カメラ【ぼうはんカメラ】",
+      "meaning": "cámara de seguridad"
+    },
+    {
+      "entryId": "1481560",
+      "spelling": "犯意",
+      "reading": "はんい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "犯意【はんい】",
+      "meaning": "dolo (intencionalidad penal); intención o propósito criminal"
+    },
+    {
+      "entryId": "1252840",
+      "spelling": "軽犯罪",
+      "reading": "けいはんざい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "軽犯罪【けいはんざい】",
+      "meaning": "falta (por oposición a delito)"
+    },
+    {
+      "entryId": "1801780",
+      "spelling": "戦争犯罪人",
+      "reading": "せんそうはんざいにん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "戦争犯罪人【せんそうはんざいにん】",
+      "meaning": "criminal de guerra"
+    },
+    {
+      "entryId": "1293450",
+      "spelling": "再犯",
+      "reading": "さいはん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "再犯【さいはん】",
+      "meaning": "reincidencia"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

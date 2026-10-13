@@ -1,0 +1,241 @@
+{
+  "character": "数",
+  "meanings": "número, cifra, contar",
+  "words": [
+    {
+      "entryId": "1373060",
+      "spelling": "数字",
+      "reading": "すうじ",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "数字【すうじ】",
+      "meaning": "cifra"
+    },
+    {
+      "entryId": "1407860",
+      "spelling": "多数",
+      "reading": "たすう",
+      "senseNumbers": [
+        11,
+        12
+      ],
+      "japanese": "多数【たすう】",
+      "meaning": "gran número; incontable; mayoría"
+    },
+    {
+      "entryId": "1580820",
+      "spelling": "数",
+      "reading": "かず",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "数【かず】",
+      "meaning": "número; cifra"
+    },
+    {
+      "entryId": "1349070",
+      "spelling": "少数",
+      "reading": "しょうすう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "少数【しょうすう】",
+      "meaning": "minoría"
+    },
+    {
+      "entryId": "1501400",
+      "spelling": "復数",
+      "reading": "ふくすう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "復数【ふくすう】",
+      "meaning": "plural"
+    },
+    {
+      "entryId": "1501400",
+      "spelling": "複数",
+      "reading": "ふくすう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "複数【ふくすう】",
+      "meaning": "plural"
+    },
+    {
+      "entryId": "1196380",
+      "spelling": "過半数",
+      "reading": "かはんすう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "過半数【かはんすう】",
+      "meaning": "mayoría"
+    },
+    {
+      "entryId": "1479530",
+      "spelling": "半数",
+      "reading": "はんすう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "半数【はんすう】",
+      "meaning": "mitad de cierta cantidad"
+    },
+    {
+      "entryId": "1199510",
+      "spelling": "回数",
+      "reading": "かいすう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "回数【かいすう】",
+      "meaning": "frecuencia"
+    },
+    {
+      "entryId": "1373160",
+      "spelling": "数値",
+      "reading": "すうち",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "数値【すうち】",
+      "meaning": "valor numérico; medida; estadísticas"
+    },
+    {
+      "entryId": "1309860",
+      "spelling": "指数",
+      "reading": "しすう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "指数【しすう】",
+      "meaning": "indicador; índice"
+    },
+    {
+      "entryId": "1401660",
+      "spelling": "総数",
+      "reading": "そうすう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "総数【そうすう】",
+      "meaning": "conteo"
+    },
+    {
+      "entryId": "1580700",
+      "spelling": "人数",
+      "reading": "にんじゅ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "人数【にんじゅ】",
+      "meaning": "número de personas"
+    },
+    {
+      "entryId": "1580700",
+      "spelling": "人数",
+      "reading": "にんず",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "人数【にんず】",
+      "meaning": "número de personas"
+    },
+    {
+      "entryId": "1580700",
+      "spelling": "人数",
+      "reading": "にんずう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "人数【にんずう】",
+      "meaning": "número de personas"
+    },
+    {
+      "entryId": "1255950",
+      "spelling": "件数",
+      "reading": "けんすう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "件数【けんすう】",
+      "meaning": "número de casos; número de asuntos"
+    },
+    {
+      "entryId": "1373320",
+      "spelling": "数量",
+      "reading": "すうりょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "数量【すうりょう】",
+      "meaning": "cantidad; monto"
+    },
+    {
+      "entryId": "1590300",
+      "spelling": "数々",
+      "reading": "かずかず",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "数々【かずかず】",
+      "meaning": "muchos"
+    },
+    {
+      "entryId": "1590300",
+      "spelling": "数数",
+      "reading": "かずかず",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "数数【かずかず】",
+      "meaning": "muchos"
+    },
+    {
+      "entryId": "1373200",
+      "spelling": "数日",
+      "reading": "すうじつ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "数日【すうじつ】",
+      "meaning": "pocos días"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "character": "寿",
+  "meanings": "longevidad, felicitaciones",
+  "words": [
+    {
+      "entryId": "1330170",
+      "spelling": "寿",
+      "reading": "ことぶき",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "寿【ことぶき】",
+      "meaning": "parabién; congratulación; felicitación de palabra; larga vida"
+    },
+    {
+      "entryId": "1430020",
+      "spelling": "長寿",
+      "reading": "ちょうじゅ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "長寿【ちょうじゅ】",
+      "meaning": "longevidad (larga vida)"
+    },
+    {
+      "entryId": "1330240",
+      "spelling": "寿命",
+      "reading": "じゅみょう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "寿命【じゅみょう】",
+      "meaning": "longevidad; vida; uso; utilidad"
+    },
+    {
+      "entryId": "1595650",
+      "spelling": "寿し",
+      "reading": "すし",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "寿し【すし】",
+      "meaning": "sushi; cualquier cosa con arroz en vinagre (que también lleva vegetales, especias, pescado, etc); \"sushi\": arroz avinagrado con pescado crudo"
+    },
+    {
+      "entryId": "1595650",
+      "spelling": "寿司",
+      "reading": "すし",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "寿司【すし】",
+      "meaning": "sushi; cualquier cosa con arroz en vinagre (que también lleva vegetales, especias, pescado, etc); \"sushi\": arroz avinagrado con pescado crudo"
+    },
+    {
+      "entryId": "1152680",
+      "spelling": "にぎり寿司",
+      "reading": "にぎりずし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "にぎり寿司【にぎりずし】",
+      "meaning": "(food) shushi enrollado a mano; bola de sushi; (comida) sushi enrollado a mano"
+    },
+    {
+      "entryId": "1152680",
+      "spelling": "握り寿司",
+      "reading": "にぎりずし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "握り寿司【にぎりずし】",
+      "meaning": "(food) shushi enrollado a mano; bola de sushi; (comida) sushi enrollado a mano"
+    },
+    {
+      "entryId": "1152680",
+      "spelling": "握寿司",
+      "reading": "にぎりずし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "握寿司【にぎりずし】",
+      "meaning": "(food) shushi enrollado a mano; bola de sushi; (comida) sushi enrollado a mano"
+    },
+    {
+      "entryId": "1474440",
+      "spelling": "寿喜焼",
+      "reading": "すきやき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "寿喜焼【すきやき】",
+      "meaning": "sukiyaki; \"sukiyaki\": guiso tradicional a base de carne y verduras"
+    },
+    {
+      "entryId": "1218840",
+      "spelling": "㐂寿",
+      "reading": "きじゅ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "㐂寿【きじゅ】",
+      "meaning": "septuagésimo séptimo cumpleaños (77 años)"
+    },
+    {
+      "entryId": "1218840",
+      "spelling": "喜寿",
+      "reading": "きじゅ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "喜寿【きじゅ】",
+      "meaning": "septuagésimo séptimo cumpleaños (77 años)"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

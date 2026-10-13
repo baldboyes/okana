@@ -1,0 +1,240 @@
+{
+  "character": "政",
+  "meanings": "política, gobierno, reglas",
+  "words": [
+    {
+      "entryId": "1282010",
+      "spelling": "行政",
+      "reading": "ぎょうせい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "行政【ぎょうせい】",
+      "meaning": "administración (pública); gobierno"
+    },
+    {
+      "entryId": "1296830",
+      "spelling": "財政",
+      "reading": "ざいせい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "財政【ざいせい】",
+      "meaning": "asuntos financieros; finanzas públicas"
+    },
+    {
+      "entryId": "1375900",
+      "spelling": "政界",
+      "reading": "せいかい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "政界【せいかい】",
+      "meaning": "mundo político"
+    },
+    {
+      "entryId": "1375930",
+      "spelling": "政権",
+      "reading": "せいけん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "政権【せいけん】",
+      "meaning": "poder político; gobierno; administración"
+    },
+    {
+      "entryId": "1375950",
+      "spelling": "政策",
+      "reading": "せいさく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "政策【せいさく】",
+      "meaning": "postura política (política de gobierno)"
+    },
+    {
+      "entryId": "1375970",
+      "spelling": "政治",
+      "reading": "せいじ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "政治【せいじ】",
+      "meaning": "la política"
+    },
+    {
+      "entryId": "1375980",
+      "spelling": "政治家",
+      "reading": "せいじか",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "政治家【せいじか】",
+      "meaning": "político (persona dedicada a la política)"
+    },
+    {
+      "entryId": "1376060",
+      "spelling": "政党",
+      "reading": "せいとう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "政党【せいとう】",
+      "meaning": "(miembro de un) partido político"
+    },
+    {
+      "entryId": "1376070",
+      "spelling": "政府",
+      "reading": "せいふ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "政府【せいふ】",
+      "meaning": "gobierno; administración"
+    },
+    {
+      "entryId": "1375920",
+      "spelling": "政局",
+      "reading": "せいきょく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "政局【せいきょく】",
+      "meaning": "situación política"
+    },
+    {
+      "entryId": "1376010",
+      "spelling": "政治的",
+      "reading": "せいじてき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "政治的【せいじてき】",
+      "meaning": "político"
+    },
+    {
+      "entryId": "1542350",
+      "spelling": "郵政省",
+      "reading": "ゆうせいしょう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "郵政省【ゆうせいしょう】",
+      "meaning": "ministerio de correos y telecomunicaciones"
+    },
+    {
+      "entryId": "1662520",
+      "spelling": "郵政",
+      "reading": "ゆうせい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "郵政【ゆうせい】",
+      "meaning": "sistema postal"
+    },
+    {
+      "entryId": "1645530",
+      "spelling": "政経",
+      "reading": "せいけい",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "政経【せいけい】",
+      "meaning": "política y economía"
+    },
+    {
+      "entryId": "1735560",
+      "spelling": "政務",
+      "reading": "せいむ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "政務【せいむ】",
+      "meaning": "asuntos gubernamentales"
+    },
+    {
+      "entryId": "1302470",
+      "spelling": "参政権",
+      "reading": "さんせいけん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "参政権【さんせいけん】",
+      "meaning": "sufragio; derecho electoral"
+    },
+    {
+      "entryId": "1631420",
+      "spelling": "行政処分",
+      "reading": "ぎょうせいしょぶん",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "行政処分【ぎょうせいしょぶん】",
+      "meaning": "disposición administrativa"
+    },
+    {
+      "entryId": "1248600",
+      "spelling": "軍政",
+      "reading": "ぐんせい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "軍政【ぐんせい】",
+      "meaning": "gobierno militar"
+    },
+    {
+      "entryId": "1631400",
+      "spelling": "行政機関",
+      "reading": "ぎょうせいきかん",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "行政機関【ぎょうせいきかん】",
+      "meaning": "organismo administrativo; órgano perteneciente al poder ejecutivo"
+    },
+    {
+      "entryId": "1257570",
+      "spelling": "憲政",
+      "reading": "けんせい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "憲政【けんせい】",
+      "meaning": "gobierno constitucional"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

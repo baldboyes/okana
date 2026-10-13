@@ -1,0 +1,240 @@
+{
+  "character": "界",
+  "meanings": "borde, frontera, extensión, ámbito",
+  "words": [
+    {
+      "entryId": "1239380",
+      "spelling": "業界",
+      "reading": "ぎょうかい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "業界【ぎょうかい】",
+      "meaning": "industria; negocio"
+    },
+    {
+      "entryId": "1373860",
+      "spelling": "世界",
+      "reading": "せかい",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "世界【せかい】",
+      "meaning": "mundo; sociedad; universo"
+    },
+    {
+      "entryId": "1375900",
+      "spelling": "政界",
+      "reading": "せいかい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "政界【せいかい】",
+      "meaning": "mundo político"
+    },
+    {
+      "entryId": "1296790",
+      "spelling": "財界",
+      "reading": "ざいかい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "財界【ざいかい】",
+      "meaning": "mundo financiero"
+    },
+    {
+      "entryId": "1264650",
+      "spelling": "限界",
+      "reading": "げんかい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "限界【げんかい】",
+      "meaning": "límite"
+    },
+    {
+      "entryId": "1658050",
+      "spelling": "産業界",
+      "reading": "さんぎょうかい",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "産業界【さんぎょうかい】",
+      "meaning": "(el) mundo industrial"
+    },
+    {
+      "entryId": "1235950",
+      "spelling": "界",
+      "reading": "さかい",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "界【さかい】",
+      "meaning": "frontera; borde; límite"
+    },
+    {
+      "entryId": "1373880",
+      "spelling": "世界一",
+      "reading": "せかいいち",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "世界一【せかいいち】",
+      "meaning": "el mejor del mundo"
+    },
+    {
+      "entryId": "1235960",
+      "spelling": "境界",
+      "reading": "きょうかい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "境界【きょうかい】",
+      "meaning": "límite; frontera"
+    },
+    {
+      "entryId": "1235960",
+      "spelling": "疆界",
+      "reading": "きょうかい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "疆界【きょうかい】",
+      "meaning": "límite; frontera"
+    },
+    {
+      "entryId": "1395530",
+      "spelling": "全世界",
+      "reading": "ぜんせかい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "全世界【ぜんせかい】",
+      "meaning": "el mundo entero"
+    },
+    {
+      "entryId": "1759230",
+      "spelling": "第二次世界大戦",
+      "reading": "だいにじせかいたいせん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "第二次世界大戦【だいにじせかいたいせん】",
+      "meaning": "Segunda Guerra Mundial"
+    },
+    {
+      "entryId": "1759230",
+      "spelling": "第２次世界大戦",
+      "reading": "だいにじせかいたいせん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "第２次世界大戦【だいにじせかいたいせん】",
+      "meaning": "Segunda Guerra Mundial"
+    },
+    {
+      "entryId": "1888100",
+      "spelling": "世界銀行",
+      "reading": "せかいぎんこう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "世界銀行【せかいぎんこう】",
+      "meaning": "Banco Mundial"
+    },
+    {
+      "entryId": "1783610",
+      "spelling": "球界",
+      "reading": "きゅうかい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "球界【きゅうかい】",
+      "meaning": "mundo del béisbol"
+    },
+    {
+      "entryId": "1312000",
+      "spelling": "視界",
+      "reading": "しかい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "視界【しかい】",
+      "meaning": "vista"
+    },
+    {
+      "entryId": "1206620",
+      "spelling": "学界",
+      "reading": "がっかい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "学界【がっかい】",
+      "meaning": "ámbito académico; círculo académico"
+    },
+    {
+      "entryId": "1555570",
+      "spelling": "臨界",
+      "reading": "りんかい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "臨界【りんかい】",
+      "meaning": "crítico (presión, temperatura, estado, punto)"
+    },
+    {
+      "entryId": "1211640",
+      "spelling": "官界",
+      "reading": "かんかい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "官界【かんかい】",
+      "meaning": "burocracia"
+    },
+    {
+      "entryId": "1577500",
+      "spelling": "角界",
+      "reading": "かくかい",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "角界【かくかい】",
+      "meaning": "(el) mundo del Sumo"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

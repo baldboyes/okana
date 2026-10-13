@@ -1,0 +1,240 @@
+{
+  "character": "過",
+  "meanings": "pasar, extralimitarse, exceder, fallo, error, traspasar, fallar",
+  "words": [
+    {
+      "entryId": "1196030",
+      "spelling": "過去",
+      "reading": "かこ",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "過去【かこ】",
+      "meaning": "(el) pasado"
+    },
+    {
+      "entryId": "1196270",
+      "spelling": "過程",
+      "reading": "かてい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "過程【かてい】",
+      "meaning": "proceso"
+    },
+    {
+      "entryId": "1196380",
+      "spelling": "過半数",
+      "reading": "かはんすう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "過半数【かはんすう】",
+      "meaning": "mayoría"
+    },
+    {
+      "entryId": "1251250",
+      "spelling": "経過",
+      "reading": "けいか",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "経過【けいか】",
+      "meaning": "transición; proceso"
+    },
+    {
+      "entryId": "1196060",
+      "spelling": "過激",
+      "reading": "かげき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "過激【かげき】",
+      "meaning": "extremo; radical"
+    },
+    {
+      "entryId": "1195960",
+      "spelling": "過ぎ",
+      "reading": "すぎ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "過ぎ【すぎ】",
+      "meaning": "sufijo: que supera, que pasa, que sobrepasa; sufijo: demasiado, excesivo, que se pasa de"
+    },
+    {
+      "entryId": "1433070",
+      "spelling": "通過",
+      "reading": "つうか",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "通過【つうか】",
+      "meaning": "paso; tránsito"
+    },
+    {
+      "entryId": "1857140",
+      "spelling": "過って",
+      "reading": "あやまって",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "過って【あやまって】",
+      "meaning": "sin querer; por descuido; por error"
+    },
+    {
+      "entryId": "1196120",
+      "spelling": "過失",
+      "reading": "かしつ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "過失【かしつ】",
+      "meaning": "negligencia"
+    },
+    {
+      "entryId": "1196170",
+      "spelling": "過剰",
+      "reading": "かじょう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "過剰【かじょう】",
+      "meaning": "exceso; demasía"
+    },
+    {
+      "entryId": "1196220",
+      "spelling": "過疎",
+      "reading": "かそ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "過疎【かそ】",
+      "meaning": "despoblación"
+    },
+    {
+      "entryId": "1196490",
+      "spelling": "過労",
+      "reading": "かろう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "過労【かろう】",
+      "meaning": "fatiga; agotamiento"
+    },
+    {
+      "entryId": "1196310",
+      "spelling": "過度",
+      "reading": "かど",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "過度【かど】",
+      "meaning": "exceso"
+    },
+    {
+      "entryId": "1590190",
+      "spelling": "過酷",
+      "reading": "かこく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "過酷【かこく】",
+      "meaning": "rigor; severidad; crueldad; duro"
+    },
+    {
+      "entryId": "1429410",
+      "spelling": "超過",
+      "reading": "ちょうか",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "超過【ちょうか】",
+      "meaning": "exceso"
+    },
+    {
+      "entryId": "1196350",
+      "spelling": "過熱",
+      "reading": "かねつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "過熱【かねつ】",
+      "meaning": "sobrecalentamiento"
+    },
+    {
+      "entryId": "1196010",
+      "spelling": "過ち",
+      "reading": "あやまち",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "過ち【あやまち】",
+      "meaning": "falta; error; indiscreción; faux pas"
+    },
+    {
+      "entryId": "1196460",
+      "spelling": "過密",
+      "reading": "かみつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "過密【かみつ】",
+      "meaning": "superpoblación; congestionamiento"
+    },
+    {
+      "entryId": "1196290",
+      "spelling": "過渡期",
+      "reading": "かとき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "過渡期【かとき】",
+      "meaning": "período de transición"
+    },
+    {
+      "entryId": "1426280",
+      "spelling": "午過ぎ",
+      "reading": "ひるすぎ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "午過ぎ【ひるすぎ】",
+      "meaning": "la tarde; (la) tarde"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

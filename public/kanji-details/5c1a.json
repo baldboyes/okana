@@ -1,0 +1,130 @@
+{
+  "character": "尚",
+  "meanings": "respetar, estimar, desear, además, todavía, aún más",
+  "words": [
+    {
+      "entryId": "1349300",
+      "spelling": "尚",
+      "reading": "なお",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "尚【なお】",
+      "meaning": "todavía; aun"
+    },
+    {
+      "entryId": "1349300",
+      "spelling": "尚お",
+      "reading": "なお",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "尚お【なお】",
+      "meaning": "todavía; aun"
+    },
+    {
+      "entryId": "1316070",
+      "spelling": "時期尚早",
+      "reading": "じきしょうそう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "時期尚早【じきしょうそう】",
+      "meaning": "prematuro"
+    },
+    {
+      "entryId": "1316070",
+      "spelling": "時機尚早",
+      "reading": "じきしょうそう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "時機尚早【じきしょうそう】",
+      "meaning": "prematuro"
+    },
+    {
+      "entryId": "1349320",
+      "spelling": "尚さら",
+      "reading": "なおさら",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "尚さら【なおさら】",
+      "meaning": "especialmente; mucho más (menos)"
+    },
+    {
+      "entryId": "1349320",
+      "spelling": "尚更",
+      "reading": "なおさら",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "尚更【なおさら】",
+      "meaning": "especialmente; mucho más (menos)"
+    },
+    {
+      "entryId": "1598640",
+      "spelling": "尚ぶ",
+      "reading": "たっとぶ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "尚ぶ【たっとぶ】",
+      "meaning": "respetar; admirar; adorar; respetar, mostrar respeto, mostrar estima"
+    },
+    {
+      "entryId": "1598640",
+      "spelling": "尚ぶ",
+      "reading": "とうとぶ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "尚ぶ【とうとぶ】",
+      "meaning": "respetar; admirar; adorar; respetar, mostrar respeto, mostrar estima"
+    },
+    {
+      "entryId": "1283610",
+      "spelling": "高尚",
+      "reading": "こうしょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "高尚【こうしょう】",
+      "meaning": "alto (superior); noble; refinado; sofisticado; avanzado; superior"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

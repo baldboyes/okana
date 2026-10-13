@@ -1,0 +1,240 @@
+{
+  "character": "生",
+  "meanings": "vida, nacimiento, vivir, existir, nacer, dar a luz, puro, crudo",
+  "words": [
+    {
+      "entryId": "1206900",
+      "spelling": "学生",
+      "reading": "がくせい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "学生【がくせい】",
+      "meaning": "estudiante; alumno"
+    },
+    {
+      "entryId": "1206900",
+      "spelling": "學生",
+      "reading": "がくせい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "學生【がくせい】",
+      "meaning": "estudiante; alumno"
+    },
+    {
+      "entryId": "1378860",
+      "spelling": "生活",
+      "reading": "せいかつ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "生活【せいかつ】",
+      "meaning": "vida (existencia diaria propia); sustento"
+    },
+    {
+      "entryId": "1378990",
+      "spelling": "生産",
+      "reading": "せいさん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "生産【せいさん】",
+      "meaning": "producción"
+    },
+    {
+      "entryId": "1368370",
+      "spelling": "人生",
+      "reading": "じんせい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "人生【じんせい】",
+      "meaning": "vida humana"
+    },
+    {
+      "entryId": "1379380",
+      "spelling": "生徒",
+      "reading": "せいと",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "生徒【せいと】",
+      "meaning": "pupilo"
+    },
+    {
+      "entryId": "1387990",
+      "spelling": "先生",
+      "reading": "せんせい",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "先生【せんせい】",
+      "meaning": "maestro; profesor; doctor"
+    },
+    {
+      "entryId": "1275500",
+      "spelling": "厚生省",
+      "reading": "こうせいしょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "厚生省【こうせいしょう】",
+      "meaning": "ministerio de sanidad y bienestar social"
+    },
+    {
+      "entryId": "1362010",
+      "spelling": "新生",
+      "reading": "しんせい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "新生【しんせい】",
+      "meaning": "renacimiento; nuevo nacimiento; naciente"
+    },
+    {
+      "entryId": "1283510",
+      "spelling": "高校生",
+      "reading": "こうこうせい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "高校生【こうこうせい】",
+      "meaning": "estudiante de bachillerato; estudiante de instituto; (am) estudiante de preparatoria"
+    },
+    {
+      "entryId": "1379530",
+      "spelling": "生命",
+      "reading": "せいめい",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "生命【せいめい】",
+      "meaning": "vida; existencia"
+    },
+    {
+      "entryId": "1419080",
+      "spelling": "誕生",
+      "reading": "たんじょう",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "誕生【たんじょう】",
+      "meaning": "nacimiento; aparición"
+    },
+    {
+      "entryId": "1423660",
+      "spelling": "中学生",
+      "reading": "ちゅうがくせい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "中学生【ちゅうがくせい】",
+      "meaning": "estudiante de bachiller o preparatoria"
+    },
+    {
+      "entryId": "1477620",
+      "spelling": "発生",
+      "reading": "はっせい",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "発生【はっせい】",
+      "meaning": "brote; acontecimiento"
+    },
+    {
+      "entryId": "1292960",
+      "spelling": "再生",
+      "reading": "さいせい",
+      "senseNumbers": [
+        33
+      ],
+      "japanese": "再生【さいせい】",
+      "meaning": "reproducir; revivir; renacer; regenerar; regeneración; resucitación; regresar a la vida; renacimiento; reencarnación; reclamación"
+    },
+    {
+      "entryId": "1347880",
+      "spelling": "小学生",
+      "reading": "しょうがくせい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "小学生【しょうがくせい】",
+      "meaning": "estudiante de primaria"
+    },
+    {
+      "entryId": "1378520",
+      "spelling": "生きる",
+      "reading": "いきる",
+      "senseNumbers": [
+        21
+      ],
+      "japanese": "生きる【いきる】",
+      "meaning": "vivir; existir"
+    },
+    {
+      "entryId": "1379430",
+      "spelling": "生物",
+      "reading": "せいぶつ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "生物【せいぶつ】",
+      "meaning": "seres vivos; criatura"
+    },
+    {
+      "entryId": "1378840",
+      "spelling": "生涯",
+      "reading": "しょうがい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "生涯【しょうがい】",
+      "meaning": "vida; profesión"
+    },
+    {
+      "entryId": "1552750",
+      "spelling": "留学生",
+      "reading": "りゅうがくせい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "留学生【りゅうがくせい】",
+      "meaning": "estudiante en el extranjero"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "character": "見",
+  "meanings": "vista, ver, esperanza, idea, opinión, observar, ser visto, estar a la vista, poder verse, mostrar",
+  "words": [
+    {
+      "entryId": "1156530",
+      "spelling": "意見",
+      "reading": "いけん",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "意見【いけん】",
+      "meaning": "aconsejar; advertir; avisar; amonestar; opinión; vista"
+    },
+    {
+      "entryId": "1198500",
+      "spelling": "会見",
+      "reading": "かいけん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "会見【かいけん】",
+      "meaning": "entrevistar; entrevista; audiencia (con alguien)"
+    },
+    {
+      "entryId": "1260070",
+      "spelling": "見方",
+      "reading": "みかた",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "見方【みかた】",
+      "meaning": "punto de vista"
+    },
+    {
+      "entryId": "1263650",
+      "spelling": "見在",
+      "reading": "げんざい",
+      "senseNumbers": [
+        22
+      ],
+      "japanese": "見在【げんざい】",
+      "meaning": "ahora; actual; presente; actualmente"
+    },
+    {
+      "entryId": "1604610",
+      "spelling": "見とおし",
+      "reading": "みとおし",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "見とおし【みとおし】",
+      "meaning": "vista; perspectiva; vista sin obstáculos; previsión; comprensión de algo (que antes no se \"veía\"); visibilidad"
+    },
+    {
+      "entryId": "1604610",
+      "spelling": "見透し",
+      "reading": "みとおし",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "見透し【みとおし】",
+      "meaning": "vista; perspectiva; vista sin obstáculos; previsión; comprensión de algo (que antes no se \"veía\"); visibilidad"
+    },
+    {
+      "entryId": "1604610",
+      "spelling": "見通",
+      "reading": "みとおし",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "見通【みとおし】",
+      "meaning": "vista; perspectiva; vista sin obstáculos; previsión; comprensión de algo (que antes no se \"veía\"); visibilidad"
+    },
+    {
+      "entryId": "1604610",
+      "spelling": "見通し",
+      "reading": "みとおし",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "見通し【みとおし】",
+      "meaning": "vista; perspectiva; vista sin obstáculos; previsión; comprensión de algo (que antes no se \"veía\"); visibilidad"
+    },
+    {
+      "entryId": "1259390",
+      "spelling": "見解",
+      "reading": "けんかい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "見解【けんかい】",
+      "meaning": "opinión; punto de vista; posición"
+    },
+    {
+      "entryId": "1604480",
+      "spelling": "見こみ",
+      "reading": "みこみ",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "見こみ【みこみ】",
+      "meaning": "prospecto"
+    },
+    {
+      "entryId": "1604480",
+      "spelling": "見込",
+      "reading": "みこみ",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "見込【みこみ】",
+      "meaning": "prospecto"
+    },
+    {
+      "entryId": "1604480",
+      "spelling": "見込み",
+      "reading": "みこみ",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "見込み【みこみ】",
+      "meaning": "prospecto"
+    },
+    {
+      "entryId": "1477310",
+      "spelling": "発見",
+      "reading": "はっけん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "発見【はっけん】",
+      "meaning": "descubrir; descubrimiento; detección; búsqueda"
+    },
+    {
+      "entryId": "1259620",
+      "spelling": "見事",
+      "reading": "みごと",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "見事【みごと】",
+      "meaning": "magnífico; espléndico"
+    },
+    {
+      "entryId": "1259440",
+      "spelling": "見学",
+      "reading": "けんがく",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "見学【けんがく】",
+      "meaning": "inspección; estudio por observación; excursión; visita educacional"
+    },
+    {
+      "entryId": "1259710",
+      "spelling": "見出し",
+      "reading": "みだし",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "見出し【みだし】",
+      "meaning": "encabezado; entrada (diccionario)"
+    },
+    {
+      "entryId": "1259820",
+      "spelling": "見送り",
+      "reading": "みおくり",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "見送り【みおくり】",
+      "meaning": "despedida"
+    },
+    {
+      "entryId": "1259830",
+      "spelling": "見送る",
+      "reading": "みおくる",
+      "senseNumbers": [
+        21
+      ],
+      "japanese": "見送る【みおくる】",
+      "meaning": "acompañar y despedir a alguien"
+    },
+    {
+      "entryId": "1259990",
+      "spelling": "見舞う",
+      "reading": "みまう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "見舞う【みまう】",
+      "meaning": "visitar a un enfermo; caer encima"
+    },
+    {
+      "entryId": "1259580",
+      "spelling": "見込む",
+      "reading": "みこむ",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "見込む【みこむ】",
+      "meaning": "anticipar; estimar"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

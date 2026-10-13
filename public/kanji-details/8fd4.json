@@ -1,0 +1,250 @@
+{
+  "character": "返",
+  "meanings": "regresar, devolver",
+  "words": [
+    {
+      "entryId": "1512170",
+      "spelling": "返還",
+      "reading": "へんかん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "返還【へんかん】",
+      "meaning": "devolver; restituir; devolución; retorno; restitución"
+    },
+    {
+      "entryId": "1512210",
+      "spelling": "返済",
+      "reading": "へんさい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "返済【へんさい】",
+      "meaning": "reembolso; devolución (de dinero)"
+    },
+    {
+      "entryId": "1512220",
+      "spelling": "返事",
+      "reading": "へんじ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "返事【へんじ】",
+      "meaning": "respuesta; contestación"
+    },
+    {
+      "entryId": "1512220",
+      "spelling": "返辞",
+      "reading": "へんじ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "返辞【へんじ】",
+      "meaning": "respuesta; contestación"
+    },
+    {
+      "entryId": "1247010",
+      "spelling": "くり返し",
+      "reading": "くりかえし",
+      "senseNumbers": [
+        9,
+        10
+      ],
+      "japanese": "くり返し【くりかえし】",
+      "meaning": "repetición; reiteración; iteración; ciclo; repetidamente"
+    },
+    {
+      "entryId": "1247010",
+      "spelling": "繰り返し",
+      "reading": "くりかえし",
+      "senseNumbers": [
+        9,
+        10
+      ],
+      "japanese": "繰り返し【くりかえし】",
+      "meaning": "repetición; reiteración; iteración; ciclo; repetidamente"
+    },
+    {
+      "entryId": "1247010",
+      "spelling": "繰返し",
+      "reading": "くりかえし",
+      "senseNumbers": [
+        9,
+        10
+      ],
+      "japanese": "繰返し【くりかえし】",
+      "meaning": "repetición; reiteración; iteración; ciclo; repetidamente"
+    },
+    {
+      "entryId": "1247030",
+      "spelling": "くり返す",
+      "reading": "くりかえす",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "くり返す【くりかえす】",
+      "meaning": "repetir; hacer algo otra vez"
+    },
+    {
+      "entryId": "1247030",
+      "spelling": "繰り返す",
+      "reading": "くりかえす",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "繰り返す【くりかえす】",
+      "meaning": "repetir; hacer algo otra vez"
+    },
+    {
+      "entryId": "1247030",
+      "spelling": "繰返す",
+      "reading": "くりかえす",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "繰返す【くりかえす】",
+      "meaning": "repetir; hacer algo otra vez"
+    },
+    {
+      "entryId": "1361290",
+      "spelling": "ふり返る",
+      "reading": "ふりかえる",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "ふり返る【ふりかえる】",
+      "meaning": "mirar hacia atrás"
+    },
+    {
+      "entryId": "1361290",
+      "spelling": "振り返る",
+      "reading": "ふりかえる",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "振り返る【ふりかえる】",
+      "meaning": "mirar hacia atrás"
+    },
+    {
+      "entryId": "1361290",
+      "spelling": "振返る",
+      "reading": "ふりかえる",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "振返る【ふりかえる】",
+      "meaning": "mirar hacia atrás"
+    },
+    {
+      "entryId": "1512230",
+      "spelling": "返上",
+      "reading": "へんじょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "返上【へんじょう】",
+      "meaning": "abandonamiento; paro; cese; devolver"
+    },
+    {
+      "entryId": "1512240",
+      "spelling": "返信",
+      "reading": "へんしん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "返信【へんしん】",
+      "meaning": "respuesta; contestación"
+    },
+    {
+      "entryId": "1512130",
+      "spelling": "返す",
+      "reading": "かえす",
+      "senseNumbers": [
+        19,
+        20,
+        21,
+        22
+      ],
+      "japanese": "返す【かえす】",
+      "meaning": "devolver (algo); restituir; volverse; darse la vuelta; tomar represalias; (después de verbo en forma -masu) repetir; hacer otra vez"
+    },
+    {
+      "entryId": "1002640",
+      "spelling": "お返し",
+      "reading": "おかえし",
+      "senseNumbers": [
+        12,
+        13,
+        14
+      ],
+      "japanese": "お返し【おかえし】",
+      "meaning": "regalo devuelto; favor devuelto; venganza; cambio (en una transacción en metálico)"
+    },
+    {
+      "entryId": "1002640",
+      "spelling": "御返し",
+      "reading": "おかえし",
+      "senseNumbers": [
+        12,
+        13,
+        14
+      ],
+      "japanese": "御返し【おかえし】",
+      "meaning": "regalo devuelto; favor devuelto; venganza; cambio (en una transacción en metálico)"
+    },
+    {
+      "entryId": "1183280",
+      "spelling": "恩返し",
+      "reading": "おんがえし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "恩返し【おんがえし】",
+      "meaning": "muestra de gratitud; recompensa; retribución"
+    },
+    {
+      "entryId": "1550620",
+      "spelling": "裏返し",
+      "reading": "うらがえし",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "裏返し【うらがえし】",
+      "meaning": "revés; reverso"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "character": "留",
+  "meanings": "quedarse, permanecer, parar, detener",
+  "words": [
+    {
+      "entryId": "1552740",
+      "spelling": "留学",
+      "reading": "りゅうがく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "留学【りゅうがく】",
+      "meaning": "estudios en el extranjero"
+    },
+    {
+      "entryId": "1552750",
+      "spelling": "留学生",
+      "reading": "りゅうがくせい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "留学生【りゅうがくせい】",
+      "meaning": "estudiante en el extranjero"
+    },
+    {
+      "entryId": "1296620",
+      "spelling": "在留",
+      "reading": "ざいりゅう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "在留【ざいりゅう】",
+      "meaning": "estadía; estancia; permanencia"
+    },
+    {
+      "entryId": "1552760",
+      "spelling": "留主",
+      "reading": "るす",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "留主【るす】",
+      "meaning": "no estar en la casa"
+    },
+    {
+      "entryId": "1552760",
+      "spelling": "留守",
+      "reading": "るす",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "留守【るす】",
+      "meaning": "no estar en la casa"
+    },
+    {
+      "entryId": "1310620",
+      "spelling": "留まる",
+      "reading": "とまる",
+      "senseNumbers": [
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "japanese": "留まる【とまる】",
+      "meaning": "detenerse; permanecer; quedarse; limitarse; detener; parar; detener(se)"
+    },
+    {
+      "entryId": "1310620",
+      "spelling": "留る",
+      "reading": "とまる",
+      "senseNumbers": [
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "japanese": "留る【とまる】",
+      "meaning": "detenerse; permanecer; quedarse; limitarse; detener; parar; detener(se)"
+    },
+    {
+      "entryId": "1514030",
+      "spelling": "保留",
+      "reading": "ほりゅう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "保留【ほりゅう】",
+      "meaning": "pendiente; algo puesto en reserva; algo reservado"
+    },
+    {
+      "entryId": "1589960",
+      "spelling": "書き留め",
+      "reading": "かきとめ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "書き留め【かきとめ】",
+      "meaning": "poner por escrito; registro; dejar una nota atrás"
+    },
+    {
+      "entryId": "1589960",
+      "spelling": "書留",
+      "reading": "かきとめ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "書留【かきとめ】",
+      "meaning": "poner por escrito; registro; dejar una nota atrás"
+    },
+    {
+      "entryId": "1589960",
+      "spelling": "書留め",
+      "reading": "かきとめ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "書留め【かきとめ】",
+      "meaning": "poner por escrito; registro; dejar una nota atrás"
+    },
+    {
+      "entryId": "1552800",
+      "spelling": "留守ばん",
+      "reading": "るすばん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "留守ばん【るすばん】",
+      "meaning": "quedarse solo cuidando la casa"
+    },
+    {
+      "entryId": "1552800",
+      "spelling": "留守番",
+      "reading": "るすばん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "留守番【るすばん】",
+      "meaning": "quedarse solo cuidando la casa"
+    },
+    {
+      "entryId": "1435080",
+      "spelling": "停留所",
+      "reading": "ていりゅうしょ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "停留所【ていりゅうしょ】",
+      "meaning": "parada; estación"
+    },
+    {
+      "entryId": "1435080",
+      "spelling": "停留所",
+      "reading": "ていりゅうじょ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "停留所【ていりゅうじょ】",
+      "meaning": "parada; estación"
+    },
+    {
+      "entryId": "1551350",
+      "spelling": "立ち留まる",
+      "reading": "たちどまる",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "立ち留まる【たちどまる】",
+      "meaning": "detenerse; hacer alto; parar"
+    },
+    {
+      "entryId": "1551350",
+      "spelling": "立留まる",
+      "reading": "たちどまる",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "立留まる【たちどまる】",
+      "meaning": "detenerse; hacer alto; parar"
+    },
+    {
+      "entryId": "1551350",
+      "spelling": "立留る",
+      "reading": "たちどまる",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "立留る【たちどまる】",
+      "meaning": "detenerse; hacer alto; parar"
+    },
+    {
+      "entryId": "1598820",
+      "spelling": "留める",
+      "reading": "とどめる",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "留める【とどめる】",
+      "meaning": "parar; detener; frenar; moderar; aplacar; mitigar; detener (algo); cesar; renunciar; ponerle fin a"
+    },
+    {
+      "entryId": "1309250",
+      "spelling": "思い留まる",
+      "reading": "おもいとどまる",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "思い留まる【おもいとどまる】",
+      "meaning": "disuadir; desalentar; desengañar"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

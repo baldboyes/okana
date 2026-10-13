@@ -1,0 +1,220 @@
+{
+  "character": "房",
+  "meanings": "racimo, manojo, casita",
+  "words": [
+    {
+      "entryId": "1211820",
+      "spelling": "官房長官",
+      "reading": "かんぼうちょうかん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "官房長官【かんぼうちょうかん】",
+      "meaning": "secretario jefe del gabinete; portavoz del gobierno"
+    },
+    {
+      "entryId": "1211800",
+      "spelling": "官房",
+      "reading": "かんぼう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "官房【かんぼう】",
+      "meaning": "secretaría (oficina pública)"
+    },
+    {
+      "entryId": "1519300",
+      "spelling": "房",
+      "reading": "ふさ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "房【ふさ】",
+      "meaning": "mechón; borla"
+    },
+    {
+      "entryId": "1344160",
+      "spelling": "書房",
+      "reading": "しょぼう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "書房【しょぼう】",
+      "meaning": "librería"
+    },
+    {
+      "entryId": "1345420",
+      "spelling": "女房",
+      "reading": "にゅうぼう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "女房【にゅうぼう】",
+      "meaning": "esposa"
+    },
+    {
+      "entryId": "1345420",
+      "spelling": "女房",
+      "reading": "にょうぼ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "女房【にょうぼ】",
+      "meaning": "esposa"
+    },
+    {
+      "entryId": "1345420",
+      "spelling": "女房",
+      "reading": "にょうぼう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "女房【にょうぼう】",
+      "meaning": "esposa"
+    },
+    {
+      "entryId": "1557290",
+      "spelling": "冷房",
+      "reading": "れいぼう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "冷房【れいぼう】",
+      "meaning": "enfriamiento"
+    },
+    {
+      "entryId": "1419860",
+      "spelling": "暖房",
+      "reading": "だんぼう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "暖房【だんぼう】",
+      "meaning": "calefacción"
+    },
+    {
+      "entryId": "1419860",
+      "spelling": "煖房",
+      "reading": "だんぼう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "煖房【だんぼう】",
+      "meaning": "calefacción"
+    },
+    {
+      "entryId": "1582760",
+      "spelling": "乳房",
+      "reading": "ちぶさ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "乳房【ちぶさ】",
+      "meaning": "seno; pecho; teta; pezón; ubre"
+    },
+    {
+      "entryId": "1582760",
+      "spelling": "乳房",
+      "reading": "にゅうぼう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "乳房【にゅうぼう】",
+      "meaning": "seno; pecho; teta; pezón; ubre"
+    },
+    {
+      "entryId": "1505620",
+      "spelling": "文房具",
+      "reading": "ぶんぼうぐ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "文房具【ぶんぼうぐ】",
+      "meaning": "artículos de papelería"
+    },
+    {
+      "entryId": "1519080",
+      "spelling": "房主",
+      "reading": "ぼうず",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "房主【ぼうず】",
+      "meaning": "monje budista; persona calva"
+    },
+    {
+      "entryId": "1586600",
+      "spelling": "阿房",
+      "reading": "あほ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "阿房【あほ】",
+      "meaning": "tonto; simplón; idiota"
+    },
+    {
+      "entryId": "1762070",
+      "spelling": "女房役",
+      "reading": "にょうぼうやく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "女房役【にょうぼうやく】",
+      "meaning": "asistente; hombre de mano derecha"
+    },
+    {
+      "entryId": "1456020",
+      "spelling": "独房",
+      "reading": "どくぼう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "独房【どくぼう】",
+      "meaning": "celda"
+    },
+    {
+      "entryId": "1457930",
+      "spelling": "内閣官房長官",
+      "reading": "ないかくかんぼうちょうかん",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "内閣官房長官【ないかくかんぼうちょうかん】",
+      "meaning": "secretario jefe del gabinete; portavoz del gobierno"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

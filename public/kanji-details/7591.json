@@ -1,0 +1,190 @@
+{
+  "character": "疑",
+  "meanings": "duda, desconfianza, sospecha, dudar, desconfiar, sospechar",
+  "words": [
+    {
+      "entryId": "1225490",
+      "spelling": "疑い",
+      "reading": "うたがい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "疑い【うたがい】",
+      "meaning": "duda; incertidumbre"
+    },
+    {
+      "entryId": "1545390",
+      "spelling": "容疑者",
+      "reading": "ようぎしゃ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "容疑者【ようぎしゃ】",
+      "meaning": "sospechoso (persona)"
+    },
+    {
+      "entryId": "1225630",
+      "spelling": "疑問",
+      "reading": "ぎもん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "疑問【ぎもん】",
+      "meaning": "pregunta; duda; adivinanza"
+    },
+    {
+      "entryId": "1225680",
+      "spelling": "疑惑",
+      "reading": "ぎわく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "疑惑【ぎわく】",
+      "meaning": "sospecha; duda; desconfianza"
+    },
+    {
+      "entryId": "1320680",
+      "spelling": "質疑",
+      "reading": "しつぎ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "質疑【しつぎ】",
+      "meaning": "preguntas"
+    },
+    {
+      "entryId": "1225510",
+      "spelling": "疑う",
+      "reading": "うたがう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "疑う【うたがう】",
+      "meaning": "dudar; desconfiar; sospechar de"
+    },
+    {
+      "entryId": "1200530",
+      "spelling": "懐疑",
+      "reading": "かいぎ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "懐疑【かいぎ】",
+      "meaning": "duda; escepticismo; incertidumbre; sospecha"
+    },
+    {
+      "entryId": "1771640",
+      "spelling": "被疑者",
+      "reading": "ひぎしゃ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "被疑者【ひぎしゃ】",
+      "meaning": "(un) sospechoso"
+    },
+    {
+      "entryId": "1225530",
+      "spelling": "疑わしい",
+      "reading": "うたがわしい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "疑わしい【うたがわしい】",
+      "meaning": "dudoso"
+    },
+    {
+      "entryId": "1225550",
+      "spelling": "疑義",
+      "reading": "ぎぎ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "疑義【ぎぎ】",
+      "meaning": "duda"
+    },
+    {
+      "entryId": "1257320",
+      "spelling": "嫌疑",
+      "reading": "けんぎ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "嫌疑【けんぎ】",
+      "meaning": "sospecha"
+    },
+    {
+      "entryId": "1225660",
+      "spelling": "疑問符",
+      "reading": "ぎもんふ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "疑問符【ぎもんふ】",
+      "meaning": "signo de interrogación (?)"
+    },
+    {
+      "entryId": "1479460",
+      "spelling": "半信半疑",
+      "reading": "はんしんはんぎ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "半信半疑【はんしんはんぎ】",
+      "meaning": "creer sólo a medias; tener sus dudas"
+    },
+    {
+      "entryId": "1225600",
+      "spelling": "疑心暗鬼",
+      "reading": "ぎしんあんき",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "疑心暗鬼【ぎしんあんき】",
+      "meaning": "La sospecha despertará a los duendes; Cuando sospechas de algo, todo lo demas se vuelve sospechoso"
+    },
+    {
+      "entryId": "1225480",
+      "spelling": "疑",
+      "reading": "ぎ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "疑【ぎ】",
+      "meaning": "duda; desconfianza; recelo; sospecha (de)"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "character": "前",
+  "meanings": "antes, delante de",
+  "words": [
+    {
+      "entryId": "1269060",
+      "spelling": "午前",
+      "reading": "ごぜん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "午前【ごぜん】",
+      "meaning": "la mañana; A.M."
+    },
+    {
+      "entryId": "1393840",
+      "spelling": "前年",
+      "reading": "ぜんねん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "前年【ぜんねん】",
+      "meaning": "antaño; año anterior"
+    },
+    {
+      "entryId": "1392680",
+      "spelling": "前回",
+      "reading": "ぜんかい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "前回【ぜんかい】",
+      "meaning": "(la) última vez; vez última; (la) última cuota; cuota última; (la) última sesión; sesión última"
+    },
+    {
+      "entryId": "1393680",
+      "spelling": "前提",
+      "reading": "ぜんてい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "前提【ぜんてい】",
+      "meaning": "preámbulo; premisa; razón; requisito; condición; supuesto; hipótesis"
+    },
+    {
+      "entryId": "1431330",
+      "spelling": "直前",
+      "reading": "ちょくぜん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "直前【ちょくぜん】",
+      "meaning": "justo antes de"
+    },
+    {
+      "entryId": "1531710",
+      "spelling": "名前",
+      "reading": "なまえ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "名前【なまえ】",
+      "meaning": "nombre"
+    },
+    {
+      "entryId": "1581140",
+      "spelling": "前半",
+      "reading": "ぜんはん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "前半【ぜんはん】",
+      "meaning": "primera mitad"
+    },
+    {
+      "entryId": "1581140",
+      "spelling": "前半",
+      "reading": "ぜんぱん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "前半【ぜんぱん】",
+      "meaning": "primera mitad"
+    },
+    {
+      "entryId": "1155150",
+      "spelling": "以前",
+      "reading": "いぜん",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "以前【いぜん】",
+      "meaning": "hace (tiempo); desde; antes; previamente"
+    },
+    {
+      "entryId": "1155150",
+      "spelling": "已前",
+      "reading": "いぜん",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "已前【いぜん】",
+      "meaning": "hace (tiempo); desde; antes; previamente"
+    },
+    {
+      "entryId": "1449190",
+      "spelling": "当前",
+      "reading": "とうぜん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "当前【とうぜん】",
+      "meaning": "naturalmente; por supuesto"
+    },
+    {
+      "entryId": "1390350",
+      "spelling": "戦前",
+      "reading": "せんぜん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "戦前【せんぜん】",
+      "meaning": "preguerra"
+    },
+    {
+      "entryId": "1392750",
+      "spelling": "前期",
+      "reading": "ぜんき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "前期【ぜんき】",
+      "meaning": "período anterior"
+    },
+    {
+      "entryId": "1392970",
+      "spelling": "前向き",
+      "reading": "まえむき",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "前向き【まえむき】",
+      "meaning": "optimista; positivo"
+    },
+    {
+      "entryId": "1175170",
+      "spelling": "駅前",
+      "reading": "えきまえ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "駅前【えきまえ】",
+      "meaning": "frente a la estación"
+    },
+    {
+      "entryId": "1392910",
+      "spelling": "前後",
+      "reading": "ぜんご",
+      "senseNumbers": [
+        22
+      ],
+      "japanese": "前後【ぜんご】",
+      "meaning": "antes y despúes; contenido; en medio"
+    },
+    {
+      "entryId": "1393350",
+      "spelling": "前進",
+      "reading": "ぜんしん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "前進【ぜんしん】",
+      "meaning": "avance"
+    },
+    {
+      "entryId": "1448800",
+      "spelling": "あたり前",
+      "reading": "あたりまえ",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "あたり前【あたりまえ】",
+      "meaning": "habitual; común; ordinario; natural; razonable; obvio; evidente"
+    },
+    {
+      "entryId": "1448800",
+      "spelling": "当たり前",
+      "reading": "あたりまえ",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "当たり前【あたりまえ】",
+      "meaning": "habitual; común; ordinario; natural; razonable; obvio; evidente"
+    },
+    {
+      "entryId": "1448800",
+      "spelling": "当たり前",
+      "reading": "あたりめえ",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "当たり前【あたりめえ】",
+      "meaning": "habitual; común; ordinario; natural; razonable; obvio; evidente"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "character": "選",
+  "meanings": "elegir, seleccionar",
+  "words": [
+    {
+      "entryId": "1392190",
+      "spelling": "選挙",
+      "reading": "せんきょ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "選挙【せんきょ】",
+      "meaning": "elección (elecciones políticas por partidos políticos)"
+    },
+    {
+      "entryId": "1392250",
+      "spelling": "選手",
+      "reading": "せんしゅ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "選手【せんしゅ】",
+      "meaning": "jugador; participante; competidor"
+    },
+    {
+      "entryId": "1449180",
+      "spelling": "当選",
+      "reading": "とうせん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "当選【とうせん】",
+      "meaning": "ser electo; ganar las elecciones"
+    },
+    {
+      "entryId": "1543110",
+      "spelling": "予選",
+      "reading": "よせん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "予選【よせん】",
+      "meaning": "eliminatoria; preselección"
+    },
+    {
+      "entryId": "1588730",
+      "spelling": "選ぶ",
+      "reading": "えらぶ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "選ぶ【えらぶ】",
+      "meaning": "escoger; seleccionar"
+    },
+    {
+      "entryId": "1392290",
+      "spelling": "選択",
+      "reading": "せんたく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "選択【せんたく】",
+      "meaning": "selección; elección; opción"
+    },
+    {
+      "entryId": "1392290",
+      "spelling": "選択",
+      "reading": "せんだく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "選択【せんだく】",
+      "meaning": "selección; elección; opción"
+    },
+    {
+      "entryId": "1392280",
+      "spelling": "選出",
+      "reading": "せんしゅつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "選出【せんしゅつ】",
+      "meaning": "elección"
+    },
+    {
+      "entryId": "1274180",
+      "spelling": "公選",
+      "reading": "こうせん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "公選【こうせん】",
+      "meaning": "elección democrática; sufragio"
+    },
+    {
+      "entryId": "1392220",
+      "spelling": "選挙戦",
+      "reading": "せんきょせん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "選挙戦【せんきょせん】",
+      "meaning": "campaña electoral"
+    },
+    {
+      "entryId": "1392380",
+      "spelling": "選抜",
+      "reading": "せんばつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "選抜【せんばつ】",
+      "meaning": "selección"
+    },
+    {
+      "entryId": "1392380",
+      "spelling": "選抜",
+      "reading": "センバツ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "選抜【センバツ】",
+      "meaning": "selección"
+    },
+    {
+      "entryId": "1426220",
+      "spelling": "抽選",
+      "reading": "ちゅうせん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "抽選【ちゅうせん】",
+      "meaning": "sorteo; insaculación; rifa"
+    },
+    {
+      "entryId": "1392360",
+      "spelling": "選定",
+      "reading": "せんてい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "選定【せんてい】",
+      "meaning": "selección"
+    },
+    {
+      "entryId": "1466480",
+      "spelling": "入選",
+      "reading": "にゅうせん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "入選【にゅうせん】",
+      "meaning": "ingreso a los seleccionados"
+    },
+    {
+      "entryId": "1293070",
+      "spelling": "再選",
+      "reading": "さいせん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "再選【さいせん】",
+      "meaning": "reelección"
+    },
+    {
+      "entryId": "1392330",
+      "spelling": "選択肢",
+      "reading": "せんたくし",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "選択肢【せんたくし】",
+      "meaning": "posibilidades; alternativas; opciones"
+    },
+    {
+      "entryId": "1368470",
+      "spelling": "人選",
+      "reading": "じんせん",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "人選【じんせん】",
+      "meaning": "selección de personal"
+    },
+    {
+      "entryId": "1368470",
+      "spelling": "人選",
+      "reading": "にんせん",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "人選【にんせん】",
+      "meaning": "selección de personal"
+    },
+    {
+      "entryId": "1200950",
+      "spelling": "改選",
+      "reading": "かいせん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "改選【かいせん】",
+      "meaning": "reelección"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

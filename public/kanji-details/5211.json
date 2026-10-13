@@ -1,0 +1,201 @@
+{
+  "character": "刑",
+  "meanings": "pena, sentencia, castigo",
+  "words": [
+    {
+      "entryId": "1249660",
+      "spelling": "刑事",
+      "reading": "けいじ",
+      "senseNumbers": [
+        11,
+        12
+      ],
+      "japanese": "刑事【けいじ】",
+      "meaning": "detective (de policía); asunto criminal"
+    },
+    {
+      "entryId": "1310810",
+      "spelling": "死刑",
+      "reading": "しけい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "死刑【しけい】",
+      "meaning": "pena de muerte; pena capital"
+    },
+    {
+      "entryId": "1249610",
+      "spelling": "刑",
+      "reading": "けい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "刑【けい】",
+      "meaning": "castigo; penitencia; pena"
+    },
+    {
+      "entryId": "1249820",
+      "spelling": "刑務所",
+      "reading": "けいむしょ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "刑務所【けいむしょ】",
+      "meaning": "prisión; cárcel; penitenciaria"
+    },
+    {
+      "entryId": "1249790",
+      "spelling": "刑法",
+      "reading": "けいほう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "刑法【けいほう】",
+      "meaning": "derecho penal; ley penal; Código Penal"
+    },
+    {
+      "entryId": "1342430",
+      "spelling": "処刑",
+      "reading": "しょけい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "処刑【しょけい】",
+      "meaning": "ejecución (matar)"
+    },
+    {
+      "entryId": "1630490",
+      "spelling": "刑事責任",
+      "reading": "けいじせきにん",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "刑事責任【けいじせきにん】",
+      "meaning": "responsabilidad penal"
+    },
+    {
+      "entryId": "1310820",
+      "spelling": "死刑囚",
+      "reading": "しけいしゅう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "死刑囚【しけいしゅう】",
+      "meaning": "criminales condenados a muerte"
+    },
+    {
+      "entryId": "1644830",
+      "spelling": "量刑",
+      "reading": "りょうけい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "量刑【りょうけい】",
+      "meaning": "fijación de la pena; determinación de la pena; gradación de la pena"
+    },
+    {
+      "entryId": "1329720",
+      "spelling": "受刑",
+      "reading": "じゅけい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "受刑【じゅけい】",
+      "meaning": "castigo"
+    },
+    {
+      "entryId": "1249780",
+      "spelling": "刑罰",
+      "reading": "けいばつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "刑罰【けいばつ】",
+      "meaning": "castigo; punición"
+    },
+    {
+      "entryId": "1263170",
+      "spelling": "減刑",
+      "reading": "げんけい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "減刑【げんけい】",
+      "meaning": "indulto parcial; conmutación de la pena por otra más leve"
+    },
+    {
+      "entryId": "1280860",
+      "spelling": "絞首刑",
+      "reading": "こうしゅけい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "絞首刑【こうしゅけい】",
+      "meaning": "muerte por ahorcamiento"
+    },
+    {
+      "entryId": "1240290",
+      "spelling": "極刑",
+      "reading": "きょっけい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "極刑【きょっけい】",
+      "meaning": "pena máxima; pena capital"
+    },
+    {
+      "entryId": "1552270",
+      "spelling": "流刑",
+      "reading": "りゅうけい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "流刑【りゅうけい】",
+      "meaning": "destierro; ostracismo"
+    },
+    {
+      "entryId": "1552270",
+      "spelling": "流刑",
+      "reading": "るけい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "流刑【るけい】",
+      "meaning": "destierro; ostracismo"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "character": "先",
+  "meanings": "antes, adelante, previo, precedencia, extremo, punta, final, anterior",
+  "words": [
+    {
+      "entryId": "1387500",
+      "spelling": "先月",
+      "reading": "せんげつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "先月【せんげつ】",
+      "meaning": "el mes pasado"
+    },
+    {
+      "entryId": "1387940",
+      "spelling": "先進国",
+      "reading": "せんしんこく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "先進国【せんしんこく】",
+      "meaning": "países desarrollados; países avanzados"
+    },
+    {
+      "entryId": "1387990",
+      "spelling": "先生",
+      "reading": "せんせい",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "先生【せんせい】",
+      "meaning": "maestro; profesor; doctor"
+    },
+    {
+      "entryId": "1539390",
+      "spelling": "優先",
+      "reading": "ゆうせん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "優先【ゆうせん】",
+      "meaning": "preferencia; prioridad"
+    },
+    {
+      "entryId": "1387280",
+      "spelling": "先に",
+      "reading": "さきに",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "先に【さきに】",
+      "meaning": "primero; por adelantado"
+    },
+    {
+      "entryId": "1596210",
+      "spelling": "先頭",
+      "reading": "せんとう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "先頭【せんとう】",
+      "meaning": "(ir a) la cabeza; parte delantera; vanguardia"
+    },
+    {
+      "entryId": "1387870",
+      "spelling": "先週",
+      "reading": "せんしゅう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "先週【せんしゅう】",
+      "meaning": "la última semana; la semana anterior"
+    },
+    {
+      "entryId": "1388410",
+      "spelling": "先輩",
+      "reading": "せんぱい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "先輩【せんぱい】",
+      "meaning": "sufijo que indica mayor antigüedad que uno en el trabajo escuela etc"
+    },
+    {
+      "entryId": "1388300",
+      "spelling": "先日",
+      "reading": "せんじつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "先日【せんじつ】",
+      "meaning": "el otro día; hace unos días"
+    },
+    {
+      "entryId": "1387980",
+      "spelling": "先制",
+      "reading": "せんせい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "先制【せんせい】",
+      "meaning": "anticipación; iniciativa"
+    },
+    {
+      "entryId": "1388110",
+      "spelling": "先端",
+      "reading": "せんたん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "先端【せんたん】",
+      "meaning": "vanguardia"
+    },
+    {
+      "entryId": "1580990",
+      "spelling": "先行き",
+      "reading": "さきいき",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "先行き【さきいき】",
+      "meaning": "(el) futuro"
+    },
+    {
+      "entryId": "1580990",
+      "spelling": "先行き",
+      "reading": "さきゆき",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "先行き【さきゆき】",
+      "meaning": "(el) futuro"
+    },
+    {
+      "entryId": "1294120",
+      "spelling": "最先端",
+      "reading": "さいせんたん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "最先端【さいせんたん】",
+      "meaning": "de vanguardia; vanguardia"
+    },
+    {
+      "entryId": "1388030",
+      "spelling": "先祖",
+      "reading": "せんぞ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "先祖【せんぞ】",
+      "meaning": "antepasado"
+    },
+    {
+      "entryId": "1388150",
+      "spelling": "先着",
+      "reading": "せんちゃく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "先着【せんちゃく】",
+      "meaning": "llegada con anterioridad"
+    },
+    {
+      "entryId": "1387830",
+      "spelling": "先手",
+      "reading": "せんて",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "先手【せんて】",
+      "meaning": "anticipación; iniciativa; vanguardia de un ejército; mano (cartas); persona que abre una partida; jugador que sale primero (ajedrez, damas, shogi)"
+    },
+    {
+      "entryId": "1387480",
+      "spelling": "先決",
+      "reading": "せんけつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "先決【せんけつ】",
+      "meaning": "decisión anterior; predeterminación; decidir por adelantado; primera prioridad"
+    },
+    {
+      "entryId": "1363260",
+      "spelling": "まっ先",
+      "reading": "まっさき",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "まっ先【まっさき】",
+      "meaning": "justo en frente; a la cabeza de; en primer plano"
+    },
+    {
+      "entryId": "1363260",
+      "spelling": "真っ先",
+      "reading": "まっさき",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "真っ先【まっさき】",
+      "meaning": "justo en frente; a la cabeza de; en primer plano"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

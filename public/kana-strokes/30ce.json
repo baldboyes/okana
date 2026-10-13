@@ -1,0 +1,30 @@
+{
+  "character": "ノ",
+  "script": "katakana",
+  "viewBox": "0 0 1024 1024",
+  "coordinates": "svg-native-y-down",
+  "strokes": [
+    {
+      "ordinal": 1,
+      "parts": [
+        {
+          "id": "z12494d1",
+          "clipId": "z12494c1",
+          "outline": "M688 282C602 483 457 628 223 828C173 871 173 905 239 862C488 702 660 511 772 331C812 267 861 283 817 222C730 104 718 165 713 199C708 234 692 273 688 282Z",
+          "median": "M 744,184 772,250 574,555 199,866"
+        }
+      ]
+    }
+  ],
+  "provenance": {
+    "commit": "ec5e17cca76c87587790bcbce5ea0b4d4fb753d6",
+    "modifiedAt": "2026-10-02",
+    "license": "LGPL-3.0-or-later",
+    "sourceFilename": "12494.svg",
+    "sourceUrl": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12494.svg",
+    "sourceSha256": "11af85aae25c5b1175d41bf5cd792980e44e9379eb24948d6c4e6ecbea731da4",
+    "gitBlobSha1": "8c5935f0a75a7ae518e7b4b085ea7a1b11de31b2",
+    "sourceHeader": "\nAnimCJK 2016-2026 Copyright FM-SH, https://github.com/parsimonhi/animCJK\nYou can redistribute and/or modify these files under the terms of the GNU\nLesser General Public License as published by the Free Software Foundation,\neither version 3 of the license, or (at your option) any later version. You\nshould have received a copy of this license (the file \"LGPL.txt\") along with\nthese files; if not, see https://www.gnu.org/licenses/.\n",
+    "notice": "Converted SVG outlines and median paths to grouped JSON without geometry changes by Okana on 2026-10-02, from AnimCJK ec5e17cca76c87587790bcbce5ea0b4d4fb753d6. Graphics remain LGPL-3.0-or-later; original copyright and notices are retained in sourceHeader and corresponding source SVG files."
+  }
+}

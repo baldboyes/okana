@@ -1,0 +1,224 @@
+{
+  "character": "願",
+  "meanings": "petición, deseo, anhelo, desear, pedir, rogar",
+  "words": [
+    {
+      "entryId": "1217900",
+      "spelling": "願",
+      "reading": "ねがい",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "願【ねがい】",
+      "meaning": "deseo"
+    },
+    {
+      "entryId": "1217900",
+      "spelling": "願い",
+      "reading": "ねがい",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "願い【ねがい】",
+      "meaning": "deseo"
+    },
+    {
+      "entryId": "1309080",
+      "spelling": "志願",
+      "reading": "しがん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "志願【しがん】",
+      "meaning": "instancia; solicitud"
+    },
+    {
+      "entryId": "1469390",
+      "spelling": "念願",
+      "reading": "ねんがん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "念願【ねんがん】",
+      "meaning": "deseo; anhelo"
+    },
+    {
+      "entryId": "1577710",
+      "spelling": "願望",
+      "reading": "がんぼう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "願望【がんぼう】",
+      "meaning": "deseo; aspiración"
+    },
+    {
+      "entryId": "1577710",
+      "spelling": "願望",
+      "reading": "がんもう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "願望【がんもう】",
+      "meaning": "deseo; aspiración"
+    },
+    {
+      "entryId": "1338500",
+      "spelling": "出願",
+      "reading": "しゅつがん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "出願【しゅつがん】",
+      "meaning": "solicitud; petición"
+    },
+    {
+      "entryId": "1381310",
+      "spelling": "請願",
+      "reading": "せいがん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "請願【せいがん】",
+      "meaning": "petición; solicitud"
+    },
+    {
+      "entryId": "1218050",
+      "spelling": "願書",
+      "reading": "がんしょ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "願書【がんしょ】",
+      "meaning": "solicitud (por escrito)"
+    },
+    {
+      "entryId": "1222780",
+      "spelling": "祈願",
+      "reading": "きがん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "祈願【きがん】",
+      "meaning": "oración"
+    },
+    {
+      "entryId": "1217950",
+      "spelling": "願う",
+      "reading": "ねがう",
+      "senseNumbers": [
+        16,
+        17,
+        18
+      ],
+      "japanese": "願う【ねがう】",
+      "meaning": "desear; querer; pedir; rogar; esperar; implorar; tener algo bueno por uno mismo"
+    },
+    {
+      "entryId": "1001720",
+      "spelling": "お願いしまあす",
+      "reading": "おねがいします",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "お願いしまあす【おねがいします】",
+      "meaning": "por favor"
+    },
+    {
+      "entryId": "1001720",
+      "spelling": "お願いします",
+      "reading": "おねがいします",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "お願いします【おねがいします】",
+      "meaning": "por favor"
+    },
+    {
+      "entryId": "1001720",
+      "spelling": "御願いします",
+      "reading": "おねがいします",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "御願いします【おねがいします】",
+      "meaning": "por favor"
+    },
+    {
+      "entryId": "1217970",
+      "spelling": "願わくは",
+      "reading": "ねがわくは",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "願わくは【ねがわくは】",
+      "meaning": "roguemos que"
+    },
+    {
+      "entryId": "2036870",
+      "spelling": "お願い",
+      "reading": "おねがい",
+      "senseNumbers": [
+        7,
+        8
+      ],
+      "japanese": "お願い【おねがい】",
+      "meaning": "pedir; solicitar; desear; por favor"
+    },
+    {
+      "entryId": "2036870",
+      "spelling": "御願い",
+      "reading": "おねがい",
+      "senseNumbers": [
+        7,
+        8
+      ],
+      "japanese": "御願い【おねがい】",
+      "meaning": "pedir; solicitar; desear; por favor"
+    },
+    {
+      "entryId": "1155620",
+      "spelling": "依願",
+      "reading": "いがん",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "依願【いがん】",
+      "meaning": "de conformindad con la solicitud de uno"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

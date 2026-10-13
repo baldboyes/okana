@@ -1,0 +1,240 @@
+{
+  "character": "採",
+  "meanings": "recoger, recolectar, seleccionar, elegir, recoger (fruta), adoptar (medida)",
+  "words": [
+    {
+      "entryId": "1294890",
+      "spelling": "採用",
+      "reading": "さいよう",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "採用【さいよう】",
+      "meaning": "adopción; acogimiento; empleo"
+    },
+    {
+      "entryId": "1294760",
+      "spelling": "採決",
+      "reading": "さいけつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "採決【さいけつ】",
+      "meaning": "voto; votación; sufragio; elección"
+    },
+    {
+      "entryId": "1294830",
+      "spelling": "採択",
+      "reading": "さいたく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "採択【さいたく】",
+      "meaning": "tomar; adoptar; adopción; discreción"
+    },
+    {
+      "entryId": "1294780",
+      "spelling": "採算",
+      "reading": "さいさん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "採算【さいさん】",
+      "meaning": "beneficio; provecho"
+    },
+    {
+      "entryId": "1294850",
+      "spelling": "採点",
+      "reading": "さいてん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "採点【さいてん】",
+      "meaning": "puntuación; calificación; puntuar; calificar; poner nota"
+    },
+    {
+      "entryId": "1294800",
+      "spelling": "採取",
+      "reading": "さいしゅ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "採取【さいしゅ】",
+      "meaning": "colección; amontonamiento; hacinamiento; acumulamiento"
+    },
+    {
+      "entryId": "1294750",
+      "spelling": "採掘",
+      "reading": "さいくつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "採掘【さいくつ】",
+      "meaning": "explotar; extraer"
+    },
+    {
+      "entryId": "1294810",
+      "spelling": "採集",
+      "reading": "さいしゅう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "採集【さいしゅう】",
+      "meaning": "colección; amontonamiento; hacinamiento; acumulamiento"
+    },
+    {
+      "entryId": "1326770",
+      "spelling": "採りだす",
+      "reading": "とりだす",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "採りだす【とりだす】",
+      "meaning": "extraer; eliminar; sacar; remover"
+    },
+    {
+      "entryId": "1326770",
+      "spelling": "採り出す",
+      "reading": "とりだす",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "採り出す【とりだす】",
+      "meaning": "extraer; eliminar; sacar; remover"
+    },
+    {
+      "entryId": "1599160",
+      "spelling": "採る",
+      "reading": "とる",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "採る【とる】",
+      "meaning": "adoptar (medida, propuesta); recoger (fruta); asumir (actitud)"
+    },
+    {
+      "entryId": "1326800",
+      "spelling": "採りあげる",
+      "reading": "とりあげる",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "採りあげる【とりあげる】",
+      "meaning": "recoger; descalificar; confiscar; privar; aceptar; adoptar; escuchar a"
+    },
+    {
+      "entryId": "1326800",
+      "spelling": "採り上げる",
+      "reading": "とりあげる",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "採り上げる【とりあげる】",
+      "meaning": "recoger; descalificar; confiscar; privar; aceptar; adoptar; escuchar a"
+    },
+    {
+      "entryId": "1326800",
+      "spelling": "採上げる",
+      "reading": "とりあげる",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "採上げる【とりあげる】",
+      "meaning": "recoger; descalificar; confiscar; privar; aceptar; adoptar; escuchar a"
+    },
+    {
+      "entryId": "1326880",
+      "spelling": "採りいれる",
+      "reading": "とりいれる",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "採りいれる【とりいれる】",
+      "meaning": "introducir; meter; implementar; adoptar"
+    },
+    {
+      "entryId": "1326880",
+      "spelling": "採り入れる",
+      "reading": "とりいれる",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "採り入れる【とりいれる】",
+      "meaning": "introducir; meter; implementar; adoptar"
+    },
+    {
+      "entryId": "1326880",
+      "spelling": "採入れる",
+      "reading": "とりいれる",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "採入れる【とりいれる】",
+      "meaning": "introducir; meter; implementar; adoptar"
+    },
+    {
+      "entryId": "1294770",
+      "spelling": "採血",
+      "reading": "さいけつ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "採血【さいけつ】",
+      "meaning": "extracción de sangre"
+    },
+    {
+      "entryId": "1741320",
+      "spelling": "採光",
+      "reading": "さいこう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "採光【さいこう】",
+      "meaning": "iluminación; alumbrado"
+    },
+    {
+      "entryId": "1294840",
+      "spelling": "採炭",
+      "reading": "さいたん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "採炭【さいたん】",
+      "meaning": "minería del carbón"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

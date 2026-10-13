@@ -1,0 +1,240 @@
+{
+  "character": "活",
+  "meanings": "vida, energía, actividad",
+  "words": [
+    {
+      "entryId": "1208360",
+      "spelling": "活動",
+      "reading": "かつどう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "活動【かつどう】",
+      "meaning": "actuar; estar activo; funcionar; trabajar; acción; actividad"
+    },
+    {
+      "entryId": "1378860",
+      "spelling": "生活",
+      "reading": "せいかつ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "生活【せいかつ】",
+      "meaning": "vida (existencia diaria propia); sustento"
+    },
+    {
+      "entryId": "1208410",
+      "spelling": "活溌",
+      "reading": "かっぱつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "活溌【かっぱつ】",
+      "meaning": "vigor; activo; vivo; alegre; animado"
+    },
+    {
+      "entryId": "1208410",
+      "spelling": "活潑",
+      "reading": "かっぱつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "活潑【かっぱつ】",
+      "meaning": "vigor; activo; vivo; alegre; animado"
+    },
+    {
+      "entryId": "1208410",
+      "spelling": "活発",
+      "reading": "かっぱつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "活発【かっぱつ】",
+      "meaning": "vigor; activo; vivo; alegre; animado"
+    },
+    {
+      "entryId": "1208450",
+      "spelling": "活躍",
+      "reading": "かつやく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "活躍【かつやく】",
+      "meaning": "actuar exitosamente; actuar magníficamente; moverse muy bien; desenvolverse muy bien; actividad"
+    },
+    {
+      "entryId": "1378520",
+      "spelling": "活きる",
+      "reading": "いきる",
+      "senseNumbers": [
+        21
+      ],
+      "japanese": "活きる【いきる】",
+      "meaning": "vivir; existir"
+    },
+    {
+      "entryId": "1500700",
+      "spelling": "復活",
+      "reading": "ふっかつ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "復活【ふっかつ】",
+      "meaning": "resurrección; retorno"
+    },
+    {
+      "entryId": "1500700",
+      "spelling": "復活",
+      "reading": "ふっかーつ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "復活【ふっかーつ】",
+      "meaning": "resurrección; retorno"
+    },
+    {
+      "entryId": "1208330",
+      "spelling": "活性",
+      "reading": "かっせい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "活性【かっせい】",
+      "meaning": "actividad"
+    },
+    {
+      "entryId": "1208460",
+      "spelling": "活用",
+      "reading": "かつよう",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "活用【かつよう】",
+      "meaning": "conjugar; declinar; aprovechar; sacar partido; usar; uso; empleo; aprovechamiento; utilización"
+    },
+    {
+      "entryId": "1208480",
+      "spelling": "活力",
+      "reading": "かつりょく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "活力【かつりょく】",
+      "meaning": "vitalidad; energía"
+    },
+    {
+      "entryId": "1358510",
+      "spelling": "食生活",
+      "reading": "しょくせいかつ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "食生活【しょくせいかつ】",
+      "meaning": "hábitos alimentarios"
+    },
+    {
+      "entryId": "1208300",
+      "spelling": "活字",
+      "reading": "かつじ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "活字【かつじ】",
+      "meaning": "tipo (imprenta)"
+    },
+    {
+      "entryId": "1609130",
+      "spelling": "活きいき",
+      "reading": "いきいき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "活きいき【いきいき】",
+      "meaning": "animadamente; vivamente; alegremente; vivazmente; frescamente"
+    },
+    {
+      "entryId": "1609130",
+      "spelling": "活き活き",
+      "reading": "いきいき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "活き活き【いきいき】",
+      "meaning": "animadamente; vivamente; alegremente; vivazmente; frescamente"
+    },
+    {
+      "entryId": "1208270",
+      "spelling": "活気",
+      "reading": "かっき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "活気【かっき】",
+      "meaning": "energía; viveza; vivacidad"
+    },
+    {
+      "entryId": "1587070",
+      "spelling": "活かす",
+      "reading": "いかす",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "活かす【いかす】",
+      "meaning": "revivir; resucitar; utilizar"
+    },
+    {
+      "entryId": "1311260",
+      "spelling": "私生活",
+      "reading": "しせいかつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "私生活【しせいかつ】",
+      "meaning": "vida privada"
+    },
+    {
+      "entryId": "1310770",
+      "spelling": "死活",
+      "reading": "しかつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "死活【しかつ】",
+      "meaning": "vida y muerte; vida o muerte"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

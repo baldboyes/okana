@@ -1,0 +1,160 @@
+{
+  "character": "春",
+  "meanings": "primavera, comienzo del año, tiempos de juventud",
+  "words": [
+    {
+      "entryId": "1341000",
+      "spelling": "春",
+      "reading": "はる",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "春【はる】",
+      "meaning": "primavera"
+    },
+    {
+      "entryId": "1381550",
+      "spelling": "青春",
+      "reading": "せいしゅん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "青春【せいしゅん】",
+      "meaning": "juventud; primavera de la vida; adolescente"
+    },
+    {
+      "entryId": "1601240",
+      "spelling": "売春",
+      "reading": "ばいしゅん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "売春【ばいしゅん】",
+      "meaning": "prostitución; prostituirse"
+    },
+    {
+      "entryId": "1447670",
+      "spelling": "春宮",
+      "reading": "とうぐう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "春宮【とうぐう】",
+      "meaning": "príncipe heredero"
+    },
+    {
+      "entryId": "1655260",
+      "spelling": "春季",
+      "reading": "しゅんき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "春季【しゅんき】",
+      "meaning": "primavera"
+    },
+    {
+      "entryId": "1309550",
+      "spelling": "思春期",
+      "reading": "ししゅんき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "思春期【ししゅんき】",
+      "meaning": "pubertad"
+    },
+    {
+      "entryId": "1582970",
+      "spelling": "売春婦",
+      "reading": "ばいしゅんふ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "売春婦【ばいしゅんふ】",
+      "meaning": "prostituta"
+    },
+    {
+      "entryId": "1610090",
+      "spelling": "早春",
+      "reading": "そうしゅん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "早春【そうしゅん】",
+      "meaning": "al inicio de la primavera"
+    },
+    {
+      "entryId": "1341160",
+      "spelling": "春分",
+      "reading": "しゅんぶん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "春分【しゅんぶん】",
+      "meaning": "equinoccio de verano"
+    },
+    {
+      "entryId": "1341040",
+      "spelling": "春夏秋冬",
+      "reading": "しゅんかしゅうとう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "春夏秋冬【しゅんかしゅうとう】",
+      "meaning": "primavera-verano-otoño-invierno"
+    },
+    {
+      "entryId": "1341140",
+      "spelling": "春風",
+      "reading": "しゅんぷう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "春風【しゅんぷう】",
+      "meaning": "brisa primaveral"
+    },
+    {
+      "entryId": "1341140",
+      "spelling": "春風",
+      "reading": "はるかぜ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "春風【はるかぜ】",
+      "meaning": "brisa primaveral"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

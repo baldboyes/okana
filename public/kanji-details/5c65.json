@@ -1,0 +1,140 @@
+{
+  "character": "履",
+  "meanings": "llevar a cabo uno mismo, calzado, calzarse",
+  "words": [
+    {
+      "entryId": "1246700",
+      "spelling": "履",
+      "reading": "くつ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "履【くつ】",
+      "meaning": "zapatos; calzado"
+    },
+    {
+      "entryId": "1450270",
+      "spelling": "履む",
+      "reading": "ふむ",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "履む【ふむ】",
+      "meaning": "pisar"
+    },
+    {
+      "entryId": "1549820",
+      "spelling": "履歴書",
+      "reading": "りれきしょ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "履歴書【りれきしょ】",
+      "meaning": "currículum vitae"
+    },
+    {
+      "entryId": "1600680",
+      "spelling": "履きもの",
+      "reading": "はきもの",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "履きもの【はきもの】",
+      "meaning": "calzado"
+    },
+    {
+      "entryId": "1600680",
+      "spelling": "履き物",
+      "reading": "はきもの",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "履き物【はきもの】",
+      "meaning": "calzado"
+    },
+    {
+      "entryId": "1600680",
+      "spelling": "履物",
+      "reading": "はきもの",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "履物【はきもの】",
+      "meaning": "calzado"
+    },
+    {
+      "entryId": "1549810",
+      "spelling": "履歴",
+      "reading": "りれき",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "履歴【りれき】",
+      "meaning": "historia personal; trayectoria; currículo"
+    },
+    {
+      "entryId": "1402060",
+      "spelling": "草履",
+      "reading": "じょうり",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "草履【じょうり】",
+      "meaning": "zori; sandalia"
+    },
+    {
+      "entryId": "1402060",
+      "spelling": "草履",
+      "reading": "ぞうり",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "草履【ぞうり】",
+      "meaning": "zori; sandalia"
+    },
+    {
+      "entryId": "1607260",
+      "spelling": "履く",
+      "reading": "はく",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "履く【はく】",
+      "meaning": "llevar; llevar puesto; vestir; portar; ponerse ropa (piernas y pies)"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

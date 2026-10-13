@@ -1,0 +1,240 @@
+{
+  "character": "輪",
+  "meanings": "rueda, anillo, círculo, eslabón, contador de flores, aro",
+  "words": [
+    {
+      "entryId": "1593610",
+      "spelling": "五輪",
+      "reading": "ごりん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "五輪【ごりん】",
+      "meaning": "(las) Olimpíadas; (los) Juegos Olímpicos"
+    },
+    {
+      "entryId": "1555710",
+      "spelling": "輪",
+      "reading": "わ",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "輪【わ】",
+      "meaning": "anillo; aro"
+    },
+    {
+      "entryId": "1234240",
+      "spelling": "競輪",
+      "reading": "けいりん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "競輪【けいりん】",
+      "meaning": "ciclismo en pista profesional; \"keirin\": ciclismo de persecución tras moto en pista"
+    },
+    {
+      "entryId": "1310050",
+      "spelling": "指輪",
+      "reading": "ゆびわ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "指輪【ゆびわ】",
+      "meaning": "anillo"
+    },
+    {
+      "entryId": "1323280",
+      "spelling": "車輪",
+      "reading": "しゃりん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "車輪【しゃりん】",
+      "meaning": "rueda"
+    },
+    {
+      "entryId": "1555740",
+      "spelling": "輪かく",
+      "reading": "りんかく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "輪かく【りんかく】",
+      "meaning": "contorno; silueta"
+    },
+    {
+      "entryId": "1555740",
+      "spelling": "輪廓",
+      "reading": "りんかく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "輪廓【りんかく】",
+      "meaning": "contorno; silueta"
+    },
+    {
+      "entryId": "1555740",
+      "spelling": "輪郭",
+      "reading": "りんかく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "輪郭【りんかく】",
+      "meaning": "contorno; silueta"
+    },
+    {
+      "entryId": "1307410",
+      "spelling": "四輪車",
+      "reading": "よんりんしゃ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "四輪車【よんりんしゃ】",
+      "meaning": "automóvil; coche"
+    },
+    {
+      "entryId": "1195080",
+      "spelling": "花輪",
+      "reading": "はなわ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "花輪【はなわ】",
+      "meaning": "guirnalda; corona de flores"
+    },
+    {
+      "entryId": "1459540",
+      "spelling": "内輪",
+      "reading": "うちわ",
+      "senseNumbers": [
+        21
+      ],
+      "japanese": "内輪【うちわ】",
+      "meaning": "interno; privado; familiar; íntimo; comedido; reservado; prudente"
+    },
+    {
+      "entryId": "1555770",
+      "spelling": "輪切り",
+      "reading": "わぎり",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "輪切り【わぎり】",
+      "meaning": "rodaja; rodajas"
+    },
+    {
+      "entryId": "1469260",
+      "spelling": "年輪",
+      "reading": "ねんりん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "年輪【ねんりん】",
+      "meaning": "anillos de un árbol; cronología"
+    },
+    {
+      "entryId": "1555720",
+      "spelling": "輪ゴム",
+      "reading": "わゴム",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "輪ゴム【わゴム】",
+      "meaning": "goma elástica (eng: rubber band)"
+    },
+    {
+      "entryId": "1599920",
+      "spelling": "仁輪加",
+      "reading": "にわか",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "仁輪加【にわか】",
+      "meaning": "repentino; súbito"
+    },
+    {
+      "entryId": "1167350",
+      "spelling": "一輪",
+      "reading": "いちりん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "一輪【いちりん】",
+      "meaning": "una flor; una rueda"
+    },
+    {
+      "entryId": "1167350",
+      "spelling": "１輪",
+      "reading": "いちりん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "１輪【いちりん】",
+      "meaning": "una flor; una rueda"
+    },
+    {
+      "entryId": "1329440",
+      "spelling": "頚輪",
+      "reading": "くびわ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "頚輪【くびわ】",
+      "meaning": "collar"
+    },
+    {
+      "entryId": "1329440",
+      "spelling": "頸輪",
+      "reading": "くびわ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "頸輪【くびわ】",
+      "meaning": "collar"
+    },
+    {
+      "entryId": "1329440",
+      "spelling": "首輪",
+      "reading": "くびわ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "首輪【くびわ】",
+      "meaning": "collar"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

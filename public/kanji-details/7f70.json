@@ -1,0 +1,150 @@
+{
+  "character": "罰",
+  "meanings": "pena, castigo",
+  "words": [
+    {
+      "entryId": "1478090",
+      "spelling": "罰金",
+      "reading": "ばっきん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "罰金【ばっきん】",
+      "meaning": "multa"
+    },
+    {
+      "entryId": "1478100",
+      "spelling": "罰則",
+      "reading": "ばっそく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "罰則【ばっそく】",
+      "meaning": "código penal"
+    },
+    {
+      "entryId": "1478050",
+      "spelling": "罰",
+      "reading": "ばち",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "罰【ばち】",
+      "meaning": "castigo (divino); maldición; castigo justo"
+    },
+    {
+      "entryId": "1409670",
+      "spelling": "体罰",
+      "reading": "たいばつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "体罰【たいばつ】",
+      "meaning": "castigo corporal"
+    },
+    {
+      "entryId": "1342480",
+      "spelling": "処罰",
+      "reading": "しょばつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "処罰【しょばつ】",
+      "meaning": "castigo; imponer un castigo; sancionar"
+    },
+    {
+      "entryId": "1249780",
+      "spelling": "刑罰",
+      "reading": "けいばつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "刑罰【けいばつ】",
+      "meaning": "castigo; punición"
+    },
+    {
+      "entryId": "1478080",
+      "spelling": "罰する",
+      "reading": "ばっする",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "罰する【ばっする】",
+      "meaning": "castigar; penalizar"
+    },
+    {
+      "entryId": "1351950",
+      "spelling": "賞罰",
+      "reading": "しょうばつ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "賞罰【しょうばつ】",
+      "meaning": "premio y castigo"
+    },
+    {
+      "entryId": "1478060",
+      "spelling": "罰",
+      "reading": "ばつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "罰【ばつ】",
+      "meaning": "castigo"
+    },
+    {
+      "entryId": "1611220",
+      "spelling": "罰点",
+      "reading": "ばってん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "罰点【ばってん】",
+      "meaning": "tache; demérito"
+    },
+    {
+      "entryId": "1262780",
+      "spelling": "厳罰",
+      "reading": "げんばつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "厳罰【げんばつ】",
+      "meaning": "duro castigo; medidas duras"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

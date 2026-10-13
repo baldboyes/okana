@@ -1,0 +1,241 @@
+{
+  "character": "状",
+  "meanings": "estado, condición, circunstancias, situación",
+  "words": [
+    {
+      "entryId": "1356320",
+      "spelling": "状勢",
+      "reading": "じょうせい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "状勢【じょうせい】",
+      "meaning": "situación; condición; estado actual"
+    },
+    {
+      "entryId": "1356700",
+      "spelling": "状況",
+      "reading": "じょうきょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "状況【じょうきょう】",
+      "meaning": "estado de las cosas (a tu alrededor); situación; circunstancias"
+    },
+    {
+      "entryId": "1356730",
+      "spelling": "状態",
+      "reading": "じょうたい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "状態【じょうたい】",
+      "meaning": "estado actual; condición; situación; circunstancias"
+    },
+    {
+      "entryId": "1263770",
+      "spelling": "現状",
+      "reading": "げんじょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "現状【げんじょう】",
+      "meaning": "condición actual"
+    },
+    {
+      "entryId": "1351030",
+      "spelling": "症状",
+      "reading": "しょうじょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "症状【しょうじょう】",
+      "meaning": "síntoma"
+    },
+    {
+      "entryId": "1595260",
+      "spelling": "実状",
+      "reading": "じつじょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "実状【じつじょう】",
+      "meaning": "hechos; estado; circunstancias; estado actual"
+    },
+    {
+      "entryId": "1351940",
+      "spelling": "賞状",
+      "reading": "しょうじょう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "賞状【しょうじょう】",
+      "meaning": "constancia; diploma; premio; agradecimiento"
+    },
+    {
+      "entryId": "1397770",
+      "spelling": "訴状",
+      "reading": "そじょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "訴状【そじょう】",
+      "meaning": "demanda; escrito de demanda"
+    },
+    {
+      "entryId": "1490350",
+      "spelling": "病状",
+      "reading": "びょうじょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "病状【びょうじょう】",
+      "meaning": "condición medica"
+    },
+    {
+      "entryId": "1468250",
+      "spelling": "年賀状",
+      "reading": "ねんがじょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "年賀状【ねんがじょう】",
+      "meaning": "tarjeta de fin de año"
+    },
+    {
+      "entryId": "1250340",
+      "spelling": "形状",
+      "reading": "けいじょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "形状【けいじょう】",
+      "meaning": "forma; figura"
+    },
+    {
+      "entryId": "1157800",
+      "spelling": "異状",
+      "reading": "いじょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "異状【いじょう】",
+      "meaning": "algo equivocado; accidente; cambio; anormalidad; aberración"
+    },
+    {
+      "entryId": "1213380",
+      "spelling": "環状",
+      "reading": "かんじょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "環状【かんじょう】",
+      "meaning": "circular; redondo; en forma de círculo"
+    },
+    {
+      "entryId": "1303350",
+      "spelling": "惨状",
+      "reading": "さんじょう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "惨状【さんじょう】",
+      "meaning": "imagen deplorable; escena dantesca"
+    },
+    {
+      "entryId": "1280170",
+      "spelling": "甲状せん",
+      "reading": "こうじょうせん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "甲状せん【こうじょうせん】",
+      "meaning": "glándula tiroides; tiroides"
+    },
+    {
+      "entryId": "1280170",
+      "spelling": "甲状腺",
+      "reading": "こうじょうせん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "甲状腺【こうじょうせん】",
+      "meaning": "glándula tiroides; tiroides"
+    },
+    {
+      "entryId": "1557530",
+      "spelling": "礼状",
+      "reading": "れいじょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "礼状【れいじょう】",
+      "meaning": "carta de agradecimiento"
+    },
+    {
+      "entryId": "1475230",
+      "spelling": "白状",
+      "reading": "はくじょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "白状【はくじょう】",
+      "meaning": "confesión"
+    },
+    {
+      "entryId": "1545790",
+      "spelling": "状",
+      "reading": "さま",
+      "senseNumbers": [
+        15,
+        16
+      ],
+      "japanese": "状【さま】",
+      "meaning": "señor; don; señora; doña; tipo; manera; apariencia"
+    },
+    {
+      "entryId": "2220550",
+      "spelling": "状況報告",
+      "reading": "じょうきょうほうこく",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "状況報告【じょうきょうほうこく】",
+      "meaning": "informe de situación"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

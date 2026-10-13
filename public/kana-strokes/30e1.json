@@ -1,0 +1,41 @@
+{
+  "character": "メ",
+  "script": "katakana",
+  "viewBox": "0 0 1024 1024",
+  "coordinates": "svg-native-y-down",
+  "strokes": [
+    {
+      "ordinal": 1,
+      "parts": [
+        {
+          "id": "z12513d1",
+          "clipId": "z12513c1",
+          "outline": "M682 193C684 263 634 343 615 377C598 407 497 579 275 787C159 896 198 898 293 830C506 676 659 455 686 417C730 354 761 303 811 251C831 230 791 198 764 180C744 167 680 121 682 193Z",
+          "median": "M 706,166 751,246 470,655 222,862"
+        }
+      ]
+    },
+    {
+      "ordinal": 2,
+      "parts": [
+        {
+          "id": "z12513d2",
+          "clipId": "z12513c2",
+          "outline": "M411 398C360 371 348 382 389 423C458 491 594 620 620 653C643 681 697 727 722 687C738 660 708 615 678 588C644 558 507 450 411 398Z",
+          "median": "M 379,395 656,601 701,692"
+        }
+      ]
+    }
+  ],
+  "provenance": {
+    "commit": "ec5e17cca76c87587790bcbce5ea0b4d4fb753d6",
+    "modifiedAt": "2026-10-02",
+    "license": "LGPL-3.0-or-later",
+    "sourceFilename": "12513.svg",
+    "sourceUrl": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12513.svg",
+    "sourceSha256": "71e15df844e6e3b974f479652925410d24e36a28537e41b7596dd5d6379fda75",
+    "gitBlobSha1": "63f109c89ceb043c79341d88d5734948da590aa8",
+    "sourceHeader": "\nAnimCJK 2016-2026 Copyright FM-SH, https://github.com/parsimonhi/animCJK\nYou can redistribute and/or modify these files under the terms of the GNU\nLesser General Public License as published by the Free Software Foundation,\neither version 3 of the license, or (at your option) any later version. You\nshould have received a copy of this license (the file \"LGPL.txt\") along with\nthese files; if not, see https://www.gnu.org/licenses/.\n",
+    "notice": "Converted SVG outlines and median paths to grouped JSON without geometry changes by Okana on 2026-10-02, from AnimCJK ec5e17cca76c87587790bcbce5ea0b4d4fb753d6. Graphics remain LGPL-3.0-or-later; original copyright and notices are retained in sourceHeader and corresponding source SVG files."
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "character": "蔵",
+  "meanings": "almacén, depósito, bodega, esconder, guardar",
+  "words": [
+    {
+      "entryId": "1414430",
+      "spelling": "大蔵省",
+      "reading": "おおくらしょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "大蔵省【おおくらしょう】",
+      "meaning": "Ministro de la Tesoreria de Japón"
+    },
+    {
+      "entryId": "1403520",
+      "spelling": "蔵相",
+      "reading": "ぞうしょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "蔵相【ぞうしょう】",
+      "meaning": "Ministro de Finanzas"
+    },
+    {
+      "entryId": "1414420",
+      "spelling": "大蔵",
+      "reading": "おおくら",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "大蔵【おおくら】",
+      "meaning": "Ministerio de Finanzas"
+    },
+    {
+      "entryId": "1557110",
+      "spelling": "冷蔵庫",
+      "reading": "れいぞうこ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "冷蔵庫【れいぞうこ】",
+      "meaning": "refrigerador; nevera"
+    },
+    {
+      "entryId": "1592380",
+      "spelling": "蔵",
+      "reading": "くら",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "蔵【くら】",
+      "meaning": "silo; almacen de grano; almacén"
+    },
+    {
+      "entryId": "1427220",
+      "spelling": "貯蔵",
+      "reading": "ちょぞう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "貯蔵【ちょぞう】",
+      "meaning": "almacén; bodega; despensa"
+    },
+    {
+      "entryId": "1458750",
+      "spelling": "内蔵",
+      "reading": "ないぞう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "内蔵【ないぞう】",
+      "meaning": "interno; intrínseco"
+    },
+    {
+      "entryId": "1524560",
+      "spelling": "埋蔵",
+      "reading": "まいぞう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "埋蔵【まいぞう】",
+      "meaning": "depósito subterráneo; yacimiento"
+    },
+    {
+      "entryId": "1723760",
+      "spelling": "米蔵",
+      "reading": "こめぐら",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "米蔵【こめぐら】",
+      "meaning": "granero de arroz"
+    },
+    {
+      "entryId": "1557100",
+      "spelling": "冷蔵",
+      "reading": "れいぞう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "冷蔵【れいぞう】",
+      "meaning": "refrigeración"
+    },
+    {
+      "entryId": "1077770",
+      "spelling": "西蔵",
+      "reading": "チベット",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "西蔵【チベット】",
+      "meaning": "Tíbet"
+    },
+    {
+      "entryId": "1305380",
+      "spelling": "蔵う",
+      "reading": "しまう",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "蔵う【しまう】",
+      "meaning": "finalizar; terminar; hacer algo completamente; ponerle fin a; cerrar; acabar; guardar"
+    },
+    {
+      "entryId": "1150920",
+      "spelling": "愛蔵",
+      "reading": "あいぞう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "愛蔵【あいぞう】",
+      "meaning": "atesorado; querido; estimado"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

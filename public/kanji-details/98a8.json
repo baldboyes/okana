@@ -1,0 +1,240 @@
+{
+  "character": "風",
+  "meanings": "viento, aire, hábito, estilo, conducta",
+  "words": [
+    {
+      "entryId": "1499830",
+      "spelling": "風景",
+      "reading": "ふうけい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "風景【ふうけい】",
+      "meaning": "paisaje"
+    },
+    {
+      "entryId": "1596780",
+      "spelling": "台風",
+      "reading": "たいふう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "台風【たいふう】",
+      "meaning": "tifón"
+    },
+    {
+      "entryId": "1596780",
+      "spelling": "颱風",
+      "reading": "たいふう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "颱風【たいふう】",
+      "meaning": "tifón"
+    },
+    {
+      "entryId": "1500020",
+      "spelling": "風土",
+      "reading": "ふうど",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "風土【ふうど】",
+      "meaning": "clima; tiempo"
+    },
+    {
+      "entryId": "1499950",
+      "spelling": "風速",
+      "reading": "ふうそく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "風速【ふうそく】",
+      "meaning": "velocidad del viento"
+    },
+    {
+      "entryId": "1583720",
+      "spelling": "風邪",
+      "reading": "かぜ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "風邪【かぜ】",
+      "meaning": "resfrío; resfriado común; catarro"
+    },
+    {
+      "entryId": "1583720",
+      "spelling": "風邪",
+      "reading": "ふうじゃ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "風邪【ふうじゃ】",
+      "meaning": "resfrío; resfriado común; catarro"
+    },
+    {
+      "entryId": "1588800",
+      "spelling": "追い風",
+      "reading": "おいかぜ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "追い風【おいかぜ】",
+      "meaning": "viento a favor; viento en popa"
+    },
+    {
+      "entryId": "1588800",
+      "spelling": "追い風",
+      "reading": "おいて",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "追い風【おいて】",
+      "meaning": "viento a favor; viento en popa"
+    },
+    {
+      "entryId": "1588800",
+      "spelling": "追風",
+      "reading": "おいかぜ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "追風【おいかぜ】",
+      "meaning": "viento a favor; viento en popa"
+    },
+    {
+      "entryId": "1236530",
+      "spelling": "強風",
+      "reading": "きょうふう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "強風【きょうふう】",
+      "meaning": "viento fuerte"
+    },
+    {
+      "entryId": "1499960",
+      "spelling": "風俗",
+      "reading": "ふうぞく",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "風俗【ふうぞく】",
+      "meaning": "costumbres y modales; moral pública"
+    },
+    {
+      "entryId": "1499960",
+      "spelling": "風俗",
+      "reading": "フーゾク",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "風俗【フーゾク】",
+      "meaning": "costumbres y modales; moral pública"
+    },
+    {
+      "entryId": "1361130",
+      "spelling": "風",
+      "reading": "ふり",
+      "senseNumbers": [
+        22
+      ],
+      "japanese": "風【ふり】",
+      "meaning": "comportamiento; apariencia"
+    },
+    {
+      "entryId": "1499940",
+      "spelling": "風船",
+      "reading": "ふうせん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "風船【ふうせん】",
+      "meaning": "globo (esp. pequeño, de juguete)"
+    },
+    {
+      "entryId": "1562180",
+      "spelling": "和風",
+      "reading": "わふう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "和風【わふう】",
+      "meaning": "estilo japonés"
+    },
+    {
+      "entryId": "1499860",
+      "spelling": "風刺",
+      "reading": "ふうし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "風刺【ふうし】",
+      "meaning": "sátira"
+    },
+    {
+      "entryId": "1297930",
+      "spelling": "作風",
+      "reading": "さくふう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "作風【さくふう】",
+      "meaning": "estilo literario"
+    },
+    {
+      "entryId": "1519540",
+      "spelling": "暴風",
+      "reading": "あらし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "暴風【あらし】",
+      "meaning": "vendaval; huracán; temporal"
+    },
+    {
+      "entryId": "1519540",
+      "spelling": "暴風",
+      "reading": "ぼうふう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "暴風【ぼうふう】",
+      "meaning": "vendaval; huracán; temporal"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

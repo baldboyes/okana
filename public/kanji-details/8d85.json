@@ -1,0 +1,151 @@
+{
+  "character": "超",
+  "meanings": "trascender, sobresalir, super-, sobrepasar",
+  "words": [
+    {
+      "entryId": "1593070",
+      "spelling": "超える",
+      "reading": "こえる",
+      "senseNumbers": [
+        17,
+        18
+      ],
+      "japanese": "超える【こえる】",
+      "meaning": "cruzar; pasar por alto; exceder; sobrepasar"
+    },
+    {
+      "entryId": "1742540",
+      "spelling": "超伝導",
+      "reading": "ちょうでんどう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "超伝導【ちょうでんどう】",
+      "meaning": "superconductividad"
+    },
+    {
+      "entryId": "1742540",
+      "spelling": "超電導",
+      "reading": "ちょうでんどう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "超電導【ちょうでんどう】",
+      "meaning": "superconductividad"
+    },
+    {
+      "entryId": "1429410",
+      "spelling": "超過",
+      "reading": "ちょうか",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "超過【ちょうか】",
+      "meaning": "exceso"
+    },
+    {
+      "entryId": "1742400",
+      "spelling": "超音波",
+      "reading": "ちょうおんぱ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "超音波【ちょうおんぱ】",
+      "meaning": "ondas ultrasónicas"
+    },
+    {
+      "entryId": "1175300",
+      "spelling": "超す",
+      "reading": "こす",
+      "senseNumbers": [
+        24
+      ],
+      "japanese": "超す【こす】",
+      "meaning": "exceder; sobrepasar; pasar; atravesar; rebasar"
+    },
+    {
+      "entryId": "1429360",
+      "spelling": "超越",
+      "reading": "ちょうえつ",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "超越【ちょうえつ】",
+      "meaning": "trascendental"
+    },
+    {
+      "entryId": "1429530",
+      "spelling": "超特急",
+      "reading": "ちょうとっきゅう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "超特急【ちょうとっきゅう】",
+      "meaning": "trenes superrápidos"
+    },
+    {
+      "entryId": "1429340",
+      "spelling": "超",
+      "reading": "ちょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "超【ちょう】",
+      "meaning": "super-; ultra-; hiper-"
+    },
+    {
+      "entryId": "1429400",
+      "spelling": "超音速",
+      "reading": "ちょうおんそく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "超音速【ちょうおんそく】",
+      "meaning": "velocidad supersónica"
+    },
+    {
+      "entryId": "1429470",
+      "spelling": "超人",
+      "reading": "ちょうじん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "超人【ちょうじん】",
+      "meaning": "superhombre"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

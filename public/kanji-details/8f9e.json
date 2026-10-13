@@ -1,0 +1,240 @@
+{
+  "character": "辞",
+  "meanings": "renuncia, dimisión, palabra, discurso, retirarse, abandonar",
+  "words": [
+    {
+      "entryId": "1264540",
+      "spelling": "辞",
+      "reading": "ことば",
+      "senseNumbers": [
+        24
+      ],
+      "japanese": "辞【ことば】",
+      "meaning": "palabra; idioma; lengua; lenguaje; expresión; frase"
+    },
+    {
+      "entryId": "1319000",
+      "spelling": "辞任",
+      "reading": "じにん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "辞任【じにん】",
+      "meaning": "dimisión; renuncia; dimitir; despedirse; dejar el cargo"
+    },
+    {
+      "entryId": "1318980",
+      "spelling": "辞職",
+      "reading": "じしょく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "辞職【じしょく】",
+      "meaning": "renuncia; dimisión"
+    },
+    {
+      "entryId": "1512220",
+      "spelling": "返辞",
+      "reading": "へんじ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "返辞【へんじ】",
+      "meaning": "respuesta; contestación"
+    },
+    {
+      "entryId": "1318970",
+      "spelling": "辞書",
+      "reading": "じしょ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "辞書【じしょ】",
+      "meaning": "diccionario; léxico"
+    },
+    {
+      "entryId": "1595270",
+      "spelling": "辞典",
+      "reading": "じてん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "辞典【じてん】",
+      "meaning": "diccionario"
+    },
+    {
+      "entryId": "1318990",
+      "spelling": "辞退",
+      "reading": "じたい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "辞退【じたい】",
+      "meaning": "rechazar; declinar; rehusar; abstención; moderación; recato"
+    },
+    {
+      "entryId": "1337460",
+      "spelling": "祝辞",
+      "reading": "しゅくじ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "祝辞【しゅくじ】",
+      "meaning": "felicitación; enhorabuena; congratulación; alabanza; parabién"
+    },
+    {
+      "entryId": "1602190",
+      "spelling": "百科辞典",
+      "reading": "ひゃっかじてん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "百科辞典【ひゃっかじてん】",
+      "meaning": "enciclopedia"
+    },
+    {
+      "entryId": "1304180",
+      "spelling": "讃辞",
+      "reading": "さんじ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "讃辞【さんじ】",
+      "meaning": "elogio; halago; cumplido"
+    },
+    {
+      "entryId": "1304180",
+      "spelling": "讚辞",
+      "reading": "さんじ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "讚辞【さんじ】",
+      "meaning": "elogio; halago; cumplido"
+    },
+    {
+      "entryId": "1304180",
+      "spelling": "賛辞",
+      "reading": "さんじ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "賛辞【さんじ】",
+      "meaning": "elogio; halago; cumplido"
+    },
+    {
+      "entryId": "1657340",
+      "spelling": "国語辞典",
+      "reading": "こくごじてん",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "国語辞典【こくごじてん】",
+      "meaning": "diccionario de japonés"
+    },
+    {
+      "entryId": "1002250",
+      "spelling": "お世辞",
+      "reading": "おせじ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "お世辞【おせじ】",
+      "meaning": "adulación; galantería"
+    },
+    {
+      "entryId": "1002250",
+      "spelling": "御世辞",
+      "reading": "おせじ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "御世辞【おせじ】",
+      "meaning": "adulación; galantería"
+    },
+    {
+      "entryId": "1318950",
+      "spelling": "辞める",
+      "reading": "やめる",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "辞める【やめる】",
+      "meaning": "dejar de; renunciar a; dimitir; cesar en un puesto o actividad; abandonar; retirar"
+    },
+    {
+      "entryId": "1002030",
+      "spelling": "お辞儀",
+      "reading": "おじぎ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "お辞儀【おじぎ】",
+      "meaning": "inclinación; reverencia"
+    },
+    {
+      "entryId": "1002030",
+      "spelling": "御辞儀",
+      "reading": "おじぎ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "御辞儀【おじぎ】",
+      "meaning": "inclinación; reverencia"
+    },
+    {
+      "entryId": "1323040",
+      "spelling": "謝辞",
+      "reading": "しゃじ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "謝辞【しゃじ】",
+      "meaning": "agradecimientos; palabras de gratitud; palabras de agradecimiento"
+    },
+    {
+      "entryId": "1655450",
+      "spelling": "漢和辞典",
+      "reading": "かんわじてん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "漢和辞典【かんわじてん】",
+      "meaning": "diccionario de kanji; diccionario de ideogramas chinos"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

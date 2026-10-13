@@ -1,0 +1,240 @@
+{
+  "character": "仲",
+  "meanings": "mediación, relación",
+  "words": [
+    {
+      "entryId": "1425790",
+      "spelling": "仲間",
+      "reading": "なかま",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "仲間【なかま】",
+      "meaning": "compañía; compañero; colega; camarada; grupo; círculo de amigos; socio"
+    },
+    {
+      "entryId": "1425750",
+      "spelling": "仲介",
+      "reading": "ちゅうかい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "仲介【ちゅうかい】",
+      "meaning": "intermediario; mediador"
+    },
+    {
+      "entryId": "1597540",
+      "spelling": "仲核",
+      "reading": "ちゅうかく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "仲核【ちゅうかく】",
+      "meaning": "núcleo; médula; centro"
+    },
+    {
+      "entryId": "1425710",
+      "spelling": "仲",
+      "reading": "なか",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "仲【なか】",
+      "meaning": "relación"
+    },
+    {
+      "entryId": "1426090",
+      "spelling": "仲よく",
+      "reading": "なかよく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "仲よく【なかよく】",
+      "meaning": "hacer amistad con; llevarse bien con; de buenas maneras"
+    },
+    {
+      "entryId": "1426090",
+      "spelling": "仲好く",
+      "reading": "なかよく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "仲好く【なかよく】",
+      "meaning": "hacer amistad con; llevarse bien con; de buenas maneras"
+    },
+    {
+      "entryId": "1426090",
+      "spelling": "仲良く",
+      "reading": "なかよく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "仲良く【なかよく】",
+      "meaning": "hacer amistad con; llevarse bien con; de buenas maneras"
+    },
+    {
+      "entryId": "1425900",
+      "spelling": "仲裁",
+      "reading": "ちゅうさい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "仲裁【ちゅうさい】",
+      "meaning": "arbitraje; intercesión; mediación"
+    },
+    {
+      "entryId": "1425840",
+      "spelling": "仲間入り",
+      "reading": "なかまいり",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "仲間入り【なかまいり】",
+      "meaning": "unirse a un grupo"
+    },
+    {
+      "entryId": "1425960",
+      "spelling": "仲人",
+      "reading": "ちゅうにん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "仲人【ちゅうにん】",
+      "meaning": "casamentero; casamentera"
+    },
+    {
+      "entryId": "1425960",
+      "spelling": "仲人",
+      "reading": "なこうど",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "仲人【なこうど】",
+      "meaning": "casamentero; casamentera"
+    },
+    {
+      "entryId": "1426100",
+      "spelling": "仲よし",
+      "reading": "なかよし",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "仲よし【なかよし】",
+      "meaning": "amigo íntimo; amiguete; colega"
+    },
+    {
+      "entryId": "1426100",
+      "spelling": "仲好し",
+      "reading": "なかよし",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "仲好し【なかよし】",
+      "meaning": "amigo íntimo; amiguete; colega"
+    },
+    {
+      "entryId": "1426100",
+      "spelling": "仲良し",
+      "reading": "なかよし",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "仲良し【なかよし】",
+      "meaning": "amigo íntimo; amiguete; colega"
+    },
+    {
+      "entryId": "1493810",
+      "spelling": "不仲",
+      "reading": "ふなか",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "不仲【ふなか】",
+      "meaning": "discordia"
+    },
+    {
+      "entryId": "1426030",
+      "spelling": "仲買",
+      "reading": "なかがい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "仲買【なかがい】",
+      "meaning": "corretaje; comisionista"
+    },
+    {
+      "entryId": "1426030",
+      "spelling": "仲買い",
+      "reading": "なかがい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "仲買い【なかがい】",
+      "meaning": "corretaje; comisionista"
+    },
+    {
+      "entryId": "1599420",
+      "spelling": "仲々",
+      "reading": "なかなか",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "仲々【なかなか】",
+      "meaning": "muy; considerablemente; fácilmente; de buena gana; de ningún modo (con verbos negativos)"
+    },
+    {
+      "entryId": "1599420",
+      "spelling": "仲仲",
+      "reading": "なかなか",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "仲仲【なかなか】",
+      "meaning": "muy; considerablemente; fácilmente; de buena gana; de ningún modo (con verbos negativos)"
+    },
+    {
+      "entryId": "1426000",
+      "spelling": "仲直り",
+      "reading": "なかなおり",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "仲直り【なかなおり】",
+      "meaning": "reconciliación; hacer las paces con"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

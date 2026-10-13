@@ -1,0 +1,244 @@
+{
+  "character": "薬",
+  "meanings": "medicina, droga",
+  "words": [
+    {
+      "entryId": "1524440",
+      "spelling": "痲薬",
+      "reading": "まやく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "痲薬【まやく】",
+      "meaning": "estupefacientes; narcóticos; opio; droga"
+    },
+    {
+      "entryId": "1524440",
+      "spelling": "麻薬",
+      "reading": "まやく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "麻薬【まやく】",
+      "meaning": "estupefacientes; narcóticos; opio; droga"
+    },
+    {
+      "entryId": "1538160",
+      "spelling": "薬",
+      "reading": "くすり",
+      "senseNumbers": [
+        20,
+        21,
+        22,
+        23
+      ],
+      "japanese": "薬【くすり】",
+      "meaning": "medicina; productos farmacéuticos; químicos eficaces (i.e. pólvora, pesticidas, etc.); glasear (cerámica); pequeño soborno"
+    },
+    {
+      "entryId": "1470780",
+      "spelling": "農薬",
+      "reading": "のうやく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "農薬【のうやく】",
+      "meaning": "pesticidas"
+    },
+    {
+      "entryId": "1160110",
+      "spelling": "医薬品",
+      "reading": "いやくひん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "医薬品【いやくひん】",
+      "meaning": "suministros médicos"
+    },
+    {
+      "entryId": "1538300",
+      "spelling": "薬物",
+      "reading": "やくぶつ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "薬物【やくぶつ】",
+      "meaning": "medicinas; medicamentos; fármacos; drogas"
+    },
+    {
+      "entryId": "1380830",
+      "spelling": "製薬",
+      "reading": "せいやく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "製薬【せいやく】",
+      "meaning": "farmacéutico"
+    },
+    {
+      "entryId": "1538280",
+      "spelling": "薬品",
+      "reading": "やくひん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "薬品【やくひん】",
+      "meaning": "medicinas; fármacos"
+    },
+    {
+      "entryId": "1419520",
+      "spelling": "弾薬",
+      "reading": "だんやく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "弾薬【だんやく】",
+      "meaning": "munición"
+    },
+    {
+      "entryId": "1538220",
+      "spelling": "薬剤",
+      "reading": "やくざい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "薬剤【やくざい】",
+      "meaning": "medicina; medicamento; fármaco; droga"
+    },
+    {
+      "entryId": "1194260",
+      "spelling": "火薬",
+      "reading": "かやく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "火薬【かやく】",
+      "meaning": "pólvora"
+    },
+    {
+      "entryId": "1720620",
+      "spelling": "新薬",
+      "reading": "しんやく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "新薬【しんやく】",
+      "meaning": "medicamento nuevo; (un) nuevo medicamento"
+    },
+    {
+      "entryId": "1538200",
+      "spelling": "薬局",
+      "reading": "やっきょく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "薬局【やっきょく】",
+      "meaning": "farmacia"
+    },
+    {
+      "entryId": "1213240",
+      "spelling": "漢方薬",
+      "reading": "かんぽうやく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "漢方薬【かんぽうやく】",
+      "meaning": "planta medicinal; hierba medicinal"
+    },
+    {
+      "entryId": "1213240",
+      "spelling": "韓方薬",
+      "reading": "かんぽうやく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "韓方薬【かんぽうやく】",
+      "meaning": "planta medicinal; hierba medicinal"
+    },
+    {
+      "entryId": "1538230",
+      "spelling": "薬剤師",
+      "reading": "やくざいし",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "薬剤師【やくざいし】",
+      "meaning": "farmacia"
+    },
+    {
+      "entryId": "1160100",
+      "spelling": "医薬",
+      "reading": "いやく",
+      "senseNumbers": [
+        10,
+        11
+      ],
+      "japanese": "医薬【いやく】",
+      "meaning": "medicina; Buró de la Seguridad Farmacéutica y Alimenticia"
+    },
+    {
+      "entryId": "1447370",
+      "spelling": "投薬",
+      "reading": "とうやく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "投薬【とうやく】",
+      "meaning": "medicación"
+    },
+    {
+      "entryId": "1455640",
+      "spelling": "毒薬",
+      "reading": "どくやく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "毒薬【どくやく】",
+      "meaning": "veneno"
+    },
+    {
+      "entryId": "1609540",
+      "spelling": "かぜ薬",
+      "reading": "かぜぐすり",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "かぜ薬【かぜぐすり】",
+      "meaning": "medicina para el catarro"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

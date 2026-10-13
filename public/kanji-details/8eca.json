@@ -1,0 +1,241 @@
+{
+  "character": "車",
+  "meanings": "coche, vehículo, rueda",
+  "words": [
+    {
+      "entryId": "1318400",
+      "spelling": "自動車",
+      "reading": "じどうしゃ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "自動車【じどうしゃ】",
+      "meaning": "automóvil"
+    },
+    {
+      "entryId": "1323080",
+      "spelling": "車",
+      "reading": "くるま",
+      "senseNumbers": [
+        14,
+        15
+      ],
+      "japanese": "車【くるま】",
+      "meaning": "automóvil; coche; vehículo; (am) carro; rueda"
+    },
+    {
+      "entryId": "1185170",
+      "spelling": "下車",
+      "reading": "げしゃ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "下車【げしゃ】",
+      "meaning": "descenso de un autobús o cualquier otro tipo de vehículo"
+    },
+    {
+      "entryId": "1355460",
+      "spelling": "乗用車",
+      "reading": "じょうようしゃ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "乗用車【じょうようしゃ】",
+      "meaning": "automóvil"
+    },
+    {
+      "entryId": "1323250",
+      "spelling": "車両",
+      "reading": "しゃりょう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "車両【しゃりょう】",
+      "meaning": "vehículo; carro; vagón"
+    },
+    {
+      "entryId": "1323250",
+      "spelling": "車輌",
+      "reading": "しゃりょう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "車輌【しゃりょう】",
+      "meaning": "vehículo; carro; vagón"
+    },
+    {
+      "entryId": "1323250",
+      "spelling": "車輛",
+      "reading": "しゃりょう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "車輛【しゃりょう】",
+      "meaning": "vehículo; carro; vagón"
+    },
+    {
+      "entryId": "1318290",
+      "spelling": "自転車",
+      "reading": "じてんしゃ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "自転車【じてんしゃ】",
+      "meaning": "bicicleta"
+    },
+    {
+      "entryId": "1318290",
+      "spelling": "自転車",
+      "reading": "じでんしゃ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "自転車【じでんしゃ】",
+      "meaning": "bicicleta"
+    },
+    {
+      "entryId": "1443530",
+      "spelling": "電車",
+      "reading": "でんしゃ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "電車【でんしゃ】",
+      "meaning": "tren (eléctrico)"
+    },
+    {
+      "entryId": "1558370",
+      "spelling": "列車",
+      "reading": "れっしゃ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "列車【れっしゃ】",
+      "meaning": "tren"
+    },
+    {
+      "entryId": "1426920",
+      "spelling": "駐車場",
+      "reading": "ちゅうしゃじょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "駐車場【ちゅうしゃじょう】",
+      "meaning": "estacionamiento; aparcamiento"
+    },
+    {
+      "entryId": "1390270",
+      "spelling": "戦車",
+      "reading": "せんしゃ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "戦車【せんしゃ】",
+      "meaning": "tanque (vehículo militar)"
+    },
+    {
+      "entryId": "1323220",
+      "spelling": "車内",
+      "reading": "しゃない",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "車内【しゃない】",
+      "meaning": "interior de un vehículo"
+    },
+    {
+      "entryId": "1361920",
+      "spelling": "新車",
+      "reading": "しんしゃ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "新車【しんしゃ】",
+      "meaning": "coche nuevo"
+    },
+    {
+      "entryId": "1229100",
+      "spelling": "救急車",
+      "reading": "きゅうきゅうしゃ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "救急車【きゅうきゅうしゃ】",
+      "meaning": "ambulancia"
+    },
+    {
+      "entryId": "1229100",
+      "spelling": "ＱＱ車",
+      "reading": "きゅうきゅうしゃ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "ＱＱ車【きゅうきゅうしゃ】",
+      "meaning": "ambulancia"
+    },
+    {
+      "entryId": "1323120",
+      "spelling": "車庫",
+      "reading": "しゃこ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "車庫【しゃこ】",
+      "meaning": "cochera"
+    },
+    {
+      "entryId": "1426910",
+      "spelling": "駐車",
+      "reading": "ちゅうしゃ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "駐車【ちゅうしゃ】",
+      "meaning": "estacionar; aparcar; estacionamiento; aparcamiento (de un vehículo)"
+    },
+    {
+      "entryId": "1355270",
+      "spelling": "乗車",
+      "reading": "じょうしゃ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "乗車【じょうしゃ】",
+      "meaning": "embarcar; subir los pasajeros; monta; ascenso"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

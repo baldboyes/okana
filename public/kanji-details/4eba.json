@@ -1,0 +1,256 @@
+{
+  "character": "人",
+  "meanings": "persona",
+  "words": [
+    {
+      "entryId": "1203650",
+      "spelling": "外国人",
+      "reading": "がいこくじん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "外国人【がいこくじん】",
+      "meaning": "extranjero"
+    },
+    {
+      "entryId": "1264770",
+      "spelling": "個人",
+      "reading": "こじん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "個人【こじん】",
+      "meaning": "personal"
+    },
+    {
+      "entryId": "1366770",
+      "spelling": "人間",
+      "reading": "にんげん",
+      "senseNumbers": [
+        12,
+        13
+      ],
+      "japanese": "人間【にんげん】",
+      "meaning": "ser humano; hombre; persona; carácter (de una persona)"
+    },
+    {
+      "entryId": "1367010",
+      "spelling": "人気",
+      "reading": "にんき",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "人気【にんき】",
+      "meaning": "popularidad"
+    },
+    {
+      "entryId": "1367300",
+      "spelling": "人口",
+      "reading": "じんこう",
+      "senseNumbers": [
+        11,
+        12
+      ],
+      "japanese": "人口【じんこう】",
+      "meaning": "población; número de habitantes; plática común"
+    },
+    {
+      "entryId": "1496480",
+      "spelling": "良人",
+      "reading": "おっと",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "良人【おっと】",
+      "meaning": "esposo; marido"
+    },
+    {
+      "entryId": "1580650",
+      "spelling": "人々",
+      "reading": "ひとびと",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "人々【ひとびと】",
+      "meaning": "personas (gente)"
+    },
+    {
+      "entryId": "1580650",
+      "spelling": "人びと",
+      "reading": "ひとびと",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "人びと【ひとびと】",
+      "meaning": "personas (gente)"
+    },
+    {
+      "entryId": "1580650",
+      "spelling": "人人",
+      "reading": "ひとびと",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "人人【ひとびと】",
+      "meaning": "personas (gente)"
+    },
+    {
+      "entryId": "1582670",
+      "spelling": "二人",
+      "reading": "ににん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "二人【ににん】",
+      "meaning": "dos personas; pareja; dúo"
+    },
+    {
+      "entryId": "1582670",
+      "spelling": "二人",
+      "reading": "ふたり",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "二人【ふたり】",
+      "meaning": "dos personas; pareja; dúo"
+    },
+    {
+      "entryId": "1582670",
+      "spelling": "２人",
+      "reading": "ふたり",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "２人【ふたり】",
+      "meaning": "dos personas; pareja; dúo"
+    },
+    {
+      "entryId": "1301000",
+      "spelling": "三人",
+      "reading": "さんにん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "三人【さんにん】",
+      "meaning": "tres personas; trío"
+    },
+    {
+      "entryId": "1301000",
+      "spelling": "三人",
+      "reading": "みたり",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "三人【みたり】",
+      "meaning": "tres personas; trío"
+    },
+    {
+      "entryId": "1301000",
+      "spelling": "３人",
+      "reading": "さんにん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "３人【さんにん】",
+      "meaning": "tres personas; trío"
+    },
+    {
+      "entryId": "1464700",
+      "spelling": "ニッポン人",
+      "reading": "にほんじん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "ニッポン人【にほんじん】",
+      "meaning": "persona japonesa; el pueblo japonés; Japonés; Japonesa"
+    },
+    {
+      "entryId": "1464700",
+      "spelling": "日本人",
+      "reading": "にっぽんじん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "日本人【にっぽんじん】",
+      "meaning": "persona japonesa; el pueblo japonés; Japonés; Japonesa"
+    },
+    {
+      "entryId": "1464700",
+      "spelling": "日本人",
+      "reading": "にほんじん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "日本人【にほんじん】",
+      "meaning": "persona japonesa; el pueblo japonés; Japonés; Japonesa"
+    },
+    {
+      "entryId": "1576150",
+      "spelling": "一人",
+      "reading": "ひとり",
+      "senseNumbers": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "japanese": "一人【ひとり】",
+      "meaning": "una persona; solo; soltero; solitario"
+    },
+    {
+      "entryId": "1576150",
+      "spelling": "１人",
+      "reading": "ひとり",
+      "senseNumbers": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "japanese": "１人【ひとり】",
+      "meaning": "una persona; solo; soltero; solitario"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

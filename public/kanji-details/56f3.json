@@ -1,0 +1,240 @@
+{
+  "character": "図",
+  "meanings": "dibujo, ilustración, consulta, estrategia, planear, diseñar",
+  "words": [
+    {
+      "entryId": "1156690",
+      "spelling": "意図",
+      "reading": "いと",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "意図【いと】",
+      "meaning": "intención; diseño"
+    },
+    {
+      "entryId": "1370420",
+      "spelling": "図書館",
+      "reading": "ずしょかん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "図書館【ずしょかん】",
+      "meaning": "biblioteca"
+    },
+    {
+      "entryId": "1370420",
+      "spelling": "図書館",
+      "reading": "としょかん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "図書館【としょかん】",
+      "meaning": "biblioteca"
+    },
+    {
+      "entryId": "1421290",
+      "spelling": "地図",
+      "reading": "ちず",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "地図【ちず】",
+      "meaning": "mapa"
+    },
+    {
+      "entryId": "1279720",
+      "spelling": "構図",
+      "reading": "こうず",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "構図【こうず】",
+      "meaning": "composición"
+    },
+    {
+      "entryId": "1370320",
+      "spelling": "図",
+      "reading": "ず",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "図【ず】",
+      "meaning": "figura (ej. Fig 1); dibujo; imagen; ilustración"
+    },
+    {
+      "entryId": "1370410",
+      "spelling": "図書",
+      "reading": "ずしょ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "図書【ずしょ】",
+      "meaning": "libros"
+    },
+    {
+      "entryId": "1370410",
+      "spelling": "図書",
+      "reading": "としょ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "図書【としょ】",
+      "meaning": "libros"
+    },
+    {
+      "entryId": "1600660",
+      "spelling": "図る",
+      "reading": "はかる",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "図る【はかる】",
+      "meaning": "tramar; intentar; planear; diseñar; maquinar; conspirar"
+    },
+    {
+      "entryId": "1728130",
+      "spelling": "一図",
+      "reading": "いちず",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "一図【いちず】",
+      "meaning": "con todo el corazón; seriamente"
+    },
+    {
+      "entryId": "1156700",
+      "spelling": "意図的",
+      "reading": "いとてき",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "意図的【いとてき】",
+      "meaning": "intencional; a propósito; adrede"
+    },
+    {
+      "entryId": "1284930",
+      "spelling": "合図",
+      "reading": "あいず",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "合図【あいず】",
+      "meaning": "seña; señal"
+    },
+    {
+      "entryId": "1284930",
+      "spelling": "相図",
+      "reading": "あいず",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "相図【あいず】",
+      "meaning": "seña; señal"
+    },
+    {
+      "entryId": "1370370",
+      "spelling": "図鑑",
+      "reading": "ずかん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "図鑑【ずかん】",
+      "meaning": "libro ilustrado de referencia; enciclopedia ilustrada (esp. para niños)"
+    },
+    {
+      "entryId": "1370500",
+      "spelling": "図柄",
+      "reading": "ずがら",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "図柄【ずがら】",
+      "meaning": "diseño; patrón"
+    },
+    {
+      "entryId": "1370380",
+      "spelling": "図形",
+      "reading": "ずけい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "図形【ずけい】",
+      "meaning": "figura"
+    },
+    {
+      "entryId": "1309850",
+      "spelling": "指図",
+      "reading": "さしず",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "指図【さしず】",
+      "meaning": "instrucción; mandato"
+    },
+    {
+      "entryId": "1370490",
+      "spelling": "図表",
+      "reading": "ずひょう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "図表【ずひょう】",
+      "meaning": "gráfica; diagrama; gráfico; figura"
+    },
+    {
+      "entryId": "1370360",
+      "spelling": "図解",
+      "reading": "ずかい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "図解【ずかい】",
+      "meaning": "ilustración"
+    },
+    {
+      "entryId": "1004040",
+      "spelling": "愚図愚図",
+      "reading": "ぐずぐず",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "愚図愚図【ぐずぐず】",
+      "meaning": "lentamente; perezosamente; con parsimonia; derrumbarse; desmoronarse"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

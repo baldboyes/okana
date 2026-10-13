@@ -1,0 +1,192 @@
+{
+  "character": "認",
+  "meanings": "reconocer, admitir, consentir",
+  "words": [
+    {
+      "entryId": "1349520",
+      "spelling": "承認",
+      "reading": "しょうにん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "承認【しょうにん】",
+      "meaning": "aceptar; reconocer; autorización; aprobación; consentimiento"
+    },
+    {
+      "entryId": "1467550",
+      "spelling": "認識",
+      "reading": "にんしき",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "認識【にんしき】",
+      "meaning": "reconocimiento; conocimiento (de algo)"
+    },
+    {
+      "entryId": "1205900",
+      "spelling": "確認",
+      "reading": "かくにん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "確認【かくにん】",
+      "meaning": "comprobar; confirmar; corroborar; reafirmar; ratificar; certificar; afirmación; confirmación; validación"
+    },
+    {
+      "entryId": "1274450",
+      "spelling": "公認",
+      "reading": "こうにん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "公認【こうにん】",
+      "meaning": "reconocimiento oficial; autorización; permiso; licencia; acreditación"
+    },
+    {
+      "entryId": "1467540",
+      "spelling": "認可",
+      "reading": "にんか",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "認可【にんか】",
+      "meaning": "licencias; permisos"
+    },
+    {
+      "entryId": "1545440",
+      "spelling": "容認",
+      "reading": "ようにん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "容認【ようにん】",
+      "meaning": "aprobación; visto bueno"
+    },
+    {
+      "entryId": "1467580",
+      "spelling": "認知",
+      "reading": "にんち",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "認知【にんち】",
+      "meaning": "reconocimiento"
+    },
+    {
+      "entryId": "1483040",
+      "spelling": "否認",
+      "reading": "ひにん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "否認【ひにん】",
+      "meaning": "rechazo; negación"
+    },
+    {
+      "entryId": "1483040",
+      "spelling": "非認",
+      "reading": "ひにん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "非認【ひにん】",
+      "meaning": "rechazo; negación"
+    },
+    {
+      "entryId": "1274460",
+      "spelling": "公認会計士",
+      "reading": "こうにんかいけいし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "公認会計士【こうにんかいけいし】",
+      "meaning": "censor jurado de cuentas"
+    },
+    {
+      "entryId": "1467530",
+      "spelling": "認める",
+      "reading": "みとめる",
+      "senseNumbers": [
+        18,
+        19,
+        20
+      ],
+      "japanese": "認める【みとめる】",
+      "meaning": "reconocer; apreciar; observar; darse cuenta; admitir; aprobar; autorizar"
+    },
+    {
+      "entryId": "1611800",
+      "spelling": "認め印",
+      "reading": "みとめいん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "認め印【みとめいん】",
+      "meaning": "sello; firma (de aprobación)"
+    },
+    {
+      "entryId": "1611800",
+      "spelling": "認印",
+      "reading": "みとめいん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "認印【みとめいん】",
+      "meaning": "sello; firma (de aprobación)"
+    },
+    {
+      "entryId": "1318510",
+      "spelling": "自認",
+      "reading": "じにん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "自認【じにん】",
+      "meaning": "reconocer; admitir"
+    },
+    {
+      "entryId": "1374520",
+      "spelling": "是認",
+      "reading": "ぜにん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "是認【ぜにん】",
+      "meaning": "aprobación; visto bueno"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

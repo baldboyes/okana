@@ -1,0 +1,240 @@
+{
+  "character": "栄",
+  "meanings": "florecer, prosperidad, honor, gloria, prosperar",
+  "words": [
+    {
+      "entryId": "1173990",
+      "spelling": "栄養",
+      "reading": "えいよう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "栄養【えいよう】",
+      "meaning": "alimentación; nutrición"
+    },
+    {
+      "entryId": "1481670",
+      "spelling": "繁栄",
+      "reading": "はんえい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "繁栄【はんえい】",
+      "meaning": "prosperidad"
+    },
+    {
+      "entryId": "1173920",
+      "spelling": "栄光",
+      "reading": "えいこう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "栄光【えいこう】",
+      "meaning": "gloria; aureola; honor"
+    },
+    {
+      "entryId": "1234280",
+      "spelling": "共栄",
+      "reading": "きょうえい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "共栄【きょうえい】",
+      "meaning": "prosperidad mutua"
+    },
+    {
+      "entryId": "1272870",
+      "spelling": "光栄",
+      "reading": "こうえい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "光栄【こうえい】",
+      "meaning": "honor; honra"
+    },
+    {
+      "entryId": "1173970",
+      "spelling": "栄誉",
+      "reading": "えいよ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "栄誉【えいよ】",
+      "meaning": "honor"
+    },
+    {
+      "entryId": "1174020",
+      "spelling": "栄養士",
+      "reading": "えいようし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "栄養士【えいようし】",
+      "meaning": "nutricionista"
+    },
+    {
+      "entryId": "1173890",
+      "spelling": "栄冠",
+      "reading": "えいかん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "栄冠【えいかん】",
+      "meaning": "corona de gloria; laurel"
+    },
+    {
+      "entryId": "1174030",
+      "spelling": "栄養失調",
+      "reading": "えいようしっちょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "栄養失調【えいようしっちょう】",
+      "meaning": "desnutrición"
+    },
+    {
+      "entryId": "1578350",
+      "spelling": "見栄",
+      "reading": "みえ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "見栄【みえ】",
+      "meaning": "apariencia; vista"
+    },
+    {
+      "entryId": "1174040",
+      "spelling": "栄養素",
+      "reading": "えいようそ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "栄養素【えいようそ】",
+      "meaning": "nutriente"
+    },
+    {
+      "entryId": "1613560",
+      "spelling": "栄養学",
+      "reading": "えいようがく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "栄養学【えいようがく】",
+      "meaning": "dietética; ciencia nutricional"
+    },
+    {
+      "entryId": "1173860",
+      "spelling": "栄える",
+      "reading": "さかえる",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "栄える【さかえる】",
+      "meaning": "prosperar; florecer"
+    },
+    {
+      "entryId": "1600620",
+      "spelling": "栄える",
+      "reading": "はえる",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "栄える【はえる】",
+      "meaning": "brillar; verse atractivo; verse bien; verse bonito"
+    },
+    {
+      "entryId": "1609670",
+      "spelling": "虚栄心",
+      "reading": "きょえいしん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "虚栄心【きょえいしん】",
+      "meaning": "vanidad"
+    },
+    {
+      "entryId": "1174000",
+      "spelling": "栄養価",
+      "reading": "えいようか",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "栄養価【えいようか】",
+      "meaning": "valor nutritivo"
+    },
+    {
+      "entryId": "1624300",
+      "spelling": "栄養分",
+      "reading": "えいようぶん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "栄養分【えいようぶん】",
+      "meaning": "elementos nutritivos"
+    },
+    {
+      "entryId": "1173880",
+      "spelling": "栄花",
+      "reading": "えいが",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "栄花【えいが】",
+      "meaning": "prosperidad; esplendor; gloria; majestuosidad; magnificencia; fausto; lujo"
+    },
+    {
+      "entryId": "1173880",
+      "spelling": "栄華",
+      "reading": "えいが",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "栄華【えいが】",
+      "meaning": "prosperidad; esplendor; gloria; majestuosidad; magnificencia; fausto; lujo"
+    },
+    {
+      "entryId": "1173900",
+      "spelling": "栄枯",
+      "reading": "えいこ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "栄枯【えいこ】",
+      "meaning": "vicisitud; prosperidad y decadencia"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

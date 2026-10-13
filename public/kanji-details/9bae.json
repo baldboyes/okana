@@ -1,0 +1,130 @@
+{
+  "character": "鮮",
+  "meanings": "fresco, vívido, reciente, espléndido, Corea",
+  "words": [
+    {
+      "entryId": "1521200",
+      "spelling": "北朝鮮",
+      "reading": "きたちょうせん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "北朝鮮【きたちょうせん】",
+      "meaning": "Corea del Norte"
+    },
+    {
+      "entryId": "1428420",
+      "spelling": "朝鮮",
+      "reading": "ちょうせん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "朝鮮【ちょうせん】",
+      "meaning": "Corea"
+    },
+    {
+      "entryId": "1428450",
+      "spelling": "朝鮮半島",
+      "reading": "ちょうせんはんとう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "朝鮮半島【ちょうせんはんとう】",
+      "meaning": "península de Corea"
+    },
+    {
+      "entryId": "1362100",
+      "spelling": "新鮮",
+      "reading": "しんせん",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "新鮮【しんせん】",
+      "meaning": "fresco"
+    },
+    {
+      "entryId": "1392500",
+      "spelling": "鮮か",
+      "reading": "あざやか",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "鮮か【あざやか】",
+      "meaning": "fresco; vivo; animado"
+    },
+    {
+      "entryId": "1392500",
+      "spelling": "鮮やか",
+      "reading": "あざやか",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "鮮やか【あざやか】",
+      "meaning": "fresco; vivo; animado"
+    },
+    {
+      "entryId": "1616080",
+      "spelling": "生鮮",
+      "reading": "せいせん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "生鮮【せいせん】",
+      "meaning": "fresco"
+    },
+    {
+      "entryId": "1392550",
+      "spelling": "鮮烈",
+      "reading": "せんれつ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "鮮烈【せんれつ】",
+      "meaning": "viveza"
+    },
+    {
+      "entryId": "1392510",
+      "spelling": "鮮魚",
+      "reading": "せんぎょ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "鮮魚【せんぎょ】",
+      "meaning": "pescado fresco"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

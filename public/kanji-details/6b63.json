@@ -1,0 +1,240 @@
+{
+  "character": "正",
+  "meanings": "correcto, justo, arreglar, enderezar",
+  "words": [
+    {
+      "entryId": "1200930",
+      "spelling": "改正",
+      "reading": "かいせい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "改正【かいせい】",
+      "meaning": "revisión; revista; verificación; rectificar; corregir; revisar"
+    },
+    {
+      "entryId": "1332130",
+      "spelling": "修正",
+      "reading": "しゅうせい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "修正【しゅうせい】",
+      "meaning": "corrección; enmienda; rectificación; corregir; rectificar; modificar; enmendar"
+    },
+    {
+      "entryId": "1377290",
+      "spelling": "正式",
+      "reading": "せいしき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "正式【せいしき】",
+      "meaning": "oficialmente; (formalmente; )"
+    },
+    {
+      "entryId": "1377390",
+      "spelling": "正常",
+      "reading": "せいじょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "正常【せいじょう】",
+      "meaning": "normalmente correcto"
+    },
+    {
+      "entryId": "1374510",
+      "spelling": "是正",
+      "reading": "ぜせい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "是正【ぜせい】",
+      "meaning": "corrección"
+    },
+    {
+      "entryId": "1374510",
+      "spelling": "証正",
+      "reading": "ぜせい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "証正【ぜせい】",
+      "meaning": "corrección"
+    },
+    {
+      "entryId": "1376910",
+      "spelling": "正義",
+      "reading": "せいぎ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "正義【せいぎ】",
+      "meaning": "justicia"
+    },
+    {
+      "entryId": "1377080",
+      "spelling": "正午",
+      "reading": "しょうご",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "正午【しょうご】",
+      "meaning": "mediodía"
+    },
+    {
+      "entryId": "1376590",
+      "spelling": "正",
+      "reading": "せい",
+      "senseNumbers": [
+        25
+      ],
+      "japanese": "正【せい】",
+      "meaning": "(lógica) verdad; regular"
+    },
+    {
+      "entryId": "1378030",
+      "spelling": "正面",
+      "reading": "しょうめん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "正面【しょうめん】",
+      "meaning": "principal (por ser el de enfrente)"
+    },
+    {
+      "entryId": "1493370",
+      "spelling": "不正",
+      "reading": "ふせい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "不正【ふせい】",
+      "meaning": "incorrecto; deshonesto; injusto"
+    },
+    {
+      "entryId": "1377030",
+      "spelling": "正月",
+      "reading": "しょうがつ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "正月【しょうがつ】",
+      "meaning": "Nuevo Año; Día de Año Nuevo; el primer mes; Enero"
+    },
+    {
+      "entryId": "1377660",
+      "spelling": "正当",
+      "reading": "せいとう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "正当【せいとう】",
+      "meaning": "lo justo"
+    },
+    {
+      "entryId": "1274120",
+      "spelling": "公正",
+      "reading": "こうせい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "公正【こうせい】",
+      "meaning": "justo"
+    },
+    {
+      "entryId": "1377590",
+      "spelling": "正直",
+      "reading": "しょうじき",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "正直【しょうじき】",
+      "meaning": "honesto"
+    },
+    {
+      "entryId": "1414250",
+      "spelling": "大正",
+      "reading": "たいしょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "大正【たいしょう】",
+      "meaning": "Taisho (era, emperador)"
+    },
+    {
+      "entryId": "1376850",
+      "spelling": "正規",
+      "reading": "せいき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "正規【せいき】",
+      "meaning": "regular; legal; formal; establecido; legítimo"
+    },
+    {
+      "entryId": "1436710",
+      "spelling": "訂正",
+      "reading": "ていせい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "訂正【ていせい】",
+      "meaning": "corrección; revisión"
+    },
+    {
+      "entryId": "1514680",
+      "spelling": "補正",
+      "reading": "ほせい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "補正【ほせい】",
+      "meaning": "rectificación; corrección"
+    },
+    {
+      "entryId": "1377530",
+      "spelling": "正体",
+      "reading": "しょうたい",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "正体【しょうたい】",
+      "meaning": "forma natural; verdadero carácter; consciencia; sentidos"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

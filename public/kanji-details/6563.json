@@ -1,0 +1,240 @@
+{
+  "character": "散",
+  "meanings": "esparcir, dispersar, derramar, caer, esparcirse, estar desordenado",
+  "words": [
+    {
+      "entryId": "1199000",
+      "spelling": "解散",
+      "reading": "かいさん",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "解散【かいさん】",
+      "meaning": "disolución"
+    },
+    {
+      "entryId": "1205180",
+      "spelling": "拡散",
+      "reading": "かくさん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "拡散【かくさん】",
+      "meaning": "dispersión; diseminación; difusión; dispersarse; diseminarse; difundirse"
+    },
+    {
+      "entryId": "1303620",
+      "spelling": "散步",
+      "reading": "さんぽ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "散步【さんぽ】",
+      "meaning": "paseo"
+    },
+    {
+      "entryId": "1303620",
+      "spelling": "散歩",
+      "reading": "さんぽ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "散歩【さんぽ】",
+      "meaning": "paseo"
+    },
+    {
+      "entryId": "1503580",
+      "spelling": "分散",
+      "reading": "ぶんさん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "分散【ぶんさん】",
+      "meaning": "dispersión; diseminación"
+    },
+    {
+      "entryId": "1303500",
+      "spelling": "散会",
+      "reading": "さんかい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "散会【さんかい】",
+      "meaning": "aplazamiento; suspensión"
+    },
+    {
+      "entryId": "1303600",
+      "spelling": "散布",
+      "reading": "さんぷ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "散布【さんぷ】",
+      "meaning": "espolvoreado; dispersión; esparcimiento"
+    },
+    {
+      "entryId": "1303490",
+      "spelling": "散る",
+      "reading": "ちる",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "散る【ちる】",
+      "meaning": "caerse; esparcirse"
+    },
+    {
+      "entryId": "1593980",
+      "spelling": "散々",
+      "reading": "さんざん",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "散々【さんざん】",
+      "meaning": "terrible; cruel; ininterrumpidamente"
+    },
+    {
+      "entryId": "1593980",
+      "spelling": "散散",
+      "reading": "さんざん",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "散散【さんざん】",
+      "meaning": "terrible; cruel; ininterrumpidamente"
+    },
+    {
+      "entryId": "1303590",
+      "spelling": "散髪",
+      "reading": "さんぱつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "散髪【さんぱつ】",
+      "meaning": "corte de pelo"
+    },
+    {
+      "entryId": "1477480",
+      "spelling": "発散",
+      "reading": "はっさん",
+      "senseNumbers": [
+        21
+      ],
+      "japanese": "発散【はっさん】",
+      "meaning": "dejar salir los sentimientos; emitiendo; emanando; divergencia (física)"
+    },
+    {
+      "entryId": "1303440",
+      "spelling": "散らし",
+      "reading": "ちらし",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "散らし【ちらし】",
+      "meaning": "volante; folleto"
+    },
+    {
+      "entryId": "1303480",
+      "spelling": "散らばる",
+      "reading": "ちらばる",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "散らばる【ちらばる】",
+      "meaning": "desparramarse; esparcirse"
+    },
+    {
+      "entryId": "1303430",
+      "spelling": "散らかる",
+      "reading": "ちらかる",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "散らかる【ちらかる】",
+      "meaning": "estar desordenado; estar desparramado"
+    },
+    {
+      "entryId": "1303460",
+      "spelling": "散らす",
+      "reading": "ちらす",
+      "senseNumbers": [
+        25
+      ],
+      "japanese": "散らす【ちらす】",
+      "meaning": "dispersar; esparcir; distribuir"
+    },
+    {
+      "entryId": "1601320",
+      "spelling": "散播く",
+      "reading": "ばらまく",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "散播く【ばらまく】",
+      "meaning": "esparcir; derrochar"
+    },
+    {
+      "entryId": "1601320",
+      "spelling": "散蒔く",
+      "reading": "ばらまく",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "散蒔く【ばらまく】",
+      "meaning": "esparcir; derrochar"
+    },
+    {
+      "entryId": "1303420",
+      "spelling": "散らかす",
+      "reading": "ちらかす",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "散らかす【ちらかす】",
+      "meaning": "dejar desordenado; desparramar"
+    },
+    {
+      "entryId": "1303560",
+      "spelling": "散弾",
+      "reading": "さんだん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "散弾【さんだん】",
+      "meaning": "perdigonada"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

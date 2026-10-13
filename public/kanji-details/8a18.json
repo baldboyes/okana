@@ -1,0 +1,241 @@
+{
+  "character": "記",
+  "meanings": "crónica, narración, memorizar, anotar, consignar por escrito",
+  "words": [
+    {
+      "entryId": "1223240",
+      "spelling": "記事",
+      "reading": "きじ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "記事【きじ】",
+      "meaning": "artículo (nota periodística)"
+    },
+    {
+      "entryId": "1223250",
+      "spelling": "記者",
+      "reading": "きしゃ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "記者【きしゃ】",
+      "meaning": "reportero; periodista"
+    },
+    {
+      "entryId": "1223440",
+      "spelling": "記錄",
+      "reading": "きろく",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "記錄【きろく】",
+      "meaning": "registro; registrar; anotar; dejar constancia de; inscribir; asentar"
+    },
+    {
+      "entryId": "1223440",
+      "spelling": "記録",
+      "reading": "きろく",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "記録【きろく】",
+      "meaning": "registro; registrar; anotar; dejar constancia de; inscribir; asentar"
+    },
+    {
+      "entryId": "1344000",
+      "spelling": "書記",
+      "reading": "しょき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "書記【しょき】",
+      "meaning": "oficinista; secretario"
+    },
+    {
+      "entryId": "1223340",
+      "spelling": "記念",
+      "reading": "きねん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "記念【きねん】",
+      "meaning": "conmemoración; recuerdo; conmemorar; rememorar; celebrar"
+    },
+    {
+      "entryId": "1223150",
+      "spelling": "記憶",
+      "reading": "きおく",
+      "senseNumbers": [
+        18,
+        19
+      ],
+      "japanese": "記憶【きおく】",
+      "meaning": "memoria; recolección; recuerdo; almacenaje; recordar; rememorar; retener en la memoria"
+    },
+    {
+      "entryId": "1223280",
+      "spelling": "記述",
+      "reading": "きじゅつ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "記述【きじゅつ】",
+      "meaning": "descripción; nota; anotación; registro; observación"
+    },
+    {
+      "entryId": "1223380",
+      "spelling": "記念日",
+      "reading": "きねんび",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "記念日【きねんび】",
+      "meaning": "aniversario"
+    },
+    {
+      "entryId": "1463930",
+      "spelling": "日記",
+      "reading": "にっき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "日記【にっき】",
+      "meaning": "diario; bitácora"
+    },
+    {
+      "entryId": "1223230",
+      "spelling": "記載",
+      "reading": "きさい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "記載【きさい】",
+      "meaning": "mención; anotación"
+    },
+    {
+      "entryId": "1223140",
+      "spelling": "記す",
+      "reading": "きす",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "記す【きす】",
+      "meaning": "apuntar; escribir"
+    },
+    {
+      "entryId": "1223140",
+      "spelling": "記す",
+      "reading": "しるす",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "記す【しるす】",
+      "meaning": "apuntar; escribir"
+    },
+    {
+      "entryId": "1489420",
+      "spelling": "表記",
+      "reading": "ひょうき",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "表記【ひょうき】",
+      "meaning": "nota; comentario; observación"
+    },
+    {
+      "entryId": "1444750",
+      "spelling": "登記",
+      "reading": "とうき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "登記【とうき】",
+      "meaning": "registro; inscripción"
+    },
+    {
+      "entryId": "1223210",
+      "spelling": "記号",
+      "reading": "きごう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "記号【きごう】",
+      "meaning": "símbolo"
+    },
+    {
+      "entryId": "1532420",
+      "spelling": "明記",
+      "reading": "めいき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "明記【めいき】",
+      "meaning": "especificación"
+    },
+    {
+      "entryId": "1441960",
+      "spelling": "伝記",
+      "reading": "でんき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "伝記【でんき】",
+      "meaning": "biografía; relato de la vida"
+    },
+    {
+      "entryId": "1223330",
+      "spelling": "記入",
+      "reading": "きにゅう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "記入【きにゅう】",
+      "meaning": "apunte; anotación"
+    },
+    {
+      "entryId": "1223390",
+      "spelling": "記念碑",
+      "reading": "きねんひ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "記念碑【きねんひ】",
+      "meaning": "monumento"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

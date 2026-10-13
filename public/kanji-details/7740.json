@@ -1,0 +1,243 @@
+{
+  "character": "着",
+  "meanings": "usar, llevar puesto, vestir, llegar, alcanzar",
+  "words": [
+    {
+      "entryId": "1592630",
+      "spelling": "決着",
+      "reading": "けっちゃく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "決着【けっちゃく】",
+      "meaning": "zanjarse; solventarse; decidirse; concluir"
+    },
+    {
+      "entryId": "1592630",
+      "spelling": "結着",
+      "reading": "けっちゃく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "結着【けっちゃく】",
+      "meaning": "zanjarse; solventarse; decidirse; concluir"
+    },
+    {
+      "entryId": "1423050",
+      "spelling": "着実",
+      "reading": "ちゃくじつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "着実【ちゃくじつ】",
+      "meaning": "firme; constante; seguro"
+    },
+    {
+      "entryId": "1548580",
+      "spelling": "落ち着いた",
+      "reading": "おちついた",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "落ち着いた【おちついた】",
+      "meaning": "tranquilo; calmado"
+    },
+    {
+      "entryId": "1538760",
+      "spelling": "癒着",
+      "reading": "ゆちゃく",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "癒着【ゆちゃく】",
+      "meaning": "adhesión"
+    },
+    {
+      "entryId": "1597470",
+      "spelling": "着",
+      "reading": "ちゃく",
+      "senseNumbers": [
+        10,
+        11
+      ],
+      "japanese": "着【ちゃく】",
+      "meaning": "contador para trajes; llegar a"
+    },
+    {
+      "entryId": "1423280",
+      "spelling": "着陸",
+      "reading": "ちゃくりく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "着陸【ちゃくりく】",
+      "meaning": "aterrizaje"
+    },
+    {
+      "entryId": "1449870",
+      "spelling": "到着",
+      "reading": "とうちゃく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "到着【とうちゃく】",
+      "meaning": "llegada"
+    },
+    {
+      "entryId": "1423030",
+      "spelling": "着工",
+      "reading": "ちゃっこう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "着工【ちゃっこう】",
+      "meaning": "inauguración de una construcción"
+    },
+    {
+      "entryId": "1423240",
+      "spelling": "着物",
+      "reading": "きもの",
+      "senseNumbers": [
+        11,
+        12
+      ],
+      "japanese": "着物【きもの】",
+      "meaning": "ropa; kimono (u otra ropa trad. japonesa)"
+    },
+    {
+      "entryId": "1185930",
+      "spelling": "下着",
+      "reading": "したぎ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "下着【したぎ】",
+      "meaning": "ropa interior"
+    },
+    {
+      "entryId": "1435730",
+      "spelling": "定着",
+      "reading": "ていちゃく",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "定着【ていちゃく】",
+      "meaning": "afianzamiento; adherencia; arraigo"
+    },
+    {
+      "entryId": "1388150",
+      "spelling": "先着",
+      "reading": "せんちゃく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "先着【せんちゃく】",
+      "meaning": "llegada con anterioridad"
+    },
+    {
+      "entryId": "1477700",
+      "spelling": "はっ着",
+      "reading": "はっちゃく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "はっ着【はっちゃく】",
+      "meaning": "arribos y salidas"
+    },
+    {
+      "entryId": "1477700",
+      "spelling": "発着",
+      "reading": "はっちゃく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "発着【はっちゃく】",
+      "meaning": "arribos y salidas"
+    },
+    {
+      "entryId": "1487600",
+      "spelling": "必着",
+      "reading": "ひっちゃく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "必着【ひっちゃく】",
+      "meaning": "entrega (arribo) imprescindible"
+    },
+    {
+      "entryId": "1423260",
+      "spelling": "着目",
+      "reading": "ちゃくもく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "着目【ちゃくもく】",
+      "meaning": "atención"
+    },
+    {
+      "entryId": "1423000",
+      "spelling": "着る",
+      "reading": "きる",
+      "senseNumbers": [
+        11,
+        12
+      ],
+      "japanese": "着る【きる】",
+      "meaning": "vestir; ponerse; llevar puesto (ropa en el torso); cargar (con la culpa,etc.)"
+    },
+    {
+      "entryId": "1371830",
+      "spelling": "水着",
+      "reading": "みずぎ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "水着【みずぎ】",
+      "meaning": "traje de baño; bañador"
+    },
+    {
+      "entryId": "1548590",
+      "spelling": "落ち着き",
+      "reading": "おちつき",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "落ち着き【おちつき】",
+      "meaning": "calma; serenidad; compostura"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

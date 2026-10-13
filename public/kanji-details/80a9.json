@@ -1,0 +1,130 @@
+{
+  "character": "肩",
+  "meanings": "hombro",
+  "words": [
+    {
+      "entryId": "1258950",
+      "spelling": "肩",
+      "reading": "かた",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "肩【かた】",
+      "meaning": "hombro"
+    },
+    {
+      "entryId": "1590360",
+      "spelling": "肩書",
+      "reading": "かたがき",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "肩書【かたがき】",
+      "meaning": "puesto, cargo, título; antecedentes delictivos; título; rango"
+    },
+    {
+      "entryId": "1590360",
+      "spelling": "肩書き",
+      "reading": "かたがき",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "肩書き【かたがき】",
+      "meaning": "puesto, cargo, título; antecedentes delictivos; título; rango"
+    },
+    {
+      "entryId": "1590380",
+      "spelling": "肩がわり",
+      "reading": "かたがわり",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "肩がわり【かたがわり】",
+      "meaning": "asumir la deuda de otro"
+    },
+    {
+      "entryId": "1590380",
+      "spelling": "肩代り",
+      "reading": "かたがわり",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "肩代り【かたがわり】",
+      "meaning": "asumir la deuda de otro"
+    },
+    {
+      "entryId": "1590380",
+      "spelling": "肩代わり",
+      "reading": "かたがわり",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "肩代わり【かたがわり】",
+      "meaning": "asumir la deuda de otro"
+    },
+    {
+      "entryId": "1590380",
+      "spelling": "肩替り",
+      "reading": "かたがわり",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "肩替り【かたがわり】",
+      "meaning": "asumir la deuda de otro"
+    },
+    {
+      "entryId": "1590380",
+      "spelling": "肩替わり",
+      "reading": "かたがわり",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "肩替わり【かたがわり】",
+      "meaning": "asumir la deuda de otro"
+    },
+    {
+      "entryId": "1259040",
+      "spelling": "肩身",
+      "reading": "かたみ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "肩身【かたみ】",
+      "meaning": "hombros"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

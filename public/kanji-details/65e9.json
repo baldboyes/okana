@@ -1,0 +1,245 @@
+{
+  "character": "早",
+  "meanings": "temprano, rápido, pronto, apresurarse, precipitarse, acelerar",
+  "words": [
+    {
+      "entryId": "1400190",
+      "spelling": "早期",
+      "reading": "そうき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "早期【そうき】",
+      "meaning": "durante el período inicial; temprano"
+    },
+    {
+      "entryId": "1581270",
+      "spelling": "早急",
+      "reading": "さっきゅう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "早急【さっきゅう】",
+      "meaning": "urgente"
+    },
+    {
+      "entryId": "1581270",
+      "spelling": "早急",
+      "reading": "そうきゅう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "早急【そうきゅう】",
+      "meaning": "urgente"
+    },
+    {
+      "entryId": "1400330",
+      "spelling": "早朝",
+      "reading": "そうちょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "早朝【そうちょう】",
+      "meaning": "a primeras horas de la mañana"
+    },
+    {
+      "entryId": "1596420",
+      "spelling": "早々",
+      "reading": "そうそう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "早々【そうそう】",
+      "meaning": "rápido; deprisa; enseguida; inmediatamente"
+    },
+    {
+      "entryId": "1596420",
+      "spelling": "早早",
+      "reading": "そうそう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "早早【そうそう】",
+      "meaning": "rápido; deprisa; enseguida; inmediatamente"
+    },
+    {
+      "entryId": "1601080",
+      "spelling": "早める",
+      "reading": "はやめる",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "早める【はやめる】",
+      "meaning": "apremiar; acelerar; apresurar; precipitar; apurar"
+    },
+    {
+      "entryId": "1404990",
+      "spelling": "早さ",
+      "reading": "はやさ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "早さ【はやさ】",
+      "meaning": "velocidad; rapidez"
+    },
+    {
+      "entryId": "1397310",
+      "spelling": "す早い",
+      "reading": "すばやい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "す早い【すばやい】",
+      "meaning": "rápido; veloz; ligero; presto; pronto; listo; ágil"
+    },
+    {
+      "entryId": "1397310",
+      "spelling": "素早い",
+      "reading": "すばやい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "素早い【すばやい】",
+      "meaning": "rápido; veloz; ligero; presto; pronto; listo; ágil"
+    },
+    {
+      "entryId": "1316070",
+      "spelling": "時期尚早",
+      "reading": "じきしょうそう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "時期尚早【じきしょうそう】",
+      "meaning": "prematuro"
+    },
+    {
+      "entryId": "1316070",
+      "spelling": "時機尚早",
+      "reading": "じきしょうそう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "時機尚早【じきしょうそう】",
+      "meaning": "prematuro"
+    },
+    {
+      "entryId": "1844500",
+      "spelling": "早乙女",
+      "reading": "さおとめ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "早乙女【さおとめ】",
+      "meaning": "mujer joven plantadora de arroz; jovencita"
+    },
+    {
+      "entryId": "1844500",
+      "spelling": "早少女",
+      "reading": "さおとめ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "早少女【さおとめ】",
+      "meaning": "mujer joven plantadora de arroz; jovencita"
+    },
+    {
+      "entryId": "1956580",
+      "spelling": "早",
+      "reading": "はや",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "早【はや】",
+      "meaning": "ya; ahora; por esta vez"
+    },
+    {
+      "entryId": "1404975",
+      "spelling": "早い",
+      "reading": "はやい",
+      "senseNumbers": [
+        14,
+        15
+      ],
+      "japanese": "早い【はやい】",
+      "meaning": "rápido; ágil; raudo; veloz; temprano"
+    },
+    {
+      "entryId": "1404975",
+      "spelling": "早い",
+      "reading": "はえー",
+      "senseNumbers": [
+        14,
+        15
+      ],
+      "japanese": "早い【はえー】",
+      "meaning": "rápido; ágil; raudo; veloz; temprano"
+    },
+    {
+      "entryId": "1404975",
+      "spelling": "早い",
+      "reading": "はっやい",
+      "senseNumbers": [
+        14,
+        15
+      ],
+      "japanese": "早い【はっやい】",
+      "meaning": "rápido; ágil; raudo; veloz; temprano"
+    },
+    {
+      "entryId": "1404975",
+      "spelling": "早い",
+      "reading": "はっやーい",
+      "senseNumbers": [
+        14,
+        15
+      ],
+      "japanese": "早い【はっやーい】",
+      "meaning": "rápido; ágil; raudo; veloz; temprano"
+    },
+    {
+      "entryId": "1404975",
+      "spelling": "早い",
+      "reading": "はやーい",
+      "senseNumbers": [
+        14,
+        15
+      ],
+      "japanese": "早い【はやーい】",
+      "meaning": "rápido; ágil; raudo; veloz; temprano"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "character": "釣",
+  "meanings": "pescar con caña, colgar, cambio (dinero)",
+  "words": [
+    {
+      "entryId": "1434040",
+      "spelling": "釣",
+      "reading": "つり",
+      "senseNumbers": [
+        14,
+        15
+      ],
+      "japanese": "釣【つり】",
+      "meaning": "pesca; cambio (e.g. para una compra)"
+    },
+    {
+      "entryId": "1434040",
+      "spelling": "釣り",
+      "reading": "つり",
+      "senseNumbers": [
+        14,
+        15
+      ],
+      "japanese": "釣り【つり】",
+      "meaning": "pesca; cambio (e.g. para una compra)"
+    },
+    {
+      "entryId": "1434120",
+      "spelling": "釣る",
+      "reading": "つる",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "釣る【つる】",
+      "meaning": "pescar"
+    },
+    {
+      "entryId": "1270550",
+      "spelling": "お釣",
+      "reading": "おつり",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "お釣【おつり】",
+      "meaning": "su cambio; su vuelto; cambio (dinero)"
+    },
+    {
+      "entryId": "1270550",
+      "spelling": "お釣り",
+      "reading": "おつり",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "お釣り【おつり】",
+      "meaning": "su cambio; su vuelto; cambio (dinero)"
+    },
+    {
+      "entryId": "1270550",
+      "spelling": "御釣",
+      "reading": "おつり",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "御釣【おつり】",
+      "meaning": "su cambio; su vuelto; cambio (dinero)"
+    },
+    {
+      "entryId": "1270550",
+      "spelling": "御釣り",
+      "reading": "おつり",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "御釣り【おつり】",
+      "meaning": "su cambio; su vuelto; cambio (dinero)"
+    },
+    {
+      "entryId": "1434050",
+      "spelling": "釣り合う",
+      "reading": "つりあう",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "釣り合う【つりあう】",
+      "meaning": "estar proporcionado; encajar bien"
+    },
+    {
+      "entryId": "1434050",
+      "spelling": "釣合う",
+      "reading": "つりあう",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "釣合う【つりあう】",
+      "meaning": "estar proporcionado; encajar bien"
+    },
+    {
+      "entryId": "1598110",
+      "spelling": "釣り合い",
+      "reading": "つりあい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "釣り合い【つりあい】",
+      "meaning": "equilibrio"
+    },
+    {
+      "entryId": "1598110",
+      "spelling": "釣合",
+      "reading": "つりあい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "釣合【つりあい】",
+      "meaning": "equilibrio"
+    },
+    {
+      "entryId": "1598110",
+      "spelling": "釣合い",
+      "reading": "つりあい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "釣合い【つりあい】",
+      "meaning": "equilibrio"
+    },
+    {
+      "entryId": "1166680",
+      "spelling": "一本釣",
+      "reading": "いっぽんづり",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "一本釣【いっぽんづり】",
+      "meaning": "palo y línea de pesca; pescando con un palo"
+    },
+    {
+      "entryId": "1166680",
+      "spelling": "一本釣り",
+      "reading": "いっぽんずり",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "一本釣り【いっぽんずり】",
+      "meaning": "palo y línea de pesca; pescando con un palo"
+    },
+    {
+      "entryId": "1166680",
+      "spelling": "一本釣り",
+      "reading": "いっぽんづり",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "一本釣り【いっぽんづり】",
+      "meaning": "palo y línea de pesca; pescando con un palo"
+    },
+    {
+      "entryId": "1598120",
+      "spelling": "釣り糸",
+      "reading": "つりいと",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "釣り糸【つりいと】",
+      "meaning": "hilo de pescar"
+    },
+    {
+      "entryId": "1598120",
+      "spelling": "釣糸",
+      "reading": "つりいと",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "釣糸【つりいと】",
+      "meaning": "hilo de pescar"
+    },
+    {
+      "entryId": "1598200",
+      "spelling": "釣り舟",
+      "reading": "つりぶね",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "釣り舟【つりぶね】",
+      "meaning": "barco de pesca"
+    },
+    {
+      "entryId": "1598200",
+      "spelling": "釣り船",
+      "reading": "つりふね",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "釣り船【つりふね】",
+      "meaning": "barco de pesca"
+    },
+    {
+      "entryId": "1598200",
+      "spelling": "釣り船",
+      "reading": "つりぶね",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "釣り船【つりぶね】",
+      "meaning": "barco de pesca"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

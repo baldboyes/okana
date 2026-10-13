@@ -1,0 +1,240 @@
+{
+  "character": "軍",
+  "meanings": "ejército, tropas",
+  "words": [
+    {
+      "entryId": "1248080",
+      "spelling": "軍事",
+      "reading": "ぐんじ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "軍事【ぐんじ】",
+      "meaning": "asuntos militares"
+    },
+    {
+      "entryId": "1247660",
+      "spelling": "軍",
+      "reading": "ぐん",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "軍【ぐん】",
+      "meaning": "ejército; fuerza; tropas"
+    },
+    {
+      "entryId": "1201330",
+      "spelling": "海軍",
+      "reading": "かいぐん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "海軍【かいぐん】",
+      "meaning": "(la) armada; (la) marina"
+    },
+    {
+      "entryId": "1248470",
+      "spelling": "軍縮",
+      "reading": "ぐんしゅく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "軍縮【ぐんしゅく】",
+      "meaning": "desarme; desarmamiento"
+    },
+    {
+      "entryId": "1245520",
+      "spelling": "空軍",
+      "reading": "くうぐん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "空軍【くうぐん】",
+      "meaning": "Fuerza Aérea"
+    },
+    {
+      "entryId": "1248540",
+      "spelling": "軍人",
+      "reading": "ぐんじん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "軍人【ぐんじん】",
+      "meaning": "soldado; personal militar"
+    },
+    {
+      "entryId": "1335260",
+      "spelling": "従軍",
+      "reading": "じゅうぐん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "従軍【じゅうぐん】",
+      "meaning": "campaña"
+    },
+    {
+      "entryId": "1248710",
+      "spelling": "軍隊",
+      "reading": "ぐんたい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "軍隊【ぐんたい】",
+      "meaning": "ejército; tropas"
+    },
+    {
+      "entryId": "1347680",
+      "spelling": "将軍",
+      "reading": "しょうぐん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "将軍【しょうぐん】",
+      "meaning": "general; shogun"
+    },
+    {
+      "entryId": "1551020",
+      "spelling": "陸軍",
+      "reading": "りくぐん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "陸軍【りくぐん】",
+      "meaning": "ejército"
+    },
+    {
+      "entryId": "1657320",
+      "spelling": "国軍",
+      "reading": "こくぐん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "国軍【こくぐん】",
+      "meaning": "fuerzas armadas nacionales"
+    },
+    {
+      "entryId": "1248870",
+      "spelling": "軍備",
+      "reading": "ぐんび",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "軍備【ぐんび】",
+      "meaning": "armas; armamento"
+    },
+    {
+      "entryId": "1247860",
+      "spelling": "軍機",
+      "reading": "ぐんき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "軍機【ぐんき】",
+      "meaning": "secreto militar"
+    },
+    {
+      "entryId": "1249060",
+      "spelling": "軍用",
+      "reading": "ぐんよう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "軍用【ぐんよう】",
+      "meaning": "(para) uso militar"
+    },
+    {
+      "entryId": "1162050",
+      "spelling": "一軍",
+      "reading": "いちぐん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "一軍【いちぐん】",
+      "meaning": "un ejercito; todo el ejercito; primera serie de jugadores (deportes)"
+    },
+    {
+      "entryId": "1162050",
+      "spelling": "１軍",
+      "reading": "いちぐん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "１軍【いちぐん】",
+      "meaning": "un ejercito; todo el ejercito; primera serie de jugadores (deportes)"
+    },
+    {
+      "entryId": "1587140",
+      "spelling": "軍",
+      "reading": "いくさ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "軍【いくさ】",
+      "meaning": "soldado; militar; guerra; batalla; campaña; pelea"
+    },
+    {
+      "entryId": "1248600",
+      "spelling": "軍政",
+      "reading": "ぐんせい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "軍政【ぐんせい】",
+      "meaning": "gobierno militar"
+    },
+    {
+      "entryId": "1247990",
+      "spelling": "軍国主義",
+      "reading": "ぐんこくしゅぎ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "軍国主義【ぐんこくしゅぎ】",
+      "meaning": "militarismo"
+    },
+    {
+      "entryId": "1248770",
+      "spelling": "軍団",
+      "reading": "ぐんだん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "軍団【ぐんだん】",
+      "meaning": "cuerpo de ejército"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

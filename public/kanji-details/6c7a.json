@@ -1,0 +1,240 @@
+{
+  "character": "決",
+  "meanings": "decidir, fijar, quedar decidido",
+  "words": [
+    {
+      "entryId": "1198960",
+      "spelling": "解決",
+      "reading": "かいけつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "解決【かいけつ】",
+      "meaning": "solucionar; resolver; solventar; arreglo; acuerdo; resolución"
+    },
+    {
+      "entryId": "1254240",
+      "spelling": "決議",
+      "reading": "けつぎ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "決議【けつぎ】",
+      "meaning": "resolución; decisión; determinación"
+    },
+    {
+      "entryId": "1254380",
+      "spelling": "決定",
+      "reading": "けってい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "決定【けってい】",
+      "meaning": "dictaminar; fijar; determinar; decidir; decretar; establecer; decisión; determinación"
+    },
+    {
+      "entryId": "1478520",
+      "spelling": "判決",
+      "reading": "はんけつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "判決【はんけつ】",
+      "meaning": "sentencia; veredicto; decisión"
+    },
+    {
+      "entryId": "1951150",
+      "spelling": "決って",
+      "reading": "きまって",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "決って【きまって】",
+      "meaning": "siempre; sin falta; normalmente; frecuentemente"
+    },
+    {
+      "entryId": "1951150",
+      "spelling": "決まって",
+      "reading": "きまって",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "決まって【きまって】",
+      "meaning": "siempre; sin falta; normalmente; frecuentemente"
+    },
+    {
+      "entryId": "1254290",
+      "spelling": "決算",
+      "reading": "けっさん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "決算【けっさん】",
+      "meaning": "resultado; balance; cuenta"
+    },
+    {
+      "entryId": "1254320",
+      "spelling": "決勝",
+      "reading": "けっしょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "決勝【けっしょう】",
+      "meaning": "final de una competencia"
+    },
+    {
+      "entryId": "1254130",
+      "spelling": "決して",
+      "reading": "けして",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "決して【けして】",
+      "meaning": "nunca; de ningún modo"
+    },
+    {
+      "entryId": "1254130",
+      "spelling": "決して",
+      "reading": "けっして",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "決して【けっして】",
+      "meaning": "nunca; de ningún modo"
+    },
+    {
+      "entryId": "1254220",
+      "spelling": "決意",
+      "reading": "けつい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "決意【けつい】",
+      "meaning": "decisión; determinación"
+    },
+    {
+      "entryId": "1254370",
+      "spelling": "決断",
+      "reading": "けつだん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "決断【けつだん】",
+      "meaning": "decisión; determinación"
+    },
+    {
+      "entryId": "1592630",
+      "spelling": "決着",
+      "reading": "けっちゃく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "決着【けっちゃく】",
+      "meaning": "zanjarse; solventarse; decidirse; concluir"
+    },
+    {
+      "entryId": "1294760",
+      "spelling": "採決",
+      "reading": "さいけつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "採決【さいけつ】",
+      "meaning": "voto; votación; sufragio; elección"
+    },
+    {
+      "entryId": "1410000",
+      "spelling": "対決",
+      "reading": "たいけつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "対決【たいけつ】",
+      "meaning": "confrontación"
+    },
+    {
+      "entryId": "1341580",
+      "spelling": "準決勝",
+      "reading": "じゅんけっしょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "準決勝【じゅんけっしょう】",
+      "meaning": "semifinal (en deportes)"
+    },
+    {
+      "entryId": "1226050",
+      "spelling": "議決",
+      "reading": "ぎけつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "議決【ぎけつ】",
+      "meaning": "resolución; decisión; acuerdo; votación"
+    },
+    {
+      "entryId": "1190810",
+      "spelling": "可決",
+      "reading": "かけつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "可決【かけつ】",
+      "meaning": "aprobación; consentimiento; acuerdo; solución"
+    },
+    {
+      "entryId": "1254350",
+      "spelling": "決戦",
+      "reading": "けっせん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "決戦【けっせん】",
+      "meaning": "batalla decisiva; contienda decisiva; eliminatoria"
+    },
+    {
+      "entryId": "1599030",
+      "spelling": "取り決め",
+      "reading": "とりきめ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "取り決め【とりきめ】",
+      "meaning": "decisión; acuerdo"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

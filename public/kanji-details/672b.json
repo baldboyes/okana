@@ -1,0 +1,244 @@
+{
+  "character": "末",
+  "meanings": "aún, punta, extremo, final, polvo, fin, futuro, el más joven",
+  "words": [
+    {
+      "entryId": "1469210",
+      "spelling": "年末",
+      "reading": "ねんまつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "年末【ねんまつ】",
+      "meaning": "fin de año"
+    },
+    {
+      "entryId": "1525250",
+      "spelling": "末",
+      "reading": "すえ",
+      "senseNumbers": [
+        25
+      ],
+      "japanese": "末【すえ】",
+      "meaning": "fin; final; finales; conclusión; resultado"
+    },
+    {
+      "entryId": "1333520",
+      "spelling": "週末",
+      "reading": "しゅうまつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "週末【しゅうまつ】",
+      "meaning": "fin de semana"
+    },
+    {
+      "entryId": "1604040",
+      "spelling": "末期",
+      "reading": "まっき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "末期【まっき】",
+      "meaning": "terminal (enfermedad)"
+    },
+    {
+      "entryId": "1525530",
+      "spelling": "末端",
+      "reading": "まったん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "末端【まったん】",
+      "meaning": "extremo"
+    },
+    {
+      "entryId": "1418950",
+      "spelling": "端末",
+      "reading": "たんまつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "端末【たんまつ】",
+      "meaning": "terminal de ordenador (eng: computer terminal)"
+    },
+    {
+      "entryId": "1255840",
+      "spelling": "月末",
+      "reading": "げつまつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "月末【げつまつ】",
+      "meaning": "fin de mes"
+    },
+    {
+      "entryId": "1255840",
+      "spelling": "月末",
+      "reading": "つきずえ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "月末【つきずえ】",
+      "meaning": "fin de mes"
+    },
+    {
+      "entryId": "1307620",
+      "spelling": "仕末",
+      "reading": "しまつ",
+      "senseNumbers": [
+        22,
+        23,
+        24
+      ],
+      "japanese": "仕末【しまつ】",
+      "meaning": "ordenar; arreglar; despachar; solucionar; gestión; trato; resolución; limpiar; deshacerse de; resultado final (norm. malo)"
+    },
+    {
+      "entryId": "1307620",
+      "spelling": "始末",
+      "reading": "しまつ",
+      "senseNumbers": [
+        22,
+        23,
+        24
+      ],
+      "japanese": "始末【しまつ】",
+      "meaning": "ordenar; arreglar; despachar; solucionar; gestión; trato; resolución; limpiar; deshacerse de; resultado final (norm. malo)"
+    },
+    {
+      "entryId": "1255010",
+      "spelling": "結末",
+      "reading": "けつまつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "結末【けつまつ】",
+      "meaning": "final; conclusión"
+    },
+    {
+      "entryId": "1504880",
+      "spelling": "粉末",
+      "reading": "ふんまつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "粉末【ふんまつ】",
+      "meaning": "polvos"
+    },
+    {
+      "entryId": "1397100",
+      "spelling": "粗末",
+      "reading": "そまつ",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "粗末【そまつ】",
+      "meaning": "ordinario; áspero; humilde"
+    },
+    {
+      "entryId": "1211250",
+      "spelling": "巻末",
+      "reading": "かんまつ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "巻末【かんまつ】",
+      "meaning": "final de un libro"
+    },
+    {
+      "entryId": "1269690",
+      "spelling": "後始末",
+      "reading": "あとしまつ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "後始末【あとしまつ】",
+      "meaning": "consecuencia; resultado"
+    },
+    {
+      "entryId": "1269690",
+      "spelling": "跡始末",
+      "reading": "あとしまつ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "跡始末【あとしまつ】",
+      "meaning": "consecuencia; resultado"
+    },
+    {
+      "entryId": "1220620",
+      "spelling": "期末",
+      "reading": "きまつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "期末【きまつ】",
+      "meaning": "término; vencimiento"
+    },
+    {
+      "entryId": "1525350",
+      "spelling": "末広",
+      "reading": "すえひろ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "末広【すえひろ】",
+      "meaning": "abanico plegable"
+    },
+    {
+      "entryId": "1525570",
+      "spelling": "末日",
+      "reading": "まつじつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "末日【まつじつ】",
+      "meaning": "último día del mes"
+    },
+    {
+      "entryId": "1584380",
+      "spelling": "末っ子",
+      "reading": "すえっこ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "末っ子【すえっこ】",
+      "meaning": "hijo más pequeño; hijo menor; benjamín; (am) xocoyote"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

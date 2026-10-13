@@ -1,0 +1,190 @@
+{
+  "character": "損",
+  "meanings": "pérdida, desaparición, desventaja, dañar, herir",
+  "words": [
+    {
+      "entryId": "1406710",
+      "spelling": "損害",
+      "reading": "そんがい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "損害【そんがい】",
+      "meaning": "daños materiales"
+    },
+    {
+      "entryId": "1406750",
+      "spelling": "損失",
+      "reading": "そんしつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "損失【そんしつ】",
+      "meaning": "pérdidas materiales; pérdidas económicas"
+    },
+    {
+      "entryId": "1406660",
+      "spelling": "損",
+      "reading": "そん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "損【そん】",
+      "meaning": "daño; pérdida"
+    },
+    {
+      "entryId": "1406740",
+      "spelling": "損害保険",
+      "reading": "そんがいほけん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "損害保険【そんがいほけん】",
+      "meaning": "seguro de daños"
+    },
+    {
+      "entryId": "1406760",
+      "spelling": "損傷",
+      "reading": "そんしょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "損傷【そんしょう】",
+      "meaning": "daño; herida"
+    },
+    {
+      "entryId": "1406700",
+      "spelling": "損益",
+      "reading": "そんえき",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "損益【そんえき】",
+      "meaning": "pérdidas y ganancias; interés económico"
+    },
+    {
+      "entryId": "1596510",
+      "spelling": "損う",
+      "reading": "そこなう",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "損う【そこなう】",
+      "meaning": "estropear; echar a perder; dañar; perder"
+    },
+    {
+      "entryId": "1596510",
+      "spelling": "損なう",
+      "reading": "そこなう",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "損なう【そこなう】",
+      "meaning": "estropear; echar a perder; dañar; perder"
+    },
+    {
+      "entryId": "1471380",
+      "spelling": "破損",
+      "reading": "はそん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "破損【はそん】",
+      "meaning": "daño"
+    },
+    {
+      "entryId": "1982800",
+      "spelling": "損壊",
+      "reading": "そんかい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "損壊【そんかい】",
+      "meaning": "daño; destrucción"
+    },
+    {
+      "entryId": "1406770",
+      "spelling": "損得",
+      "reading": "そんとく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "損得【そんとく】",
+      "meaning": "perdidas y ganancias; interés económico"
+    },
+    {
+      "entryId": "1406690",
+      "spelling": "損ねる",
+      "reading": "そこねる",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "損ねる【そこねる】",
+      "meaning": "dañar; mermar; fallar"
+    },
+    {
+      "entryId": "1259840",
+      "spelling": "見損う",
+      "reading": "みそこなう",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "見損う【みそこなう】",
+      "meaning": "pasar por alto"
+    },
+    {
+      "entryId": "1259840",
+      "spelling": "見損なう",
+      "reading": "みそこなう",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "見損なう【みそこなう】",
+      "meaning": "pasar por alto"
+    },
+    {
+      "entryId": "1610150",
+      "spelling": "損する",
+      "reading": "そんする",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "損する【そんする】",
+      "meaning": "perder"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

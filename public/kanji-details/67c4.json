@@ -1,0 +1,231 @@
+{
+  "character": "柄",
+  "meanings": "asa, agarradera, diseño, patrón, dibujo, figura",
+  "words": [
+    {
+      "entryId": "1508300",
+      "spelling": "柄",
+      "reading": "がら",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "柄【がら】",
+      "meaning": "patrón; diseño"
+    },
+    {
+      "entryId": "1508300",
+      "spelling": "柄",
+      "reading": "ガラ",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "柄【ガラ】",
+      "meaning": "patrón; diseño"
+    },
+    {
+      "entryId": "1369200",
+      "spelling": "人柄",
+      "reading": "ひとがら",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "人柄【ひとがら】",
+      "meaning": "personalidad; carácter"
+    },
+    {
+      "entryId": "1365830",
+      "spelling": "身柄",
+      "reading": "みがら",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "身柄【みがら】",
+      "meaning": "(mi) persona"
+    },
+    {
+      "entryId": "1348770",
+      "spelling": "小柄",
+      "reading": "こがら",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "小柄【こがら】",
+      "meaning": "pequeño; diminuto"
+    },
+    {
+      "entryId": "1314240",
+      "spelling": "事柄",
+      "reading": "ことがら",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "事柄【ことがら】",
+      "meaning": "cosas; circunstancias; asuntos"
+    },
+    {
+      "entryId": "1370500",
+      "spelling": "図柄",
+      "reading": "ずがら",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "図柄【ずがら】",
+      "meaning": "diseño; patrón"
+    },
+    {
+      "entryId": "1385790",
+      "spelling": "折柄",
+      "reading": "おりから",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "折柄【おりから】",
+      "meaning": "justo en ese momento; precisamente en ese instante"
+    },
+    {
+      "entryId": "1657480",
+      "spelling": "国柄",
+      "reading": "くにがら",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "国柄【くにがら】",
+      "meaning": "carácter nacional"
+    },
+    {
+      "entryId": "1328350",
+      "spelling": "手柄",
+      "reading": "てがら",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "手柄【てがら】",
+      "meaning": "hazaña; proeza"
+    },
+    {
+      "entryId": "1192460",
+      "spelling": "家柄",
+      "reading": "いえがら",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "家柄【いえがら】",
+      "meaning": "linaje; buena familia"
+    },
+    {
+      "entryId": "1215660",
+      "spelling": "間柄",
+      "reading": "あいだがら",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "間柄【あいだがら】",
+      "meaning": "relación; conexión"
+    },
+    {
+      "entryId": "1326920",
+      "spelling": "取り柄",
+      "reading": "とりえ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "取り柄【とりえ】",
+      "meaning": "virtud; cualidad"
+    },
+    {
+      "entryId": "1326920",
+      "spelling": "取柄",
+      "reading": "とりえ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "取柄【とりえ】",
+      "meaning": "virtud; cualidad"
+    },
+    {
+      "entryId": "1508290",
+      "spelling": "柄",
+      "reading": "え",
+      "senseNumbers": [
+        10,
+        11
+      ],
+      "japanese": "柄【え】",
+      "meaning": "mango; asa; tallo (hongos, hojas, etc)"
+    },
+    {
+      "entryId": "1202370",
+      "spelling": "絵柄",
+      "reading": "えがら",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "絵柄【えがら】",
+      "meaning": "patrón; diseño"
+    },
+    {
+      "entryId": "1414980",
+      "spelling": "大柄",
+      "reading": "おおがら",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "大柄【おおがら】",
+      "meaning": "grande; corpulento; robusto"
+    },
+    {
+      "entryId": "1181030",
+      "spelling": "押柄",
+      "reading": "おうへい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "押柄【おうへい】",
+      "meaning": "chulo; chulesco; arrogante; insolente; engreído"
+    },
+    {
+      "entryId": "1181030",
+      "spelling": "横柄",
+      "reading": "おうへい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "横柄【おうへい】",
+      "meaning": "chulo; chulesco; arrogante; insolente; engreído"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

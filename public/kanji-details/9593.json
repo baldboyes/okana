@@ -1,0 +1,241 @@
+{
+  "character": "間",
+  "meanings": "intervalo, espacio, habitación",
+  "words": [
+    {
+      "entryId": "1220550",
+      "spelling": "期間",
+      "reading": "きかん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "期間【きかん】",
+      "meaning": "periodo"
+    },
+    {
+      "entryId": "1315920",
+      "spelling": "時間",
+      "reading": "じかん",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "時間【じかん】",
+      "meaning": "tiempo"
+    },
+    {
+      "entryId": "1366770",
+      "spelling": "人間",
+      "reading": "にんげん",
+      "senseNumbers": [
+        12,
+        13
+      ],
+      "japanese": "人間【にんげん】",
+      "meaning": "ser humano; hombre; persona; carácter (de una persona)"
+    },
+    {
+      "entryId": "1468380",
+      "spelling": "年間",
+      "reading": "ねんかん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "年間【ねんかん】",
+      "meaning": "año(s); período de X años"
+    },
+    {
+      "entryId": "1528630",
+      "spelling": "民間",
+      "reading": "みんかん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "民間【みんかん】",
+      "meaning": "privado; civil; popular; del pueblo; no oficial; extraoficial"
+    },
+    {
+      "entryId": "1423680",
+      "spelling": "中間",
+      "reading": "ちゅうかん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "中間【ちゅうかん】",
+      "meaning": "centro"
+    },
+    {
+      "entryId": "1425790",
+      "spelling": "仲間",
+      "reading": "なかま",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "仲間【なかま】",
+      "meaning": "compañía; compañero; colega; camarada; grupo; círculo de amigos; socio"
+    },
+    {
+      "entryId": "1245450",
+      "spelling": "空間",
+      "reading": "くうかん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "空間【くうかん】",
+      "meaning": "espacio; lugar; espacio aéreo"
+    },
+    {
+      "entryId": "1341210",
+      "spelling": "瞬間",
+      "reading": "しゅんかん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "瞬間【しゅんかん】",
+      "meaning": "momento; instante; segundo"
+    },
+    {
+      "entryId": "1215230",
+      "spelling": "間",
+      "reading": "あいだ",
+      "senseNumbers": [
+        21
+      ],
+      "japanese": "間【あいだ】",
+      "meaning": "espacio; intervalo; distancia (entre cuerpos); lapso; combinación"
+    },
+    {
+      "entryId": "1215230",
+      "spelling": "間",
+      "reading": "あわい",
+      "senseNumbers": [
+        21
+      ],
+      "japanese": "間【あわい】",
+      "meaning": "espacio; intervalo; distancia (entre cuerpos); lapso; combinación"
+    },
+    {
+      "entryId": "1215290",
+      "spelling": "間もなく",
+      "reading": "まもなく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "間もなく【まもなく】",
+      "meaning": "de inmediato; inmediatamente"
+    },
+    {
+      "entryId": "1215290",
+      "spelling": "間も無く",
+      "reading": "まもなく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "間も無く【まもなく】",
+      "meaning": "de inmediato; inmediatamente"
+    },
+    {
+      "entryId": "1163270",
+      "spelling": "一週間",
+      "reading": "いっしゅうかん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "一週間【いっしゅうかん】",
+      "meaning": "una semana"
+    },
+    {
+      "entryId": "1163270",
+      "spelling": "１週間",
+      "reading": "いっしゅうかん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "１週間【いっしゅうかん】",
+      "meaning": "una semana"
+    },
+    {
+      "entryId": "1373970",
+      "spelling": "世間",
+      "reading": "せけん",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "世間【せけん】",
+      "meaning": "mundo; sociedad"
+    },
+    {
+      "entryId": "1536530",
+      "spelling": "夜間",
+      "reading": "やかん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "夜間【やかん】",
+      "meaning": "por la noche; noche"
+    },
+    {
+      "entryId": "1215320",
+      "spelling": "間違い",
+      "reading": "まちがい",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "間違い【まちがい】",
+      "meaning": "equivocación"
+    },
+    {
+      "entryId": "1244120",
+      "spelling": "区間",
+      "reading": "くかん",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "区間【くかん】",
+      "meaning": "trayecto"
+    },
+    {
+      "entryId": "1581710",
+      "spelling": "昼間",
+      "reading": "ちゅうかん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "昼間【ちゅうかん】",
+      "meaning": "día; durante el día"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

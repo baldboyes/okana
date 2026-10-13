@@ -1,0 +1,240 @@
+{
+  "character": "店",
+  "meanings": "tienda, establecimiento",
+  "words": [
+    {
+      "entryId": "1310230",
+      "spelling": "支店",
+      "reading": "してん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "支店【してん】",
+      "meaning": "sucursal; filial"
+    },
+    {
+      "entryId": "1488090",
+      "spelling": "百貨店",
+      "reading": "ひゃっかてん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "百貨店【ひゃっかてん】",
+      "meaning": "grandes almacenes; supermercado; hipermercado"
+    },
+    {
+      "entryId": "1344120",
+      "spelling": "書店",
+      "reading": "しょてん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "書店【しょてん】",
+      "meaning": "librería"
+    },
+    {
+      "entryId": "1440800",
+      "spelling": "店舗",
+      "reading": "てんぽ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "店舗【てんぽ】",
+      "meaning": "tienda; comercio"
+    },
+    {
+      "entryId": "1440800",
+      "spelling": "店鋪",
+      "reading": "てんぽ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "店鋪【てんぽ】",
+      "meaning": "tienda; comercio"
+    },
+    {
+      "entryId": "1347180",
+      "spelling": "商店",
+      "reading": "しょうてん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "商店【しょうてん】",
+      "meaning": "tienda; negocio; empresa comercial"
+    },
+    {
+      "entryId": "1523020",
+      "spelling": "本店",
+      "reading": "ほんだな",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "本店【ほんだな】",
+      "meaning": "oficina central; casa central; casa matriz; nuestra tienda"
+    },
+    {
+      "entryId": "1523020",
+      "spelling": "本店",
+      "reading": "ほんてん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "本店【ほんてん】",
+      "meaning": "oficina central; casa central; casa matriz; nuestra tienda"
+    },
+    {
+      "entryId": "1658230",
+      "spelling": "支店長",
+      "reading": "してんちょう",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "支店長【してんちょう】",
+      "meaning": "gerente de sucursal"
+    },
+    {
+      "entryId": "1440670",
+      "spelling": "店員",
+      "reading": "ていいん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "店員【ていいん】",
+      "meaning": "dependiente; vendedor de una tienda; empleado"
+    },
+    {
+      "entryId": "1440670",
+      "spelling": "店員",
+      "reading": "てんいん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "店員【てんいん】",
+      "meaning": "dependiente; vendedor de una tienda; empleado"
+    },
+    {
+      "entryId": "1412490",
+      "spelling": "代理店",
+      "reading": "だいりてん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "代理店【だいりてん】",
+      "meaning": "agencia; oficina"
+    },
+    {
+      "entryId": "1610670",
+      "spelling": "小売り店",
+      "reading": "こうりてん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "小売り店【こうりてん】",
+      "meaning": "establecimiento minorista; comercio al por menor; tienda; comercio minorista"
+    },
+    {
+      "entryId": "1610670",
+      "spelling": "小売店",
+      "reading": "こうりてん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "小売店【こうりてん】",
+      "meaning": "establecimiento minorista; comercio al por menor; tienda; comercio minorista"
+    },
+    {
+      "entryId": "1440780",
+      "spelling": "店内",
+      "reading": "てんない",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "店内【てんない】",
+      "meaning": "interior de la tienda"
+    },
+    {
+      "entryId": "1453160",
+      "spelling": "同店",
+      "reading": "どうてん",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "同店【どうてん】",
+      "meaning": "la misma tienda; la tienda mencionada"
+    },
+    {
+      "entryId": "1226440",
+      "spelling": "喫茶店",
+      "reading": "きっさてん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "喫茶店【きっさてん】",
+      "meaning": "cafetería"
+    },
+    {
+      "entryId": "1226440",
+      "spelling": "喫茶店",
+      "reading": "きっちゃてん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "喫茶店【きっちゃてん】",
+      "meaning": "cafetería"
+    },
+    {
+      "entryId": "1440730",
+      "spelling": "店長",
+      "reading": "てんちょう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "店長【てんちょう】",
+      "meaning": "gerente de una tienda; administrador de una tienda"
+    },
+    {
+      "entryId": "1389930",
+      "spelling": "専門店",
+      "reading": "せんもんてん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "専門店【せんもんてん】",
+      "meaning": "establecimiento especializado; establecimiento del ramo"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

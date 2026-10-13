@@ -1,0 +1,245 @@
+{
+  "character": "円",
+  "meanings": "circular, redondo, yen",
+  "words": [
+    {
+      "entryId": "1175820",
+      "spelling": "円高",
+      "reading": "えんだか",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "円高【えんだか】",
+      "meaning": "elevado precio del yen"
+    },
+    {
+      "entryId": "1175570",
+      "spelling": "円",
+      "reading": "えん",
+      "senseNumbers": [
+        12,
+        13
+      ],
+      "japanese": "円【えん】",
+      "meaning": "Yen; Yenes; dinero; círculo; redondel"
+    },
+    {
+      "entryId": "1175620",
+      "spelling": "円安",
+      "reading": "えんやす",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "円安【えんやす】",
+      "meaning": "bajo precio del yen"
+    },
+    {
+      "entryId": "1613600",
+      "spelling": "円相場",
+      "reading": "えんそうば",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "円相場【えんそうば】",
+      "meaning": "precio de intercambio yenes"
+    },
+    {
+      "entryId": "1161130",
+      "spelling": "一円",
+      "reading": "いちえん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "一円【いちえん】",
+      "meaning": "todo un distrito; un yen; por todo; en todo; completamente"
+    },
+    {
+      "entryId": "1576570",
+      "spelling": "円滑",
+      "reading": "えんかつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "円滑【えんかつ】",
+      "meaning": "suavemente; moderadamente; armoniosamente; regularmente; sin dificultad; suave; armonioso; perfecto; redondo; harmonía; tranquilidad"
+    },
+    {
+      "entryId": "1576570",
+      "spelling": "円滑",
+      "reading": "えんこつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "円滑【えんこつ】",
+      "meaning": "suavemente; moderadamente; armoniosamente; regularmente; sin dificultad; suave; armonioso; perfecto; redondo; harmonía; tranquilidad"
+    },
+    {
+      "entryId": "1576590",
+      "spelling": "円形",
+      "reading": "えんけい",
+      "senseNumbers": [
+        8,
+        9
+      ],
+      "japanese": "円形【えんけい】",
+      "meaning": "circulo; redondo; forma circular; circular"
+    },
+    {
+      "entryId": "1576590",
+      "spelling": "円形",
+      "reading": "まるがた",
+      "senseNumbers": [
+        8,
+        9
+      ],
+      "japanese": "円形【まるがた】",
+      "meaning": "circulo; redondo; forma circular; circular"
+    },
+    {
+      "entryId": "1175980",
+      "spelling": "円卓",
+      "reading": "えんたく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "円卓【えんたく】",
+      "meaning": "mesa redonda"
+    },
+    {
+      "entryId": "1176200",
+      "spelling": "円満",
+      "reading": "えんまん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "円満【えんまん】",
+      "meaning": "armonioso; apacible; armónico; plenitud; armonía"
+    },
+    {
+      "entryId": "1604230",
+      "spelling": "円い",
+      "reading": "まるい",
+      "senseNumbers": [
+        16,
+        17
+      ],
+      "japanese": "円い【まるい】",
+      "meaning": "redondo; circular; esférico; armonioso; tranquilo"
+    },
+    {
+      "entryId": "1176090",
+      "spelling": "円筒",
+      "reading": "えんとう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "円筒【えんとう】",
+      "meaning": "cilindro"
+    },
+    {
+      "entryId": "1176120",
+      "spelling": "円盤",
+      "reading": "えんばん",
+      "senseNumbers": [
+        11,
+        12
+      ],
+      "japanese": "円盤【えんばん】",
+      "meaning": "disco; platillo volador"
+    },
+    {
+      "entryId": "1216290",
+      "spelling": "円み",
+      "reading": "まるみ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "円み【まるみ】",
+      "meaning": "redondez"
+    },
+    {
+      "entryId": "1216290",
+      "spelling": "円味",
+      "reading": "まるみ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "円味【まるみ】",
+      "meaning": "redondez"
+    },
+    {
+      "entryId": "1409000",
+      "spelling": "だ円",
+      "reading": "だえん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "だ円【だえん】",
+      "meaning": "elipse"
+    },
+    {
+      "entryId": "1409000",
+      "spelling": "楕円",
+      "reading": "だえん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "楕円【だえん】",
+      "meaning": "elipse"
+    },
+    {
+      "entryId": "1409000",
+      "spelling": "橢円",
+      "reading": "だえん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "橢円【だえん】",
+      "meaning": "elipse"
+    },
+    {
+      "entryId": "1175860",
+      "spelling": "円周",
+      "reading": "えんしゅう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "円周【えんしゅう】",
+      "meaning": "circunferencia"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

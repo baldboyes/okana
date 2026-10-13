@@ -1,0 +1,240 @@
+{
+  "character": "握",
+  "meanings": "agarrar, coger, asir, empuñar, apretar con la mano",
+  "words": [
+    {
+      "entryId": "1152730",
+      "spelling": "握手",
+      "reading": "あくしゅ",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "握手【あくしゅ】",
+      "meaning": "dar un apretón de manos; dar la mano; estrechar la mano; apretón de manos"
+    },
+    {
+      "entryId": "1470910",
+      "spelling": "把握",
+      "reading": "はあく",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "把握【はあく】",
+      "meaning": "estar al tanto; tener bajo control"
+    },
+    {
+      "entryId": "1152720",
+      "spelling": "握る",
+      "reading": "にぎる",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "握る【にぎる】",
+      "meaning": "agarrar; moldear sushi"
+    },
+    {
+      "entryId": "1152650",
+      "spelling": "握らす",
+      "reading": "にぎらす",
+      "senseNumbers": [
+        2
+      ],
+      "japanese": "握らす【にぎらす】",
+      "meaning": "dejar (a alguien) tomar tu mano"
+    },
+    {
+      "entryId": "1152660",
+      "spelling": "握り",
+      "reading": "にぎり",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "握り【にぎり】",
+      "meaning": "agarre; manilla; mango (cuchillo); asa"
+    },
+    {
+      "entryId": "1152660",
+      "spelling": "握り",
+      "reading": "ニギリ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "握り【ニギリ】",
+      "meaning": "agarre; manilla; mango (cuchillo); asa"
+    },
+    {
+      "entryId": "1160980",
+      "spelling": "ひと握り",
+      "reading": "ひとにぎり",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "ひと握り【ひとにぎり】",
+      "meaning": "puñado"
+    },
+    {
+      "entryId": "1160980",
+      "spelling": "一握り",
+      "reading": "ひとにぎり",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "一握り【ひとにぎり】",
+      "meaning": "puñado"
+    },
+    {
+      "entryId": "1152750",
+      "spelling": "握力",
+      "reading": "あくりょく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "握力【あくりょく】",
+      "meaning": "agarre (de la mano); apretón"
+    },
+    {
+      "entryId": "1152700",
+      "spelling": "握りしめる",
+      "reading": "にぎりしめる",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "握りしめる【にぎりしめる】",
+      "meaning": "agarrar duramente"
+    },
+    {
+      "entryId": "1152700",
+      "spelling": "握り緊める",
+      "reading": "にぎりしめる",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "握り緊める【にぎりしめる】",
+      "meaning": "agarrar duramente"
+    },
+    {
+      "entryId": "1152700",
+      "spelling": "握り締める",
+      "reading": "にぎりしめる",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "握り締める【にぎりしめる】",
+      "meaning": "agarrar duramente"
+    },
+    {
+      "entryId": "1152680",
+      "spelling": "握りずし",
+      "reading": "にぎりずし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "握りずし【にぎりずし】",
+      "meaning": "(food) shushi enrollado a mano; bola de sushi; (comida) sushi enrollado a mano"
+    },
+    {
+      "entryId": "1152680",
+      "spelling": "握り寿司",
+      "reading": "にぎりずし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "握り寿司【にぎりずし】",
+      "meaning": "(food) shushi enrollado a mano; bola de sushi; (comida) sushi enrollado a mano"
+    },
+    {
+      "entryId": "1152680",
+      "spelling": "握り鮨",
+      "reading": "にぎりずし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "握り鮨【にぎりずし】",
+      "meaning": "(food) shushi enrollado a mano; bola de sushi; (comida) sushi enrollado a mano"
+    },
+    {
+      "entryId": "1152680",
+      "spelling": "握寿司",
+      "reading": "にぎりずし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "握寿司【にぎりずし】",
+      "meaning": "(food) shushi enrollado a mano; bola de sushi; (comida) sushi enrollado a mano"
+    },
+    {
+      "entryId": "1152680",
+      "spelling": "握鮨",
+      "reading": "にぎりずし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "握鮨【にぎりずし】",
+      "meaning": "(food) shushi enrollado a mano; bola de sushi; (comida) sushi enrollado a mano"
+    },
+    {
+      "entryId": "1001620",
+      "spelling": "お握り",
+      "reading": "おにぎり",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "お握り【おにぎり】",
+      "meaning": "bola de arroz (a menudo triangular, a veces con un relleno y envuelto en nori)"
+    },
+    {
+      "entryId": "1001620",
+      "spelling": "御握り",
+      "reading": "おにぎり",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "御握り【おにぎり】",
+      "meaning": "bola de arroz (a menudo triangular, a veces con un relleno y envuelto en nori)"
+    },
+    {
+      "entryId": "1599830",
+      "spelling": "握りめし",
+      "reading": "にぎりめし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "握りめし【にぎりめし】",
+      "meaning": "bola de arroz"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "character": "合",
+  "meanings": "adecuado, apropiado, correcto, sentar bien, ser adecuado, ser correcto, hacer juego",
+  "words": [
+    {
+      "entryId": "1284550",
+      "spelling": "合意",
+      "reading": "ごうい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "合意【ごうい】",
+      "meaning": "acuerdo; consentimiento; entendimiento mutuo"
+    },
+    {
+      "entryId": "1312420",
+      "spelling": "仕合",
+      "reading": "しあい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "仕合【しあい】",
+      "meaning": "juego; contienda"
+    },
+    {
+      "entryId": "1312420",
+      "spelling": "仕合い",
+      "reading": "しあい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "仕合い【しあい】",
+      "meaning": "juego; contienda"
+    },
+    {
+      "entryId": "1312420",
+      "spelling": "試合",
+      "reading": "しあい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "試合【しあい】",
+      "meaning": "juego; contienda"
+    },
+    {
+      "entryId": "1312420",
+      "spelling": "試合い",
+      "reading": "しあい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "試合い【しあい】",
+      "meaning": "juego; contienda"
+    },
+    {
+      "entryId": "1559450",
+      "spelling": "聯合",
+      "reading": "れんごう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "聯合【れんごう】",
+      "meaning": "unión (alianza)"
+    },
+    {
+      "entryId": "1559450",
+      "spelling": "連合",
+      "reading": "れんごう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "連合【れんごう】",
+      "meaning": "unión (alianza)"
+    },
+    {
+      "entryId": "1596380",
+      "spelling": "綜合",
+      "reading": "そうごう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "綜合【そうごう】",
+      "meaning": "general"
+    },
+    {
+      "entryId": "1596380",
+      "spelling": "総合",
+      "reading": "そうごう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "総合【そうごう】",
+      "meaning": "general"
+    },
+    {
+      "entryId": "1598590",
+      "spelling": "問い合せ",
+      "reading": "といあわせ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "問い合せ【といあわせ】",
+      "meaning": "averiguación (indagatoria; interrogación)"
+    },
+    {
+      "entryId": "1598590",
+      "spelling": "問い合わせ",
+      "reading": "といあわせ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "問い合わせ【といあわせ】",
+      "meaning": "averiguación (indagatoria; interrogación)"
+    },
+    {
+      "entryId": "1598590",
+      "spelling": "問合",
+      "reading": "といあわせ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "問合【といあわせ】",
+      "meaning": "averiguación (indagatoria; interrogación)"
+    },
+    {
+      "entryId": "1598590",
+      "spelling": "問合せ",
+      "reading": "といあわせ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "問合せ【といあわせ】",
+      "meaning": "averiguación (indagatoria; interrogación)"
+    },
+    {
+      "entryId": "1598590",
+      "spelling": "問合わせ",
+      "reading": "といあわせ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "問合わせ【といあわせ】",
+      "meaning": "averiguación (indagatoria; interrogación)"
+    },
+    {
+      "entryId": "1198530",
+      "spelling": "会合",
+      "reading": "かいごう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "会合【かいごう】",
+      "meaning": "reunión; congregación"
+    },
+    {
+      "entryId": "1397620",
+      "spelling": "組み合い",
+      "reading": "くみあい",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "組み合い【くみあい】",
+      "meaning": "unión; asociación"
+    },
+    {
+      "entryId": "1397620",
+      "spelling": "組合",
+      "reading": "くみあい",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "組合【くみあい】",
+      "meaning": "unión; asociación"
+    },
+    {
+      "entryId": "1449760",
+      "spelling": "統合",
+      "reading": "とうごう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "統合【とうごう】",
+      "meaning": "fusión; integración"
+    },
+    {
+      "entryId": "1284740",
+      "spelling": "合計",
+      "reading": "ごうけい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "合計【ごうけい】",
+      "meaning": "total"
+    },
+    {
+      "entryId": "1285140",
+      "spelling": "合同",
+      "reading": "ごうどう",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "合同【ごうどう】",
+      "meaning": "conjunto; unión; asociación; agrupación"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

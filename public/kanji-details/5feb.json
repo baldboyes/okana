@@ -1,0 +1,190 @@
+{
+  "character": "快",
+  "meanings": "agradable, bueno, curarse, rápido, placentero",
+  "words": [
+    {
+      "entryId": "1199720",
+      "spelling": "快復",
+      "reading": "かいふく",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "快復【かいふく】",
+      "meaning": "restauración; recuperación; reparación; rehabilitación"
+    },
+    {
+      "entryId": "1200120",
+      "spelling": "快適",
+      "reading": "かいてき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "快適【かいてき】",
+      "meaning": "cómodo"
+    },
+    {
+      "entryId": "1252600",
+      "spelling": "軽快",
+      "reading": "けいかい",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "軽快【けいかい】",
+      "meaning": "ligero"
+    },
+    {
+      "entryId": "1491570",
+      "spelling": "不快",
+      "reading": "ふかい",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "不快【ふかい】",
+      "meaning": "desagradable; desagrado; descontento"
+    },
+    {
+      "entryId": "1200080",
+      "spelling": "快速",
+      "reading": "かいそく",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "快速【かいそく】",
+      "meaning": "alta velocidad"
+    },
+    {
+      "entryId": "1495160",
+      "spelling": "不愉快",
+      "reading": "ふゆかい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "不愉快【ふゆかい】",
+      "meaning": "molestia; desagradable; infelicidad"
+    },
+    {
+      "entryId": "1538560",
+      "spelling": "愉快",
+      "reading": "ゆかい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "愉快【ゆかい】",
+      "meaning": "agradable; placentero"
+    },
+    {
+      "entryId": "1200110",
+      "spelling": "快調",
+      "reading": "かいちょう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "快調【かいちょう】",
+      "meaning": "buen estado; perfectas condiciones"
+    },
+    {
+      "entryId": "1200010",
+      "spelling": "快感",
+      "reading": "かいかん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "快感【かいかん】",
+      "meaning": "sensación agradable"
+    },
+    {
+      "entryId": "1199970",
+      "spelling": "快い",
+      "reading": "こころよい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "快い【こころよい】",
+      "meaning": "placentero; ameno; agradable; grato; cómodo; confortable; acogedor"
+    },
+    {
+      "entryId": "1200060",
+      "spelling": "快晴",
+      "reading": "かいせい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "快晴【かいせい】",
+      "meaning": "buen tiempo"
+    },
+    {
+      "entryId": "1200060",
+      "spelling": "快霽",
+      "reading": "かいせい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "快霽【かいせい】",
+      "meaning": "buen tiempo"
+    },
+    {
+      "entryId": "1199980",
+      "spelling": "快楽",
+      "reading": "かいらく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "快楽【かいらく】",
+      "meaning": "placer"
+    },
+    {
+      "entryId": "1199980",
+      "spelling": "快楽",
+      "reading": "けらく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "快楽【けらく】",
+      "meaning": "placer"
+    },
+    {
+      "entryId": "1394940",
+      "spelling": "全快",
+      "reading": "ぜんかい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "全快【ぜんかい】",
+      "meaning": "recuperación por completo"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

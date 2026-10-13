@@ -1,0 +1,242 @@
+{
+  "character": "部",
+  "meanings": "sección, departamento, parte, copia",
+  "words": [
+    {
+      "entryId": "1166180",
+      "spelling": "一部",
+      "reading": "いちぶ",
+      "senseNumbers": [
+        15,
+        16
+      ],
+      "japanese": "一部【いちぶ】",
+      "meaning": "una parte; una porción; una sección; algo; una copia (ej. de un documento)"
+    },
+    {
+      "entryId": "1166180",
+      "spelling": "１部",
+      "reading": "いちぶ",
+      "senseNumbers": [
+        15,
+        16
+      ],
+      "japanese": "１部【いちぶ】",
+      "meaning": "una parte; una porción; una sección; algo; una copia (ej. de un documento)"
+    },
+    {
+      "entryId": "1212170",
+      "spelling": "幹部",
+      "reading": "かんぶ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "幹部【かんぶ】",
+      "meaning": "ejecutivos; mando; gerencia"
+    },
+    {
+      "entryId": "1499460",
+      "spelling": "部長",
+      "reading": "ぶちょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "部長【ぶちょう】",
+      "meaning": "jefe de área"
+    },
+    {
+      "entryId": "1499490",
+      "spelling": "部分",
+      "reading": "ぶぶん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "部分【ぶぶん】",
+      "meaning": "pieza"
+    },
+    {
+      "entryId": "1499540",
+      "spelling": "部門",
+      "reading": "ぶもん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "部門【ぶもん】",
+      "meaning": "división"
+    },
+    {
+      "entryId": "1523170",
+      "spelling": "本部",
+      "reading": "ほんぶ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "本部【ほんぶ】",
+      "meaning": "cuartel general"
+    },
+    {
+      "entryId": "1207080",
+      "spelling": "学部",
+      "reading": "がくぶ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "学部【がくぶ】",
+      "meaning": "facultad (división de una universidad)"
+    },
+    {
+      "entryId": "1459030",
+      "spelling": "内部",
+      "reading": "ないぶ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "内部【ないぶ】",
+      "meaning": "interno"
+    },
+    {
+      "entryId": "1499320",
+      "spelling": "部屋",
+      "reading": "へや",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "部屋【へや】",
+      "meaning": "habitación"
+    },
+    {
+      "entryId": "1499430",
+      "spelling": "部隊",
+      "reading": "ぶたい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "部隊【ぶたい】",
+      "meaning": "tropa; unidad; cuerpo; legión; elemento"
+    },
+    {
+      "entryId": "1396130",
+      "spelling": "全部",
+      "reading": "ぜんぶ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "全部【ぜんぶ】",
+      "meaning": "todo; entero; enteramente"
+    },
+    {
+      "entryId": "1499480",
+      "spelling": "部品",
+      "reading": "ぶひん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "部品【ぶひん】",
+      "meaning": "partes; refacciones; piezas"
+    },
+    {
+      "entryId": "1505580",
+      "spelling": "文部省",
+      "reading": "もんぶしょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "文部省【もんぶしょう】",
+      "meaning": "ministerio de educación, cultura, deportes, ciencia y tecnología"
+    },
+    {
+      "entryId": "1460530",
+      "spelling": "南部",
+      "reading": "なんぶ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "南部【なんぶ】",
+      "meaning": "sureño"
+    },
+    {
+      "entryId": "1521260",
+      "spelling": "北部",
+      "reading": "ほくぶ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "北部【ほくぶ】",
+      "meaning": "del norte; norteño"
+    },
+    {
+      "entryId": "1204070",
+      "spelling": "外部",
+      "reading": "がいぶ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "外部【がいぶ】",
+      "meaning": "exterior"
+    },
+    {
+      "entryId": "1381040",
+      "spelling": "西部",
+      "reading": "せいぶ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "西部【せいぶ】",
+      "meaning": "parte occidental"
+    },
+    {
+      "entryId": "1448100",
+      "spelling": "東部",
+      "reading": "とうぶ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "東部【とうぶ】",
+      "meaning": "del Este; oriental"
+    },
+    {
+      "entryId": "1306740",
+      "spelling": "司令部",
+      "reading": "しれいぶ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "司令部【しれいぶ】",
+      "meaning": "cuartel general"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

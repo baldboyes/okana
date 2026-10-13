@@ -1,0 +1,120 @@
+{
+  "character": "監",
+  "meanings": "supervisar, controlar, gobernar, administrar",
+  "words": [
+    {
+      "entryId": "1213720",
+      "spelling": "監督",
+      "reading": "かんとく",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "監督【かんとく】",
+      "meaning": "supervisín; dirección; supervisar; dirigir; tutelar"
+    },
+    {
+      "entryId": "1213680",
+      "spelling": "監視",
+      "reading": "かんし",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "監視【かんし】",
+      "meaning": "monitoreo; supervisión"
+    },
+    {
+      "entryId": "1590860",
+      "spelling": "監査",
+      "reading": "かんさ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "監査【かんさ】",
+      "meaning": "inspección; auditoría; sentencia"
+    },
+    {
+      "entryId": "1213610",
+      "spelling": "監禁",
+      "reading": "かんきん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "監禁【かんきん】",
+      "meaning": "reclusión; confinamiento; privación de la libertad"
+    },
+    {
+      "entryId": "1213660",
+      "spelling": "監察",
+      "reading": "かんさつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "監察【かんさつ】",
+      "meaning": "inspeccionar; inspección; inspector"
+    },
+    {
+      "entryId": "1213710",
+      "spelling": "監修",
+      "reading": "かんしゅう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "監修【かんしゅう】",
+      "meaning": "coordinación; supervisión"
+    },
+    {
+      "entryId": "1213620",
+      "spelling": "監獄",
+      "reading": "かんごく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "監獄【かんごく】",
+      "meaning": "prisión; cárcel"
+    },
+    {
+      "entryId": "1213760",
+      "spelling": "監理",
+      "reading": "かんり",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "監理【かんり】",
+      "meaning": "dirección; control; gerencia"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

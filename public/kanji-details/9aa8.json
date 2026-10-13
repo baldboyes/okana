@@ -1,0 +1,240 @@
+{
+  "character": "骨",
+  "meanings": "hueso, esqueleto",
+  "words": [
+    {
+      "entryId": "1288550",
+      "spelling": "骨",
+      "reading": "ほね",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "骨【ほね】",
+      "meaning": "hueso"
+    },
+    {
+      "entryId": "1159220",
+      "spelling": "遺骨",
+      "reading": "いこつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "遺骨【いこつ】",
+      "meaning": "restos mortales; cenizas del difunto"
+    },
+    {
+      "entryId": "1288570",
+      "spelling": "骨格",
+      "reading": "こっかく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "骨格【こっかく】",
+      "meaning": "esqueleto"
+    },
+    {
+      "entryId": "1288570",
+      "spelling": "骨骼",
+      "reading": "こっかく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "骨骼【こっかく】",
+      "meaning": "esqueleto"
+    },
+    {
+      "entryId": "1437890",
+      "spelling": "鉄骨",
+      "reading": "てっこつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "鉄骨【てっこつ】",
+      "meaning": "marco de acero"
+    },
+    {
+      "entryId": "1288640",
+      "spelling": "骨折",
+      "reading": "こっせつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "骨折【こっせつ】",
+      "meaning": "fractura del hueso"
+    },
+    {
+      "entryId": "1560120",
+      "spelling": "露骨",
+      "reading": "ろこつ",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "露骨【ろこつ】",
+      "meaning": "abierto; destapado; desnudo"
+    },
+    {
+      "entryId": "1367670",
+      "spelling": "人骨",
+      "reading": "じんこつ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "人骨【じんこつ】",
+      "meaning": "huesos humanos"
+    },
+    {
+      "entryId": "1472750",
+      "spelling": "背骨",
+      "reading": "せぼね",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "背骨【せぼね】",
+      "meaning": "columna vertebral; espina dorsal"
+    },
+    {
+      "entryId": "1472750",
+      "spelling": "脊骨",
+      "reading": "せぼね",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "脊骨【せぼね】",
+      "meaning": "columna vertebral; espina dorsal"
+    },
+    {
+      "entryId": "1288700",
+      "spelling": "骨董",
+      "reading": "こっとう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "骨董【こっとう】",
+      "meaning": "antigüedad; curiosidad"
+    },
+    {
+      "entryId": "1204750",
+      "spelling": "がい骨",
+      "reading": "がいこつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "がい骨【がいこつ】",
+      "meaning": "esqueleto"
+    },
+    {
+      "entryId": "1204750",
+      "spelling": "骸骨",
+      "reading": "がいこつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "骸骨【がいこつ】",
+      "meaning": "esqueleto"
+    },
+    {
+      "entryId": "1257750",
+      "spelling": "拳骨",
+      "reading": "げんこつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "拳骨【げんこつ】",
+      "meaning": "puño"
+    },
+    {
+      "entryId": "1590710",
+      "spelling": "骨牌",
+      "reading": "カルタ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "骨牌【カルタ】",
+      "meaning": "juego de cartas japonesas"
+    },
+    {
+      "entryId": "1288740",
+      "spelling": "骨盤",
+      "reading": "こつばん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "骨盤【こつばん】",
+      "meaning": "pelvis"
+    },
+    {
+      "entryId": "1460760",
+      "spelling": "軟骨",
+      "reading": "なんこつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "軟骨【なんこつ】",
+      "meaning": "cartílago"
+    },
+    {
+      "entryId": "1222220",
+      "spelling": "気骨",
+      "reading": "きこつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "気骨【きこつ】",
+      "meaning": "inflexibilidad; indoblegabilidad; firmeza de convicciones; firmeza de carácter"
+    },
+    {
+      "entryId": "1450850",
+      "spelling": "頭骨",
+      "reading": "とうこつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "頭骨【とうこつ】",
+      "meaning": "calavera; cráneo"
+    },
+    {
+      "entryId": "1291750",
+      "spelling": "鎖骨",
+      "reading": "さこつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "鎖骨【さこつ】",
+      "meaning": "clavícula"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

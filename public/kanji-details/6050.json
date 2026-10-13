@@ -1,0 +1,211 @@
+{
+  "character": "恐",
+  "meanings": "miedo, temor, sobrecogimiento, tener miedo, temer, temible, pavoroso, espantoso",
+  "words": [
+    {
+      "entryId": "1236660",
+      "spelling": "恐れ",
+      "reading": "おそれ",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "恐れ【おそれ】",
+      "meaning": "miedo; temor; horror; ansiedad; preocupación; inquietud"
+    },
+    {
+      "entryId": "1236750",
+      "spelling": "恐怖",
+      "reading": "きょうふ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "恐怖【きょうふ】",
+      "meaning": "sentir terror; aterrarse; aterrorizarse; sentir pánico; sentir pavor; tener miedo; miedo; pavor; consternación; terror"
+    },
+    {
+      "entryId": "1236750",
+      "spelling": "恐怖",
+      "reading": "くふ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "恐怖【くふ】",
+      "meaning": "sentir terror; aterrarse; aterrorizarse; sentir pánico; sentir pavor; tener miedo; miedo; pavor; consternación; terror"
+    },
+    {
+      "entryId": "1591710",
+      "spelling": "恐竜",
+      "reading": "きょうりゅう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "恐竜【きょうりゅう】",
+      "meaning": "dinosaurio"
+    },
+    {
+      "entryId": "1591710",
+      "spelling": "恐龍",
+      "reading": "きょうりゅう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "恐龍【きょうりゅう】",
+      "meaning": "dinosaurio"
+    },
+    {
+      "entryId": "1236700",
+      "spelling": "恐喝",
+      "reading": "きょうかつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "恐喝【きょうかつ】",
+      "meaning": "coaccionar; chantajear; amenazar; amenaza; chantaje"
+    },
+    {
+      "entryId": "1236650",
+      "spelling": "恐らく",
+      "reading": "おそらく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "恐らく【おそらく】",
+      "meaning": "quizás; tal vez"
+    },
+    {
+      "entryId": "1589200",
+      "spelling": "恐れる",
+      "reading": "おそれる",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "恐れる【おそれる】",
+      "meaning": "temer; tener miedo; haber riesgo de; existir peligro de; tener miedo de; tener miedo (de o a)"
+    },
+    {
+      "entryId": "1593480",
+      "spelling": "恐い",
+      "reading": "こわい",
+      "senseNumbers": [
+        12,
+        13
+      ],
+      "japanese": "恐い【こわい】",
+      "meaning": "asustadizo; temeroso; espeluznante; espantoso; Tengo Miedo"
+    },
+    {
+      "entryId": "1236690",
+      "spelling": "恐ろしい",
+      "reading": "おそろしい",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "恐ろしい【おそろしい】",
+      "meaning": "terrible; espantoso"
+    },
+    {
+      "entryId": "1236710",
+      "spelling": "恐慌",
+      "reading": "きょうこう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "恐慌【きょうこう】",
+      "meaning": "miedo; pánico; crisis"
+    },
+    {
+      "entryId": "1236740",
+      "spelling": "恐縮",
+      "reading": "きょうしゅく",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "恐縮【きょうしゅく】",
+      "meaning": "vergüenza"
+    },
+    {
+      "entryId": "1496930",
+      "spelling": "恐がる",
+      "reading": "こわがる",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "恐がる【こわがる】",
+      "meaning": "temer; tener miedo a; ser nervioso; ser tímido (de)"
+    },
+    {
+      "entryId": "1609410",
+      "spelling": "恐る恐る",
+      "reading": "おそるおそる",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "恐る恐る【おそるおそる】",
+      "meaning": "tímidamente"
+    },
+    {
+      "entryId": "1236760",
+      "spelling": "恐怖症",
+      "reading": "きょうふしょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "恐怖症【きょうふしょう】",
+      "meaning": "fobia; miedo patológico; temor irracional"
+    },
+    {
+      "entryId": "1596190",
+      "spelling": "戦々恐々",
+      "reading": "せんせんきょうきょう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "戦々恐々【せんせんきょうきょう】",
+      "meaning": "temblando de miedo; horrorizado; aterrorizado"
+    },
+    {
+      "entryId": "1596190",
+      "spelling": "戦戦恐恐",
+      "reading": "せんせんきょうきょう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "戦戦恐恐【せんせんきょうきょう】",
+      "meaning": "temblando de miedo; horrorizado; aterrorizado"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

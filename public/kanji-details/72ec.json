@@ -1,0 +1,247 @@
+{
+  "character": "独",
+  "meanings": "único, sólo, Alemania",
+  "words": [
+    {
+      "entryId": "1576150",
+      "spelling": "独り",
+      "reading": "ひとり",
+      "senseNumbers": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "japanese": "独り【ひとり】",
+      "meaning": "una persona; solo; soltero; solitario"
+    },
+    {
+      "entryId": "1455810",
+      "spelling": "独自",
+      "reading": "どくじ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "独自【どくじ】",
+      "meaning": "personal; original; propio"
+    },
+    {
+      "entryId": "1456040",
+      "spelling": "独立",
+      "reading": "どくりつ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "独立【どくりつ】",
+      "meaning": "independizarse; independencia (e.g. Día de la Independencia); auto-suficiente"
+    },
+    {
+      "entryId": "1417780",
+      "spelling": "単独",
+      "reading": "たんどく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "単独【たんどく】",
+      "meaning": "solo; independiente"
+    },
+    {
+      "entryId": "1456010",
+      "spelling": "独得",
+      "reading": "どくとく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "独得【どくとく】",
+      "meaning": "peculiaridad; singularidad; característico"
+    },
+    {
+      "entryId": "1456010",
+      "spelling": "独特",
+      "reading": "どくとく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "独特【どくとく】",
+      "meaning": "peculiaridad; singularidad; característico"
+    },
+    {
+      "entryId": "1691370",
+      "spelling": "独立国",
+      "reading": "どくりつこく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "独立国【どくりつこく】",
+      "meaning": "estado independiente; nación independiente"
+    },
+    {
+      "entryId": "1455800",
+      "spelling": "独裁",
+      "reading": "どくさい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "独裁【どくさい】",
+      "meaning": "dictadura; despotismo; tiranía"
+    },
+    {
+      "entryId": "1455870",
+      "spelling": "独占",
+      "reading": "どくせん",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "独占【どくせん】",
+      "meaning": "monopolio"
+    },
+    {
+      "entryId": "1455850",
+      "spelling": "独身",
+      "reading": "どくしん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "独身【どくしん】",
+      "meaning": "célibe; soltero"
+    },
+    {
+      "entryId": "1266850",
+      "spelling": "孤独",
+      "reading": "こどく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "孤独【こどく】",
+      "meaning": "soledad; solitario"
+    },
+    {
+      "entryId": "1645370",
+      "spelling": "西独",
+      "reading": "せいどく",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "西独【せいどく】",
+      "meaning": "Alemania Occidental"
+    },
+    {
+      "entryId": "1613340",
+      "spelling": "独り暮し",
+      "reading": "ひとりぐらし",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "独り暮し【ひとりぐらし】",
+      "meaning": "una vida simple; una vida solitaria; vivir solo"
+    },
+    {
+      "entryId": "1613340",
+      "spelling": "独り暮らし",
+      "reading": "ひとりぐらし",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "独り暮らし【ひとりぐらし】",
+      "meaning": "una vida simple; una vida solitaria; vivir solo"
+    },
+    {
+      "entryId": "1163850",
+      "spelling": "独り歩き",
+      "reading": "ひとりあるき",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "独り歩き【ひとりあるき】",
+      "meaning": "caminando solo; andando solo; recorriendo solo; yendo solo; quedarse en la posición (propia)"
+    },
+    {
+      "entryId": "1455990",
+      "spelling": "独断",
+      "reading": "どくだん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "独断【どくだん】",
+      "meaning": "decisión arbitraria; actitud dogmática"
+    },
+    {
+      "entryId": "1727720",
+      "spelling": "独りっ子",
+      "reading": "ひとりっこ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "独りっ子【ひとりっこ】",
+      "meaning": "un sólo niño; un niño"
+    },
+    {
+      "entryId": "1455920",
+      "spelling": "独創",
+      "reading": "どくそう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "独創【どくそう】",
+      "meaning": "originalidad"
+    },
+    {
+      "entryId": "1455950",
+      "spelling": "独創的",
+      "reading": "どくそうてき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "独創的【どくそうてき】",
+      "meaning": "original"
+    },
+    {
+      "entryId": "1455720",
+      "spelling": "独学",
+      "reading": "どくがく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "独学【どくがく】",
+      "meaning": "estudiar de modo autodidacta; autoaprendizaje"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

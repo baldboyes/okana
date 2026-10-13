@@ -1,0 +1,160 @@
+{
+  "character": "村",
+  "meanings": "ciudad, pueblo",
+  "words": [
+    {
+      "entryId": "1406820",
+      "spelling": "村",
+      "reading": "そん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "村【そん】",
+      "meaning": "aldea; villa; pueblo"
+    },
+    {
+      "entryId": "1406820",
+      "spelling": "村",
+      "reading": "むら",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "村【むら】",
+      "meaning": "aldea; villa; pueblo"
+    },
+    {
+      "entryId": "1470730",
+      "spelling": "農村",
+      "reading": "のうそん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "農村【のうそん】",
+      "meaning": "aldea agrícola"
+    },
+    {
+      "entryId": "1755230",
+      "spelling": "山村",
+      "reading": "さんそん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "山村【さんそん】",
+      "meaning": "pueblo de montaña"
+    },
+    {
+      "entryId": "1406840",
+      "spelling": "村長",
+      "reading": "そんちょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "村長【そんちょう】",
+      "meaning": "jefe de la aldea"
+    },
+    {
+      "entryId": "1406840",
+      "spelling": "村長",
+      "reading": "むらおさ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "村長【むらおさ】",
+      "meaning": "jefe de la aldea"
+    },
+    {
+      "entryId": "1428780",
+      "spelling": "町村",
+      "reading": "ちょうそん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "町村【ちょうそん】",
+      "meaning": "ciudades y pueblos"
+    },
+    {
+      "entryId": "1406830",
+      "spelling": "村人",
+      "reading": "むらびと",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "村人【むらびと】",
+      "meaning": "aldeano"
+    },
+    {
+      "entryId": "1406860",
+      "spelling": "村民",
+      "reading": "そんみん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "村民【そんみん】",
+      "meaning": "aldeano"
+    },
+    {
+      "entryId": "1233060",
+      "spelling": "漁村",
+      "reading": "ぎょそん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "漁村【ぎょそん】",
+      "meaning": "pueblo pesquero"
+    },
+    {
+      "entryId": "1650140",
+      "spelling": "隣村",
+      "reading": "となりむら",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "隣村【となりむら】",
+      "meaning": "pueblo vecino"
+    },
+    {
+      "entryId": "1650140",
+      "spelling": "隣村",
+      "reading": "りんそん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "隣村【りんそん】",
+      "meaning": "pueblo vecino"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

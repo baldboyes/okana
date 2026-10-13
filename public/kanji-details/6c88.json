@@ -1,0 +1,110 @@
+{
+  "character": "沈",
+  "meanings": "hundido, sumergido, deprimido, desanimado, hundirse, sumergirse, deprimirse, desanimarse",
+  "words": [
+    {
+      "entryId": "1431800",
+      "spelling": "沈没",
+      "reading": "ちんぼつ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "沈没【ちんぼつ】",
+      "meaning": "hundirse"
+    },
+    {
+      "entryId": "1431670",
+      "spelling": "沈む",
+      "reading": "しずむ",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "沈む【しずむ】",
+      "meaning": "hundirse; sumergirse; deprimirse"
+    },
+    {
+      "entryId": "1431680",
+      "spelling": "沈める",
+      "reading": "しずめる",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "沈める【しずめる】",
+      "meaning": "hundir; sumergir; zozobrar"
+    },
+    {
+      "entryId": "1431740",
+      "spelling": "沈静",
+      "reading": "ちんせい",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "沈静【ちんせい】",
+      "meaning": "quietud; tranquilidad"
+    },
+    {
+      "entryId": "1156460",
+      "spelling": "意気消沈",
+      "reading": "いきしょうちん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "意気消沈【いきしょうちん】",
+      "meaning": "deprimido; desalentado; desanimado; rechazo"
+    },
+    {
+      "entryId": "1156460",
+      "spelling": "意気銷沈",
+      "reading": "いきしょうちん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "意気銷沈【いきしょうちん】",
+      "meaning": "deprimido; desalentado; desanimado; rechazo"
+    },
+    {
+      "entryId": "1253600",
+      "spelling": "撃沈",
+      "reading": "げきちん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "撃沈【げきちん】",
+      "meaning": "hundimiento de un buque"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

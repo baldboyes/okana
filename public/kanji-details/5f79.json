@@ -1,0 +1,240 @@
+{
+  "character": "役",
+  "meanings": "oficio, deber, servicio, papel, (guerra)",
+  "words": [
+    {
+      "entryId": "1538000",
+      "spelling": "役割",
+      "reading": "やくわり",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "役割【やくわり】",
+      "meaning": "rol; función; papel"
+    },
+    {
+      "entryId": "1538000",
+      "spelling": "役割り",
+      "reading": "やくわり",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "役割り【やくわり】",
+      "meaning": "rol; función; papel"
+    },
+    {
+      "entryId": "1610920",
+      "spelling": "取り締まり役",
+      "reading": "とりしまりやく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "取り締まり役【とりしまりやく】",
+      "meaning": "administrador; director; gerente"
+    },
+    {
+      "entryId": "1610920",
+      "spelling": "取締り役",
+      "reading": "とりしまりやく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "取締り役【とりしまりやく】",
+      "meaning": "administrador; director; gerente"
+    },
+    {
+      "entryId": "1610920",
+      "spelling": "取締役",
+      "reading": "とりしまりやく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "取締役【とりしまりやく】",
+      "meaning": "administrador; director; gerente"
+    },
+    {
+      "entryId": "1428220",
+      "spelling": "懲役",
+      "reading": "ちょうえき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "懲役【ちょうえき】",
+      "meaning": "pena; sentencia"
+    },
+    {
+      "entryId": "1537970",
+      "spelling": "役",
+      "reading": "やく",
+      "senseNumbers": [
+        21
+      ],
+      "japanese": "役【やく】",
+      "meaning": "uso; servicio; rol; posición"
+    },
+    {
+      "entryId": "1263890",
+      "spelling": "現役",
+      "reading": "げんえき",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "現役【げんえき】",
+      "meaning": "servicio activo"
+    },
+    {
+      "entryId": "1326290",
+      "spelling": "主役",
+      "reading": "しゅやく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "主役【しゅやく】",
+      "meaning": "protagonista"
+    },
+    {
+      "entryId": "1538020",
+      "spelling": "役所",
+      "reading": "やくしょ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "役所【やくしょ】",
+      "meaning": "oficina de gobierno; oficina pública"
+    },
+    {
+      "entryId": "1538010",
+      "spelling": "役者",
+      "reading": "やくしゃ",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "役者【やくしゃ】",
+      "meaning": "actor; actriz"
+    },
+    {
+      "entryId": "1538050",
+      "spelling": "役人",
+      "reading": "やくにん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "役人【やくにん】",
+      "meaning": "funcionario del gobierno"
+    },
+    {
+      "entryId": "1308760",
+      "spelling": "市役所",
+      "reading": "しやくしょ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "市役所【しやくしょ】",
+      "meaning": "ayuntamiento"
+    },
+    {
+      "entryId": "1538080",
+      "spelling": "役目",
+      "reading": "やくめ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "役目【やくめ】",
+      "meaning": "papel; función; rol"
+    },
+    {
+      "entryId": "1538040",
+      "spelling": "役職",
+      "reading": "やくしょく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "役職【やくしょく】",
+      "meaning": "puesto; posición; directivo"
+    },
+    {
+      "entryId": "1244270",
+      "spelling": "区役所",
+      "reading": "くやくしょ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "区役所【くやくしょ】",
+      "meaning": "alcaldía; ayuntamiento; municipio"
+    },
+    {
+      "entryId": "1538030",
+      "spelling": "役場",
+      "reading": "やくば",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "役場【やくば】",
+      "meaning": "oficina pública"
+    },
+    {
+      "entryId": "1336770",
+      "spelling": "重役",
+      "reading": "おもやく",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "重役【おもやく】",
+      "meaning": "director; alto ejecutivo; (persona con) grandes responsabilidades"
+    },
+    {
+      "entryId": "1336770",
+      "spelling": "重役",
+      "reading": "じゅうやく",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "重役【じゅうやく】",
+      "meaning": "director; alto ejecutivo; (persona con) grandes responsabilidades"
+    },
+    {
+      "entryId": "1506710",
+      "spelling": "兵役",
+      "reading": "へいえき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "兵役【へいえき】",
+      "meaning": "servicio militar; reclutamiento; conscripción"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

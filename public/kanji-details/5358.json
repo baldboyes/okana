@@ -1,0 +1,180 @@
+{
+  "character": "単",
+  "meanings": "sencillo, uno, unidad, sólo, único",
+  "words": [
+    {
+      "entryId": "1214330",
+      "spelling": "簡単",
+      "reading": "かんたん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "簡単【かんたん】",
+      "meaning": "simple; sencillo"
+    },
+    {
+      "entryId": "1417040",
+      "spelling": "単位",
+      "reading": "たんい",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "単位【たんい】",
+      "meaning": "unidad; denominación; puntos; créditos"
+    },
+    {
+      "entryId": "1417780",
+      "spelling": "単独",
+      "reading": "たんどく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "単独【たんどく】",
+      "meaning": "solo; independiente"
+    },
+    {
+      "entryId": "1417550",
+      "spelling": "単純",
+      "reading": "たんじゅん",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "単純【たんじゅん】",
+      "meaning": "sencillez; simplicidad; sencillo (simple; fácil)"
+    },
+    {
+      "entryId": "1417020",
+      "spelling": "単なる",
+      "reading": "たんなる",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "単なる【たんなる】",
+      "meaning": "insignificante; simple"
+    },
+    {
+      "entryId": "1417030",
+      "spelling": "単に",
+      "reading": "たんに",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "単に【たんに】",
+      "meaning": "simplemente; solamente"
+    },
+    {
+      "entryId": "1417640",
+      "spelling": "単身",
+      "reading": "たんしん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "単身【たんしん】",
+      "meaning": "solo; sin ayuda; lejos de casa"
+    },
+    {
+      "entryId": "1417100",
+      "spelling": "単一",
+      "reading": "たんいつ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "単一【たんいつ】",
+      "meaning": "singular; simple"
+    },
+    {
+      "entryId": "1417380",
+      "spelling": "単行本",
+      "reading": "たんこうぼん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "単行本【たんこうぼん】",
+      "meaning": "libro especial; volumen separado; libro de lectura"
+    },
+    {
+      "entryId": "1417330",
+      "spelling": "単語",
+      "reading": "たんご",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "単語【たんご】",
+      "meaning": "palabra; vocabulario; (usualmente) palabras de un caracter"
+    },
+    {
+      "entryId": "1417760",
+      "spelling": "単調",
+      "reading": "たんちょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "単調【たんちょう】",
+      "meaning": "monótono; repetitivo; aburrido"
+    },
+    {
+      "entryId": "1174600",
+      "spelling": "英単語",
+      "reading": "えいたんご",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "英単語【えいたんご】",
+      "meaning": "palabra inglesa"
+    },
+    {
+      "entryId": "1417670",
+      "spelling": "単数",
+      "reading": "たんすう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "単数【たんすう】",
+      "meaning": "singular"
+    },
+    {
+      "entryId": "1601920",
+      "spelling": "単",
+      "reading": "ひとえ",
+      "senseNumbers": [
+        21
+      ],
+      "japanese": "単【ひとえ】",
+      "meaning": "una capa; sencillo; un estrato; simple"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

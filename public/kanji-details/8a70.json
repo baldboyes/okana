@@ -1,0 +1,240 @@
+{
+  "character": "詰",
+  "meanings": "pedir informes, empaquetar, rellenar, reprobar, reprender, trabajar duro",
+  "words": [
+    {
+      "entryId": "1604580",
+      "spelling": "見詰める",
+      "reading": "みつめる",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "見詰める【みつめる】",
+      "meaning": "quedarse viendo; mirar fijamente en"
+    },
+    {
+      "entryId": "1604580",
+      "spelling": "視詰める",
+      "reading": "みつめる",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "視詰める【みつめる】",
+      "meaning": "quedarse viendo; mirar fijamente en"
+    },
+    {
+      "entryId": "1214560",
+      "spelling": "缶詰",
+      "reading": "かんづめ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "缶詰【かんづめ】",
+      "meaning": "conservas"
+    },
+    {
+      "entryId": "1214560",
+      "spelling": "缶詰",
+      "reading": "カンズメ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "缶詰【カンズメ】",
+      "meaning": "conservas"
+    },
+    {
+      "entryId": "1214560",
+      "spelling": "缶詰め",
+      "reading": "かんづめ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "缶詰め【かんづめ】",
+      "meaning": "conservas"
+    },
+    {
+      "entryId": "1214560",
+      "spelling": "罐詰",
+      "reading": "かんづめ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "罐詰【かんづめ】",
+      "meaning": "conservas"
+    },
+    {
+      "entryId": "1214560",
+      "spelling": "罐詰め",
+      "reading": "かんづめ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "罐詰め【かんづめ】",
+      "meaning": "conservas"
+    },
+    {
+      "entryId": "1226480",
+      "spelling": "詰まる",
+      "reading": "つまる",
+      "senseNumbers": [
+        24
+      ],
+      "japanese": "詰まる【つまる】",
+      "meaning": "retacarse; atascarse; taparse"
+    },
+    {
+      "entryId": "1226480",
+      "spelling": "詰る",
+      "reading": "つまる",
+      "senseNumbers": [
+        24
+      ],
+      "japanese": "詰る【つまる】",
+      "meaning": "retacarse; atascarse; taparse"
+    },
+    {
+      "entryId": "1610430",
+      "spelling": "詰まり",
+      "reading": "つまり",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "詰まり【つまり】",
+      "meaning": "en pocas palabras; en resumen; en otras palabras; es decir; mejor dicho; o sea; a la larga; a largo plazo; después de todo; relleno; bloqueo; lo último"
+    },
+    {
+      "entryId": "1610430",
+      "spelling": "詰り",
+      "reading": "つまり",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "詰り【つまり】",
+      "meaning": "en pocas palabras; en resumen; en otras palabras; es decir; mejor dicho; o sea; a la larga; a largo plazo; después de todo; relleno; bloqueo; lo último"
+    },
+    {
+      "entryId": "1491130",
+      "spelling": "びん詰",
+      "reading": "びんづめ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "びん詰【びんづめ】",
+      "meaning": "embotellado; enfrascado"
+    },
+    {
+      "entryId": "1491130",
+      "spelling": "びん詰め",
+      "reading": "びんづめ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "びん詰め【びんづめ】",
+      "meaning": "embotellado; enfrascado"
+    },
+    {
+      "entryId": "1491130",
+      "spelling": "ビン詰め",
+      "reading": "びんづめ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "ビン詰め【びんづめ】",
+      "meaning": "embotellado; enfrascado"
+    },
+    {
+      "entryId": "1491130",
+      "spelling": "壜詰",
+      "reading": "びんづめ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "壜詰【びんづめ】",
+      "meaning": "embotellado; enfrascado"
+    },
+    {
+      "entryId": "1491130",
+      "spelling": "壜詰め",
+      "reading": "びんづめ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "壜詰め【びんづめ】",
+      "meaning": "embotellado; enfrascado"
+    },
+    {
+      "entryId": "1491130",
+      "spelling": "瓶詰",
+      "reading": "びんづめ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "瓶詰【びんづめ】",
+      "meaning": "embotellado; enfrascado"
+    },
+    {
+      "entryId": "1491130",
+      "spelling": "瓶詰め",
+      "reading": "びんづめ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "瓶詰め【びんづめ】",
+      "meaning": "embotellado; enfrascado"
+    },
+    {
+      "entryId": "1322520",
+      "spelling": "煮詰める",
+      "reading": "につめる",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "煮詰める【につめる】",
+      "meaning": "condensar; pensar a fondo; definir"
+    },
+    {
+      "entryId": "1008190",
+      "spelling": "詰まらない",
+      "reading": "つまらない",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "詰まらない【つまらない】",
+      "meaning": "insignificante; aburrido; frívolo"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

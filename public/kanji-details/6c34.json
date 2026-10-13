@@ -1,0 +1,240 @@
+{
+  "character": "水",
+  "meanings": "agua",
+  "words": [
+    {
+      "entryId": "1371260",
+      "spelling": "水",
+      "reading": "みず",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "水【みず】",
+      "meaning": "agua (fría, fresca)"
+    },
+    {
+      "entryId": "1371610",
+      "spelling": "水準",
+      "reading": "すいじゅん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "水準【すいじゅん】",
+      "meaning": "nivel; medida estándar"
+    },
+    {
+      "entryId": "1371920",
+      "spelling": "水道",
+      "reading": "すいどう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "水道【すいどう】",
+      "meaning": "suministro de agua"
+    },
+    {
+      "entryId": "1372120",
+      "spelling": "水面",
+      "reading": "すいめん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "水面【すいめん】",
+      "meaning": "superficie del agua"
+    },
+    {
+      "entryId": "1372120",
+      "spelling": "水面",
+      "reading": "みなも",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "水面【みなも】",
+      "meaning": "superficie del agua"
+    },
+    {
+      "entryId": "1371320",
+      "spelling": "水泳",
+      "reading": "すいえい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "水泳【すいえい】",
+      "meaning": "natación"
+    },
+    {
+      "entryId": "1371890",
+      "spelling": "水田",
+      "reading": "すいでん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "水田【すいでん】",
+      "meaning": "campo de arroz (lleno de agua); arrozal (inundado)"
+    },
+    {
+      "entryId": "1371890",
+      "spelling": "水田",
+      "reading": "みずた",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "水田【みずた】",
+      "meaning": "campo de arroz (lleno de agua); arrozal (inundado)"
+    },
+    {
+      "entryId": "1995990",
+      "spelling": "水俣病",
+      "reading": "みなまたびょう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "水俣病【みなまたびょう】",
+      "meaning": "enfermedad de Minamata (envenenamiento por mercurio)"
+    },
+    {
+      "entryId": "1609990",
+      "spelling": "水産",
+      "reading": "すいさん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "水産【すいさん】",
+      "meaning": "industria pesquera; recursos de aguas potables"
+    },
+    {
+      "entryId": "1737870",
+      "spelling": "水質",
+      "reading": "すいしつ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "水質【すいしつ】",
+      "meaning": "calidad del agua"
+    },
+    {
+      "entryId": "1279930",
+      "spelling": "洪水",
+      "reading": "こうずい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "洪水【こうずい】",
+      "meaning": "inundación"
+    },
+    {
+      "entryId": "1472380",
+      "spelling": "排水",
+      "reading": "はいすい",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "排水【はいすい】",
+      "meaning": "drenaje"
+    },
+    {
+      "entryId": "1185540",
+      "spelling": "下水道",
+      "reading": "げすいどう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "下水道【げすいどう】",
+      "meaning": "alcantarillado"
+    },
+    {
+      "entryId": "1201490",
+      "spelling": "海水",
+      "reading": "かいすい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "海水【かいすい】",
+      "meaning": "agua oceánica"
+    },
+    {
+      "entryId": "1372180",
+      "spelling": "水曜",
+      "reading": "すいよう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "水曜【すいよう】",
+      "meaning": "miércoles"
+    },
+    {
+      "entryId": "1391340",
+      "spelling": "潜水艦",
+      "reading": "せんすいかん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "潜水艦【せんすいかん】",
+      "meaning": "submarino"
+    },
+    {
+      "entryId": "1371780",
+      "spelling": "水素",
+      "reading": "すいそ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "水素【すいそ】",
+      "meaning": "hidrógeno"
+    },
+    {
+      "entryId": "1372010",
+      "spelling": "水分",
+      "reading": "すいぶん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "水分【すいぶん】",
+      "meaning": "humedad"
+    },
+    {
+      "entryId": "1371840",
+      "spelling": "水中",
+      "reading": "すいちゅう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "水中【すいちゅう】",
+      "meaning": "submarino (que está bajo el agua); bajo el agua"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

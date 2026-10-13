@@ -1,0 +1,150 @@
+{
+  "character": "承",
+  "meanings": "conceder, heredar, escuchar, ser informado",
+  "words": [
+    {
+      "entryId": "1349520",
+      "spelling": "承認",
+      "reading": "しょうにん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "承認【しょうにん】",
+      "meaning": "aceptar; reconocer; autorización; aprobación; consentimiento"
+    },
+    {
+      "entryId": "1606280",
+      "spelling": "了承",
+      "reading": "りょうしょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "了承【りょうしょう】",
+      "meaning": "aprobación; entendimiento"
+    },
+    {
+      "entryId": "1606280",
+      "spelling": "諒承",
+      "reading": "りょうしょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "諒承【りょうしょう】",
+      "meaning": "aprobación; entendimiento"
+    },
+    {
+      "entryId": "1606280",
+      "spelling": "領承",
+      "reading": "りょうしょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "領承【りょうしょう】",
+      "meaning": "aprobación; entendimiento"
+    },
+    {
+      "entryId": "1659120",
+      "spelling": "承け",
+      "reading": "うけ",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "承け【うけ】",
+      "meaning": "receptor; defensor; reputación, fama; aceptación, reconocimiento, recepción"
+    },
+    {
+      "entryId": "1251780",
+      "spelling": "継承",
+      "reading": "けいしょう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "継承【けいしょう】",
+      "meaning": "herencia; sucesión; ascenso (al trono)"
+    },
+    {
+      "entryId": "1349480",
+      "spelling": "承知",
+      "reading": "しょうち",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "承知【しょうち】",
+      "meaning": "concentimiento; aceptación; aceptar; asentir; acceder; prestar el consentimiento; mostrar conformidad; estar de acuerdo; saber bien; conocer bien"
+    },
+    {
+      "entryId": "1349470",
+      "spelling": "承諾",
+      "reading": "しょうだく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "承諾【しょうだく】",
+      "meaning": "acuerdo; convenio; aceptar; consentir"
+    },
+    {
+      "entryId": "1329590",
+      "spelling": "承ける",
+      "reading": "うける",
+      "senseNumbers": [
+        35
+      ],
+      "japanese": "承ける【うける】",
+      "meaning": "emprender; aceptar; tomar(lección; examen); experimentar; agarrar(ej. una pelota); hacerse popular"
+    },
+    {
+      "entryId": "1349440",
+      "spelling": "承る",
+      "reading": "うけたまわる",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "承る【うけたまわる】",
+      "meaning": "recibir; aceptar; oír; entender"
+    },
+    {
+      "entryId": "1349450",
+      "spelling": "承継",
+      "reading": "しょうけい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "承継【しょうけい】",
+      "meaning": "sucesión"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

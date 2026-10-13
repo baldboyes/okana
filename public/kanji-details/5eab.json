@@ -1,0 +1,160 @@
+{
+  "character": "庫",
+  "meanings": "almacén, bodega",
+  "words": [
+    {
+      "entryId": "1505340",
+      "spelling": "文庫",
+      "reading": "ぶんこ",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "文庫【ぶんこ】",
+      "meaning": "librería"
+    },
+    {
+      "entryId": "1296470",
+      "spelling": "在庫",
+      "reading": "ざいこ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "在庫【ざいこ】",
+      "meaning": "las reservas (lo almacenado; el stock)"
+    },
+    {
+      "entryId": "1399120",
+      "spelling": "倉庫",
+      "reading": "そうこ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "倉庫【そうこ】",
+      "meaning": "almacén; depósito"
+    },
+    {
+      "entryId": "1557110",
+      "spelling": "冷ぞう庫",
+      "reading": "れいぞうこ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "冷ぞう庫【れいぞうこ】",
+      "meaning": "refrigerador; nevera"
+    },
+    {
+      "entryId": "1557110",
+      "spelling": "冷蔵庫",
+      "reading": "れいぞうこ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "冷蔵庫【れいぞうこ】",
+      "meaning": "refrigerador; nevera"
+    },
+    {
+      "entryId": "1242850",
+      "spelling": "金庫",
+      "reading": "きんこ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "金庫【きんこ】",
+      "meaning": "caja fuerte; cofre"
+    },
+    {
+      "entryId": "1592380",
+      "spelling": "庫",
+      "reading": "くら",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "庫【くら】",
+      "meaning": "silo; almacen de grano; almacén"
+    },
+    {
+      "entryId": "1286360",
+      "spelling": "国庫",
+      "reading": "こっこ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "国庫【こっこ】",
+      "meaning": "tesoro nacional"
+    },
+    {
+      "entryId": "1323120",
+      "spelling": "車庫",
+      "reading": "しゃこ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "車庫【しゃこ】",
+      "meaning": "cochera"
+    },
+    {
+      "entryId": "1273650",
+      "spelling": "公庫",
+      "reading": "こうこ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "公庫【こうこ】",
+      "meaning": "corporación financiera"
+    },
+    {
+      "entryId": "1557210",
+      "spelling": "冷凍庫",
+      "reading": "れいとうこ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "冷凍庫【れいとうこ】",
+      "meaning": "congelador; heladera"
+    },
+    {
+      "entryId": "1344020",
+      "spelling": "書庫",
+      "reading": "しょこ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "書庫【しょこ】",
+      "meaning": "archivo (fichero)"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

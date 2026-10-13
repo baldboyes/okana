@@ -1,0 +1,240 @@
+{
+  "character": "工",
+  "meanings": "construcción, fabricación, obrero",
+  "words": [
+    {
+      "entryId": "1578700",
+      "spelling": "工場",
+      "reading": "こうじょう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "工場【こうじょう】",
+      "meaning": "fábrica"
+    },
+    {
+      "entryId": "1578700",
+      "spelling": "工場",
+      "reading": "こうば",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "工場【こうば】",
+      "meaning": "fábrica"
+    },
+    {
+      "entryId": "1278040",
+      "spelling": "工業",
+      "reading": "こうぎょう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "工業【こうぎょう】",
+      "meaning": "industria (manufacturera)"
+    },
+    {
+      "entryId": "1278130",
+      "spelling": "工事",
+      "reading": "こうじ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "工事【こうじ】",
+      "meaning": "construcción; remodelación"
+    },
+    {
+      "entryId": "1278100",
+      "spelling": "工作",
+      "reading": "こうさく",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "工作【こうさく】",
+      "meaning": "trabajo; construcción; artificio; treta"
+    },
+    {
+      "entryId": "1190120",
+      "spelling": "加工",
+      "reading": "かこう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "加工【かこう】",
+      "meaning": "manufactura; curado; procesamiento; fabricación"
+    },
+    {
+      "entryId": "1278220",
+      "spelling": "工夫",
+      "reading": "くふう",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "工夫【くふう】",
+      "meaning": "inventar; ingeniar; idear; planear; proyectar; ingenio; idea; invención"
+    },
+    {
+      "entryId": "1367380",
+      "spelling": "人工",
+      "reading": "じんこう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "人工【じんこう】",
+      "meaning": "artificial; hecho por el hombre; trabajo humano; capacidad humana; artificialidad"
+    },
+    {
+      "entryId": "1278010",
+      "spelling": "工学",
+      "reading": "こうがく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "工学【こうがく】",
+      "meaning": "ingeniería"
+    },
+    {
+      "entryId": "1413690",
+      "spelling": "大工",
+      "reading": "だいく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "大工【だいく】",
+      "meaning": "carpintero"
+    },
+    {
+      "entryId": "1592500",
+      "spelling": "工合",
+      "reading": "ぐあい",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "工合【ぐあい】",
+      "meaning": "condición; salud; estado; condición física"
+    },
+    {
+      "entryId": "1592500",
+      "spelling": "工合い",
+      "reading": "ぐあい",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "工合い【ぐあい】",
+      "meaning": "condición; salud; estado; condición física"
+    },
+    {
+      "entryId": "1346960",
+      "spelling": "商工",
+      "reading": "しょうこう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "商工【しょうこう】",
+      "meaning": "comercio e industria"
+    },
+    {
+      "entryId": "1278090",
+      "spelling": "工芸",
+      "reading": "こうげい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "工芸【こうげい】",
+      "meaning": "arte manual; arte industrial"
+    },
+    {
+      "entryId": "1346970",
+      "spelling": "商工会議所",
+      "reading": "しょうこうかいぎしょ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "商工会議所【しょうこうかいぎしょ】",
+      "meaning": "Cámara de Comercio e Industria"
+    },
+    {
+      "entryId": "1423030",
+      "spelling": "着工",
+      "reading": "ちゃっこう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "着工【ちゃっこう】",
+      "meaning": "inauguración de una construcción"
+    },
+    {
+      "entryId": "1278210",
+      "spelling": "工費",
+      "reading": "こうひ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "工費【こうひ】",
+      "meaning": "coste de construcción"
+    },
+    {
+      "entryId": "1278200",
+      "spelling": "工程",
+      "reading": "こうてい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "工程【こうてい】",
+      "meaning": "proceso; etapa; desarrollo"
+    },
+    {
+      "entryId": "1295610",
+      "spelling": "細工",
+      "reading": "さいく",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "細工【さいく】",
+      "meaning": "artesanía; orfebrería"
+    },
+    {
+      "entryId": "1278250",
+      "spelling": "工法",
+      "reading": "こうほう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "工法【こうほう】",
+      "meaning": "método de construcción"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

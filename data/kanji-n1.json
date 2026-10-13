@@ -1,0 +1,4648 @@
+{
+  "sourceUrl": "https://kanjikana.com/es/kanji/jlpt/n1",
+  "sourceTotal": 1136,
+  "pages": [
+    {
+      "url": "https://kanjikana.com/es/kanji/jlpt/n1",
+      "count": 48
+    },
+    {
+      "url": "https://kanjikana.com/es/kanji/jlpt/n1/pages/2",
+      "count": 48
+    },
+    {
+      "url": "https://kanjikana.com/es/kanji/jlpt/n1/pages/3",
+      "count": 48
+    },
+    {
+      "url": "https://kanjikana.com/es/kanji/jlpt/n1/pages/4",
+      "count": 48
+    },
+    {
+      "url": "https://kanjikana.com/es/kanji/jlpt/n1/pages/5",
+      "count": 48
+    },
+    {
+      "url": "https://kanjikana.com/es/kanji/jlpt/n1/pages/6",
+      "count": 48
+    },
+    {
+      "url": "https://kanjikana.com/es/kanji/jlpt/n1/pages/7",
+      "count": 48
+    },
+    {
+      "url": "https://kanjikana.com/es/kanji/jlpt/n1/pages/8",
+      "count": 48
+    },
+    {
+      "url": "https://kanjikana.com/es/kanji/jlpt/n1/pages/9",
+      "count": 48
+    },
+    {
+      "url": "https://kanjikana.com/es/kanji/jlpt/n1/pages/10",
+      "count": 48
+    },
+    {
+      "url": "https://kanjikana.com/es/kanji/jlpt/n1/pages/11",
+      "count": 48
+    },
+    {
+      "url": "https://kanjikana.com/es/kanji/jlpt/n1/pages/12",
+      "count": 48
+    },
+    {
+      "url": "https://kanjikana.com/es/kanji/jlpt/n1/pages/13",
+      "count": 48
+    },
+    {
+      "url": "https://kanjikana.com/es/kanji/jlpt/n1/pages/14",
+      "count": 48
+    },
+    {
+      "url": "https://kanjikana.com/es/kanji/jlpt/n1/pages/15",
+      "count": 48
+    },
+    {
+      "url": "https://kanjikana.com/es/kanji/jlpt/n1/pages/16",
+      "count": 48
+    },
+    {
+      "url": "https://kanjikana.com/es/kanji/jlpt/n1/pages/17",
+      "count": 48
+    },
+    {
+      "url": "https://kanjikana.com/es/kanji/jlpt/n1/pages/18",
+      "count": 48
+    },
+    {
+      "url": "https://kanjikana.com/es/kanji/jlpt/n1/pages/19",
+      "count": 48
+    },
+    {
+      "url": "https://kanjikana.com/es/kanji/jlpt/n1/pages/20",
+      "count": 48
+    },
+    {
+      "url": "https://kanjikana.com/es/kanji/jlpt/n1/pages/21",
+      "count": 48
+    },
+    {
+      "url": "https://kanjikana.com/es/kanji/jlpt/n1/pages/22",
+      "count": 48
+    },
+    {
+      "url": "https://kanjikana.com/es/kanji/jlpt/n1/pages/23",
+      "count": 48
+    },
+    {
+      "url": "https://kanjikana.com/es/kanji/jlpt/n1/pages/24",
+      "count": 32
+    }
+  ],
+  "entries": [
+    {
+      "character": "結",
+      "meaning": "final"
+    },
+    {
+      "character": "張",
+      "meaning": "expansión"
+    },
+    {
+      "character": "保",
+      "meaning": "garantizar"
+    },
+    {
+      "character": "撃",
+      "meaning": "batida"
+    },
+    {
+      "character": "証",
+      "meaning": "evidencia"
+    },
+    {
+      "character": "士",
+      "meaning": "caballero"
+    },
+    {
+      "character": "第",
+      "meaning": "número"
+    },
+    {
+      "character": "郎",
+      "meaning": "hombre"
+    },
+    {
+      "character": "応",
+      "meaning": "contestar"
+    },
+    {
+      "character": "護",
+      "meaning": "salvaguardar"
+    },
+    {
+      "character": "離",
+      "meaning": "separarse"
+    },
+    {
+      "character": "藤",
+      "meaning": "glicina (planta)"
+    },
+    {
+      "character": "態",
+      "meaning": "figura"
+    },
+    {
+      "character": "検",
+      "meaning": "examinar"
+    },
+    {
+      "character": "井",
+      "meaning": "pozo"
+    },
+    {
+      "character": "我",
+      "meaning": "yo"
+    },
+    {
+      "character": "視",
+      "meaning": "inspeccionar"
+    },
+    {
+      "character": "隊",
+      "meaning": "grupo"
+    },
+    {
+      "character": "統",
+      "meaning": "continuado"
+    },
+    {
+      "character": "義",
+      "meaning": "moralidad"
+    },
+    {
+      "character": "案",
+      "meaning": "plan"
+    },
+    {
+      "character": "器",
+      "meaning": "utensilio"
+    },
+    {
+      "character": "僕",
+      "meaning": "yo (varón)"
+    },
+    {
+      "character": "影",
+      "meaning": "sombra"
+    },
+    {
+      "character": "独",
+      "meaning": "único"
+    },
+    {
+      "character": "派",
+      "meaning": "grupo"
+    },
+    {
+      "character": "氏",
+      "meaning": "apellido"
+    },
+    {
+      "character": "監",
+      "meaning": "supervisar"
+    },
+    {
+      "character": "攻",
+      "meaning": "agresión"
+    },
+    {
+      "character": "宮",
+      "meaning": "príncipe"
+    },
+    {
+      "character": "佐",
+      "meaning": "ayuda"
+    },
+    {
+      "character": "姿",
+      "meaning": "figura"
+    },
+    {
+      "character": "傷",
+      "meaning": "herida"
+    },
+    {
+      "character": "素",
+      "meaning": "materia prima"
+    },
+    {
+      "character": "救",
+      "meaning": "socorro"
+    },
+    {
+      "character": "価",
+      "meaning": "valor"
+    },
+    {
+      "character": "松",
+      "meaning": "pino"
+    },
+    {
+      "character": "壊",
+      "meaning": "colapso"
+    },
+    {
+      "character": "弁",
+      "meaning": "discurso"
+    },
+    {
+      "character": "援",
+      "meaning": "ayudar"
+    },
+    {
+      "character": "貴",
+      "meaning": "precioso"
+    },
+    {
+      "character": "崎",
+      "meaning": "promontorio"
+    },
+    {
+      "character": "基",
+      "meaning": "fundamento"
+    },
+    {
+      "character": "故",
+      "meaning": "antiguo"
+    },
+    {
+      "character": "刑",
+      "meaning": "pena"
+    },
+    {
+      "character": "嫌",
+      "meaning": "antipatía"
+    },
+    {
+      "character": "密",
+      "meaning": "denso"
+    },
+    {
+      "character": "裁",
+      "meaning": "cortar (tela"
+    },
+    {
+      "character": "謝",
+      "meaning": "disculparse"
+    },
+    {
+      "character": "提",
+      "meaning": "llevar en la mano"
+    },
+    {
+      "character": "衛",
+      "meaning": "defensa"
+    },
+    {
+      "character": "秘",
+      "meaning": "secreto"
+    },
+    {
+      "character": "雄",
+      "meaning": "fuerte"
+    },
+    {
+      "character": "隠",
+      "meaning": "ocultar"
+    },
+    {
+      "character": "異",
+      "meaning": "raro"
+    },
+    {
+      "character": "銃",
+      "meaning": "arma"
+    },
+    {
+      "character": "興",
+      "meaning": "popularizarse"
+    },
+    {
+      "character": "条",
+      "meaning": "artículo"
+    },
+    {
+      "character": "修",
+      "meaning": "disciplina"
+    },
+    {
+      "character": "振",
+      "meaning": "sacudir"
+    },
+    {
+      "character": "審",
+      "meaning": "claro"
+    },
+    {
+      "character": "脱",
+      "meaning": "omitir"
+    },
+    {
+      "character": "司",
+      "meaning": "dirigir"
+    },
+    {
+      "character": "沢",
+      "meaning": "pantano"
+    },
+    {
+      "character": "魔",
+      "meaning": "demonio"
+    },
+    {
+      "character": "従",
+      "meaning": "seguir"
+    },
+    {
+      "character": "激",
+      "meaning": "violento"
+    },
+    {
+      "character": "敵",
+      "meaning": "enemigo"
+    },
+    {
+      "character": "弾",
+      "meaning": "bala"
+    },
+    {
+      "character": "響",
+      "meaning": "eco"
+    },
+    {
+      "character": "頑",
+      "meaning": "terco"
+    },
+    {
+      "character": "闘",
+      "meaning": "pelear"
+    },
+    {
+      "character": "授",
+      "meaning": "impartir"
+    },
+    {
+      "character": "撮",
+      "meaning": "recoger"
+    },
+    {
+      "character": "遺",
+      "meaning": "olvidar"
+    },
+    {
+      "character": "策",
+      "meaning": "esquema"
+    },
+    {
+      "character": "拠",
+      "meaning": "autoridad"
+    },
+    {
+      "character": "功",
+      "meaning": "logro"
+    },
+    {
+      "character": "吉",
+      "meaning": "buena suerte"
+    },
+    {
+      "character": "奈",
+      "meaning": "Nara"
+    },
+    {
+      "character": "驚",
+      "meaning": "admiración"
+    },
+    {
+      "character": "整",
+      "meaning": "organizar"
+    },
+    {
+      "character": "製",
+      "meaning": "fabricar"
+    },
+    {
+      "character": "織",
+      "meaning": "tejido"
+    },
+    {
+      "character": "訴",
+      "meaning": "denuncia"
+    },
+    {
+      "character": "街",
+      "meaning": "avenida"
+    },
+    {
+      "character": "惑",
+      "meaning": "ilusión"
+    },
+    {
+      "character": "緊",
+      "meaning": "severo"
+    },
+    {
+      "character": "誘",
+      "meaning": "tentación"
+    },
+    {
+      "character": "聖",
+      "meaning": "santo"
+    },
+    {
+      "character": "悟",
+      "meaning": "percibir"
+    },
+    {
+      "character": "評",
+      "meaning": "criticar"
+    },
+    {
+      "character": "黙",
+      "meaning": "silencio"
+    },
+    {
+      "character": "率",
+      "meaning": "proporción"
+    },
+    {
+      "character": "泣",
+      "meaning": "llorar"
+    },
+    {
+      "character": "督",
+      "meaning": "supervisar"
+    },
+    {
+      "character": "奪",
+      "meaning": "arrebatar"
+    },
+    {
+      "character": "志",
+      "meaning": "intención"
+    },
+    {
+      "character": "健",
+      "meaning": "salud"
+    },
+    {
+      "character": "挙",
+      "meaning": "tener lugar"
+    },
+    {
+      "character": "射",
+      "meaning": "disparar"
+    },
+    {
+      "character": "携",
+      "meaning": "portátil"
+    },
+    {
+      "character": "避",
+      "meaning": "evadir"
+    },
+    {
+      "character": "宙",
+      "meaning": "en el aire"
+    },
+    {
+      "character": "厳",
+      "meaning": "solemne"
+    },
+    {
+      "character": "博",
+      "meaning": "Dr. (doctorado, Ph.D.)"
+    },
+    {
+      "character": "幕",
+      "meaning": "cortina"
+    },
+    {
+      "character": "施",
+      "meaning": "distribuir"
+    },
+    {
+      "character": "企",
+      "meaning": "esquema"
+    },
+    {
+      "character": "逮",
+      "meaning": "detener"
+    },
+    {
+      "character": "訳",
+      "meaning": "traducir"
+    },
+    {
+      "character": "江",
+      "meaning": "gran río"
+    },
+    {
+      "character": "抗",
+      "meaning": "enfrentarse"
+    },
+    {
+      "character": "展",
+      "meaning": "desplegar"
+    },
+    {
+      "character": "級",
+      "meaning": "clase"
+    },
+    {
+      "character": "聴",
+      "meaning": "escuchar"
+    },
+    {
+      "character": "尾",
+      "meaning": "cola"
+    },
+    {
+      "character": "標",
+      "meaning": "marca"
+    },
+    {
+      "character": "奴",
+      "meaning": "esclavo"
+    },
+    {
+      "character": "継",
+      "meaning": "sucesión"
+    },
+    {
+      "character": "剣",
+      "meaning": "sable"
+    },
+    {
+      "character": "障",
+      "meaning": "estorbo"
+    },
+    {
+      "character": "皇",
+      "meaning": "emperador"
+    },
+    {
+      "character": "票",
+      "meaning": "voto"
+    },
+    {
+      "character": "騒",
+      "meaning": "bullicio"
+    },
+    {
+      "character": "善",
+      "meaning": "bondad"
+    },
+    {
+      "character": "盛",
+      "meaning": "auge"
+    },
+    {
+      "character": "描",
+      "meaning": "esbozo"
+    },
+    {
+      "character": "麻",
+      "meaning": "cáñamo"
+    },
+    {
+      "character": "筋",
+      "meaning": "músculo"
+    },
+    {
+      "character": "襲",
+      "meaning": "ataque"
+    },
+    {
+      "character": "系",
+      "meaning": "sistema"
+    },
+    {
+      "character": "恵",
+      "meaning": "favor"
+    },
+    {
+      "character": "鈴",
+      "meaning": "campanilla"
+    },
+    {
+      "character": "樹",
+      "meaning": "árbol"
+    },
+    {
+      "character": "操",
+      "meaning": "manipular"
+    },
+    {
+      "character": "壁",
+      "meaning": "muro"
+    },
+    {
+      "character": "創",
+      "meaning": "fundar"
+    },
+    {
+      "character": "鮮",
+      "meaning": "fresco"
+    },
+    {
+      "character": "矢",
+      "meaning": "flecha"
+    },
+    {
+      "character": "紀",
+      "meaning": "crónica"
+    },
+    {
+      "character": "染",
+      "meaning": "tinte"
+    },
+    {
+      "character": "邪",
+      "meaning": "injusticia"
+    },
+    {
+      "character": "誕",
+      "meaning": "natividad"
+    },
+    {
+      "character": "輩",
+      "meaning": "camarada"
+    },
+    {
+      "character": "歓",
+      "meaning": "alegría"
+    },
+    {
+      "character": "踏",
+      "meaning": "pisar"
+    },
+    {
+      "character": "瞬",
+      "meaning": "instante"
+    },
+    {
+      "character": "症",
+      "meaning": "síntoma"
+    },
+    {
+      "character": "挑",
+      "meaning": "desafiar"
+    },
+    {
+      "character": "竜",
+      "meaning": "dragón"
+    },
+    {
+      "character": "浜",
+      "meaning": "litoral"
+    },
+    {
+      "character": "迫",
+      "meaning": "estrechar"
+    },
+    {
+      "character": "環",
+      "meaning": "círculo"
+    },
+    {
+      "character": "滅",
+      "meaning": "extinguirse"
+    },
+    {
+      "character": "儀",
+      "meaning": "regla"
+    },
+    {
+      "character": "源",
+      "meaning": "fuente"
+    },
+    {
+      "character": "養",
+      "meaning": "criar"
+    },
+    {
+      "character": "納",
+      "meaning": "pagar"
+    },
+    {
+      "character": "端",
+      "meaning": "correcto"
+    },
+    {
+      "character": "艦",
+      "meaning": "buque de guerra"
+    },
+    {
+      "character": "渉",
+      "meaning": "vadear"
+    },
+    {
+      "character": "妙",
+      "meaning": "exquisito"
+    },
+    {
+      "character": "霊",
+      "meaning": "espíritu"
+    },
+    {
+      "character": "契",
+      "meaning": "compromiso"
+    },
+    {
+      "character": "請",
+      "meaning": "solicitar"
+    },
+    {
+      "character": "怪",
+      "meaning": "desconfiado"
+    },
+    {
+      "character": "為",
+      "meaning": "hacer"
+    },
+    {
+      "character": "殴",
+      "meaning": "asaltar"
+    },
+    {
+      "character": "懸",
+      "meaning": "suspender"
+    },
+    {
+      "character": "推",
+      "meaning": "presionar"
+    },
+    {
+      "character": "診",
+      "meaning": "revisión"
+    },
+    {
+      "character": "脅",
+      "meaning": "amenaza"
+    },
+    {
+      "character": "模",
+      "meaning": "patrón"
+    },
+    {
+      "character": "及",
+      "meaning": "alcanzar"
+    },
+    {
+      "character": "討",
+      "meaning": "disparar"
+    },
+    {
+      "character": "遣",
+      "meaning": "enviar"
+    },
+    {
+      "character": "握",
+      "meaning": "agarrar"
+    },
+    {
+      "character": "隣",
+      "meaning": "colindante"
+    },
+    {
+      "character": "康",
+      "meaning": "tranquilo"
+    },
+    {
+      "character": "載",
+      "meaning": "poner sobre"
+    },
+    {
+      "character": "憶",
+      "meaning": "100 millones"
+    },
+    {
+      "character": "至",
+      "meaning": "llegar"
+    },
+    {
+      "character": "房",
+      "meaning": "racimo"
+    },
+    {
+      "character": "秀",
+      "meaning": "sobresaliente"
+    },
+    {
+      "character": "執",
+      "meaning": "dirigir"
+    },
+    {
+      "character": "慢",
+      "meaning": "pavonearse"
+    },
+    {
+      "character": "華",
+      "meaning": "flor"
+    },
+    {
+      "character": "扱",
+      "meaning": "tratar"
+    },
+    {
+      "character": "徳",
+      "meaning": "benevolencia"
+    },
+    {
+      "character": "択",
+      "meaning": "elegir"
+    },
+    {
+      "character": "衝",
+      "meaning": "avenida"
+    },
+    {
+      "character": "衆",
+      "meaning": "multitud"
+    },
+    {
+      "character": "偽",
+      "meaning": "falsedad"
+    },
+    {
+      "character": "幹",
+      "meaning": "tronco del árbol"
+    },
+    {
+      "character": "鬼",
+      "meaning": "fantasma"
+    },
+    {
+      "character": "崩",
+      "meaning": "desmoronamiento"
+    },
+    {
+      "character": "尽",
+      "meaning": "agotar"
+    },
+    {
+      "character": "悔",
+      "meaning": "arrepentirse"
+    },
+    {
+      "character": "津",
+      "meaning": "puerto"
+    },
+    {
+      "character": "侵",
+      "meaning": "invadir"
+    },
+    {
+      "character": "宣",
+      "meaning": "proclamar"
+    },
+    {
+      "character": "葬",
+      "meaning": "entierro"
+    },
+    {
+      "character": "稼",
+      "meaning": "ganancias"
+    },
+    {
+      "character": "奇",
+      "meaning": "extraño"
+    },
+    {
+      "character": "株",
+      "meaning": "tocón"
+    },
+    {
+      "character": "冗",
+      "meaning": "superfluo"
+    },
+    {
+      "character": "宗",
+      "meaning": "enseñanzas religiosas"
+    },
+    {
+      "character": "看",
+      "meaning": "ver"
+    },
+    {
+      "character": "穴",
+      "meaning": "agujero"
+    },
+    {
+      "character": "就",
+      "meaning": "llegar al trabajo"
+    },
+    {
+      "character": "節",
+      "meaning": "estación"
+    },
+    {
+      "character": "締",
+      "meaning": "abrochar"
+    },
+    {
+      "character": "詳",
+      "meaning": "detallado"
+    },
+    {
+      "character": "輝",
+      "meaning": "resplandor"
+    },
+    {
+      "character": "脚",
+      "meaning": "pie"
+    },
+    {
+      "character": "拒",
+      "meaning": "repeler"
+    },
+    {
+      "character": "慮",
+      "meaning": "prudencia"
+    },
+    {
+      "character": "邦",
+      "meaning": "país natal"
+    },
+    {
+      "character": "仮",
+      "meaning": "temporal"
+    },
+    {
+      "character": "裂",
+      "meaning": "hendidura"
+    },
+    {
+      "character": "駄",
+      "meaning": "caballo de carga"
+    },
+    {
+      "character": "帝",
+      "meaning": "soberano"
+    },
+    {
+      "character": "繰",
+      "meaning": "devanar"
+    },
+    {
+      "character": "益",
+      "meaning": "beneficio"
+    },
+    {
+      "character": "耐",
+      "meaning": "soportar"
+    },
+    {
+      "character": "獲",
+      "meaning": "agarrar"
+    },
+    {
+      "character": "拍",
+      "meaning": "aplaudir"
+    },
+    {
+      "character": "姫",
+      "meaning": "princesa"
+    },
+    {
+      "character": "魅",
+      "meaning": "fascinación"
+    },
+    {
+      "character": "催",
+      "meaning": "efectuar según los planes"
+    },
+    {
+      "character": "駆",
+      "meaning": "galopar"
+    },
+    {
+      "character": "勘",
+      "meaning": "intuición"
+    },
+    {
+      "character": "誠",
+      "meaning": "sinceridad"
+    },
+    {
+      "character": "酔",
+      "meaning": "marearse"
+    },
+    {
+      "character": "郷",
+      "meaning": "ciudad natal"
+    },
+    {
+      "character": "恩",
+      "meaning": "gracia"
+    },
+    {
+      "character": "陣",
+      "meaning": "ejército"
+    },
+    {
+      "character": "罰",
+      "meaning": "pena"
+    },
+    {
+      "character": "索",
+      "meaning": "soga"
+    },
+    {
+      "character": "裕",
+      "meaning": "abundante"
+    },
+    {
+      "character": "慎",
+      "meaning": "prudencia"
+    },
+    {
+      "character": "桜",
+      "meaning": "cerezo"
+    },
+    {
+      "character": "揺",
+      "meaning": "cimbreo"
+    },
+    {
+      "character": "致",
+      "meaning": "hacer llegar"
+    },
+    {
+      "character": "属",
+      "meaning": "subordinación"
+    },
+    {
+      "character": "償",
+      "meaning": "compensación"
+    },
+    {
+      "character": "己",
+      "meaning": "yo"
+    },
+    {
+      "character": "徹",
+      "meaning": "penetrar"
+    },
+    {
+      "character": "露",
+      "meaning": "rocío"
+    },
+    {
+      "character": "剤",
+      "meaning": "medicina"
+    },
+    {
+      "character": "抑",
+      "meaning": "freno"
+    },
+    {
+      "character": "焦",
+      "meaning": "carbonizar"
+    },
+    {
+      "character": "陛",
+      "meaning": "alteza"
+    },
+    {
+      "character": "獄",
+      "meaning": "prisión"
+    },
+    {
+      "character": "屈",
+      "meaning": "doblar"
+    },
+    {
+      "character": "犠",
+      "meaning": "sacrificio"
+    },
+    {
+      "character": "暇",
+      "meaning": "tiempo libre"
+    },
+    {
+      "character": "融",
+      "meaning": "disolver"
+    },
+    {
+      "character": "免",
+      "meaning": "excusa"
+    },
+    {
+      "character": "揮",
+      "meaning": "manejar"
+    },
+    {
+      "character": "忠",
+      "meaning": "lealtad"
+    },
+    {
+      "character": "瀬",
+      "meaning": "corriente de agua"
+    },
+    {
+      "character": "哲",
+      "meaning": "sabio"
+    },
+    {
+      "character": "柄",
+      "meaning": "asa"
+    },
+    {
+      "character": "威",
+      "meaning": "dignidad"
+    },
+    {
+      "character": "僚",
+      "meaning": "colega"
+    },
+    {
+      "character": "徴",
+      "meaning": "llamar"
+    },
+    {
+      "character": "誇",
+      "meaning": "orgullo"
+    },
+    {
+      "character": "飾",
+      "meaning": "decorar"
+    },
+    {
+      "character": "炎",
+      "meaning": "quemar"
+    },
+    {
+      "character": "倉",
+      "meaning": "almacén"
+    },
+    {
+      "character": "牲",
+      "meaning": "sacrificio"
+    },
+    {
+      "character": "奏",
+      "meaning": "dirigirse al emperador"
+    },
+    {
+      "character": "廃",
+      "meaning": "obsoleto"
+    },
+    {
+      "character": "妊",
+      "meaning": "concepción"
+    },
+    {
+      "character": "維",
+      "meaning": "soga"
+    },
+    {
+      "character": "砲",
+      "meaning": "cañón"
+    },
+    {
+      "character": "塚",
+      "meaning": "altozano"
+    },
+    {
+      "character": "核",
+      "meaning": "semilla"
+    },
+    {
+      "character": "亜",
+      "meaning": "pref. para indicar"
+    },
+    {
+      "character": "距",
+      "meaning": "larga distancia"
+    },
+    {
+      "character": "釈",
+      "meaning": "explicación"
+    },
+    {
+      "character": "縁",
+      "meaning": "afinidad"
+    },
+    {
+      "character": "句",
+      "meaning": "frase"
+    },
+    {
+      "character": "譲",
+      "meaning": "transferencia"
+    },
+    {
+      "character": "批",
+      "meaning": "criticar"
+    },
+    {
+      "character": "牧",
+      "meaning": "pastorear"
+    },
+    {
+      "character": "潜",
+      "meaning": "esconderse"
+    },
+    {
+      "character": "撤",
+      "meaning": "quitar"
+    },
+    {
+      "character": "献",
+      "meaning": "oferta"
+    },
+    {
+      "character": "称",
+      "meaning": "llamar"
+    },
+    {
+      "character": "琴",
+      "meaning": "koto"
+    },
+    {
+      "character": "躍",
+      "meaning": "brincar"
+    },
+    {
+      "character": "削",
+      "meaning": "cepillo"
+    },
+    {
+      "character": "魂",
+      "meaning": "alma"
+    },
+    {
+      "character": "析",
+      "meaning": "tajar"
+    },
+    {
+      "character": "酸",
+      "meaning": "ácido"
+    },
+    {
+      "character": "敷",
+      "meaning": "extender"
+    },
+    {
+      "character": "臨",
+      "meaning": "asistir"
+    },
+    {
+      "character": "仙",
+      "meaning": "ermitaño"
+    },
+    {
+      "character": "災",
+      "meaning": "desastre"
+    },
+    {
+      "character": "却",
+      "meaning": "retirarse"
+    },
+    {
+      "character": "巡",
+      "meaning": "patrullar"
+    },
+    {
+      "character": "縮",
+      "meaning": "acortar"
+    },
+    {
+      "character": "摘",
+      "meaning": "señalar"
+    },
+    {
+      "character": "唯",
+      "meaning": "solamente"
+    },
+    {
+      "character": "雷",
+      "meaning": "trueno"
+    },
+    {
+      "character": "沙",
+      "meaning": "arena"
+    },
+    {
+      "character": "陰",
+      "meaning": "sombra"
+    },
+    {
+      "character": "趣",
+      "meaning": "significado"
+    },
+    {
+      "character": "拡",
+      "meaning": "ensanchar"
+    },
+    {
+      "character": "妖",
+      "meaning": "sospechoso"
+    },
+    {
+      "character": "銭",
+      "meaning": "moneda"
+    },
+    {
+      "character": "透",
+      "meaning": "permear"
+    },
+    {
+      "character": "誓",
+      "meaning": "voto"
+    },
+    {
+      "character": "盟",
+      "meaning": "juramento"
+    },
+    {
+      "character": "顧",
+      "meaning": "reflejarse"
+    },
+    {
+      "character": "腐",
+      "meaning": "putrefacción"
+    },
+    {
+      "character": "豪",
+      "meaning": "avasallador"
+    },
+    {
+      "character": "寂",
+      "meaning": "soledad"
+    },
+    {
+      "character": "浦",
+      "meaning": "bahía"
+    },
+    {
+      "character": "棄",
+      "meaning": "tirar"
+    },
+    {
+      "character": "抵",
+      "meaning": "resistir"
+    },
+    {
+      "character": "鎖",
+      "meaning": "conexión"
+    },
+    {
+      "character": "吐",
+      "meaning": "escupir"
+    },
+    {
+      "character": "閣",
+      "meaning": "torre"
+    },
+    {
+      "character": "豆",
+      "meaning": "legumbres"
+    },
+    {
+      "character": "孤",
+      "meaning": "huérfano"
+    },
+    {
+      "character": "既",
+      "meaning": "anterior"
+    },
+    {
+      "character": "冒",
+      "meaning": "riesgo"
+    },
+    {
+      "character": "典",
+      "meaning": "escrito"
+    },
+    {
+      "character": "喪",
+      "meaning": "perder"
+    },
+    {
+      "character": "芝",
+      "meaning": "césped"
+    },
+    {
+      "character": "伏",
+      "meaning": "al revés"
+    },
+    {
+      "character": "舎",
+      "meaning": "casa de campo"
+    },
+    {
+      "character": "遭",
+      "meaning": "encontrarse con"
+    },
+    {
+      "character": "還",
+      "meaning": "volver"
+    },
+    {
+      "character": "盤",
+      "meaning": "plato grande"
+    },
+    {
+      "character": "肝",
+      "meaning": "punto vital"
+    },
+    {
+      "character": "戒",
+      "meaning": "poner cuidado"
+    },
+    {
+      "character": "詩",
+      "meaning": "poema"
+    },
+    {
+      "character": "滑",
+      "meaning": "deslizar"
+    },
+    {
+      "character": "誉",
+      "meaning": "reputación"
+    },
+    {
+      "character": "鏡",
+      "meaning": "espejo"
+    },
+    {
+      "character": "脈",
+      "meaning": "vena"
+    },
+    {
+      "character": "梨",
+      "meaning": "peral"
+    },
+    {
+      "character": "那",
+      "meaning": "abundante"
+    },
+    {
+      "character": "杉",
+      "meaning": "cedro"
+    },
+    {
+      "character": "賀",
+      "meaning": "felicitaciones"
+    },
+    {
+      "character": "丁",
+      "meaning": "barrio"
+    },
+    {
+      "character": "伴",
+      "meaning": "seguidor"
+    },
+    {
+      "character": "控",
+      "meaning": "contención"
+    },
+    {
+      "character": "充",
+      "meaning": "asignar"
+    },
+    {
+      "character": "賃",
+      "meaning": "salario"
+    },
+    {
+      "character": "排",
+      "meaning": "repudiar"
+    },
+    {
+      "character": "臭",
+      "meaning": "peste"
+    },
+    {
+      "character": "飼",
+      "meaning": "criar"
+    },
+    {
+      "character": "鹿",
+      "meaning": "venado"
+    },
+    {
+      "character": "須",
+      "meaning": "instante"
+    },
+    {
+      "character": "微",
+      "meaning": "insignificante"
+    },
+    {
+      "character": "墓",
+      "meaning": "tumba"
+    },
+    {
+      "character": "沖",
+      "meaning": "mar abierto"
+    },
+    {
+      "character": "漏",
+      "meaning": "fuga"
+    },
+    {
+      "character": "鍵",
+      "meaning": "llave"
+    },
+    {
+      "character": "甲",
+      "meaning": "caparazón"
+    },
+    {
+      "character": "奮",
+      "meaning": "agitado"
+    },
+    {
+      "character": "忍",
+      "meaning": "resistencia"
+    },
+    {
+      "character": "尋",
+      "meaning": "pedir"
+    },
+    {
+      "character": "桃",
+      "meaning": "melocotonero"
+    },
+    {
+      "character": "謀",
+      "meaning": "plan"
+    },
+    {
+      "character": "勧",
+      "meaning": "persuasión"
+    },
+    {
+      "character": "即",
+      "meaning": "a la vez"
+    },
+    {
+      "character": "釣",
+      "meaning": "pescar con caña"
+    },
+    {
+      "character": "刀",
+      "meaning": "espada"
+    },
+    {
+      "character": "揚",
+      "meaning": "levantar"
+    },
+    {
+      "character": "堅",
+      "meaning": "duro"
+    },
+    {
+      "character": "幻",
+      "meaning": "visión"
+    },
+    {
+      "character": "郡",
+      "meaning": "condado"
+    },
+    {
+      "character": "菊",
+      "meaning": "crisantemo"
+    },
+    {
+      "character": "滞",
+      "meaning": "retraso"
+    },
+    {
+      "character": "貫",
+      "meaning": "perforar"
+    },
+    {
+      "character": "愚",
+      "meaning": "estupidez"
+    },
+    {
+      "character": "仁",
+      "meaning": "humanidad"
+    },
+    {
+      "character": "拐",
+      "meaning": "secuestrar"
+    },
+    {
+      "character": "遂",
+      "meaning": "consumar"
+    },
+    {
+      "character": "胞",
+      "meaning": "estómago de la mujer"
+    },
+    {
+      "character": "騎",
+      "meaning": "jinete"
+    },
+    {
+      "character": "嫁",
+      "meaning": "novia"
+    },
+    {
+      "character": "紫",
+      "meaning": "púrpura"
+    },
+    {
+      "character": "嬢",
+      "meaning": "muchacha"
+    },
+    {
+      "character": "斎",
+      "meaning": "purificación y culto"
+    },
+    {
+      "character": "懐",
+      "meaning": "añoranza"
+    },
+    {
+      "character": "範",
+      "meaning": "patrón"
+    },
+    {
+      "character": "弥",
+      "meaning": "más aún"
+    },
+    {
+      "character": "憲",
+      "meaning": "regulación"
+    },
+    {
+      "character": "添",
+      "meaning": "anexo"
+    },
+    {
+      "character": "亀",
+      "meaning": "tortuga"
+    },
+    {
+      "character": "暑",
+      "meaning": "bochornoso"
+    },
+    {
+      "character": "惨",
+      "meaning": "cruel"
+    },
+    {
+      "character": "娠",
+      "meaning": "concepción"
+    },
+    {
+      "character": "獣",
+      "meaning": "animal"
+    },
+    {
+      "character": "陥",
+      "meaning": "hundirse"
+    },
+    {
+      "character": "狂",
+      "meaning": "locura"
+    },
+    {
+      "character": "潮",
+      "meaning": "agua de mar"
+    },
+    {
+      "character": "紛",
+      "meaning": "revuelto"
+    },
+    {
+      "character": "縄",
+      "meaning": "cuerda de paja"
+    },
+    {
+      "character": "畑",
+      "meaning": "campo"
+    },
+    {
+      "character": "絞",
+      "meaning": "constreñir"
+    },
+    {
+      "character": "随",
+      "meaning": "seguir"
+    },
+    {
+      "character": "班",
+      "meaning": "grupo"
+    },
+    {
+      "character": "雰",
+      "meaning": "niebla"
+    },
+    {
+      "character": "糖",
+      "meaning": "azúcar"
+    },
+    {
+      "character": "斉",
+      "meaning": "semejante"
+    },
+    {
+      "character": "幽",
+      "meaning": "profundo"
+    },
+    {
+      "character": "俳",
+      "meaning": "haiku"
+    },
+    {
+      "character": "紋",
+      "meaning": "clasón de familia"
+    },
+    {
+      "character": "覆",
+      "meaning": "volcar"
+    },
+    {
+      "character": "虎",
+      "meaning": "tigre"
+    },
+    {
+      "character": "狩",
+      "meaning": "cacería"
+    },
+    {
+      "character": "託",
+      "meaning": "consignar"
+    },
+    {
+      "character": "廷",
+      "meaning": "tribunales"
+    },
+    {
+      "character": "狭",
+      "meaning": "apretado"
+    },
+    {
+      "character": "穂",
+      "meaning": "espiga"
+    },
+    {
+      "character": "諦",
+      "meaning": "verdad"
+    },
+    {
+      "character": "賊",
+      "meaning": "ladrón"
+    },
+    {
+      "character": "翼",
+      "meaning": "ala"
+    },
+    {
+      "character": "酷",
+      "meaning": "severidad"
+    },
+    {
+      "character": "覧",
+      "meaning": "ver"
+    },
+    {
+      "character": "敏",
+      "meaning": "ingenioso"
+    },
+    {
+      "character": "拘",
+      "meaning": "arrestar"
+    },
+    {
+      "character": "慰",
+      "meaning": "consolar"
+    },
+    {
+      "character": "項",
+      "meaning": "párrafo"
+    },
+    {
+      "character": "縦",
+      "meaning": "vertical"
+    },
+    {
+      "character": "眼",
+      "meaning": "ojo"
+    },
+    {
+      "character": "渋",
+      "meaning": "astringente"
+    },
+    {
+      "character": "孝",
+      "meaning": "devoción filial"
+    },
+    {
+      "character": "妃",
+      "meaning": "reina"
+    },
+    {
+      "character": "旗",
+      "meaning": "bandera nacional"
+    },
+    {
+      "character": "虐",
+      "meaning": "tiranizar"
+    },
+    {
+      "character": "貢",
+      "meaning": "tributo"
+    },
+    {
+      "character": "繁",
+      "meaning": "exuberante"
+    },
+    {
+      "character": "阻",
+      "meaning": "escarpado"
+    },
+    {
+      "character": "稿",
+      "meaning": "borrador"
+    },
+    {
+      "character": "麗",
+      "meaning": "precioso"
+    },
+    {
+      "character": "匠",
+      "meaning": "artesano"
+    },
+    {
+      "character": "玄",
+      "meaning": "misterioso"
+    },
+    {
+      "character": "熊",
+      "meaning": "oso"
+    },
+    {
+      "character": "璧",
+      "meaning": "esfera"
+    },
+    {
+      "character": "堀",
+      "meaning": "zanja"
+    },
+    {
+      "character": "懲",
+      "meaning": "pena"
+    },
+    {
+      "character": "巣",
+      "meaning": "nido"
+    },
+    {
+      "character": "熟",
+      "meaning": "madurar"
+    },
+    {
+      "character": "稲",
+      "meaning": "planta de arroz"
+    },
+    {
+      "character": "邸",
+      "meaning": "residencia"
+    },
+    {
+      "character": "暖",
+      "meaning": "templado"
+    },
+    {
+      "character": "烈",
+      "meaning": "bravo"
+    },
+    {
+      "character": "呪",
+      "meaning": "maldición"
+    },
+    {
+      "character": "遇",
+      "meaning": "tratar con"
+    },
+    {
+      "character": "鑑",
+      "meaning": "ejemplo"
+    },
+    {
+      "character": "購",
+      "meaning": "suscripción"
+    },
+    {
+      "character": "呂",
+      "meaning": "columna vertebral"
+    },
+    {
+      "character": "殊",
+      "meaning": "particularmente"
+    },
+    {
+      "character": "彩",
+      "meaning": "color"
+    },
+    {
+      "character": "賭",
+      "meaning": "apuesta"
+    },
+    {
+      "character": "隔",
+      "meaning": "diferencia"
+    },
+    {
+      "character": "薦",
+      "meaning": "recomendación"
+    },
+    {
+      "character": "唱",
+      "meaning": "cantar"
+    },
+    {
+      "character": "序",
+      "meaning": "inicio"
+    },
+    {
+      "character": "尉",
+      "meaning": "oficial militar"
+    },
+    {
+      "character": "俊",
+      "meaning": "excelente"
+    },
+    {
+      "character": "凶",
+      "meaning": "mal"
+    },
+    {
+      "character": "柳",
+      "meaning": "sauce"
+    },
+    {
+      "character": "惜",
+      "meaning": "lastima"
+    },
+    {
+      "character": "恨",
+      "meaning": "rencor"
+    },
+    {
+      "character": "倫",
+      "meaning": "ética"
+    },
+    {
+      "character": "仰",
+      "meaning": "admirar"
+    },
+    {
+      "character": "泰",
+      "meaning": "pacífico"
+    },
+    {
+      "character": "洞",
+      "meaning": "cavidad"
+    },
+    {
+      "character": "漫",
+      "meaning": "involuntariamente"
+    },
+    {
+      "character": "胆",
+      "meaning": "vesícula biliar"
+    },
+    {
+      "character": "扉",
+      "meaning": "puerta principal"
+    },
+    {
+      "character": "掲",
+      "meaning": "colgar"
+    },
+    {
+      "character": "緩",
+      "meaning": "fácil"
+    },
+    {
+      "character": "裸",
+      "meaning": "desnudo"
+    },
+    {
+      "character": "鋼",
+      "meaning": "acero"
+    },
+    {
+      "character": "噴",
+      "meaning": "emisión"
+    },
+    {
+      "character": "芽",
+      "meaning": "brote"
+    },
+    {
+      "character": "訟",
+      "meaning": "declarar"
+    },
+    {
+      "character": "砕",
+      "meaning": "destrozar"
+    },
+    {
+      "character": "叔",
+      "meaning": "tío"
+    },
+    {
+      "character": "茂",
+      "meaning": "frondoso"
+    },
+    {
+      "character": "帳",
+      "meaning": "registro"
+    },
+    {
+      "character": "猛",
+      "meaning": "fuerte"
+    },
+    {
+      "character": "欺",
+      "meaning": "callarse"
+    },
+    {
+      "character": "没",
+      "meaning": "hundirse"
+    },
+    {
+      "character": "励",
+      "meaning": "aliento"
+    },
+    {
+      "character": "網",
+      "meaning": "red"
+    },
+    {
+      "character": "斗",
+      "meaning": "medida de capacidad"
+    },
+    {
+      "character": "昭",
+      "meaning": "luminoso"
+    },
+    {
+      "character": "偵",
+      "meaning": "espiar"
+    },
+    {
+      "character": "履",
+      "meaning": "llevar a cabo uno mismo"
+    },
+    {
+      "character": "豚",
+      "meaning": "cochino"
+    },
+    {
+      "character": "肺",
+      "meaning": "pulmones"
+    },
+    {
+      "character": "沿",
+      "meaning": "seguir a lo largo de"
+    },
+    {
+      "character": "褒",
+      "meaning": "alabanza"
+    },
+    {
+      "character": "兼",
+      "meaning": "concurrentemente"
+    },
+    {
+      "character": "謎",
+      "meaning": "adivinanza"
+    },
+    {
+      "character": "僧",
+      "meaning": "monje budista"
+    },
+    {
+      "character": "潔",
+      "meaning": "claro"
+    },
+    {
+      "character": "桑",
+      "meaning": "mora"
+    },
+    {
+      "character": "雅",
+      "meaning": "elegante"
+    },
+    {
+      "character": "飽",
+      "meaning": "cansancio"
+    },
+    {
+      "character": "縛",
+      "meaning": "atar"
+    },
+    {
+      "character": "拳",
+      "meaning": "puño (cerrado)"
+    },
+    {
+      "character": "跳",
+      "meaning": "volar"
+    },
+    {
+      "character": "伯",
+      "meaning": "jefe"
+    },
+    {
+      "character": "晶",
+      "meaning": "destello"
+    },
+    {
+      "character": "妨",
+      "meaning": "molestia"
+    },
+    {
+      "character": "辱",
+      "meaning": "humillación"
+    },
+    {
+      "character": "刃",
+      "meaning": "hoja"
+    },
+    {
+      "character": "膨",
+      "meaning": "hinchado"
+    },
+    {
+      "character": "嵐",
+      "meaning": "tormenta"
+    },
+    {
+      "character": "沼",
+      "meaning": "pantano"
+    },
+    {
+      "character": "哀",
+      "meaning": "compasión"
+    },
+    {
+      "character": "浄",
+      "meaning": "puro"
+    },
+    {
+      "character": "滝",
+      "meaning": "cascada"
+    },
+    {
+      "character": "債",
+      "meaning": "préstamo"
+    },
+    {
+      "character": "笛",
+      "meaning": "flauta"
+    },
+    {
+      "character": "穏",
+      "meaning": "tranquilo"
+    },
+    {
+      "character": "虚",
+      "meaning": "vacío"
+    },
+    {
+      "character": "后",
+      "meaning": "emperatriz"
+    },
+    {
+      "character": "憩",
+      "meaning": "receso"
+    },
+    {
+      "character": "煮",
+      "meaning": "cocer"
+    },
+    {
+      "character": "拓",
+      "meaning": "aclarar"
+    },
+    {
+      "character": "摩",
+      "meaning": "roce"
+    },
+    {
+      "character": "睡",
+      "meaning": "somnolencia"
+    },
+    {
+      "character": "癒",
+      "meaning": "curación"
+    },
+    {
+      "character": "朗",
+      "meaning": "claro"
+    },
+    {
+      "character": "盾",
+      "meaning": "escudo"
+    },
+    {
+      "character": "菌",
+      "meaning": "germen"
+    },
+    {
+      "character": "披",
+      "meaning": "abrir"
+    },
+    {
+      "character": "浪",
+      "meaning": "ola"
+    },
+    {
+      "character": "詐",
+      "meaning": "mentira"
+    },
+    {
+      "character": "劣",
+      "meaning": "debilidad"
+    },
+    {
+      "character": "霧",
+      "meaning": "niebla"
+    },
+    {
+      "character": "鶴",
+      "meaning": "grulla"
+    },
+    {
+      "character": "峰",
+      "meaning": "apogeo"
+    },
+    {
+      "character": "慈",
+      "meaning": "amar"
+    },
+    {
+      "character": "蹴",
+      "meaning": "patada"
+    },
+    {
+      "character": "喚",
+      "meaning": "gritar"
+    },
+    {
+      "character": "浸",
+      "meaning": "empapar"
+    },
+    {
+      "character": "酬",
+      "meaning": "recompensa"
+    },
+    {
+      "character": "促",
+      "meaning": "apremiar"
+    },
+    {
+      "character": "寛",
+      "meaning": "tolerancia"
+    },
+    {
+      "character": "妥",
+      "meaning": "amable"
+    },
+    {
+      "character": "圏",
+      "meaning": "esfera"
+    },
+    {
+      "character": "卓",
+      "meaning": "exceder"
+    },
+    {
+      "character": "冠",
+      "meaning": "corona"
+    },
+    {
+      "character": "舌",
+      "meaning": "lengua"
+    },
+    {
+      "character": "羅",
+      "meaning": "compresa"
+    },
+    {
+      "character": "綱",
+      "meaning": "soga"
+    },
+    {
+      "character": "克",
+      "meaning": "vencer"
+    },
+    {
+      "character": "梅",
+      "meaning": "ciruela"
+    },
+    {
+      "character": "潰",
+      "meaning": "aplastar"
+    },
+    {
+      "character": "縫",
+      "meaning": "cosido"
+    },
+    {
+      "character": "奉",
+      "meaning": "ofrenda"
+    },
+    {
+      "character": "簿",
+      "meaning": "libro de registro"
+    },
+    {
+      "character": "悠",
+      "meaning": "distante"
+    },
+    {
+      "character": "隆",
+      "meaning": "montículo"
+    },
+    {
+      "character": "撲",
+      "meaning": "atizar"
+    },
+    {
+      "character": "痕",
+      "meaning": "marcar"
+    },
+    {
+      "character": "棚",
+      "meaning": "estante"
+    },
+    {
+      "character": "枠",
+      "meaning": "marco"
+    },
+    {
+      "character": "偏",
+      "meaning": "parcial"
+    },
+    {
+      "character": "猿",
+      "meaning": "mono"
+    },
+    {
+      "character": "慌",
+      "meaning": "preocupación"
+    },
+    {
+      "character": "軌",
+      "meaning": "surco"
+    },
+    {
+      "character": "鍛",
+      "meaning": "forjar"
+    },
+    {
+      "character": "鎮",
+      "meaning": "tranquilo"
+    },
+    {
+      "character": "覇",
+      "meaning": "hegemonía"
+    },
+    {
+      "character": "架",
+      "meaning": "montar"
+    },
+    {
+      "character": "併",
+      "meaning": "combinación"
+    },
+    {
+      "character": "挨",
+      "meaning": "empujar"
+    },
+    {
+      "character": "征",
+      "meaning": "subyugar"
+    },
+    {
+      "character": "牙",
+      "meaning": "colmillo"
+    },
+    {
+      "character": "蛇",
+      "meaning": "serpiente"
+    },
+    {
+      "character": "佳",
+      "meaning": "excelente"
+    },
+    {
+      "character": "寧",
+      "meaning": "pacífico"
+    },
+    {
+      "character": "尚",
+      "meaning": "respetar"
+    },
+    {
+      "character": "塁",
+      "meaning": "puesto"
+    },
+    {
+      "character": "丘",
+      "meaning": "colina"
+    },
+    {
+      "character": "駒",
+      "meaning": "potro"
+    },
+    {
+      "character": "棟",
+      "meaning": "alero de tejado"
+    },
+    {
+      "character": "貞",
+      "meaning": "recto"
+    },
+    {
+      "character": "錠",
+      "meaning": "cerradura"
+    },
+    {
+      "character": "鐘",
+      "meaning": "campana"
+    },
+    {
+      "character": "敢",
+      "meaning": "osado"
+    },
+    {
+      "character": "薫",
+      "meaning": "fragancia"
+    },
+    {
+      "character": "囚",
+      "meaning": "esclavitud"
+    },
+    {
+      "character": "飢",
+      "meaning": "hambre"
+    },
+    {
+      "character": "繊",
+      "meaning": "fino"
+    },
+    {
+      "character": "鶏",
+      "meaning": "pollo"
+    },
+    {
+      "character": "需",
+      "meaning": "demanda"
+    },
+    {
+      "character": "概",
+      "meaning": "aproximadamente"
+    },
+    {
+      "character": "稚",
+      "meaning": "inmaduro"
+    },
+    {
+      "character": "荘",
+      "meaning": "majestuoso"
+    },
+    {
+      "character": "漠",
+      "meaning": "vago"
+    },
+    {
+      "character": "殖",
+      "meaning": "aumentar"
+    },
+    {
+      "character": "慶",
+      "meaning": "júbilo"
+    },
+    {
+      "character": "尿",
+      "meaning": "orina"
+    },
+    {
+      "character": "廊",
+      "meaning": "corredor"
+    },
+    {
+      "character": "粋",
+      "meaning": "elegancia"
+    },
+    {
+      "character": "往",
+      "meaning": "ir"
+    },
+    {
+      "character": "乏",
+      "meaning": "escaso"
+    },
+    {
+      "character": "鍋",
+      "meaning": "cazuela"
+    },
+    {
+      "character": "賄",
+      "meaning": "soborno"
+    },
+    {
+      "character": "把",
+      "meaning": "llevar"
+    },
+    {
+      "character": "鼓",
+      "meaning": "golpeo"
+    },
+    {
+      "character": "嘆",
+      "meaning": "deplorar"
+    },
+    {
+      "character": "眺",
+      "meaning": "mirar fijamente"
+    },
+    {
+      "character": "是",
+      "meaning": "correcto"
+    },
+    {
+      "character": "寸",
+      "meaning": "longitud"
+    },
+    {
+      "character": "措",
+      "meaning": "poner a un lado"
+    },
+    {
+      "character": "墜",
+      "meaning": "caer"
+    },
+    {
+      "character": "肥",
+      "meaning": "engordar"
+    },
+    {
+      "character": "羊",
+      "meaning": "oveja"
+    },
+    {
+      "character": "炉",
+      "meaning": "chimenea"
+    },
+    {
+      "character": "粧",
+      "meaning": "maquillarse"
+    },
+    {
+      "character": "丹",
+      "meaning": "rojo"
+    },
+    {
+      "character": "曹",
+      "meaning": "cadete"
+    },
+    {
+      "character": "彫",
+      "meaning": "esculpir"
+    },
+    {
+      "character": "秩",
+      "meaning": "regularidad"
+    },
+    {
+      "character": "旦",
+      "meaning": "alba"
+    },
+    {
+      "character": "磁",
+      "meaning": "imán"
+    },
+    {
+      "character": "漂",
+      "meaning": "divagar"
+    },
+    {
+      "character": "乙",
+      "meaning": "segundo"
+    },
+    {
+      "character": "腸",
+      "meaning": "intestinos"
+    },
+    {
+      "character": "匂",
+      "meaning": "oler"
+    },
+    {
+      "character": "汁",
+      "meaning": "sopa"
+    },
+    {
+      "character": "腫",
+      "meaning": "tumor"
+    },
+    {
+      "character": "卑",
+      "meaning": "humilde"
+    },
+    {
+      "character": "較",
+      "meaning": "contrastar"
+    },
+    {
+      "character": "祥",
+      "meaning": "suerte"
+    },
+    {
+      "character": "赦",
+      "meaning": "perdón"
+    },
+    {
+      "character": "粘",
+      "meaning": "perseverancia"
+    },
+    {
+      "character": "奨",
+      "meaning": "impulso"
+    },
+    {
+      "character": "隷",
+      "meaning": "servir"
+    },
+    {
+      "character": "垂",
+      "meaning": "estar colgado"
+    },
+    {
+      "character": "拶",
+      "meaning": "acercarse"
+    },
+    {
+      "character": "寮",
+      "meaning": "dormitorio"
+    },
+    {
+      "character": "剰",
+      "meaning": "excedente"
+    },
+    {
+      "character": "癖",
+      "meaning": "costumbre"
+    },
+    {
+      "character": "恒",
+      "meaning": "eterno"
+    },
+    {
+      "character": "涯",
+      "meaning": "horizonte"
+    },
+    {
+      "character": "厄",
+      "meaning": "desgracia"
+    },
+    {
+      "character": "侮",
+      "meaning": "desprecio"
+    },
+    {
+      "character": "培",
+      "meaning": "cultivo"
+    },
+    {
+      "character": "曽",
+      "meaning": "antes"
+    },
+    {
+      "character": "壇",
+      "meaning": "podio"
+    },
+    {
+      "character": "芳",
+      "meaning": "perfume"
+    },
+    {
+      "character": "垣",
+      "meaning": "cerco"
+    },
+    {
+      "character": "銘",
+      "meaning": "inscripción"
+    },
+    {
+      "character": "巧",
+      "meaning": "habilidad"
+    },
+    {
+      "character": "宴",
+      "meaning": "banquete"
+    },
+    {
+      "character": "剛",
+      "meaning": "fuerte"
+    },
+    {
+      "character": "徐",
+      "meaning": "gradualmente"
+    },
+    {
+      "character": "怠",
+      "meaning": "descuido"
+    },
+    {
+      "character": "弓",
+      "meaning": "arco"
+    },
+    {
+      "character": "蓄",
+      "meaning": "acaudalar"
+    },
+    {
+      "character": "漬",
+      "meaning": "remojar"
+    },
+    {
+      "character": "穫",
+      "meaning": "cosecha"
+    },
+    {
+      "character": "爪",
+      "meaning": "uña"
+    },
+    {
+      "character": "泡",
+      "meaning": "burbuja"
+    },
+    {
+      "character": "疫",
+      "meaning": "epidemia"
+    },
+    {
+      "character": "凡",
+      "meaning": "mediocre"
+    },
+    {
+      "character": "陳",
+      "meaning": "exhibir"
+    },
+    {
+      "character": "搭",
+      "meaning": "embarcar"
+    },
+    {
+      "character": "頻",
+      "meaning": "repetidamente"
+    },
+    {
+      "character": "糧",
+      "meaning": "comestibles"
+    },
+    {
+      "character": "礎",
+      "meaning": "piedra angular"
+    },
+    {
+      "character": "啓",
+      "meaning": "abrir"
+    },
+    {
+      "character": "謙",
+      "meaning": "modesto"
+    },
+    {
+      "character": "扶",
+      "meaning": "ayuda"
+    },
+    {
+      "character": "塊",
+      "meaning": "conglomerado"
+    },
+    {
+      "character": "翻",
+      "meaning": "expresar en otras palabras"
+    },
+    {
+      "character": "彰",
+      "meaning": "patente"
+    },
+    {
+      "character": "恭",
+      "meaning": "respeto"
+    },
+    {
+      "character": "摂",
+      "meaning": "tomar"
+    },
+    {
+      "character": "疎",
+      "meaning": "descuidar"
+    },
+    {
+      "character": "苗",
+      "meaning": "siembra"
+    },
+    {
+      "character": "祉",
+      "meaning": "bienestar"
+    },
+    {
+      "character": "殻",
+      "meaning": "concha"
+    },
+    {
+      "character": "紳",
+      "meaning": "noble"
+    },
+    {
+      "character": "膜",
+      "meaning": "membrana"
+    },
+    {
+      "character": "径",
+      "meaning": "diámetro"
+    },
+    {
+      "character": "虜",
+      "meaning": "cautivo"
+    },
+    {
+      "character": "珠",
+      "meaning": "perla"
+    },
+    {
+      "character": "傘",
+      "meaning": "paraguas"
+    },
+    {
+      "character": "嫉",
+      "meaning": "celoso"
+    },
+    {
+      "character": "壮",
+      "meaning": "poderoso"
+    },
+    {
+      "character": "唐",
+      "meaning": "Tang (antigua dinastía china)"
+    },
+    {
+      "character": "侍",
+      "meaning": "sirviente"
+    },
+    {
+      "character": "暦",
+      "meaning": "calendario"
+    },
+    {
+      "character": "軸",
+      "meaning": "eje"
+    },
+    {
+      "character": "勲",
+      "meaning": "acción meritoria"
+    },
+    {
+      "character": "淡",
+      "meaning": "claro"
+    },
+    {
+      "character": "粗",
+      "meaning": "basto"
+    },
+    {
+      "character": "矛",
+      "meaning": "alabarda"
+    },
+    {
+      "character": "妬",
+      "meaning": "celoso"
+    },
+    {
+      "character": "瞳",
+      "meaning": "pupila"
+    },
+    {
+      "character": "憧",
+      "meaning": "añorar"
+    },
+    {
+      "character": "汽",
+      "meaning": "vapor"
+    },
+    {
+      "character": "閥",
+      "meaning": "pandilla"
+    },
+    {
+      "character": "岳",
+      "meaning": "montaña alta"
+    },
+    {
+      "character": "衰",
+      "meaning": "declinar"
+    },
+    {
+      "character": "痴",
+      "meaning": "estúpido"
+    },
+    {
+      "character": "斜",
+      "meaning": "diagonal"
+    },
+    {
+      "character": "諾",
+      "meaning": "consentimiento"
+    },
+    {
+      "character": "逸",
+      "meaning": "desviar"
+    },
+    {
+      "character": "拷",
+      "meaning": "torturar"
+    },
+    {
+      "character": "朱",
+      "meaning": "bermellón"
+    },
+    {
+      "character": "肢",
+      "meaning": "extremidades"
+    },
+    {
+      "character": "餌",
+      "meaning": "comida"
+    },
+    {
+      "character": "疾",
+      "meaning": "enfermedad"
+    },
+    {
+      "character": "俗",
+      "meaning": "vulgar"
+    },
+    {
+      "character": "舗",
+      "meaning": "tienda"
+    },
+    {
+      "character": "蛍",
+      "meaning": "luciérnaga"
+    },
+    {
+      "character": "扇",
+      "meaning": "abanico"
+    },
+    {
+      "character": "澄",
+      "meaning": "clarificar"
+    },
+    {
+      "character": "栽",
+      "meaning": "plantación"
+    },
+    {
+      "character": "搬",
+      "meaning": "llevar"
+    },
+    {
+      "character": "遮",
+      "meaning": "interceptar"
+    },
+    {
+      "character": "唇",
+      "meaning": "labios"
+    },
+    {
+      "character": "凝",
+      "meaning": "rigidez"
+    },
+    {
+      "character": "陪",
+      "meaning": "seguir"
+    },
+    {
+      "character": "葛",
+      "meaning": "arrurruz"
+    },
+    {
+      "character": "妄",
+      "meaning": "ilusión"
+    },
+    {
+      "character": "愉",
+      "meaning": "diversión"
+    },
+    {
+      "character": "塾",
+      "meaning": "colegio privado"
+    },
+    {
+      "character": "括",
+      "meaning": "sujetar"
+    },
+    {
+      "character": "拭",
+      "meaning": "barrer"
+    },
+    {
+      "character": "傑",
+      "meaning": "grandeza"
+    },
+    {
+      "character": "憂",
+      "meaning": "pesadumbre"
+    },
+    {
+      "character": "旨",
+      "meaning": "principio"
+    },
+    {
+      "character": "腎",
+      "meaning": "riñón"
+    },
+    {
+      "character": "擁",
+      "meaning": "abrazar"
+    },
+    {
+      "character": "椎",
+      "meaning": "roble"
+    },
+    {
+      "character": "醜",
+      "meaning": "feo"
+    },
+    {
+      "character": "塞",
+      "meaning": "cerrar"
+    },
+    {
+      "character": "亭",
+      "meaning": "restaurante"
+    },
+    {
+      "character": "如",
+      "meaning": "análogo"
+    },
+    {
+      "character": "粛",
+      "meaning": "solemne"
+    },
+    {
+      "character": "麺",
+      "meaning": "tallarines"
+    },
+    {
+      "character": "窮",
+      "meaning": "final"
+    },
+    {
+      "character": "猟",
+      "meaning": "cazar"
+    },
+    {
+      "character": "傍",
+      "meaning": "vecindad"
+    },
+    {
+      "character": "髄",
+      "meaning": "médula"
+    },
+    {
+      "character": "溝",
+      "meaning": "cuneta"
+    },
+    {
+      "character": "緯",
+      "meaning": "latitud"
+    },
+    {
+      "character": "隙",
+      "meaning": "grieta"
+    },
+    {
+      "character": "胎",
+      "meaning": "útero"
+    },
+    {
+      "character": "錯",
+      "meaning": "confundirse"
+    },
+    {
+      "character": "爵",
+      "meaning": "linaje"
+    },
+    {
+      "character": "懇",
+      "meaning": "sociable"
+    },
+    {
+      "character": "艇",
+      "meaning": "bote de remos"
+    },
+    {
+      "character": "刈",
+      "meaning": "segar"
+    },
+    {
+      "character": "岐",
+      "meaning": "bifurcación"
+    },
+    {
+      "character": "暫",
+      "meaning": "por poco tiempo"
+    },
+    {
+      "character": "弦",
+      "meaning": "cuerda (arco"
+    },
+    {
+      "character": "悼",
+      "meaning": "lamentar"
+    },
+    {
+      "character": "昆",
+      "meaning": "descendientes"
+    },
+    {
+      "character": "墨",
+      "meaning": "tinta"
+    },
+    {
+      "character": "錬",
+      "meaning": "forjar"
+    },
+    {
+      "character": "潤",
+      "meaning": "humedad"
+    },
+    {
+      "character": "捉",
+      "meaning": "atrapar"
+    },
+    {
+      "character": "抽",
+      "meaning": "tirar"
+    },
+    {
+      "character": "旬",
+      "meaning": "decamerón"
+    },
+    {
+      "character": "鯨",
+      "meaning": "ballena"
+    },
+    {
+      "character": "嗅",
+      "meaning": "olor"
+    },
+    {
+      "character": "渇",
+      "meaning": "seco"
+    },
+    {
+      "character": "湧",
+      "meaning": "hervir"
+    },
+    {
+      "character": "帆",
+      "meaning": "vela de barco"
+    },
+    {
+      "character": "賠",
+      "meaning": "compensación"
+    },
+    {
+      "character": "肪",
+      "meaning": "obeso"
+    },
+    {
+      "character": "挿",
+      "meaning": "insertar"
+    },
+    {
+      "character": "掌",
+      "meaning": "manipular"
+    },
+    {
+      "character": "枕",
+      "meaning": "almohada"
+    },
+    {
+      "character": "擦",
+      "meaning": "frotar"
+    },
+    {
+      "character": "暁",
+      "meaning": "aurora"
+    },
+    {
+      "character": "枢",
+      "meaning": "gozne"
+    },
+    {
+      "character": "崇",
+      "meaning": "respetar"
+    },
+    {
+      "character": "陵",
+      "meaning": "mausoleo imperial"
+    },
+    {
+      "character": "鉛",
+      "meaning": "plomo"
+    },
+    {
+      "character": "貼",
+      "meaning": "pegar"
+    },
+    {
+      "character": "蜂",
+      "meaning": "avispa"
+    },
+    {
+      "character": "酢",
+      "meaning": "vinagre"
+    },
+    {
+      "character": "窒",
+      "meaning": "taponar"
+    },
+    {
+      "character": "据",
+      "meaning": "establecer"
+    },
+    {
+      "character": "准",
+      "meaning": "permitir"
+    },
+    {
+      "character": "棋",
+      "meaning": "pieza de ajedrez"
+    },
+    {
+      "character": "旋",
+      "meaning": "girar"
+    },
+    {
+      "character": "股",
+      "meaning": "entrepierna"
+    },
+    {
+      "character": "渦",
+      "meaning": "remolino de agua"
+    },
+    {
+      "character": "椅",
+      "meaning": "silla"
+    },
+    {
+      "character": "釜",
+      "meaning": "caldero"
+    },
+    {
+      "character": "錦",
+      "meaning": "brocado"
+    },
+    {
+      "character": "炊",
+      "meaning": "cocinar"
+    },
+    {
+      "character": "陶",
+      "meaning": "alfarería"
+    },
+    {
+      "character": "踪",
+      "meaning": "restos"
+    },
+    {
+      "character": "践",
+      "meaning": "pisar"
+    },
+    {
+      "character": "顕",
+      "meaning": "claro"
+    },
+    {
+      "character": "盲",
+      "meaning": "ciego"
+    },
+    {
+      "character": "庶",
+      "meaning": "varios"
+    },
+    {
+      "character": "轄",
+      "meaning": "control"
+    },
+    {
+      "character": "騰",
+      "meaning": "ascender"
+    },
+    {
+      "character": "虹",
+      "meaning": "arco iris"
+    },
+    {
+      "character": "宰",
+      "meaning": "supervisar"
+    },
+    {
+      "character": "柿",
+      "meaning": "caqui"
+    },
+    {
+      "character": "碁",
+      "meaning": "juego del Go"
+    },
+    {
+      "character": "堕",
+      "meaning": "caer"
+    },
+    {
+      "character": "猶",
+      "meaning": "más aún"
+    },
+    {
+      "character": "冥",
+      "meaning": "oscuro"
+    },
+    {
+      "character": "臆",
+      "meaning": "pecho"
+    },
+    {
+      "character": "又",
+      "meaning": "otra vez"
+    },
+    {
+      "character": "溺",
+      "meaning": "ahogo"
+    },
+    {
+      "character": "槽",
+      "meaning": "tina"
+    },
+    {
+      "character": "鉢",
+      "meaning": "tazón"
+    },
+    {
+      "character": "絹",
+      "meaning": "seda"
+    },
+    {
+      "character": "匿",
+      "meaning": "escondite"
+    },
+    {
+      "character": "婿",
+      "meaning": "novio"
+    },
+    {
+      "character": "鎌",
+      "meaning": "hoz"
+    },
+    {
+      "character": "窟",
+      "meaning": "caverna"
+    },
+    {
+      "character": "餅",
+      "meaning": "pastel de pasta de arroz"
+    },
+    {
+      "character": "痩",
+      "meaning": "adelgazar"
+    },
+    {
+      "character": "剖",
+      "meaning": "dividir"
+    },
+    {
+      "character": "呉",
+      "meaning": "dar"
+    },
+    {
+      "character": "戚",
+      "meaning": "pariente (de sangre)"
+    },
+    {
+      "character": "婆",
+      "meaning": "anciana"
+    },
+    {
+      "character": "孔",
+      "meaning": "cavidad"
+    },
+    {
+      "character": "梗",
+      "meaning": "en su mayor parte"
+    },
+    {
+      "character": "睦",
+      "meaning": "íntimo"
+    },
+    {
+      "character": "窃",
+      "meaning": "sigilo"
+    },
+    {
+      "character": "戯",
+      "meaning": "jugueteo"
+    },
+    {
+      "character": "宜",
+      "meaning": "apropiado"
+    },
+    {
+      "character": "堪",
+      "meaning": "resistir"
+    },
+    {
+      "character": "赴",
+      "meaning": "apresurarse"
+    },
+    {
+      "character": "眉",
+      "meaning": "ceja"
+    },
+    {
+      "character": "抹",
+      "meaning": "frotar"
+    },
+    {
+      "character": "忌",
+      "meaning": "aborrecer"
+    },
+    {
+      "character": "迅",
+      "meaning": "rápido"
+    },
+    {
+      "character": "喝",
+      "meaning": "regañar"
+    },
+    {
+      "character": "蛮",
+      "meaning": "bárbaro"
+    },
+    {
+      "character": "拙",
+      "meaning": "inexperto"
+    },
+    {
+      "character": "喉",
+      "meaning": "garganta"
+    },
+    {
+      "character": "瘍",
+      "meaning": "hinchazón"
+    },
+    {
+      "character": "悦",
+      "meaning": "júbilo"
+    },
+    {
+      "character": "丼",
+      "meaning": "tazón"
+    },
+    {
+      "character": "朽",
+      "meaning": "descomposición"
+    },
+    {
+      "character": "諭",
+      "meaning": "reprimenda"
+    },
+    {
+      "character": "唆",
+      "meaning": "tentar"
+    },
+    {
+      "character": "逝",
+      "meaning": "difunto"
+    },
+    {
+      "character": "挫",
+      "meaning": "aplastamiento"
+    },
+    {
+      "character": "棺",
+      "meaning": "ataúd"
+    },
+    {
+      "character": "袖",
+      "meaning": "manga (ropa)"
+    },
+    {
+      "character": "埼",
+      "meaning": "cabo"
+    },
+    {
+      "character": "汰",
+      "meaning": "clasificar"
+    },
+    {
+      "character": "胴",
+      "meaning": "tronco (cuerpo)"
+    },
+    {
+      "character": "酵",
+      "meaning": "fermento"
+    },
+    {
+      "character": "該",
+      "meaning": "lo citado anteriormente"
+    },
+    {
+      "character": "搾",
+      "meaning": "apretón"
+    },
+    {
+      "character": "娯",
+      "meaning": "recreo"
+    },
+    {
+      "character": "欄",
+      "meaning": "barandilla"
+    },
+    {
+      "character": "郭",
+      "meaning": "cerco"
+    },
+    {
+      "character": "盆",
+      "meaning": "bandeja"
+    },
+    {
+      "character": "謹",
+      "meaning": "discreto"
+    },
+    {
+      "character": "詠",
+      "meaning": "recital"
+    },
+    {
+      "character": "蚊",
+      "meaning": "mosquito"
+    },
+    {
+      "character": "穀",
+      "meaning": "cereales"
+    },
+    {
+      "character": "蜜",
+      "meaning": "miel"
+    },
+    {
+      "character": "帥",
+      "meaning": "dirigir las tropas"
+    },
+    {
+      "character": "羨",
+      "meaning": "envidioso"
+    },
+    {
+      "character": "宛",
+      "meaning": "algo así como"
+    },
+    {
+      "character": "藍",
+      "meaning": "índigo"
+    },
+    {
+      "character": "稽",
+      "meaning": "pensamiento"
+    },
+    {
+      "character": "礁",
+      "meaning": "arrecife"
+    },
+    {
+      "character": "朴",
+      "meaning": "sencillo"
+    },
+    {
+      "character": "伐",
+      "meaning": "talar"
+    },
+    {
+      "character": "洪",
+      "meaning": "corriente"
+    },
+    {
+      "character": "詮",
+      "meaning": "discusión"
+    },
+    {
+      "character": "呈",
+      "meaning": "obsequiar"
+    },
+    {
+      "character": "訂",
+      "meaning": "corregir"
+    },
+    {
+      "character": "堤",
+      "meaning": "dique"
+    },
+    {
+      "character": "循",
+      "meaning": "girar"
+    },
+    {
+      "character": "淑",
+      "meaning": "gracioso"
+    },
+    {
+      "character": "骸",
+      "meaning": "huesos"
+    },
+    {
+      "character": "媒",
+      "meaning": "mediación"
+    },
+    {
+      "character": "栓",
+      "meaning": "tapón"
+    },
+    {
+      "character": "餓",
+      "meaning": "hambre"
+    },
+    {
+      "character": "壌",
+      "meaning": "tierra"
+    },
+    {
+      "character": "崖",
+      "meaning": "acantilado"
+    },
+    {
+      "character": "箸",
+      "meaning": "palillos (para comer o cocinar)"
+    },
+    {
+      "character": "慕",
+      "meaning": "añoranza"
+    },
+    {
+      "character": "篤",
+      "meaning": "sincero"
+    },
+    {
+      "character": "蓋",
+      "meaning": "cubrir"
+    },
+    {
+      "character": "膳",
+      "meaning": "mesita baja"
+    },
+    {
+      "character": "藻",
+      "meaning": "alga marina"
+    },
+    {
+      "character": "凄",
+      "meaning": "extraño"
+    },
+    {
+      "character": "矯",
+      "meaning": "rectificar"
+    },
+    {
+      "character": "廉",
+      "meaning": "noble"
+    },
+    {
+      "character": "弊",
+      "meaning": "desgastarse"
+    },
+    {
+      "character": "漆",
+      "meaning": "laca"
+    },
+    {
+      "character": "姻",
+      "meaning": "matrimonio"
+    },
+    {
+      "character": "尼",
+      "meaning": "monja budista"
+    },
+    {
+      "character": "弔",
+      "meaning": "condolencias"
+    },
+    {
+      "character": "濁",
+      "meaning": "suciedad"
+    },
+    {
+      "character": "擬",
+      "meaning": "imitar"
+    },
+    {
+      "character": "酪",
+      "meaning": "productos lácteos"
+    },
+    {
+      "character": "卸",
+      "meaning": "venta al por mayor"
+    },
+    {
+      "character": "渓",
+      "meaning": "arroyo de montaña"
+    },
+    {
+      "character": "謡",
+      "meaning": "canto del teatro Noh"
+    },
+    {
+      "character": "勃",
+      "meaning": "repentino"
+    },
+    {
+      "character": "滋",
+      "meaning": "florecer"
+    },
+    {
+      "character": "煩",
+      "meaning": "problema"
+    },
+    {
+      "character": "憤",
+      "meaning": "resentimiento"
+    },
+    {
+      "character": "幣",
+      "meaning": "riqueza"
+    },
+    {
+      "character": "拉",
+      "meaning": "Latín"
+    },
+    {
+      "character": "禅",
+      "meaning": "Zen"
+    },
+    {
+      "character": "肖",
+      "meaning": "imitar"
+    },
+    {
+      "character": "塀",
+      "meaning": "cerca"
+    },
+    {
+      "character": "賓",
+      "meaning": "invitado importante"
+    },
+    {
+      "character": "瑠",
+      "meaning": "lapislázuli"
+    },
+    {
+      "character": "俵",
+      "meaning": "fardo"
+    },
+    {
+      "character": "脊",
+      "meaning": "columna vertebral"
+    },
+    {
+      "character": "閲",
+      "meaning": "inspección"
+    },
+    {
+      "character": "硫",
+      "meaning": "azufre abreviatura de ácido sulfúrico"
+    },
+    {
+      "character": "譜",
+      "meaning": "registro"
+    },
+    {
+      "character": "痢",
+      "meaning": "diarrea"
+    },
+    {
+      "character": "紺",
+      "meaning": "azul oscuro"
+    },
+    {
+      "character": "雌",
+      "meaning": "hembra"
+    },
+    {
+      "character": "爽",
+      "meaning": "refrescante"
+    },
+    {
+      "character": "醒",
+      "meaning": "despierto"
+    },
+    {
+      "character": "潟",
+      "meaning": "laguna"
+    },
+    {
+      "character": "茨",
+      "meaning": "espina"
+    },
+    {
+      "character": "串",
+      "meaning": "broqueta"
+    },
+    {
+      "character": "茎",
+      "meaning": "tallo"
+    },
+    {
+      "character": "衡",
+      "meaning": "balanza"
+    },
+    {
+      "character": "乞",
+      "meaning": "petición"
+    },
+    {
+      "character": "賂",
+      "meaning": "soborno"
+    },
+    {
+      "character": "戴",
+      "meaning": "poner encima"
+    },
+    {
+      "character": "殉",
+      "meaning": "martirio"
+    },
+    {
+      "character": "碑",
+      "meaning": "lápida sepulcral"
+    },
+    {
+      "character": "坪",
+      "meaning": "unidad de superficie"
+    },
+    {
+      "character": "峡",
+      "meaning": "desfiladero"
+    },
+    {
+      "character": "岬",
+      "meaning": "punta"
+    },
+    {
+      "character": "侶",
+      "meaning": "compañero"
+    },
+    {
+      "character": "籠",
+      "meaning": "cesto"
+    },
+    {
+      "character": "刹",
+      "meaning": "templo"
+    },
+    {
+      "character": "宵",
+      "meaning": "tarde"
+    },
+    {
+      "character": "怨",
+      "meaning": "rencor"
+    },
+    {
+      "character": "芋",
+      "meaning": "patata"
+    },
+    {
+      "character": "繕",
+      "meaning": "reparar"
+    },
+    {
+      "character": "屯",
+      "meaning": "barraca"
+    },
+    {
+      "character": "甚",
+      "meaning": "tremendamente"
+    },
+    {
+      "character": "瓦",
+      "meaning": "teja"
+    },
+    {
+      "character": "吟",
+      "meaning": "tararear"
+    },
+    {
+      "character": "醸",
+      "meaning": "elaborar"
+    },
+    {
+      "character": "藩",
+      "meaning": "clan feudal japonés de la era Edo"
+    },
+    {
+      "character": "僅",
+      "meaning": "meramente"
+    },
+    {
+      "character": "酎",
+      "meaning": "beneficio"
+    },
+    {
+      "character": "薪",
+      "meaning": "leña"
+    },
+    {
+      "character": "斑",
+      "meaning": "mancha"
+    },
+    {
+      "character": "遍",
+      "meaning": "amplio"
+    },
+    {
+      "character": "奔",
+      "meaning": "apresurarse"
+    },
+    {
+      "character": "尺",
+      "meaning": "regla"
+    },
+    {
+      "character": "侯",
+      "meaning": "marqués"
+    },
+    {
+      "character": "嚇",
+      "meaning": "amenazador"
+    },
+    {
+      "character": "腺",
+      "meaning": "glándula"
+    },
+    {
+      "character": "罵",
+      "meaning": "abuso"
+    },
+    {
+      "character": "泌",
+      "meaning": "rezumar"
+    },
+    {
+      "character": "峠",
+      "meaning": "puerto de montaña"
+    },
+    {
+      "character": "傲",
+      "meaning": "estar orgulloso"
+    },
+    {
+      "character": "韻",
+      "meaning": "tono"
+    },
+    {
+      "character": "媛",
+      "meaning": "mujer bella"
+    },
+    {
+      "character": "唾",
+      "meaning": "saliva"
+    },
+    {
+      "character": "楼",
+      "meaning": "atalaya"
+    },
+    {
+      "character": "襟",
+      "meaning": "cuello"
+    },
+    {
+      "character": "巾",
+      "meaning": "paño"
+    },
+    {
+      "character": "臼",
+      "meaning": "mortero"
+    },
+    {
+      "character": "璃",
+      "meaning": "lapislázuli"
+    },
+    {
+      "character": "逐",
+      "meaning": "perseguir"
+    },
+    {
+      "character": "貌",
+      "meaning": "formulario"
+    },
+    {
+      "character": "蔽",
+      "meaning": "cubrir"
+    },
+    {
+      "character": "坑",
+      "meaning": "hoyo"
+    },
+    {
+      "character": "賜",
+      "meaning": "otorgar"
+    },
+    {
+      "character": "桁",
+      "meaning": "viga"
+    },
+    {
+      "character": "慨",
+      "meaning": "lamento"
+    },
+    {
+      "character": "舷",
+      "meaning": "regala"
+    },
+    {
+      "character": "蔑",
+      "meaning": "ignorar"
+    },
+    {
+      "character": "昧",
+      "meaning": "oscuro"
+    },
+    {
+      "character": "耗",
+      "meaning": "disminuir"
+    },
+    {
+      "character": "芯",
+      "meaning": "interior"
+    },
+    {
+      "character": "柵",
+      "meaning": "empalizada"
+    },
+    {
+      "character": "嗣",
+      "meaning": "heredero"
+    },
+    {
+      "character": "硝",
+      "meaning": "nitrato"
+    },
+    {
+      "character": "弄",
+      "meaning": "jugar con"
+    },
+    {
+      "character": "享",
+      "meaning": "recibir tratamiento"
+    },
+    {
+      "character": "繭",
+      "meaning": "capullo"
+    },
+    {
+      "character": "煎",
+      "meaning": "asar a la parrilla"
+    },
+    {
+      "character": "箇",
+      "meaning": "contador y enumerador para cosas"
+    },
+    {
+      "character": "勾",
+      "meaning": "ser doblado"
+    },
+    {
+      "character": "勅",
+      "meaning": "orden imperial"
+    },
+    {
+      "character": "憾",
+      "meaning": "remordimiento"
+    },
+    {
+      "character": "倣",
+      "meaning": "emulación"
+    },
+    {
+      "character": "鬱",
+      "meaning": "melancolía"
+    },
+    {
+      "character": "唄",
+      "meaning": "canción"
+    },
+    {
+      "character": "淫",
+      "meaning": "lascivia"
+    },
+    {
+      "character": "紡",
+      "meaning": "hilado"
+    },
+    {
+      "character": "愁",
+      "meaning": "melancolía"
+    },
+    {
+      "character": "朕",
+      "meaning": "nosotros"
+    },
+    {
+      "character": "糾",
+      "meaning": "reunir"
+    },
+    {
+      "character": "遷",
+      "meaning": "traslado"
+    },
+    {
+      "character": "禍",
+      "meaning": "calamidad"
+    },
+    {
+      "character": "旺",
+      "meaning": "floreciente"
+    },
+    {
+      "character": "栃",
+      "meaning": "castaño de indias"
+    },
+    {
+      "character": "箋",
+      "meaning": "papel"
+    },
+    {
+      "character": "吏",
+      "meaning": "oficial del gobierno"
+    },
+    {
+      "character": "桟",
+      "meaning": "travesaño"
+    },
+    {
+      "character": "玩",
+      "meaning": "jugar"
+    },
+    {
+      "character": "遜",
+      "meaning": "humilde"
+    },
+    {
+      "character": "酌",
+      "meaning": "servir sake"
+    },
+    {
+      "character": "霜",
+      "meaning": "escarcha"
+    },
+    {
+      "character": "哺",
+      "meaning": "cultivar"
+    },
+    {
+      "character": "瞭",
+      "meaning": "claro"
+    },
+    {
+      "character": "叙",
+      "meaning": "relato"
+    },
+    {
+      "character": "舶",
+      "meaning": "transatlántico"
+    },
+    {
+      "character": "畿",
+      "meaning": "capital"
+    },
+    {
+      "character": "謁",
+      "meaning": "audiencia con alguien superior"
+    },
+    {
+      "character": "累",
+      "meaning": "relación"
+    },
+    {
+      "character": "采",
+      "meaning": "forma"
+    },
+    {
+      "character": "冶",
+      "meaning": "fundición"
+    },
+    {
+      "character": "曖",
+      "meaning": "oscuro"
+    },
+    {
+      "character": "惧",
+      "meaning": "miedo"
+    },
+    {
+      "character": "綻",
+      "meaning": "comenzar a abrirse"
+    },
+    {
+      "character": "裾",
+      "meaning": "pernera"
+    },
+    {
+      "character": "某",
+      "meaning": "fulano de tal"
+    },
+    {
+      "character": "阜",
+      "meaning": "colina"
+    },
+    {
+      "character": "頓",
+      "meaning": "de pronto"
+    },
+    {
+      "character": "俸",
+      "meaning": "remuneración"
+    },
+    {
+      "character": "喩",
+      "meaning": "ejemplo"
+    },
+    {
+      "character": "惰",
+      "meaning": "pereza"
+    },
+    {
+      "character": "肘",
+      "meaning": "codo"
+    },
+    {
+      "character": "閑",
+      "meaning": "ocio"
+    },
+    {
+      "character": "窯",
+      "meaning": "horno"
+    },
+    {
+      "character": "苛",
+      "meaning": "tormento"
+    },
+    {
+      "character": "寡",
+      "meaning": "poco"
+    },
+    {
+      "character": "捻",
+      "meaning": "giro"
+    },
+    {
+      "character": "褐",
+      "meaning": "marrón"
+    },
+    {
+      "character": "遡",
+      "meaning": "río arriba"
+    },
+    {
+      "character": "堆",
+      "meaning": "torre alta de cosas apiladas"
+    },
+    {
+      "character": "顎",
+      "meaning": "mandíbula"
+    },
+    {
+      "character": "畔",
+      "meaning": "terraplén entre campos de arroz"
+    },
+    {
+      "character": "諮",
+      "meaning": "consulta"
+    },
+    {
+      "character": "璽",
+      "meaning": "sello imperial"
+    },
+    {
+      "character": "翁",
+      "meaning": "anciano"
+    },
+    {
+      "character": "儒",
+      "meaning": "confucionismo"
+    },
+    {
+      "character": "艶",
+      "meaning": "encantador"
+    },
+    {
+      "character": "斥",
+      "meaning": "rechazar"
+    },
+    {
+      "character": "貪",
+      "meaning": "codiciar"
+    },
+    {
+      "character": "墳",
+      "meaning": "tumba"
+    },
+    {
+      "character": "萎",
+      "meaning": "marchitarse"
+    },
+    {
+      "character": "附",
+      "meaning": "pegar"
+    },
+    {
+      "character": "罷",
+      "meaning": "abandonar"
+    },
+    {
+      "character": "劾",
+      "meaning": "censura"
+    },
+    {
+      "character": "畏",
+      "meaning": "miedo"
+    },
+    {
+      "character": "鋳",
+      "meaning": "fundir"
+    },
+    {
+      "character": "捗",
+      "meaning": "progresar"
+    },
+    {
+      "character": "詔",
+      "meaning": "edicto imperial"
+    },
+    {
+      "character": "辣",
+      "meaning": "acre"
+    },
+    {
+      "character": "租",
+      "meaning": "tarifa"
+    },
+    {
+      "character": "沃",
+      "meaning": "fertilidad"
+    },
+    {
+      "character": "升",
+      "meaning": "caja para medir"
+    },
+    {
+      "character": "摯",
+      "meaning": "regalo"
+    },
+    {
+      "character": "厘",
+      "meaning": "antigua unidad de longitud y de peso"
+    },
+    {
+      "character": "咽",
+      "meaning": "garganta"
+    },
+    {
+      "character": "毀",
+      "meaning": "romper"
+    },
+    {
+      "character": "庸",
+      "meaning": "común"
+    },
+    {
+      "character": "緻",
+      "meaning": "fino"
+    },
+    {
+      "character": "嫡",
+      "meaning": "hijo legítimo"
+    },
+    {
+      "character": "訃",
+      "meaning": "obituario"
+    },
+    {
+      "character": "伎",
+      "meaning": "habilidad"
+    },
+    {
+      "character": "詣",
+      "meaning": "llegada"
+    },
+    {
+      "character": "麓",
+      "meaning": "pie de la montaña"
+    },
+    {
+      "character": "痘",
+      "meaning": "viruela"
+    },
+    {
+      "character": "嘲",
+      "meaning": "ridículo"
+    },
+    {
+      "character": "倹",
+      "meaning": "humilde"
+    },
+    {
+      "character": "款",
+      "meaning": "artículo (contrato"
+    },
+    {
+      "character": "汎",
+      "meaning": "sartén"
+    },
+    {
+      "character": "弐",
+      "meaning": "dos (para documentos legales)"
+    },
+    {
+      "character": "弧",
+      "meaning": "arco"
+    },
+    {
+      "character": "嘱",
+      "meaning": "confiar"
+    },
+    {
+      "character": "賦",
+      "meaning": "arancel"
+    },
+    {
+      "character": "迭",
+      "meaning": "por turno"
+    },
+    {
+      "character": "羞",
+      "meaning": "sentirse avergonzado"
+    },
+    {
+      "character": "凹",
+      "meaning": "hueco"
+    },
+    {
+      "character": "濫",
+      "meaning": "excesivo"
+    },
+    {
+      "character": "氾",
+      "meaning": "desbordarse"
+    },
+    {
+      "character": "凸",
+      "meaning": "convexo"
+    },
+    {
+      "character": "衷",
+      "meaning": "sinceridad"
+    },
+    {
+      "character": "慄",
+      "meaning": "miedo"
+    },
+    {
+      "character": "遵",
+      "meaning": "atenerse a"
+    },
+    {
+      "character": "蚕",
+      "meaning": "gusano de seda"
+    },
+    {
+      "character": "剝",
+      "meaning": "bajarse"
+    },
+    {
+      "character": "彙",
+      "meaning": "mismo tipo"
+    },
+    {
+      "character": "斤",
+      "meaning": "antigua medida de peso (1.32 libras)"
+    },
+    {
+      "character": "壱",
+      "meaning": "I"
+    },
+    {
+      "character": "丙",
+      "meaning": "tercera clase"
+    },
+    {
+      "character": "但",
+      "meaning": "sin embargo"
+    },
+    {
+      "character": "錮",
+      "meaning": "confinamiento"
+    },
+    {
+      "character": "謄",
+      "meaning": "transcribir"
+    },
+    {
+      "character": "墾",
+      "meaning": "tierra de cultivo"
+    },
+    {
+      "character": "逓",
+      "meaning": "por turnos"
+    },
+    {
+      "character": "抄",
+      "meaning": "extracto"
+    },
+    {
+      "character": "且",
+      "meaning": "además"
+    },
+    {
+      "character": "塑",
+      "meaning": "modelo"
+    },
+    {
+      "character": "虞",
+      "meaning": "desasosiego"
+    },
+    {
+      "character": "恣",
+      "meaning": "egoísta"
+    },
+    {
+      "character": "漸",
+      "meaning": "gradualmente"
+    },
+    {
+      "character": "畝",
+      "meaning": "surco"
+    },
+    {
+      "character": "塡",
+      "meaning": "rellenar"
+    },
+    {
+      "character": "楷",
+      "meaning": "modelo"
+    },
+    {
+      "character": "頒",
+      "meaning": "dividir"
+    },
+    {
+      "character": "頰",
+      "meaning": "mejillas"
+    },
+    {
+      "character": "憬",
+      "meaning": "anhelar"
+    },
+    {
+      "character": "諧",
+      "meaning": "armonía"
+    },
+    {
+      "character": "𠮟",
+      "meaning": "regañar"
+    }
+  ]
+}

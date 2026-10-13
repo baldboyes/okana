@@ -1,0 +1,240 @@
+{
+  "character": "実",
+  "meanings": "realidad, verdad, fruta, nuez, semilla, contenido, buen resultado, dar frutos, madurar",
+  "words": [
+    {
+      "entryId": "1263710",
+      "spelling": "現実",
+      "reading": "げんじつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "現実【げんじつ】",
+      "meaning": "realidad"
+    },
+    {
+      "entryId": "1313960",
+      "spelling": "事実",
+      "reading": "じじつ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "事実【じじつ】",
+      "meaning": "hecho; verdad; realidad"
+    },
+    {
+      "entryId": "1321140",
+      "spelling": "実施",
+      "reading": "じっし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "実施【じっし】",
+      "meaning": "práctica; ejercicio"
+    },
+    {
+      "entryId": "1205830",
+      "spelling": "確実",
+      "reading": "かくじつ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "確実【かくじつ】",
+      "meaning": "ciertamente evidente"
+    },
+    {
+      "entryId": "1320970",
+      "spelling": "実験",
+      "reading": "じっけん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "実験【じっけん】",
+      "meaning": "experimentar; probar; ensayar; someter a prueba; experimento"
+    },
+    {
+      "entryId": "1321020",
+      "spelling": "実現",
+      "reading": "じつげん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "実現【じつげん】",
+      "meaning": "realización; cumplimiento; ejecución"
+    },
+    {
+      "entryId": "1321110",
+      "spelling": "実際",
+      "reading": "じっさい",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "実際【じっさい】",
+      "meaning": "en realidad"
+    },
+    {
+      "entryId": "1321240",
+      "spelling": "実績",
+      "reading": "じっせき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "実績【じっせき】",
+      "meaning": "logros; resultados; éxitos"
+    },
+    {
+      "entryId": "1321360",
+      "spelling": "実態",
+      "reading": "じったい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "実態【じったい】",
+      "meaning": "condición actuales; estado; circunstancias"
+    },
+    {
+      "entryId": "1321530",
+      "spelling": "実力",
+      "reading": "じつりょく",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "実力【じつりょく】",
+      "meaning": "fuerza; habilidad"
+    },
+    {
+      "entryId": "1313970",
+      "spelling": "事実上",
+      "reading": "じじつじょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "事実上【じじつじょう】",
+      "meaning": "de hecho; en realidad"
+    },
+    {
+      "entryId": "1320830",
+      "spelling": "実は",
+      "reading": "じつは",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "実は【じつは】",
+      "meaning": "de hecho"
+    },
+    {
+      "entryId": "1321040",
+      "spelling": "実行",
+      "reading": "じっこう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "実行【じっこう】",
+      "meaning": "ejecutar; llevar a cabo; llevar a la práctica; realizar; materializar; realización; ejecutar (un plan; un programa de computadora)"
+    },
+    {
+      "entryId": "1321170",
+      "spelling": "実質",
+      "reading": "じっしつ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "実質【じっしつ】",
+      "meaning": "sustancia; esencia"
+    },
+    {
+      "entryId": "1334340",
+      "spelling": "充実",
+      "reading": "じゅうじつ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "充実【じゅうじつ】",
+      "meaning": "abundancia; satisfacción"
+    },
+    {
+      "entryId": "1595260",
+      "spelling": "実情",
+      "reading": "じつじょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "実情【じつじょう】",
+      "meaning": "hechos; estado; circunstancias; estado actual"
+    },
+    {
+      "entryId": "1595260",
+      "spelling": "実状",
+      "reading": "じつじょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "実状【じつじょう】",
+      "meaning": "hechos; estado; circunstancias; estado actual"
+    },
+    {
+      "entryId": "1320800",
+      "spelling": "実",
+      "reading": "じち",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "実【じち】",
+      "meaning": "verdad; realidad"
+    },
+    {
+      "entryId": "1320800",
+      "spelling": "実",
+      "reading": "じつ",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "実【じつ】",
+      "meaning": "verdad; realidad"
+    },
+    {
+      "entryId": "1321180",
+      "spelling": "実質的",
+      "reading": "じっしつてき",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "実質的【じっしつてき】",
+      "meaning": "sustancialmente; considerablemente"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

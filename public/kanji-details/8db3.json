@@ -1,0 +1,244 @@
+{
+  "character": "足",
+  "meanings": "pierna, pie, ser suficiente, pata, bastar",
+  "words": [
+    {
+      "entryId": "1404630",
+      "spelling": "足",
+      "reading": "あし",
+      "senseNumbers": [
+        66,
+        67,
+        68,
+        69,
+        70
+      ],
+      "japanese": "足【あし】",
+      "meaning": "pie; pierna; forma de andar; paso; component estructural inferior (radical) de un kanji; pié; pata"
+    },
+    {
+      "entryId": "1493700",
+      "spelling": "不足",
+      "reading": "ふそく",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "不足【ふそく】",
+      "meaning": "insuficiencia; escasez"
+    },
+    {
+      "entryId": "1583130",
+      "spelling": "発足",
+      "reading": "はっそく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "発足【はっそく】",
+      "meaning": "apertura; inauguración"
+    },
+    {
+      "entryId": "1583130",
+      "spelling": "発足",
+      "reading": "ほっそく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "発足【ほっそく】",
+      "meaning": "apertura; inauguración"
+    },
+    {
+      "entryId": "1526860",
+      "spelling": "満足",
+      "reading": "まんぞく",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "満足【まんぞく】",
+      "meaning": "satisfacción; quedar satisfecho; estar complacido; contentarse"
+    },
+    {
+      "entryId": "1526860",
+      "spelling": "滿足",
+      "reading": "まんぞく",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "滿足【まんぞく】",
+      "meaning": "satisfacción; quedar satisfecho; estar complacido; contentarse"
+    },
+    {
+      "entryId": "1586390",
+      "spelling": "足もと",
+      "reading": "あしもと",
+      "senseNumbers": [
+        24
+      ],
+      "japanese": "足もと【あしもと】",
+      "meaning": "a los pies de uno; base de las piernas; zona de los pies; pies; zona muy próxima a uno; andares, pasos, forma de andar"
+    },
+    {
+      "entryId": "1586390",
+      "spelling": "足下",
+      "reading": "あしもと",
+      "senseNumbers": [
+        24
+      ],
+      "japanese": "足下【あしもと】",
+      "meaning": "a los pies de uno; base de las piernas; zona de los pies; pies; zona muy próxima a uno; andares, pasos, forma de andar"
+    },
+    {
+      "entryId": "1586390",
+      "spelling": "足元",
+      "reading": "あしもと",
+      "senseNumbers": [
+        24
+      ],
+      "japanese": "足元【あしもと】",
+      "meaning": "a los pies de uno; base de las piernas; zona de los pies; pies; zona muy próxima a uno; andares, pasos, forma de andar"
+    },
+    {
+      "entryId": "1586390",
+      "spelling": "足許",
+      "reading": "あしもと",
+      "senseNumbers": [
+        24
+      ],
+      "japanese": "足許【あしもと】",
+      "meaning": "a los pies de uno; base de las piernas; zona de los pies; pies; zona muy próxima a uno; andares, pasos, forma de andar"
+    },
+    {
+      "entryId": "1328080",
+      "spelling": "手足",
+      "reading": "しゅそく",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "手足【しゅそく】",
+      "meaning": "manos y pies; extremidades"
+    },
+    {
+      "entryId": "1328080",
+      "spelling": "手足",
+      "reading": "てあし",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "手足【てあし】",
+      "meaning": "manos y pies; extremidades"
+    },
+    {
+      "entryId": "1581330",
+      "spelling": "足あと",
+      "reading": "あしあと",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "足あと【あしあと】",
+      "meaning": "huellas; pisadas"
+    },
+    {
+      "entryId": "1581330",
+      "spelling": "足跡",
+      "reading": "あしあと",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "足跡【あしあと】",
+      "meaning": "huellas; pisadas"
+    },
+    {
+      "entryId": "1581330",
+      "spelling": "足跡",
+      "reading": "そくせき",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "足跡【そくせき】",
+      "meaning": "huellas; pisadas"
+    },
+    {
+      "entryId": "1404830",
+      "spelling": "足どり",
+      "reading": "あしどり",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "足どり【あしどり】",
+      "meaning": "ritmo de marcha, paso, velocidad de marcha; indicio, pista"
+    },
+    {
+      "entryId": "1404830",
+      "spelling": "足取り",
+      "reading": "あしどり",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "足取り【あしどり】",
+      "meaning": "ritmo de marcha, paso, velocidad de marcha; indicio, pista"
+    },
+    {
+      "entryId": "1404840",
+      "spelling": "足頸",
+      "reading": "あしくび",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "足頸【あしくび】",
+      "meaning": "tobillo"
+    },
+    {
+      "entryId": "1404840",
+      "spelling": "足首",
+      "reading": "あしくび",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "足首【あしくび】",
+      "meaning": "tobillo"
+    },
+    {
+      "entryId": "1585150",
+      "spelling": "両足",
+      "reading": "りょうあし",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "両足【りょうあし】",
+      "meaning": "ambos pies; pies (ambos)"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

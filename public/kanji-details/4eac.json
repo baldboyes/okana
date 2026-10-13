@@ -1,0 +1,160 @@
+{
+  "character": "京",
+  "meanings": "capital",
+  "words": [
+    {
+      "entryId": "1447690",
+      "spelling": "東京",
+      "reading": "とうきょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "東京【とうきょう】",
+      "meaning": "Tokio"
+    },
+    {
+      "entryId": "1447690",
+      "spelling": "東京",
+      "reading": "とうけい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "東京【とうけい】",
+      "meaning": "Tokio"
+    },
+    {
+      "entryId": "1520860",
+      "spelling": "北京",
+      "reading": "ペイチン",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "北京【ペイチン】",
+      "meaning": "Pekín; Beijing (China)"
+    },
+    {
+      "entryId": "1520860",
+      "spelling": "北京",
+      "reading": "ペキン",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "北京【ペキン】",
+      "meaning": "Pekín; Beijing (China)"
+    },
+    {
+      "entryId": "1652350",
+      "spelling": "京都",
+      "reading": "きょうと",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "京都【きょうと】",
+      "meaning": "Kyoto"
+    },
+    {
+      "entryId": "1444950",
+      "spelling": "京",
+      "reading": "みやこ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "京【みやこ】",
+      "meaning": "capital"
+    },
+    {
+      "entryId": "1999080",
+      "spelling": "東京証券取引所",
+      "reading": "とうきょうしょうけんとりひきしょ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "東京証券取引所【とうきょうしょうけんとりひきしょ】",
+      "meaning": "Tokyo Stock Exchange (Bolsa de Tokio); TSE"
+    },
+    {
+      "entryId": "1999080",
+      "spelling": "東京証券取引所",
+      "reading": "とうきょうしょうけんとりひきじょ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "東京証券取引所【とうきょうしょうけんとりひきじょ】",
+      "meaning": "Tokyo Stock Exchange (Bolsa de Tokio); TSE"
+    },
+    {
+      "entryId": "1423910",
+      "spelling": "中京",
+      "reading": "ちゅうきょう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "中京【ちゅうきょう】",
+      "meaning": "Nagoya y alrededores"
+    },
+    {
+      "entryId": "1657810",
+      "spelling": "在京",
+      "reading": "ざいきょう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "在京【ざいきょう】",
+      "meaning": "estar en Tokio"
+    },
+    {
+      "entryId": "1352980",
+      "spelling": "上京",
+      "reading": "じょうきょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "上京【じょうきょう】",
+      "meaning": "ir a la capital; ir a Tokio"
+    },
+    {
+      "entryId": "1221310",
+      "spelling": "帰京",
+      "reading": "ききょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "帰京【ききょう】",
+      "meaning": "regreso a Tokio"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

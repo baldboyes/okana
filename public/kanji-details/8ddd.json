@@ -1,0 +1,100 @@
+{
+  "character": "距",
+  "meanings": "larga distancia, distante, separar",
+  "words": [
+    {
+      "entryId": "1232920",
+      "spelling": "距離",
+      "reading": "きょり",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "距離【きょり】",
+      "meaning": "distancia; alcance"
+    },
+    {
+      "entryId": "1429930",
+      "spelling": "長距離",
+      "reading": "ちょうきょり",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "長距離【ちょうきょり】",
+      "meaning": "larga distancia"
+    },
+    {
+      "entryId": "1206360",
+      "spelling": "距てる",
+      "reading": "へだてる",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "距てる【へだてる】",
+      "meaning": "transcurrir; separarse; estar separado por"
+    },
+    {
+      "entryId": "1242250",
+      "spelling": "近距離",
+      "reading": "きんきょり",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "近距離【きんきょり】",
+      "meaning": "corta distancia"
+    },
+    {
+      "entryId": "1178050",
+      "spelling": "遠距離",
+      "reading": "えんきょり",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "遠距離【えんきょり】",
+      "meaning": "distancia larga"
+    },
+    {
+      "entryId": "1206340",
+      "spelling": "距たる",
+      "reading": "へだたる",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "距たる【へだたる】",
+      "meaning": "estar distante; distar"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

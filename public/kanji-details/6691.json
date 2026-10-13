@@ -1,0 +1,240 @@
+{
+  "character": "暑",
+  "meanings": "bochornoso, caliente, calor",
+  "words": [
+    {
+      "entryId": "1343480",
+      "spelling": "暑さ",
+      "reading": "あつさ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "暑さ【あつさ】",
+      "meaning": "calor"
+    },
+    {
+      "entryId": "1534050",
+      "spelling": "猛暑",
+      "reading": "もうしょ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "猛暑【もうしょ】",
+      "meaning": "ola de calor; calor sofocante"
+    },
+    {
+      "entryId": "1304620",
+      "spelling": "残暑",
+      "reading": "ざんしょ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "残暑【ざんしょ】",
+      "meaning": "calor veraniego persistente"
+    },
+    {
+      "entryId": "1484640",
+      "spelling": "避暑",
+      "reading": "ひしょ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "避暑【ひしょ】",
+      "meaning": "veranear"
+    },
+    {
+      "entryId": "1343460",
+      "spelling": "暑い",
+      "reading": "あぢぃ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "暑い【あぢぃ】",
+      "meaning": "caliente; cálido (clima)"
+    },
+    {
+      "entryId": "1343460",
+      "spelling": "暑い",
+      "reading": "あぢい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "暑い【あぢい】",
+      "meaning": "caliente; cálido (clima)"
+    },
+    {
+      "entryId": "1343460",
+      "spelling": "暑い",
+      "reading": "あぢー",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "暑い【あぢー】",
+      "meaning": "caliente; cálido (clima)"
+    },
+    {
+      "entryId": "1343460",
+      "spelling": "暑い",
+      "reading": "あっつい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "暑い【あっつい】",
+      "meaning": "caliente; cálido (clima)"
+    },
+    {
+      "entryId": "1343460",
+      "spelling": "暑い",
+      "reading": "あつい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "暑い【あつい】",
+      "meaning": "caliente; cálido (clima)"
+    },
+    {
+      "entryId": "1343460",
+      "spelling": "暑い",
+      "reading": "あづい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "暑い【あづい】",
+      "meaning": "caliente; cálido (clima)"
+    },
+    {
+      "entryId": "1343460",
+      "spelling": "暑い",
+      "reading": "アツい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "暑い【アツい】",
+      "meaning": "caliente; cálido (clima)"
+    },
+    {
+      "entryId": "1343460",
+      "spelling": "暑い",
+      "reading": "アツイ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "暑い【アツイ】",
+      "meaning": "caliente; cálido (clima)"
+    },
+    {
+      "entryId": "1356870",
+      "spelling": "むし暑い",
+      "reading": "むしあつい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "むし暑い【むしあつい】",
+      "meaning": "húmedo; bochornoso; sofocante"
+    },
+    {
+      "entryId": "1356870",
+      "spelling": "蒸し暑い",
+      "reading": "むしあつい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "蒸し暑い【むしあつい】",
+      "meaning": "húmedo; bochornoso; sofocante"
+    },
+    {
+      "entryId": "1356870",
+      "spelling": "蒸暑い",
+      "reading": "むしあつい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "蒸暑い【むしあつい】",
+      "meaning": "húmedo; bochornoso; sofocante"
+    },
+    {
+      "entryId": "1595050",
+      "spelling": "暑中見舞",
+      "reading": "しょちゅうみまい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "暑中見舞【しょちゅうみまい】",
+      "meaning": "postal enviada en pleno verano"
+    },
+    {
+      "entryId": "1595050",
+      "spelling": "暑中見舞い",
+      "reading": "しょちゅうみまい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "暑中見舞い【しょちゅうみまい】",
+      "meaning": "postal enviada en pleno verano"
+    },
+    {
+      "entryId": "1287370",
+      "spelling": "酷暑",
+      "reading": "こくしょ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "酷暑【こくしょ】",
+      "meaning": "calor intenso"
+    },
+    {
+      "entryId": "1343510",
+      "spelling": "暑中",
+      "reading": "しょちゅう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "暑中【しょちゅう】",
+      "meaning": "época más calurosa; pleno estío; mitad del verano"
+    },
+    {
+      "entryId": "1177090",
+      "spelling": "炎暑",
+      "reading": "えんしょ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "炎暑【えんしょ】",
+      "meaning": "calor intenso (extremo excesivo)"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "character": "割",
+  "meanings": "dividir, distribuir, proporción, separar, fracturar",
+  "words": [
+    {
+      "entryId": "1538000",
+      "spelling": "役割",
+      "reading": "やくわり",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "役割【やくわり】",
+      "meaning": "rol; función; papel"
+    },
+    {
+      "entryId": "1538000",
+      "spelling": "役割り",
+      "reading": "やくわり",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "役割り【やくわり】",
+      "meaning": "rol; función; papel"
+    },
+    {
+      "entryId": "1606810",
+      "spelling": "割り合い",
+      "reading": "わりあい",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "割り合い【わりあい】",
+      "meaning": "porcentaje; proporción; tasa"
+    },
+    {
+      "entryId": "1606810",
+      "spelling": "割合",
+      "reading": "わりあい",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "割合【わりあい】",
+      "meaning": "porcentaje; proporción; tasa"
+    },
+    {
+      "entryId": "1606800",
+      "spelling": "割",
+      "reading": "わり",
+      "senseNumbers": [
+        27
+      ],
+      "japanese": "割【わり】",
+      "meaning": "sufijo: décima parte, diez por ciento"
+    },
+    {
+      "entryId": "1606800",
+      "spelling": "割り",
+      "reading": "わり",
+      "senseNumbers": [
+        27
+      ],
+      "japanese": "割り【わり】",
+      "meaning": "sufijo: décima parte, diez por ciento"
+    },
+    {
+      "entryId": "1503280",
+      "spelling": "分割",
+      "reading": "ぶんかつ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "分割【ぶんかつ】",
+      "meaning": "parte; división"
+    },
+    {
+      "entryId": "1606950",
+      "spelling": "割り引",
+      "reading": "わりびき",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "割り引【わりびき】",
+      "meaning": "descuento; rebaja; reducción"
+    },
+    {
+      "entryId": "1606950",
+      "spelling": "割り引き",
+      "reading": "わりびき",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "割り引き【わりびき】",
+      "meaning": "descuento; rebaja; reducción"
+    },
+    {
+      "entryId": "1606950",
+      "spelling": "割引",
+      "reading": "わりびき",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "割引【わりびき】",
+      "meaning": "descuento; rebaja; reducción"
+    },
+    {
+      "entryId": "1606950",
+      "spelling": "割引き",
+      "reading": "わりびき",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "割引き【わりびき】",
+      "meaning": "descuento; rebaja; reducción"
+    },
+    {
+      "entryId": "1606820",
+      "spelling": "割り当て",
+      "reading": "わりあて",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "割り当て【わりあて】",
+      "meaning": "ración; porción; cuota; tasa; asignación; reparto"
+    },
+    {
+      "entryId": "1606820",
+      "spelling": "割当",
+      "reading": "わりあて",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "割当【わりあて】",
+      "meaning": "ración; porción; cuota; tasa; asignación; reparto"
+    },
+    {
+      "entryId": "1606820",
+      "spelling": "割当て",
+      "reading": "わりあて",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "割当て【わりあて】",
+      "meaning": "ración; porción; cuota; tasa; asignación; reparto"
+    },
+    {
+      "entryId": "1207790",
+      "spelling": "割りだす",
+      "reading": "わりだす",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "割りだす【わりだす】",
+      "meaning": "calcular; computar; inferir"
+    },
+    {
+      "entryId": "1207790",
+      "spelling": "割り出す",
+      "reading": "わりだす",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "割り出す【わりだす】",
+      "meaning": "calcular; computar; inferir"
+    },
+    {
+      "entryId": "1207790",
+      "spelling": "割出す",
+      "reading": "わりだす",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "割出す【わりだす】",
+      "meaning": "calcular; computar; inferir"
+    },
+    {
+      "entryId": "1208000",
+      "spelling": "割る",
+      "reading": "わる",
+      "senseNumbers": [
+        32
+      ],
+      "japanese": "割る【わる】",
+      "meaning": "romper; partir; quebrar; fracturar; rajar; dividir"
+    },
+    {
+      "entryId": "1607020",
+      "spelling": "割れ目",
+      "reading": "われめ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "割れ目【われめ】",
+      "meaning": "raja; abertura; grieta; hendidura; ranura; vagina; coño"
+    },
+    {
+      "entryId": "1607020",
+      "spelling": "割れ目",
+      "reading": "ワレメ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "割れ目【ワレメ】",
+      "meaning": "raja; abertura; grieta; hendidura; ranura; vagina; coño"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

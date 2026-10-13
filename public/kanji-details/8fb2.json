@@ -1,0 +1,240 @@
+{
+  "character": "農",
+  "meanings": "agricultura, granjero",
+  "words": [
+    {
+      "entryId": "1470660",
+      "spelling": "農業",
+      "reading": "のうぎょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "農業【のうぎょう】",
+      "meaning": "agricultura"
+    },
+    {
+      "entryId": "1470620",
+      "spelling": "農家",
+      "reading": "のうか",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "農家【のうか】",
+      "meaning": "agricultores"
+    },
+    {
+      "entryId": "1470650",
+      "spelling": "農協",
+      "reading": "のうきょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "農協【のうきょう】",
+      "meaning": "cooperativa agrícola"
+    },
+    {
+      "entryId": "1470730",
+      "spelling": "農村",
+      "reading": "のうそん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "農村【のうそん】",
+      "meaning": "aldea agrícola"
+    },
+    {
+      "entryId": "1470770",
+      "spelling": "農民",
+      "reading": "のうみん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "農民【のうみん】",
+      "meaning": "agricultores"
+    },
+    {
+      "entryId": "1470780",
+      "spelling": "農薬",
+      "reading": "のうやく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "農薬【のうやく】",
+      "meaning": "pesticidas"
+    },
+    {
+      "entryId": "1470600",
+      "spelling": "農",
+      "reading": "のう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "農【のう】",
+      "meaning": "agricultura"
+    },
+    {
+      "entryId": "1470710",
+      "spelling": "農産物",
+      "reading": "のうさんぶつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "農産物【のうさんぶつ】",
+      "meaning": "productos agrícolas"
+    },
+    {
+      "entryId": "1470740",
+      "spelling": "農地",
+      "reading": "のうち",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "農地【のうち】",
+      "meaning": "tierra de cultivo"
+    },
+    {
+      "entryId": "1470790",
+      "spelling": "農林",
+      "reading": "のうりん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "農林【のうりん】",
+      "meaning": "agricultura y silvicultura"
+    },
+    {
+      "entryId": "1470720",
+      "spelling": "農場",
+      "reading": "のうじょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "農場【のうじょう】",
+      "meaning": "granja"
+    },
+    {
+      "entryId": "1548890",
+      "spelling": "酪農",
+      "reading": "らくのう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "酪農【らくのう】",
+      "meaning": "industria lechera"
+    },
+    {
+      "entryId": "1827240",
+      "spelling": "農業協同組合",
+      "reading": "のうぎょうきょうどうくみあい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "農業協同組合【のうぎょうきょうどうくみあい】",
+      "meaning": "cooperativa agrícola"
+    },
+    {
+      "entryId": "1470610",
+      "spelling": "農園",
+      "reading": "のうえん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "農園【のうえん】",
+      "meaning": "plantación"
+    },
+    {
+      "entryId": "1470680",
+      "spelling": "農耕",
+      "reading": "のうこう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "農耕【のうこう】",
+      "meaning": "agricultura"
+    },
+    {
+      "entryId": "1613530",
+      "spelling": "営農",
+      "reading": "えいのう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "営農【えいのう】",
+      "meaning": "agricultura"
+    },
+    {
+      "entryId": "1827010",
+      "spelling": "農地改革",
+      "reading": "のうちかいかく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "農地改革【のうちかいかく】",
+      "meaning": "reforma agraria"
+    },
+    {
+      "entryId": "1470700",
+      "spelling": "農産",
+      "reading": "のうさん",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "農産【のうさん】",
+      "meaning": "productos agrícolas"
+    },
+    {
+      "entryId": "1470630",
+      "spelling": "農学",
+      "reading": "のうがく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "農学【のうがく】",
+      "meaning": "agricultura"
+    },
+    {
+      "entryId": "1827100",
+      "spelling": "農事",
+      "reading": "のうじ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "農事【のうじ】",
+      "meaning": "agricultura"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

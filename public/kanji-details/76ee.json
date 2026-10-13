@@ -1,0 +1,240 @@
+{
+  "character": "目",
+  "meanings": "ojo, mirada, percepción",
+  "words": [
+    {
+      "entryId": "1535560",
+      "spelling": "目的",
+      "reading": "もくてき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "目的【もくてき】",
+      "meaning": "propósito; meta; objetivo; intención"
+    },
+    {
+      "entryId": "1535650",
+      "spelling": "目標",
+      "reading": "もくひょう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "目標【もくひょう】",
+      "meaning": "blanco; diana; objetivo; meta"
+    },
+    {
+      "entryId": "1426670",
+      "spelling": "注目",
+      "reading": "ちゅうもく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "注目【ちゅうもく】",
+      "meaning": "prestar atención; poner interés; atender; aviso; atención; observación"
+    },
+    {
+      "entryId": "1283000",
+      "spelling": "項目",
+      "reading": "こうもく",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "項目【こうもく】",
+      "meaning": "ítem; artículo"
+    },
+    {
+      "entryId": "1531850",
+      "spelling": "名目",
+      "reading": "みょうもく",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "名目【みょうもく】",
+      "meaning": "nominación; pretexto"
+    },
+    {
+      "entryId": "1531850",
+      "spelling": "名目",
+      "reading": "めいもく",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "名目【めいもく】",
+      "meaning": "nominación; pretexto"
+    },
+    {
+      "entryId": "1328880",
+      "spelling": "種目",
+      "reading": "しゅもく",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "種目【しゅもく】",
+      "meaning": "artículo (lista); evento (competencia)"
+    },
+    {
+      "entryId": "1535540",
+      "spelling": "目前",
+      "reading": "もくぜん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "目前【もくぜん】",
+      "meaning": "a la vista; inminente; inmediato"
+    },
+    {
+      "entryId": "1808020",
+      "spelling": "目の前",
+      "reading": "めのまえ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "目の前【めのまえ】",
+      "meaning": "delante de los ojos de uno; inmediato; inminente"
+    },
+    {
+      "entryId": "1535280",
+      "spelling": "目安",
+      "reading": "めやす",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "目安【めやす】",
+      "meaning": "guía; objetivo; estándar"
+    },
+    {
+      "entryId": "1490700",
+      "spelling": "品目",
+      "reading": "しなめ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "品目【しなめ】",
+      "meaning": "lista de artículos"
+    },
+    {
+      "entryId": "1490700",
+      "spelling": "品目",
+      "reading": "ひんもく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "品目【ひんもく】",
+      "meaning": "lista de artículos"
+    },
+    {
+      "entryId": "1535390",
+      "spelling": "目撃",
+      "reading": "もくげき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "目撃【もくげき】",
+      "meaning": "testigo ocular"
+    },
+    {
+      "entryId": "1590600",
+      "spelling": "科目",
+      "reading": "かもく",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "科目【かもく】",
+      "meaning": "materia (escuela); asignatura; curso; currículo"
+    },
+    {
+      "entryId": "1590600",
+      "spelling": "課目",
+      "reading": "かもく",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "課目【かもく】",
+      "meaning": "materia (escuela); asignatura; curso; currículo"
+    },
+    {
+      "entryId": "1215400",
+      "spelling": "目近",
+      "reading": "まぢか",
+      "senseNumbers": [
+        23
+      ],
+      "japanese": "目近【まぢか】",
+      "meaning": "cerca; cercano; próximo"
+    },
+    {
+      "entryId": "1538080",
+      "spelling": "役目",
+      "reading": "やくめ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "役目【やくめ】",
+      "meaning": "papel; función; rol"
+    },
+    {
+      "entryId": "1535320",
+      "spelling": "目下",
+      "reading": "めした",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "目下【めした】",
+      "meaning": "subalterno; inferior"
+    },
+    {
+      "entryId": "1423260",
+      "spelling": "着目",
+      "reading": "ちゃくもく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "着目【ちゃくもく】",
+      "meaning": "atención"
+    },
+    {
+      "entryId": "1535600",
+      "spelling": "目あて",
+      "reading": "めあて",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "目あて【めあて】",
+      "meaning": "objetivo; meta; guía"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "character": "世",
+  "meanings": "generación, mundo, edad",
+  "words": [
+    {
+      "entryId": "1373860",
+      "spelling": "世界",
+      "reading": "せかい",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "世界【せかい】",
+      "meaning": "mundo; sociedad; universo"
+    },
+    {
+      "entryId": "1374190",
+      "spelling": "世代",
+      "reading": "せだい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "世代【せだい】",
+      "meaning": "generación"
+    },
+    {
+      "entryId": "1606150",
+      "spelling": "世論",
+      "reading": "せいろん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "世論【せいろん】",
+      "meaning": "opinión pública"
+    },
+    {
+      "entryId": "1606150",
+      "spelling": "世論",
+      "reading": "せろん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "世論【せろん】",
+      "meaning": "opinión pública"
+    },
+    {
+      "entryId": "1606150",
+      "spelling": "世論",
+      "reading": "よろん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "世論【よろん】",
+      "meaning": "opinión pública"
+    },
+    {
+      "entryId": "1373990",
+      "spelling": "世紀",
+      "reading": "せいき",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "世紀【せいき】",
+      "meaning": "era; época; siglo"
+    },
+    {
+      "entryId": "1374170",
+      "spelling": "世帯",
+      "reading": "せたい",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "世帯【せたい】",
+      "meaning": "familia; hogar"
+    },
+    {
+      "entryId": "1374300",
+      "spelling": "世話",
+      "reading": "せわ",
+      "senseNumbers": [
+        25
+      ],
+      "japanese": "世話【せわ】",
+      "meaning": "cuidado (de alguien); ayuda; auxilio; asistencia"
+    },
+    {
+      "entryId": "1373850",
+      "spelling": "世の中",
+      "reading": "よのなか",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "世の中【よのなか】",
+      "meaning": "mundo; sociedad; vida mundana"
+    },
+    {
+      "entryId": "1373970",
+      "spelling": "世間",
+      "reading": "せけん",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "世間【せけん】",
+      "meaning": "mundo; sociedad"
+    },
+    {
+      "entryId": "1605810",
+      "spelling": "世",
+      "reading": "よ",
+      "senseNumbers": [
+        32
+      ],
+      "japanese": "世【よ】",
+      "meaning": "mundo; sociedad; era; generación"
+    },
+    {
+      "entryId": "1373880",
+      "spelling": "世界一",
+      "reading": "せかいいち",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "世界一【せかいいち】",
+      "meaning": "el mejor del mundo"
+    },
+    {
+      "entryId": "1462550",
+      "spelling": "二世",
+      "reading": "にせい",
+      "senseNumbers": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "japanese": "二世【にせい】",
+      "meaning": "segunda generación; extranjero de ascendecia japonesa; joven; dos existencias; el pasado y el futuro; segundo (rey del mismo nombre)"
+    },
+    {
+      "entryId": "1462550",
+      "spelling": "２世",
+      "reading": "にせい",
+      "senseNumbers": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "japanese": "２世【にせい】",
+      "meaning": "segunda generación; extranjero de ascendecia japonesa; joven; dos existencias; el pasado y el futuro; segundo (rey del mismo nombre)"
+    },
+    {
+      "entryId": "1424690",
+      "spelling": "中世",
+      "reading": "ちゅうせい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "中世【ちゅうせい】",
+      "meaning": "Edad Media"
+    },
+    {
+      "entryId": "1395530",
+      "spelling": "全世界",
+      "reading": "ぜんせかい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "全世界【ぜんせかい】",
+      "meaning": "el mundo entero"
+    },
+    {
+      "entryId": "1759230",
+      "spelling": "第二次世界大戦",
+      "reading": "だいにじせかいたいせん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "第二次世界大戦【だいにじせかいたいせん】",
+      "meaning": "Segunda Guerra Mundial"
+    },
+    {
+      "entryId": "1759230",
+      "spelling": "第２次世界大戦",
+      "reading": "だいにじせかいたいせん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "第２次世界大戦【だいにじせかいたいせん】",
+      "meaning": "Segunda Guerra Mundial"
+    },
+    {
+      "entryId": "1888100",
+      "spelling": "世界銀行",
+      "reading": "せかいぎんこう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "世界銀行【せかいぎんこう】",
+      "meaning": "Banco Mundial"
+    },
+    {
+      "entryId": "1462040",
+      "spelling": "二十世紀",
+      "reading": "にじっせいき",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "二十世紀【にじっせいき】",
+      "meaning": "siglo veinte; siglo XX"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

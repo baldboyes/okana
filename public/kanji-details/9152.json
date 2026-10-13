@@ -1,0 +1,240 @@
+{
+  "character": "酒",
+  "meanings": "sake, alcohol, vino de arroz",
+  "words": [
+    {
+      "entryId": "1329010",
+      "spelling": "酒",
+      "reading": "さけ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "酒【さけ】",
+      "meaning": "sake; bebida alcohólica en general"
+    },
+    {
+      "entryId": "1464670",
+      "spelling": "日本酒",
+      "reading": "にほんしゅ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "日本酒【にほんしゅ】",
+      "meaning": "sake; vino de arroz japonés"
+    },
+    {
+      "entryId": "1329190",
+      "spelling": "酒類",
+      "reading": "さけるい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "酒類【さけるい】",
+      "meaning": "bebidas alcohólicas; licor"
+    },
+    {
+      "entryId": "1329190",
+      "spelling": "酒類",
+      "reading": "しゅるい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "酒類【しゅるい】",
+      "meaning": "bebidas alcohólicas; licor"
+    },
+    {
+      "entryId": "1231800",
+      "spelling": "居酒や",
+      "reading": "いざかや",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "居酒や【いざかや】",
+      "meaning": "bar; cantina; taberna"
+    },
+    {
+      "entryId": "1231800",
+      "spelling": "居酒屋",
+      "reading": "いざかや",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "居酒屋【いざかや】",
+      "meaning": "bar; cantina; taberna"
+    },
+    {
+      "entryId": "1169900",
+      "spelling": "飲酒",
+      "reading": "いんしゅ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "飲酒【いんしゅ】",
+      "meaning": "alcohol potable (sake)"
+    },
+    {
+      "entryId": "1659090",
+      "spelling": "酒税",
+      "reading": "しゅぜい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "酒税【しゅぜい】",
+      "meaning": "impuesto sobre el alcohol; impuesto sobre las bebidas alcohólicas"
+    },
+    {
+      "entryId": "1329110",
+      "spelling": "酒場",
+      "reading": "さかば",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "酒場【さかば】",
+      "meaning": "bar; cantina; taberna"
+    },
+    {
+      "entryId": "1329040",
+      "spelling": "酒屋",
+      "reading": "さかや",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "酒屋【さかや】",
+      "meaning": "taberna; destiladora"
+    },
+    {
+      "entryId": "1545980",
+      "spelling": "洋酒",
+      "reading": "ようしゅ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "洋酒【ようしゅ】",
+      "meaning": "licor de manufactura occidental"
+    },
+    {
+      "entryId": "1659510",
+      "spelling": "酒店",
+      "reading": "さかだな",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "酒店【さかだな】",
+      "meaning": "tienda que vende bebidas alcohólicas"
+    },
+    {
+      "entryId": "1659510",
+      "spelling": "酒店",
+      "reading": "さかみせ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "酒店【さかみせ】",
+      "meaning": "tienda que vende bebidas alcohólicas"
+    },
+    {
+      "entryId": "1659510",
+      "spelling": "酒店",
+      "reading": "しゅてん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "酒店【しゅてん】",
+      "meaning": "tienda que vende bebidas alcohólicas"
+    },
+    {
+      "entryId": "1472630",
+      "spelling": "酒盃",
+      "reading": "さかずき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "酒盃【さかずき】",
+      "meaning": "vasito; vaso pequeño; copita; chupito; copa de sake; copa para bebidas alcohólicas"
+    },
+    {
+      "entryId": "1241570",
+      "spelling": "禁酒",
+      "reading": "きんしゅ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "禁酒【きんしゅ】",
+      "meaning": "prohibición (alcohólica)"
+    },
+    {
+      "entryId": "1061910",
+      "spelling": "三鞭酒",
+      "reading": "シャンパン",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "三鞭酒【シャンパン】",
+      "meaning": "champán (fre: champagne)"
+    },
+    {
+      "entryId": "1473520",
+      "spelling": "梅酒",
+      "reading": "うめしゅ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "梅酒【うめしゅ】",
+      "meaning": "licor de ciruela"
+    },
+    {
+      "entryId": "1724990",
+      "spelling": "美酒",
+      "reading": "びしゅ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "美酒【びしゅ】",
+      "meaning": "buen vino; licor excelente"
+    },
+    {
+      "entryId": "1169910",
+      "spelling": "飲酒運転",
+      "reading": "いんしゅうんてん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "飲酒運転【いんしゅうんてん】",
+      "meaning": "conducir ebrio o borracho"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

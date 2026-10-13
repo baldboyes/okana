@@ -1,0 +1,222 @@
+{
+  "character": "遊",
+  "meanings": "jugar, viajar, moverse libremente",
+  "words": [
+    {
+      "entryId": "1542070",
+      "spelling": "遊び",
+      "reading": "あそび",
+      "senseNumbers": [
+        26
+      ],
+      "japanese": "遊び【あそび】",
+      "meaning": "juego; visita"
+    },
+    {
+      "entryId": "1204200",
+      "spelling": "外遊",
+      "reading": "がいゆう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "外遊【がいゆう】",
+      "meaning": "viaje al extranjero"
+    },
+    {
+      "entryId": "1542170",
+      "spelling": "遊園地",
+      "reading": "ゆうえんち",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "遊園地【ゆうえんち】",
+      "meaning": "parque de atracciones"
+    },
+    {
+      "entryId": "1542310",
+      "spelling": "遊牧",
+      "reading": "ゆうぼく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "遊牧【ゆうぼく】",
+      "meaning": "nomadismo"
+    },
+    {
+      "entryId": "1542080",
+      "spelling": "遊び場",
+      "reading": "あそびば",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "遊び場【あそびば】",
+      "meaning": "patio de recreo; parque infantil"
+    },
+    {
+      "entryId": "1647760",
+      "spelling": "遊覧",
+      "reading": "ゆうらん",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "遊覧【ゆうらん】",
+      "meaning": "turismo"
+    },
+    {
+      "entryId": "1542160",
+      "spelling": "遊ぶ",
+      "reading": "あすぶ",
+      "senseNumbers": [
+        31,
+        32
+      ],
+      "japanese": "遊ぶ【あすぶ】",
+      "meaning": "jugar; hacer una visita (esp. por placer); estar ocioso; hacer nada"
+    },
+    {
+      "entryId": "1542160",
+      "spelling": "遊ぶ",
+      "reading": "あそぶ",
+      "senseNumbers": [
+        31,
+        32
+      ],
+      "japanese": "遊ぶ【あそぶ】",
+      "meaning": "jugar; hacer una visita (esp. por placer); estar ocioso; hacer nada"
+    },
+    {
+      "entryId": "1639220",
+      "spelling": "遊ばす",
+      "reading": "あそばす",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "遊ばす【あそばす】",
+      "meaning": "dejar jugar; dejar haraganear; hacer(cortés)"
+    },
+    {
+      "entryId": "1542190",
+      "spelling": "遊戯",
+      "reading": "ゆうぎ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "遊戯【ゆうぎ】",
+      "meaning": "juego; deporte"
+    },
+    {
+      "entryId": "1620100",
+      "spelling": "遊泳",
+      "reading": "ゆうえい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "遊泳【ゆうえい】",
+      "meaning": "natación"
+    },
+    {
+      "entryId": "1542260",
+      "spelling": "遊女",
+      "reading": "ゆうじょ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "遊女【ゆうじょ】",
+      "meaning": "prostituta; ramera"
+    },
+    {
+      "entryId": "1542180",
+      "spelling": "遊廓",
+      "reading": "ゆうかく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "遊廓【ゆうかく】",
+      "meaning": "zona roja; distrito rojo; barrio rojo"
+    },
+    {
+      "entryId": "1542180",
+      "spelling": "遊郭",
+      "reading": "ゆうかく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "遊郭【ゆうかく】",
+      "meaning": "zona roja; distrito rojo; barrio rojo"
+    },
+    {
+      "entryId": "1176290",
+      "spelling": "園遊会",
+      "reading": "えんゆうかい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "園遊会【えんゆうかい】",
+      "meaning": "fiesta al aire libre"
+    },
+    {
+      "entryId": "1540680",
+      "spelling": "優遊自適",
+      "reading": "ゆうゆうじてき",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "優遊自適【ゆうゆうじてき】",
+      "meaning": "alejamiento de lo mundano para llevar una vida plácida y despreocupada"
+    },
+    {
+      "entryId": "1275720",
+      "spelling": "口遊む",
+      "reading": "くちずさむ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "口遊む【くちずさむ】",
+      "meaning": "tararear; canturrear"
+    },
+    {
+      "entryId": "1542110",
+      "spelling": "遊び相手",
+      "reading": "あそびあいて",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "遊び相手【あそびあいて】",
+      "meaning": "compañero de juegos o diversiones"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

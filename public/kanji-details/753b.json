@@ -1,0 +1,240 @@
+{
+  "character": "画",
+  "meanings": "dibujo, trazo, puntuar, interrumpir",
+  "words": [
+    {
+      "entryId": "1173720",
+      "spelling": "映画",
+      "reading": "えいが",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "映画【えいが】",
+      "meaning": "cine; película; film"
+    },
+    {
+      "entryId": "1252090",
+      "spelling": "計画",
+      "reading": "けいかく",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "計画【けいかく】",
+      "meaning": "plan; proyecto; programa; planear; proyectar; planificar; trazar planes; tener el plan de, tener la intención de"
+    },
+    {
+      "entryId": "1218150",
+      "spelling": "企画",
+      "reading": "きかく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "企画【きかく】",
+      "meaning": "planificación; proyecto; plan; diseño"
+    },
+    {
+      "entryId": "1202270",
+      "spelling": "画",
+      "reading": "え",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "画【え】",
+      "meaning": "pintura; dibujo; ilustración; cuadro"
+    },
+    {
+      "entryId": "1202300",
+      "spelling": "絵画",
+      "reading": "かいが",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "絵画【かいが】",
+      "meaning": "pinturas; cuadros"
+    },
+    {
+      "entryId": "1197610",
+      "spelling": "画面",
+      "reading": "がめん",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "画面【がめん】",
+      "meaning": "terminal (pantalla); escena; imagen; el campo (en TV); foto"
+    },
+    {
+      "entryId": "1197120",
+      "spelling": "画家",
+      "reading": "がか",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "画家【がか】",
+      "meaning": "pintor; artista"
+    },
+    {
+      "entryId": "1526920",
+      "spelling": "漫画",
+      "reading": "まんが",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "漫画【まんが】",
+      "meaning": "comic; historieta; caricatura"
+    },
+    {
+      "entryId": "1197390",
+      "spelling": "画像",
+      "reading": "がぞう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "画像【がぞう】",
+      "meaning": "imagen; retrato"
+    },
+    {
+      "entryId": "1173750",
+      "spelling": "映画館",
+      "reading": "えいがかん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "映画館【えいがかん】",
+      "meaning": "(sala de) cine"
+    },
+    {
+      "entryId": "1197640",
+      "spelling": "画廊",
+      "reading": "がろう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "画廊【がろう】",
+      "meaning": "galería (de pinturas, cuadros)"
+    },
+    {
+      "entryId": "1590470",
+      "spelling": "画期的",
+      "reading": "かっきてき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "画期的【かっきてき】",
+      "meaning": "inaudito; sin precedentes"
+    },
+    {
+      "entryId": "1811920",
+      "spelling": "漫画家",
+      "reading": "まんがか",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "漫画家【まんがか】",
+      "meaning": "historietista; caricaturista"
+    },
+    {
+      "entryId": "1481510",
+      "spelling": "板画",
+      "reading": "はんが",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "板画【はんが】",
+      "meaning": "gravado de madera"
+    },
+    {
+      "entryId": "1481510",
+      "spelling": "版画",
+      "reading": "はんが",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "版画【はんが】",
+      "meaning": "gravado de madera"
+    },
+    {
+      "entryId": "1545880",
+      "spelling": "洋画",
+      "reading": "ようが",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "洋画【ようが】",
+      "meaning": "película (de producción occidental)"
+    },
+    {
+      "entryId": "1561610",
+      "spelling": "録画",
+      "reading": "ろくが",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "録画【ろくが】",
+      "meaning": "grabación (de vídeo)"
+    },
+    {
+      "entryId": "1592110",
+      "spelling": "区画",
+      "reading": "くかく",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "区画【くかく】",
+      "meaning": "compartimiento; sección; división"
+    },
+    {
+      "entryId": "1192160",
+      "spelling": "家族計画",
+      "reading": "かぞくけいかく",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "家族計画【かぞくけいかく】",
+      "meaning": "planificación familiar"
+    },
+    {
+      "entryId": "1630570",
+      "spelling": "計画的",
+      "reading": "けいかくてき",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "計画的【けいかくてき】",
+      "meaning": "sistemático"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

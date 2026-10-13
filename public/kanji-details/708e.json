@@ -1,0 +1,240 @@
+{
+  "character": "炎",
+  "meanings": "quemar, llamarada, inflamación, flama",
+  "words": [
+    {
+      "entryId": "1472880",
+      "spelling": "肺炎",
+      "reading": "はいえん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "肺炎【はいえん】",
+      "meaning": "neumonía; pulmonía"
+    },
+    {
+      "entryId": "1214640",
+      "spelling": "肝炎",
+      "reading": "かんえん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "肝炎【かんえん】",
+      "meaning": "hepatitis"
+    },
+    {
+      "entryId": "1177070",
+      "spelling": "炎",
+      "reading": "ほのお",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "炎【ほのお】",
+      "meaning": "llama; fuego"
+    },
+    {
+      "entryId": "1177070",
+      "spelling": "炎",
+      "reading": "ほむら",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "炎【ほむら】",
+      "meaning": "llama; fuego"
+    },
+    {
+      "entryId": "1177120",
+      "spelling": "炎上",
+      "reading": "えんじょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "炎上【えんじょう】",
+      "meaning": "incendiarse; quemarse"
+    },
+    {
+      "entryId": "1193720",
+      "spelling": "火炎瓶",
+      "reading": "かえんびん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "火炎瓶【かえんびん】",
+      "meaning": "cóctel Molotov"
+    },
+    {
+      "entryId": "1177100",
+      "spelling": "炎症",
+      "reading": "えんしょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "炎症【えんしょう】",
+      "meaning": "inflamación; ardor; irritación; quemazon"
+    },
+    {
+      "entryId": "1177140",
+      "spelling": "炎天",
+      "reading": "えんてん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "炎天【えんてん】",
+      "meaning": "calor abrasador"
+    },
+    {
+      "entryId": "1589790",
+      "spelling": "火炎",
+      "reading": "かえん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "火炎【かえん】",
+      "meaning": "llama; flama; llamarada"
+    },
+    {
+      "entryId": "1501270",
+      "spelling": "腹膜炎",
+      "reading": "ふくまくえん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "腹膜炎【ふくまくえん】",
+      "meaning": "peritonitis"
+    },
+    {
+      "entryId": "1791310",
+      "spelling": "気管支炎",
+      "reading": "きかんしえん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "気管支炎【きかんしえん】",
+      "meaning": "bronquitis"
+    },
+    {
+      "entryId": "1486810",
+      "spelling": "鼻炎",
+      "reading": "びえん",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "鼻炎【びえん】",
+      "meaning": "rinitis"
+    },
+    {
+      "entryId": "1158520",
+      "spelling": "胃炎",
+      "reading": "いえん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "胃炎【いえん】",
+      "meaning": "gastritis; catarro gástrico"
+    },
+    {
+      "entryId": "1177160",
+      "spelling": "炎熱",
+      "reading": "えんねつ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "炎熱【えんねつ】",
+      "meaning": "calor intenso"
+    },
+    {
+      "entryId": "1215980",
+      "spelling": "関節炎",
+      "reading": "かんせつえん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "関節炎【かんせつえん】",
+      "meaning": "artritis"
+    },
+    {
+      "entryId": "1177090",
+      "spelling": "炎暑",
+      "reading": "えんしょ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "炎暑【えんしょ】",
+      "meaning": "calor intenso (extremo excesivo)"
+    },
+    {
+      "entryId": "1276740",
+      "spelling": "口内炎",
+      "reading": "こうないえん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "口内炎【こうないえん】",
+      "meaning": "inflamación de la mucosa bucal"
+    },
+    {
+      "entryId": "1546970",
+      "spelling": "陽炎",
+      "reading": "かげろう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "陽炎【かげろう】",
+      "meaning": "calima; calina; bruma suave"
+    },
+    {
+      "entryId": "1546970",
+      "spelling": "陽炎",
+      "reading": "ようえん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "陽炎【ようえん】",
+      "meaning": "calima; calina; bruma suave"
+    },
+    {
+      "entryId": "1790990",
+      "spelling": "気炎",
+      "reading": "きえん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "気炎【きえん】",
+      "meaning": "ánimo; entusiasmo; bríos; motivación"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "character": "球",
+  "meanings": "pelota, esfera",
+  "words": [
+    {
+      "entryId": "1420970",
+      "spelling": "地球",
+      "reading": "ちきゅう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "地球【ちきゅう】",
+      "meaning": "la tierra"
+    },
+    {
+      "entryId": "1537300",
+      "spelling": "野球",
+      "reading": "やきゅう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "野球【やきゅう】",
+      "meaning": "béisbol"
+    },
+    {
+      "entryId": "1229880",
+      "spelling": "球",
+      "reading": "きゅう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "球【きゅう】",
+      "meaning": "globo; esfera; bola"
+    },
+    {
+      "entryId": "1229970",
+      "spelling": "球場",
+      "reading": "きゅうじょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "球場【きゅうじょう】",
+      "meaning": "estadio de béisbol"
+    },
+    {
+      "entryId": "1230010",
+      "spelling": "球団",
+      "reading": "きゅうだん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "球団【きゅうだん】",
+      "meaning": "equipo de béisbol"
+    },
+    {
+      "entryId": "1240530",
+      "spelling": "球",
+      "reading": "たま",
+      "senseNumbers": [
+        46,
+        47,
+        48,
+        49,
+        50,
+        51
+      ],
+      "japanese": "球【たま】",
+      "meaning": "bolita; piedra preciosa; cuenta de un collar; abalorio; perla; joya; bola; esfera; moneda; testículos; grapa; persona (cuando se comenta sobre su naturaleza); carácter; globo; bala; cartucho; proyectil"
+    },
+    {
+      "entryId": "1783610",
+      "spelling": "球界",
+      "reading": "きゅうかい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "球界【きゅうかい】",
+      "meaning": "mundo del béisbol"
+    },
+    {
+      "entryId": "1475120",
+      "spelling": "白血球",
+      "reading": "はっけっきゅう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "白血球【はっけっきゅう】",
+      "meaning": "glóbulo blanco; leucocito"
+    },
+    {
+      "entryId": "1222080",
+      "spelling": "気球",
+      "reading": "ききゅう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "気球【ききゅう】",
+      "meaning": "globo; dirigible"
+    },
+    {
+      "entryId": "1229910",
+      "spelling": "球戯",
+      "reading": "きゅうぎ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "球戯【きゅうぎ】",
+      "meaning": "billar"
+    },
+    {
+      "entryId": "1229910",
+      "spelling": "球技",
+      "reading": "きゅうぎ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "球技【きゅうぎ】",
+      "meaning": "billar"
+    },
+    {
+      "entryId": "1443170",
+      "spelling": "電球",
+      "reading": "でんきゅう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "電球【でんきゅう】",
+      "meaning": "foco; bombilla"
+    },
+    {
+      "entryId": "1420980",
+      "spelling": "地球温暖化",
+      "reading": "ちきゅうおんだんか",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "地球温暖化【ちきゅうおんだんか】",
+      "meaning": "calentamiento global"
+    },
+    {
+      "entryId": "1611470",
+      "spelling": "プロ野球",
+      "reading": "プロやきゅう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "プロ野球【プロやきゅう】",
+      "meaning": "béisbol profesional"
+    },
+    {
+      "entryId": "2731460",
+      "spelling": "琉球",
+      "reading": "りゅうきゅう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "琉球【りゅうきゅう】",
+      "meaning": "ryukyu (antiguo nombre de okinawa)"
+    },
+    {
+      "entryId": "1421000",
+      "spelling": "地球儀",
+      "reading": "ちきゅうぎ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "地球儀【ちきゅうぎ】",
+      "meaning": "globo terráqueo"
+    },
+    {
+      "entryId": "1217180",
+      "spelling": "眼球",
+      "reading": "がんきゅう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "眼球【がんきゅう】",
+      "meaning": "bolas de los ojos; evento destacado"
+    },
+    {
+      "entryId": "1229950",
+      "spelling": "球根",
+      "reading": "きゅうこん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "球根【きゅうこん】",
+      "meaning": "tubérculo (plantas)"
+    },
+    {
+      "entryId": "1737430",
+      "spelling": "水球",
+      "reading": "すいきゅう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "水球【すいきゅう】",
+      "meaning": "waterpolo"
+    },
+    {
+      "entryId": "1383410",
+      "spelling": "赤血球",
+      "reading": "せっけっきゅう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "赤血球【せっけっきゅう】",
+      "meaning": "glóbulo rojo; eritrocito"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

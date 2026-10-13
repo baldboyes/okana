@@ -1,0 +1,241 @@
+{
+  "character": "競",
+  "meanings": "competir, rivalizar, comparar",
+  "words": [
+    {
+      "entryId": "1234080",
+      "spelling": "競技",
+      "reading": "きょうぎ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "競技【きょうぎ】",
+      "meaning": "competición; competencia; deporte; partido"
+    },
+    {
+      "entryId": "1234140",
+      "spelling": "競争",
+      "reading": "きょうそう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "競争【きょうそう】",
+      "meaning": "competir; rivalizar; competencia"
+    },
+    {
+      "entryId": "1483540",
+      "spelling": "競べる",
+      "reading": "くらべる",
+      "senseNumbers": [
+        10,
+        11
+      ],
+      "japanese": "競べる【くらべる】",
+      "meaning": "comparar; calibrar; competir; rivalizar; desafiarse"
+    },
+    {
+      "entryId": "1234210",
+      "spelling": "競馬",
+      "reading": "けいば",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "競馬【けいば】",
+      "meaning": "carrera de caballos"
+    },
+    {
+      "entryId": "1630180",
+      "spelling": "競馬場",
+      "reading": "けいばじょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "競馬場【けいばじょう】",
+      "meaning": "hipódromo"
+    },
+    {
+      "entryId": "1234050",
+      "spelling": "競る",
+      "reading": "せる",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "競る【せる】",
+      "meaning": "competir; rematar; subastar"
+    },
+    {
+      "entryId": "1003950",
+      "spelling": "競べ",
+      "reading": "くらべ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "競べ【くらべ】",
+      "meaning": "competición; rivalización; desafío; comparación"
+    },
+    {
+      "entryId": "1234190",
+      "spelling": "競走",
+      "reading": "きょうそう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "競走【きょうそう】",
+      "meaning": "carrera"
+    },
+    {
+      "entryId": "1234220",
+      "spelling": "競売",
+      "reading": "きょうばい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "競売【きょうばい】",
+      "meaning": "subasta"
+    },
+    {
+      "entryId": "1234220",
+      "spelling": "競売",
+      "reading": "けいばい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "競売【けいばい】",
+      "meaning": "subasta"
+    },
+    {
+      "entryId": "1234240",
+      "spelling": "競輪",
+      "reading": "けいりん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "競輪【けいりん】",
+      "meaning": "ciclismo en pista profesional; \"keirin\": ciclismo de persecución tras moto en pista"
+    },
+    {
+      "entryId": "1234060",
+      "spelling": "競泳",
+      "reading": "きょうえい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "競泳【きょうえい】",
+      "meaning": "carrera de natación"
+    },
+    {
+      "entryId": "1630150",
+      "spelling": "競り合い",
+      "reading": "せりあい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "競り合い【せりあい】",
+      "meaning": "competición"
+    },
+    {
+      "entryId": "1630150",
+      "spelling": "競合い",
+      "reading": "せりあい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "競合い【せりあい】",
+      "meaning": "competición"
+    },
+    {
+      "entryId": "1234230",
+      "spelling": "競歩",
+      "reading": "きょうほ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "競歩【きょうほ】",
+      "meaning": "marcha; caminata; marcha atlética (deporte)"
+    },
+    {
+      "entryId": "1630170",
+      "spelling": "競走馬",
+      "reading": "きょうそうば",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "競走馬【きょうそうば】",
+      "meaning": "caballo de carreras"
+    },
+    {
+      "entryId": "1234200",
+      "spelling": "競艇",
+      "reading": "きょうてい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "競艇【きょうてい】",
+      "meaning": "carrera de lanchas motoras"
+    },
+    {
+      "entryId": "1234040",
+      "spelling": "競う",
+      "reading": "きそう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "競う【きそう】",
+      "meaning": "emular; competir con"
+    },
+    {
+      "entryId": "1800030",
+      "spelling": "競技場",
+      "reading": "きょうぎじょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "競技場【きょうぎじょう】",
+      "meaning": "estadio; cancha"
+    },
+    {
+      "entryId": "1334770",
+      "spelling": "十種競技",
+      "reading": "じっしゅきょうぎ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "十種競技【じっしゅきょうぎ】",
+      "meaning": "decatlón"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

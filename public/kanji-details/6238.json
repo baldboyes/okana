@@ -1,0 +1,240 @@
+{
+  "character": "戸",
+  "meanings": "puerta, casa, puerta corrediza",
+  "words": [
+    {
+      "entryId": "1279870",
+      "spelling": "江戸",
+      "reading": "えど",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "江戸【えど】",
+      "meaning": "Edo (nombre antiguo de la ciudad de Tokio)"
+    },
+    {
+      "entryId": "1266970",
+      "spelling": "戸",
+      "reading": "と",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "戸【と】",
+      "meaning": "puerta"
+    },
+    {
+      "entryId": "1160330",
+      "spelling": "井戸",
+      "reading": "いど",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "井戸【いど】",
+      "meaning": "pozo; fuente de agua"
+    },
+    {
+      "entryId": "1267030",
+      "spelling": "戸籍",
+      "reading": "こせき",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "戸籍【こせき】",
+      "meaning": "Registro Familiar"
+    },
+    {
+      "entryId": "1162320",
+      "spelling": "一戸建",
+      "reading": "いっこだて",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "一戸建【いっこだて】",
+      "meaning": "casa (separada)"
+    },
+    {
+      "entryId": "1162320",
+      "spelling": "一戸建て",
+      "reading": "いっこだて",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "一戸建て【いっこだて】",
+      "meaning": "casa (separada)"
+    },
+    {
+      "entryId": "1536180",
+      "spelling": "門戸",
+      "reading": "もんこ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "門戸【もんこ】",
+      "meaning": "puerta"
+    },
+    {
+      "entryId": "1374380",
+      "spelling": "瀬戸際",
+      "reading": "せとぎわ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "瀬戸際【せとぎわ】",
+      "meaning": "límite; borde; frontera"
+    },
+    {
+      "entryId": "1534390",
+      "spelling": "網戸",
+      "reading": "あみど",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "網戸【あみど】",
+      "meaning": "mosquitera; tela mosquitera"
+    },
+    {
+      "entryId": "1171970",
+      "spelling": "雨戸",
+      "reading": "あまど",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "雨戸【あまど】",
+      "meaning": "puerta corrediza a prueba de tormentas"
+    },
+    {
+      "entryId": "1267050",
+      "spelling": "戸だな",
+      "reading": "とだな",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "戸だな【とだな】",
+      "meaning": "armario; alacena"
+    },
+    {
+      "entryId": "1267050",
+      "spelling": "戸棚",
+      "reading": "とだな",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "戸棚【とだな】",
+      "meaning": "armario; alacena"
+    },
+    {
+      "entryId": "1267060",
+      "spelling": "戸じまり",
+      "reading": "とじまり",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "戸じまり【とじまり】",
+      "meaning": "cerrojo; cerradura; pasador; candado; aldaba"
+    },
+    {
+      "entryId": "1267060",
+      "spelling": "戸締まり",
+      "reading": "とじまり",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "戸締まり【とじまり】",
+      "meaning": "cerrojo; cerradura; pasador; candado; aldaba"
+    },
+    {
+      "entryId": "1267060",
+      "spelling": "戸締り",
+      "reading": "とじまり",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "戸締り【とじまり】",
+      "meaning": "cerrojo; cerradura; pasador; candado; aldaba"
+    },
+    {
+      "entryId": "1267100",
+      "spelling": "戸惑う",
+      "reading": "とまどう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "戸惑う【とまどう】",
+      "meaning": "estar desconcertado; estar perplejo"
+    },
+    {
+      "entryId": "1374400",
+      "spelling": "瀬戸もの",
+      "reading": "せともの",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "瀬戸もの【せともの】",
+      "meaning": "porcelana china"
+    },
+    {
+      "entryId": "1374400",
+      "spelling": "瀬戸物",
+      "reading": "せともの",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "瀬戸物【せともの】",
+      "meaning": "porcelana china"
+    },
+    {
+      "entryId": "1374400",
+      "spelling": "瀬戸物",
+      "reading": "セトモノ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "瀬戸物【セトモノ】",
+      "meaning": "porcelana china"
+    },
+    {
+      "entryId": "1610800",
+      "spelling": "ガラス戸",
+      "reading": "ガラスど",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "ガラス戸【ガラスど】",
+      "meaning": "cristalera; puerta de cristal"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "character": "縄",
+  "meanings": "cuerda de paja, cordón, soga",
+  "words": [
+    {
+      "entryId": "1182580",
+      "spelling": "沖縄",
+      "reading": "おきなわ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "沖縄【おきなわ】",
+      "meaning": "okinawa"
+    },
+    {
+      "entryId": "1599710",
+      "spelling": "縄張",
+      "reading": "なわばり",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "縄張【なわばり】",
+      "meaning": "(mi) territorio"
+    },
+    {
+      "entryId": "1599710",
+      "spelling": "縄張り",
+      "reading": "なわばり",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "縄張り【なわばり】",
+      "meaning": "(mi) territorio"
+    },
+    {
+      "entryId": "1459830",
+      "spelling": "縄",
+      "reading": "なわ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "縄【なわ】",
+      "meaning": "soga"
+    },
+    {
+      "entryId": "1161960",
+      "spelling": "ひと筋縄",
+      "reading": "ひとすじなわ",
+      "senseNumbers": [
+        7,
+        8
+      ],
+      "japanese": "ひと筋縄【ひとすじなわ】",
+      "meaning": "(pedazo de) cuerda; soga; lazo; método ordinario"
+    },
+    {
+      "entryId": "1161960",
+      "spelling": "一筋縄",
+      "reading": "ひとすじなわ",
+      "senseNumbers": [
+        7,
+        8
+      ],
+      "japanese": "一筋縄【ひとすじなわ】",
+      "meaning": "(pedazo de) cuerda; soga; lazo; método ordinario"
+    },
+    {
+      "entryId": "1161960",
+      "spelling": "１筋縄",
+      "reading": "ひとすじなわ",
+      "senseNumbers": [
+        7,
+        8
+      ],
+      "japanese": "１筋縄【ひとすじなわ】",
+      "meaning": "(pedazo de) cuerda; soga; lazo; método ordinario"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

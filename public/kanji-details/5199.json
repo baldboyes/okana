@@ -1,0 +1,222 @@
+{
+  "character": "写",
+  "meanings": "copiar, imitar, fotografiar",
+  "words": [
+    {
+      "entryId": "1321900",
+      "spelling": "写真",
+      "reading": "しゃしん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "写真【しゃしん】",
+      "meaning": "fotografía"
+    },
+    {
+      "entryId": "1658770",
+      "spelling": "写真集",
+      "reading": "しゃしんしゅう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "写真集【しゃしんしゅう】",
+      "meaning": "colección de fotografías; álbum de fotos"
+    },
+    {
+      "entryId": "1490140",
+      "spelling": "描写",
+      "reading": "びょうしゃ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "描写【びょうしゃ】",
+      "meaning": "descripción (retrato)"
+    },
+    {
+      "entryId": "1607990",
+      "spelling": "写しだす",
+      "reading": "うつしだす",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "写しだす【うつしだす】",
+      "meaning": "proyectar; aparecer a imagen"
+    },
+    {
+      "entryId": "1607990",
+      "spelling": "写し出す",
+      "reading": "うつしだす",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "写し出す【うつしだす】",
+      "meaning": "proyectar; aparecer a imagen"
+    },
+    {
+      "entryId": "1750060",
+      "spelling": "青写真",
+      "reading": "あおじゃしん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "青写真【あおじゃしん】",
+      "meaning": "cianotipo; proyecto"
+    },
+    {
+      "entryId": "1321820",
+      "spelling": "写る",
+      "reading": "うつる",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "写る【うつる】",
+      "meaning": "fotografiarse; proyectarse"
+    },
+    {
+      "entryId": "1588320",
+      "spelling": "写す",
+      "reading": "うつす",
+      "senseNumbers": [
+        15,
+        16,
+        17
+      ],
+      "japanese": "写す【うつす】",
+      "meaning": "transcribir; duplicar; reproducir; trazar; pintar; imitar; describir; filmar; fotografiar; tomar imágenes"
+    },
+    {
+      "entryId": "1321790",
+      "spelling": "写し",
+      "reading": "うつし",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "写し【うつし】",
+      "meaning": "copia"
+    },
+    {
+      "entryId": "1322120",
+      "spelling": "写生",
+      "reading": "しゃせい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "写生【しゃせい】",
+      "meaning": "esbozo; boceto; representación"
+    },
+    {
+      "entryId": "1501390",
+      "spelling": "複写",
+      "reading": "ふくしゃ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "複写【ふくしゃ】",
+      "meaning": "copia; duplicado"
+    },
+    {
+      "entryId": "1854910",
+      "spelling": "写り",
+      "reading": "うつり",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "写り【うつり】",
+      "meaning": "imagen; proyección; combinación de colores"
+    },
+    {
+      "entryId": "1173780",
+      "spelling": "映写",
+      "reading": "えいしゃ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "映写【えいしゃ】",
+      "meaning": "proyección; proyectar"
+    },
+    {
+      "entryId": "1441170",
+      "spelling": "転写",
+      "reading": "てんしゃ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "転写【てんしゃ】",
+      "meaning": "transcripción; trascripción; transliteración"
+    },
+    {
+      "entryId": "1173790",
+      "spelling": "映写機",
+      "reading": "えいしゃき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "映写機【えいしゃき】",
+      "meaning": "proyector cinematográfico"
+    },
+    {
+      "entryId": "1594660",
+      "spelling": "写真器",
+      "reading": "しゃしんき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "写真器【しゃしんき】",
+      "meaning": "cámara; cámara fotográfica"
+    },
+    {
+      "entryId": "1594660",
+      "spelling": "写真機",
+      "reading": "しゃしんき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "写真機【しゃしんき】",
+      "meaning": "cámara; cámara fotográfica"
+    },
+    {
+      "entryId": "1321910",
+      "spelling": "写真屋",
+      "reading": "しゃしんや",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "写真屋【しゃしんや】",
+      "meaning": "estudio fotográfico; fotógrafo"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

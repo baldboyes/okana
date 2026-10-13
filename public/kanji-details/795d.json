@@ -1,0 +1,240 @@
+{
+  "character": "祝",
+  "meanings": "celebración, felicitación, celebrar, felicitar",
+  "words": [
+    {
+      "entryId": "1337370",
+      "spelling": "祝",
+      "reading": "いわい",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "祝【いわい】",
+      "meaning": "celebración; fiesta; enhorabuena; felicitación; festival"
+    },
+    {
+      "entryId": "1337370",
+      "spelling": "祝い",
+      "reading": "いわい",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "祝い【いわい】",
+      "meaning": "celebración; fiesta; enhorabuena; felicitación; festival"
+    },
+    {
+      "entryId": "1337370",
+      "spelling": "祝い",
+      "reading": "ゆわい",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "祝い【ゆわい】",
+      "meaning": "celebración; fiesta; enhorabuena; felicitación; festival"
+    },
+    {
+      "entryId": "1337500",
+      "spelling": "祝日",
+      "reading": "しゅくじつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "祝日【しゅくじつ】",
+      "meaning": "fiesta nacional"
+    },
+    {
+      "entryId": "1337410",
+      "spelling": "祝賀",
+      "reading": "しゅくが",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "祝賀【しゅくが】",
+      "meaning": "celebración"
+    },
+    {
+      "entryId": "1337520",
+      "spelling": "祝福",
+      "reading": "しゅくふく",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "祝福【しゅくふく】",
+      "meaning": "bendición"
+    },
+    {
+      "entryId": "1337460",
+      "spelling": "祝辞",
+      "reading": "しゅくじ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "祝辞【しゅくじ】",
+      "meaning": "felicitación; enhorabuena; congratulación; alabanza; parabién"
+    },
+    {
+      "entryId": "1337390",
+      "spelling": "祝う",
+      "reading": "いわう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "祝う【いわう】",
+      "meaning": "felicitar; congratular; celebrar"
+    },
+    {
+      "entryId": "1337480",
+      "spelling": "祝電",
+      "reading": "しゅくでん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "祝電【しゅくでん】",
+      "meaning": "telegrama de felicitación"
+    },
+    {
+      "entryId": "1612770",
+      "spelling": "お祝",
+      "reading": "おいわい",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "お祝【おいわい】",
+      "meaning": "celebración"
+    },
+    {
+      "entryId": "1612770",
+      "spelling": "お祝い",
+      "reading": "おいわい",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "お祝い【おいわい】",
+      "meaning": "celebración"
+    },
+    {
+      "entryId": "1612770",
+      "spelling": "御祝",
+      "reading": "おいわい",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "御祝【おいわい】",
+      "meaning": "celebración"
+    },
+    {
+      "entryId": "1612770",
+      "spelling": "御祝い",
+      "reading": "おいわい",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "御祝い【おいわい】",
+      "meaning": "celebración"
+    },
+    {
+      "entryId": "1337510",
+      "spelling": "祝杯",
+      "reading": "しゅくはい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "祝杯【しゅくはい】",
+      "meaning": "brindis"
+    },
+    {
+      "entryId": "1337510",
+      "spelling": "祝盃",
+      "reading": "しゅくはい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "祝盃【しゅくはい】",
+      "meaning": "brindis"
+    },
+    {
+      "entryId": "1337450",
+      "spelling": "祝詞",
+      "reading": "しゅくし",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "祝詞【しゅくし】",
+      "meaning": "felicitación; enhorabuena; congratulación; alabanza; parabién"
+    },
+    {
+      "entryId": "1337450",
+      "spelling": "祝詞",
+      "reading": "のっと",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "祝詞【のっと】",
+      "meaning": "felicitación; enhorabuena; congratulación; alabanza; parabién"
+    },
+    {
+      "entryId": "1337450",
+      "spelling": "祝詞",
+      "reading": "のと",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "祝詞【のと】",
+      "meaning": "felicitación; enhorabuena; congratulación; alabanza; parabién"
+    },
+    {
+      "entryId": "1337450",
+      "spelling": "祝詞",
+      "reading": "のりと",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "祝詞【のりと】",
+      "meaning": "felicitación; enhorabuena; congratulación; alabanza; parabién"
+    },
+    {
+      "entryId": "1770980",
+      "spelling": "祝いごと",
+      "reading": "いわいごと",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "祝いごと【いわいごと】",
+      "meaning": "celebración; fiesta"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "character": "楽",
+  "meanings": "música, divertido, fácil, agradable, disfrutar, divertirse",
+  "words": [
+    {
+      "entryId": "1183720",
+      "spelling": "音楽",
+      "reading": "おんがく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "音楽【おんがく】",
+      "meaning": "música; movimiento musical"
+    },
+    {
+      "entryId": "1207250",
+      "spelling": "楽しみ",
+      "reading": "たのしみ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "楽しみ【たのしみ】",
+      "meaning": "gozo; alegría"
+    },
+    {
+      "entryId": "1207340",
+      "spelling": "楽器",
+      "reading": "がっき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "楽器【がっき】",
+      "meaning": "instrumento musical"
+    },
+    {
+      "entryId": "1269290",
+      "spelling": "娯楽",
+      "reading": "ごらく",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "娯楽【ごらく】",
+      "meaning": "entretenimiento"
+    },
+    {
+      "entryId": "1470140",
+      "spelling": "能楽",
+      "reading": "のうがく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "能楽【のうがく】",
+      "meaning": "obra de (teatro) noh"
+    },
+    {
+      "entryId": "1207310",
+      "spelling": "楽観",
+      "reading": "らっかん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "楽観【らっかん】",
+      "meaning": "optimismo"
+    },
+    {
+      "entryId": "1207320",
+      "spelling": "楽観的",
+      "reading": "らっかんてき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "楽観的【らっかんてき】",
+      "meaning": "optimista"
+    },
+    {
+      "entryId": "1380470",
+      "spelling": "声楽",
+      "reading": "せいがく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "声楽【せいがく】",
+      "meaning": "música vocal"
+    },
+    {
+      "entryId": "1207230",
+      "spelling": "楽",
+      "reading": "らく",
+      "senseNumbers": [
+        27
+      ],
+      "japanese": "楽【らく】",
+      "meaning": "cómodo; sencillo"
+    },
+    {
+      "entryId": "1222010",
+      "spelling": "気楽",
+      "reading": "きらく",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "気楽【きらく】",
+      "meaning": "(ni) con calma"
+    },
+    {
+      "entryId": "1364480",
+      "spelling": "神楽",
+      "reading": "かぐら",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "神楽【かぐら】",
+      "meaning": "antigua música y danza Shinto"
+    },
+    {
+      "entryId": "1153770",
+      "spelling": "安楽死",
+      "reading": "あんらくし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "安楽死【あんらくし】",
+      "meaning": "eutanasia"
+    },
+    {
+      "entryId": "1271920",
+      "spelling": "交響楽団",
+      "reading": "こうきょうがくだん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "交響楽団【こうきょうがくだん】",
+      "meaning": "sinfónica (orquesta)"
+    },
+    {
+      "entryId": "1263050",
+      "spelling": "弦楽",
+      "reading": "げんがく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "弦楽【げんがく】",
+      "meaning": "música para cuerdas"
+    },
+    {
+      "entryId": "1263050",
+      "spelling": "絃楽",
+      "reading": "げんがく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "絃楽【げんがく】",
+      "meaning": "música para cuerdas"
+    },
+    {
+      "entryId": "1207240",
+      "spelling": "楽しい",
+      "reading": "たのしい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "楽しい【たのしい】",
+      "meaning": "divertido"
+    },
+    {
+      "entryId": "1207270",
+      "spelling": "楽しむ",
+      "reading": "たのしむ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "楽しむ【たのしむ】",
+      "meaning": "divertirse"
+    },
+    {
+      "entryId": "1207270",
+      "spelling": "楽む",
+      "reading": "たのしむ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "楽む【たのしむ】",
+      "meaning": "divertirse"
+    },
+    {
+      "entryId": "1207490",
+      "spelling": "楽譜",
+      "reading": "がくふ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "楽譜【がくふ】",
+      "meaning": "partitura"
+    },
+    {
+      "entryId": "1518230",
+      "spelling": "邦楽",
+      "reading": "ほうがく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "邦楽【ほうがく】",
+      "meaning": "música japonesa (tradicional)"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

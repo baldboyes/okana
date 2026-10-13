@@ -1,0 +1,110 @@
+{
+  "character": "肝",
+  "meanings": "punto vital, hígado, ánimo",
+  "words": [
+    {
+      "entryId": "1214630",
+      "spelling": "肝",
+      "reading": "きも",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "肝【きも】",
+      "meaning": "hígado; entrañas; arrestos; cojones; coraje"
+    },
+    {
+      "entryId": "1214660",
+      "spelling": "肝臓",
+      "reading": "かんぞう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "肝臓【かんぞう】",
+      "meaning": "hígado"
+    },
+    {
+      "entryId": "1590870",
+      "spelling": "肝心",
+      "reading": "かんじん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "肝心【かんじん】",
+      "meaning": "vital; esencial; crucial; indispensable; primordial; imprescindible"
+    },
+    {
+      "entryId": "1590870",
+      "spelling": "肝腎",
+      "reading": "かんじん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "肝腎【かんじん】",
+      "meaning": "vital; esencial; crucial; indispensable; primordial; imprescindible"
+    },
+    {
+      "entryId": "1214640",
+      "spelling": "肝炎",
+      "reading": "かんえん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "肝炎【かんえん】",
+      "meaning": "hepatitis"
+    },
+    {
+      "entryId": "1214650",
+      "spelling": "肝硬変",
+      "reading": "かんこうへん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "肝硬変【かんこうへん】",
+      "meaning": "cirrosis hepática; cirrosis del hígado"
+    },
+    {
+      "entryId": "1212630",
+      "spelling": "肝銘",
+      "reading": "かんめい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "肝銘【かんめい】",
+      "meaning": "impresión profunda"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "character": "園",
+  "meanings": "parque, jardín, academia",
+  "words": [
+    {
+      "entryId": "1273270",
+      "spelling": "公園",
+      "reading": "こうえん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "公園【こうえん】",
+      "meaning": "parque (público)"
+    },
+    {
+      "entryId": "1206570",
+      "spelling": "学園",
+      "reading": "がくえん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "学園【がくえん】",
+      "meaning": "academia; campus"
+    },
+    {
+      "entryId": "1206570",
+      "spelling": "學園",
+      "reading": "がくえん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "學園【がくえん】",
+      "meaning": "academia; campus"
+    },
+    {
+      "entryId": "1451490",
+      "spelling": "動物園",
+      "reading": "どうぶつえん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "動物園【どうぶつえん】",
+      "meaning": "zoo; zoológico"
+    },
+    {
+      "entryId": "1545260",
+      "spelling": "幼稚園",
+      "reading": "ようちえん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "幼稚園【ようちえん】",
+      "meaning": "jardín de infancia; (am) jardín de niños"
+    },
+    {
+      "entryId": "1176240",
+      "spelling": "園",
+      "reading": "その",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "園【その】",
+      "meaning": "jardín; parque; plantación"
+    },
+    {
+      "entryId": "1442740",
+      "spelling": "田園",
+      "reading": "でんえん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "田園【でんえん】",
+      "meaning": "campestre; campiña; provincia; de provincia"
+    },
+    {
+      "entryId": "1442740",
+      "spelling": "田園",
+      "reading": "でんおん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "田園【でんおん】",
+      "meaning": "campestre; campiña; provincia; de provincia"
+    },
+    {
+      "entryId": "1436140",
+      "spelling": "庭園",
+      "reading": "ていえん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "庭園【ていえん】",
+      "meaning": "jardín; parque"
+    },
+    {
+      "entryId": "1577330",
+      "spelling": "花園",
+      "reading": "かえん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "花園【かえん】",
+      "meaning": "jardín de flores"
+    },
+    {
+      "entryId": "1577330",
+      "spelling": "花園",
+      "reading": "はなぞの",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "花園【はなぞの】",
+      "meaning": "jardín de flores"
+    },
+    {
+      "entryId": "1176260",
+      "spelling": "園芸",
+      "reading": "えんげい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "園芸【えんげい】",
+      "meaning": "jardinería; horticultura"
+    },
+    {
+      "entryId": "1176280",
+      "spelling": "園長",
+      "reading": "えんちょう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "園長【えんちょう】",
+      "meaning": "director (ej. jardín de niños, director de un zoológico, etc.)"
+    },
+    {
+      "entryId": "1542170",
+      "spelling": "遊園地",
+      "reading": "ゆうえんち",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "遊園地【ゆうえんち】",
+      "meaning": "parque de atracciones"
+    },
+    {
+      "entryId": "1176270",
+      "spelling": "園児",
+      "reading": "えんじ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "園児【えんじ】",
+      "meaning": "parvulito; niño de guardería"
+    },
+    {
+      "entryId": "1470610",
+      "spelling": "農園",
+      "reading": "のうえん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "農園【のうえん】",
+      "meaning": "plantación"
+    },
+    {
+      "entryId": "1357310",
+      "spelling": "植物園",
+      "reading": "しょくぶつえん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "植物園【しょくぶつえん】",
+      "meaning": "jardín botánico"
+    },
+    {
+      "entryId": "1207290",
+      "spelling": "楽園",
+      "reading": "らくえん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "楽園【らくえん】",
+      "meaning": "jardín del Edén; jardín de delicias; paraíso"
+    },
+    {
+      "entryId": "1207290",
+      "spelling": "樂園",
+      "reading": "らくえん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "樂園【らくえん】",
+      "meaning": "jardín del Edén; jardín de delicias; paraíso"
+    },
+    {
+      "entryId": "1557750",
+      "spelling": "霊園",
+      "reading": "れいえん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "霊園【れいえん】",
+      "meaning": "cementerio"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

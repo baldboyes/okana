@@ -1,0 +1,252 @@
+{
+  "character": "落",
+  "meanings": "caer, ser inferior, ser omitido, suspender, caerse, dejar caer, perder",
+  "words": [
+    {
+      "entryId": "1186510",
+      "spelling": "下落",
+      "reading": "げらく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "下落【げらく】",
+      "meaning": "caída; bajada; depreciación; devalorización"
+    },
+    {
+      "entryId": "1548580",
+      "spelling": "落ちついた",
+      "reading": "おちついた",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "落ちついた【おちついた】",
+      "meaning": "tranquilo; calmado"
+    },
+    {
+      "entryId": "1548580",
+      "spelling": "落ち着いた",
+      "reading": "おちついた",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "落ち着いた【おちついた】",
+      "meaning": "tranquilo; calmado"
+    },
+    {
+      "entryId": "1432240",
+      "spelling": "墜落",
+      "reading": "ついらく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "墜落【ついらく】",
+      "meaning": "caída"
+    },
+    {
+      "entryId": "1548550",
+      "spelling": "落ちる",
+      "reading": "おちる",
+      "senseNumbers": [
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70
+      ],
+      "japanese": "落ちる【おちる】",
+      "meaning": "caer; derrumbar; reprobar (examen); estrellar; degenerar; degradar; palidecer; desvanecer; quitar (una mancha); chocar"
+    },
+    {
+      "entryId": "1548550",
+      "spelling": "落る",
+      "reading": "おちる",
+      "senseNumbers": [
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70
+      ],
+      "japanese": "落る【おちる】",
+      "meaning": "caer; derrumbar; reprobar (examen); estrellar; degenerar; degradar; palidecer; desvanecer; quitar (una mancha); chocar"
+    },
+    {
+      "entryId": "1548720",
+      "spelling": "落語",
+      "reading": "らくご",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "落語【らくご】",
+      "meaning": "historia cómica"
+    },
+    {
+      "entryId": "1333800",
+      "spelling": "聚落",
+      "reading": "しゅうらく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "聚落【しゅうらく】",
+      "meaning": "aldea; villa; colonia (bacteria)"
+    },
+    {
+      "entryId": "1333800",
+      "spelling": "集落",
+      "reading": "しゅうらく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "集落【しゅうらく】",
+      "meaning": "aldea; villa; colonia (bacteria)"
+    },
+    {
+      "entryId": "1519570",
+      "spelling": "暴落",
+      "reading": "ぼうらく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "暴落【ぼうらく】",
+      "meaning": "caída repentina"
+    },
+    {
+      "entryId": "1548570",
+      "spelling": "落ちこむ",
+      "reading": "おちこむ",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "落ちこむ【おちこむ】",
+      "meaning": "caerse; desplomarse; hundirse; deprimirse"
+    },
+    {
+      "entryId": "1548570",
+      "spelling": "落ち込む",
+      "reading": "おちこむ",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "落ち込む【おちこむ】",
+      "meaning": "caerse; desplomarse; hundirse; deprimirse"
+    },
+    {
+      "entryId": "1548570",
+      "spelling": "落込む",
+      "reading": "おちこむ",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "落込む【おちこむ】",
+      "meaning": "caerse; desplomarse; hundirse; deprimirse"
+    },
+    {
+      "entryId": "1548750",
+      "spelling": "落札",
+      "reading": "らくさつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "落札【らくさつ】",
+      "meaning": "oferta; puja"
+    },
+    {
+      "entryId": "1229000",
+      "spelling": "急落",
+      "reading": "きゅうらく",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "急落【きゅうらく】",
+      "meaning": "disparase a la baja; descender en picado; caer súbitamente"
+    },
+    {
+      "entryId": "1548530",
+      "spelling": "落",
+      "reading": "おち",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "落【おち】",
+      "meaning": "caída; fracaso; fallo"
+    },
+    {
+      "entryId": "1548530",
+      "spelling": "落ち",
+      "reading": "おち",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "落ち【おち】",
+      "meaning": "caída; fracaso; fallo"
+    },
+    {
+      "entryId": "1164710",
+      "spelling": "一段落",
+      "reading": "いちだんらく",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "一段落【いちだんらく】",
+      "meaning": "completar la primera etapa; alcanzar un punto donde uno puede pausar"
+    },
+    {
+      "entryId": "1164710",
+      "spelling": "一段落",
+      "reading": "ひとだんらく",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "一段落【ひとだんらく】",
+      "meaning": "completar la primera etapa; alcanzar un punto donde uno puede pausar"
+    },
+    {
+      "entryId": "1441370",
+      "spelling": "転落",
+      "reading": "てんらく",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "転落【てんらく】",
+      "meaning": "caída; degradación; desplome; derrame"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

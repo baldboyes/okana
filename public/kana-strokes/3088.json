@@ -1,0 +1,47 @@
+{
+  "character": "よ",
+  "script": "hiragana",
+  "viewBox": "0 0 1024 1024",
+  "coordinates": "svg-native-y-down",
+  "strokes": [
+    {
+      "ordinal": 1,
+      "parts": [
+        {
+          "id": "z12424d1",
+          "clipId": "z12424c1",
+          "outline": "M743 286C725 286 710 298 694 303C651 321 606 333 561 337C546 337 546 379 560 381C606 387 651 375 696 366C728 359 760 350 790 339C799 334 799 322 793 315C785 301 770 292 755 287C751 286 747 286 743 286Z",
+          "median": "M 568,358 787,324"
+        }
+      ]
+    },
+    {
+      "ordinal": 2,
+      "parts": [
+        {
+          "id": "z12424d2a",
+          "clipId": "z12424c2a",
+          "outline": "M475 119C493 158 494 198 496 241C501 339 498 438 499 537C499 597 499 656 498 715C495 734 492 754 481 770C448 808 398 828 349 830C327 830 304 828 286 813C267 799 260 782 261 759C261 747 224 747 224 759C223 801 245 836 282 858C315 877 356 877 393 872C439 864 484 846 519 815C537 798 547 775 555 752C561 728 557 704 558 679C558 611 557 486 560 381C561 352 561 352 561 337C562 286 562 244 563 222C564 182 579 165 570 148C559 129 545 116 524 107C499 96 464 96 475 119Z",
+          "median": "M 484,114 532,164 501,827 341,864 242,812 235,718 356,671 785,913"
+        },
+        {
+          "id": "z12424d2b",
+          "clipId": "z12424c2b",
+          "outline": "M311 660C290 659 266 665 251 681C231 700 222 732 224 759C224 771 261 771 261 759C259 741 267 720 285 713C305 705 327 710 348 713C390 722 429 740 468 759C509 782 551 801 592 823C645 852 696 882 746 915C758 921 772 927 785 921C797 914 799 898 799 885C798 864 783 846 765 836C736 817 704 803 673 787C617 758 560 732 500 711C451 693 402 672 350 663C337 661 324 660 311 660Z",
+          "median": "M 484,1614 532,1564 501,901 341,864 242,812 235,718 356,671 785,913"
+        }
+      ]
+    }
+  ],
+  "provenance": {
+    "commit": "ec5e17cca76c87587790bcbce5ea0b4d4fb753d6",
+    "modifiedAt": "2026-10-02",
+    "license": "LGPL-3.0-or-later",
+    "sourceFilename": "12424.svg",
+    "sourceUrl": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12424.svg",
+    "sourceSha256": "3b95e714cfb627fdc28c26fe1aa671aecbb1c8ef83f1d80853b3e3c619686440",
+    "gitBlobSha1": "160da2b833eefb8921d2f56e21de1ce2a6998b4c",
+    "sourceHeader": "\nAnimCJK 2016-2026 Copyright FM-SH, https://github.com/parsimonhi/animCJK\nYou can redistribute and/or modify these files under the terms of the GNU\nLesser General Public License as published by the Free Software Foundation,\neither version 3 of the license, or (at your option) any later version. You\nshould have received a copy of this license (the file \"LGPL.txt\") along with\nthese files; if not, see https://www.gnu.org/licenses/.\n",
+    "notice": "Converted SVG outlines and median paths to grouped JSON without geometry changes by Okana on 2026-10-02, from AnimCJK ec5e17cca76c87587790bcbce5ea0b4d4fb753d6. Graphics remain LGPL-3.0-or-later; original copyright and notices are retained in sourceHeader and corresponding source SVG files."
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "character": "体",
+  "meanings": "cuerpo, forma",
+  "words": [
+    {
+      "entryId": "1245050",
+      "spelling": "具体的",
+      "reading": "ぐたいてき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "具体的【ぐたいてき】",
+      "meaning": "concretamente; específicamente"
+    },
+    {
+      "entryId": "1395660",
+      "spelling": "全体",
+      "reading": "ぜんたい",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "全体【ぜんたい】",
+      "meaning": "enteramente; íntegramente; entero (todo completo)"
+    },
+    {
+      "entryId": "1409550",
+      "spelling": "体制",
+      "reading": "たいせい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "体制【たいせい】",
+      "meaning": "organización; sistema; arquitectura"
+    },
+    {
+      "entryId": "1419270",
+      "spelling": "団体",
+      "reading": "だんたい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "団体【だんたい】",
+      "meaning": "agrupación; asociación; organización; grupo"
+    },
+    {
+      "entryId": "1595240",
+      "spelling": "事体",
+      "reading": "じたい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "事体【じたい】",
+      "meaning": "circunstancias; estado"
+    },
+    {
+      "entryId": "1409140",
+      "spelling": "体",
+      "reading": "からだ",
+      "senseNumbers": [
+        12,
+        13
+      ],
+      "japanese": "体【からだ】",
+      "meaning": "cuerpo; salud"
+    },
+    {
+      "entryId": "1409140",
+      "spelling": "身体",
+      "reading": "からだ",
+      "senseNumbers": [
+        12,
+        13
+      ],
+      "japanese": "身体【からだ】",
+      "meaning": "cuerpo; salud"
+    },
+    {
+      "entryId": "1409420",
+      "spelling": "体験",
+      "reading": "たいけん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "体験【たいけん】",
+      "meaning": "experiencia personal"
+    },
+    {
+      "entryId": "1159430",
+      "spelling": "遺体",
+      "reading": "いたい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "遺体【いたい】",
+      "meaning": "cadáver; restos mortales"
+    },
+    {
+      "entryId": "1409200",
+      "spelling": "体育",
+      "reading": "たいいく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "体育【たいいく】",
+      "meaning": "educación física; gimnasia; atletismo"
+    },
+    {
+      "entryId": "1409200",
+      "spelling": "体育",
+      "reading": "たいく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "体育【たいく】",
+      "meaning": "educación física; gimnasia; atletismo"
+    },
+    {
+      "entryId": "1245020",
+      "spelling": "具体",
+      "reading": "ぐたい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "具体【ぐたい】",
+      "meaning": "(en) concreto"
+    },
+    {
+      "entryId": "1164510",
+      "spelling": "一体",
+      "reading": "いったい",
+      "senseNumbers": [
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "japanese": "一体【いったい】",
+      "meaning": "diablos; maldita sea; un objeto; un cuerpo; unidad; una forma; un estilo; una imagen Budista (una talla, escultura, etc.); generalmente; en general"
+    },
+    {
+      "entryId": "1164510",
+      "spelling": "１体",
+      "reading": "いったい",
+      "senseNumbers": [
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "japanese": "１体【いったい】",
+      "meaning": "diablos; maldita sea; un objeto; un cuerpo; unidad; una forma; un estilo; una imagen Budista (una talla, escultura, etc.); generalmente; en general"
+    },
+    {
+      "entryId": "1199120",
+      "spelling": "解体",
+      "reading": "かいたい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "解体【かいたい】",
+      "meaning": "desmontar; desarmar; desensamblar; demoler; desguazar; desmantelamiento"
+    },
+    {
+      "entryId": "1325840",
+      "spelling": "主体",
+      "reading": "しゅたい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "主体【しゅたい】",
+      "meaning": "sujeto; objeto; individuo"
+    },
+    {
+      "entryId": "1409520",
+      "spelling": "体質",
+      "reading": "たいしつ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "体質【たいしつ】",
+      "meaning": "constitución (física); apariencia genética (manifestación visible de los genes); predisposición (a una enfermedad)"
+    },
+    {
+      "entryId": "1479790",
+      "spelling": "半導体",
+      "reading": "はんどうたい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "半導体【はんどうたい】",
+      "meaning": "semiconductor"
+    },
+    {
+      "entryId": "1409540",
+      "spelling": "体重",
+      "reading": "たいじゅう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "体重【たいじゅう】",
+      "meaning": "peso (corporal)"
+    },
+    {
+      "entryId": "1409760",
+      "spelling": "体力",
+      "reading": "たいりょく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "体力【たいりょく】",
+      "meaning": "fuerza física"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "character": "歳",
+  "meanings": "año, edad",
+  "words": [
+    {
+      "entryId": "1468060",
+      "spelling": "歳",
+      "reading": "とし",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "歳【とし】",
+      "meaning": "año; edad"
+    },
+    {
+      "entryId": "1294950",
+      "spelling": "歳月",
+      "reading": "さいげつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "歳月【さいげつ】",
+      "meaning": "tiempo; primaveras"
+    },
+    {
+      "entryId": "1294940",
+      "spelling": "歳",
+      "reading": "さい",
+      "senseNumbers": [
+        11,
+        12
+      ],
+      "japanese": "歳【さい】",
+      "meaning": "habilidad; regalo; talento; aptitud; genio; años de edad; edad"
+    },
+    {
+      "entryId": "1601350",
+      "spelling": "万歳",
+      "reading": "ばんざい",
+      "senseNumbers": [
+        22
+      ],
+      "japanese": "万歳【ばんざい】",
+      "meaning": "¡viva!; ¡bravo!; hurra; larga vida; felicitaciones"
+    },
+    {
+      "entryId": "1295010",
+      "spelling": "歳末",
+      "reading": "さいまつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "歳末【さいまつ】",
+      "meaning": "final de año"
+    },
+    {
+      "entryId": "1468660",
+      "spelling": "歳ごろ",
+      "reading": "としごろ",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "歳ごろ【としごろ】",
+      "meaning": "tiempo; edad (de trabajar etc)"
+    },
+    {
+      "entryId": "1468660",
+      "spelling": "歳頃",
+      "reading": "としごろ",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "歳頃【としごろ】",
+      "meaning": "tiempo; edad (de trabajar etc)"
+    },
+    {
+      "entryId": "1600790",
+      "spelling": "二十歳",
+      "reading": "にじっさい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "二十歳【にじっさい】",
+      "meaning": "veinte años; 20 años de edad"
+    },
+    {
+      "entryId": "1600790",
+      "spelling": "二十歳",
+      "reading": "にじゅっさい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "二十歳【にじゅっさい】",
+      "meaning": "veinte años; 20 años de edad"
+    },
+    {
+      "entryId": "1600790",
+      "spelling": "二十歳",
+      "reading": "はたち",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "二十歳【はたち】",
+      "meaning": "veinte años; 20 años de edad"
+    },
+    {
+      "entryId": "1600790",
+      "spelling": "２０歳",
+      "reading": "はたち",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "２０歳【はたち】",
+      "meaning": "veinte años; 20 años de edad"
+    },
+    {
+      "entryId": "1612670",
+      "spelling": "お歳暮",
+      "reading": "おせいぼ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "お歳暮【おせいぼ】",
+      "meaning": "regalos de fin de año"
+    },
+    {
+      "entryId": "1612670",
+      "spelling": "御歳暮",
+      "reading": "おせいぼ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "御歳暮【おせいぼ】",
+      "meaning": "regalos de fin de año"
+    },
+    {
+      "entryId": "1451740",
+      "spelling": "おない歳",
+      "reading": "おないどし",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "おない歳【おないどし】",
+      "meaning": "de la misma edad"
+    },
+    {
+      "entryId": "1451740",
+      "spelling": "同い歳",
+      "reading": "おないどし",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "同い歳【おないどし】",
+      "meaning": "de la misma edad"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

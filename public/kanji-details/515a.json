@@ -1,0 +1,231 @@
+{
+  "character": "党",
+  "meanings": "partido, facción",
+  "words": [
+    {
+      "entryId": "1376060",
+      "spelling": "政党",
+      "reading": "せいとう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "政党【せいとう】",
+      "meaning": "(miembro de un) partido político"
+    },
+    {
+      "entryId": "1537580",
+      "spelling": "野党",
+      "reading": "やとう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "野党【やとう】",
+      "meaning": "partido de oposición"
+    },
+    {
+      "entryId": "1544870",
+      "spelling": "与党",
+      "reading": "よとう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "与党【よとう】",
+      "meaning": "partido político en el poder"
+    },
+    {
+      "entryId": "1234550",
+      "spelling": "共産党",
+      "reading": "きょうさんとう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "共産党【きょうさんとう】",
+      "meaning": "Partido Comunista"
+    },
+    {
+      "entryId": "1322800",
+      "spelling": "社会党",
+      "reading": "しゃかいとう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "社会党【しゃかいとう】",
+      "meaning": "Partido Socialista"
+    },
+    {
+      "entryId": "1445980",
+      "spelling": "党",
+      "reading": "とう",
+      "senseNumbers": [
+        11,
+        12
+      ],
+      "japanese": "党【とう】",
+      "meaning": "partido (político); facción"
+    },
+    {
+      "entryId": "1446000",
+      "spelling": "党首",
+      "reading": "とうしゅ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "党首【とうしゅ】",
+      "meaning": "líder del partido (político)"
+    },
+    {
+      "entryId": "1528880",
+      "spelling": "民主党",
+      "reading": "みんしゅとう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "民主党【みんしゅとう】",
+      "meaning": "partido demócrata"
+    },
+    {
+      "entryId": "1235390",
+      "spelling": "共和党",
+      "reading": "きょうわとう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "共和党【きょうわとう】",
+      "meaning": "Partido Republicano"
+    },
+    {
+      "entryId": "1445990",
+      "spelling": "党員",
+      "reading": "とういん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "党員【とういん】",
+      "meaning": "miembro del partido (político)"
+    },
+    {
+      "entryId": "1165150",
+      "spelling": "一党",
+      "reading": "いっとう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "一党【いっとう】",
+      "meaning": "partido; camarilla"
+    },
+    {
+      "entryId": "1165150",
+      "spelling": "１党",
+      "reading": "いっとう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "１党【いっとう】",
+      "meaning": "partido; camarilla"
+    },
+    {
+      "entryId": "1446030",
+      "spelling": "党派",
+      "reading": "とうは",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "党派【とうは】",
+      "meaning": "facción"
+    },
+    {
+      "entryId": "1446050",
+      "spelling": "党利",
+      "reading": "とうり",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "党利【とうり】",
+      "meaning": "intereses de partido"
+    },
+    {
+      "entryId": "1654260",
+      "spelling": "党略",
+      "reading": "とうりゃく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "党略【とうりゃく】",
+      "meaning": "políticas de partido (tácticas)"
+    },
+    {
+      "entryId": "1735510",
+      "spelling": "政党政治",
+      "reading": "せいとうせいじ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "政党政治【せいとうせいじ】",
+      "meaning": "políticas de partido"
+    },
+    {
+      "entryId": "1466600",
+      "spelling": "入党",
+      "reading": "にゅうとう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "入党【にゅうとう】",
+      "meaning": "afiliarse a un partido político"
+    },
+    {
+      "entryId": "1274410",
+      "spelling": "公党",
+      "reading": "こうとう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "公党【こうとう】",
+      "meaning": "partido político"
+    },
+    {
+      "entryId": "1152310",
+      "spelling": "悪党",
+      "reading": "あくとう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "悪党【あくとう】",
+      "meaning": "canalla; rascal; villano; mal hombre (perverso malvado)"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

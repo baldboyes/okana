@@ -1,0 +1,202 @@
+{
+  "character": "革",
+  "meanings": "cuero, piel, reforma, cambio",
+  "words": [
+    {
+      "entryId": "1200780",
+      "spelling": "改革",
+      "reading": "かいかく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "改革【かいかく】",
+      "meaning": "reforma; reformación; innovación"
+    },
+    {
+      "entryId": "1206500",
+      "spelling": "革命",
+      "reading": "かくめい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "革命【かくめい】",
+      "meaning": "revolución"
+    },
+    {
+      "entryId": "1206470",
+      "spelling": "革新",
+      "reading": "かくしん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "革新【かくしん】",
+      "meaning": "innovación; reforma; novedad"
+    },
+    {
+      "entryId": "1510940",
+      "spelling": "変革",
+      "reading": "へんかく",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "変革【へんかく】",
+      "meaning": "cambio; reforma"
+    },
+    {
+      "entryId": "1281860",
+      "spelling": "行革",
+      "reading": "ぎょうかく",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "行革【ぎょうかく】",
+      "meaning": "reforma administrativa"
+    },
+    {
+      "entryId": "1483805",
+      "spelling": "革",
+      "reading": "かわ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "革【かわ】",
+      "meaning": "piel; cuero"
+    },
+    {
+      "entryId": "1200750",
+      "spelling": "革める",
+      "reading": "あらためる",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "革める【あらためる】",
+      "meaning": "cambiar; alterar; reformar; revisar; renovar; examinar; investigar"
+    },
+    {
+      "entryId": "1533930",
+      "spelling": "毛革",
+      "reading": "けがわ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "毛革【けがわ】",
+      "meaning": "peletería; pieles finas"
+    },
+    {
+      "entryId": "1483850",
+      "spelling": "皮革",
+      "reading": "ひかく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "皮革【ひかく】",
+      "meaning": "cuero; piel"
+    },
+    {
+      "entryId": "1827010",
+      "spelling": "農地改革",
+      "reading": "のうちかいかく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "農地改革【のうちかいかく】",
+      "meaning": "reforma agraria"
+    },
+    {
+      "entryId": "1200730",
+      "spelling": "革まる",
+      "reading": "あらたまる",
+      "senseNumbers": [
+        17,
+        18,
+        19
+      ],
+      "japanese": "革まる【あらたまる】",
+      "meaning": "renovarse; quedarse en una ceremonia; empeorarse; empeorar de repente; agravarse de pronto una enfermedad"
+    },
+    {
+      "entryId": "1208910",
+      "spelling": "革包",
+      "reading": "かばん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "革包【かばん】",
+      "meaning": "mochila; cartapacio; portafolio; cesta; canasta; bolsa; morral; cartera"
+    },
+    {
+      "entryId": "1206460",
+      "spelling": "革沓",
+      "reading": "かわぐつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "革沓【かわぐつ】",
+      "meaning": "zapatos de cuero"
+    },
+    {
+      "entryId": "1206460",
+      "spelling": "革靴",
+      "reading": "かわぐつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "革靴【かわぐつ】",
+      "meaning": "zapatos de cuero"
+    },
+    {
+      "entryId": "1754960",
+      "spelling": "産業革命",
+      "reading": "さんぎょうかくめい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "産業革命【さんぎょうかくめい】",
+      "meaning": "La Revolución Industrial"
+    },
+    {
+      "entryId": "1176730",
+      "spelling": "沿革",
+      "reading": "えんかく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "沿革【えんかく】",
+      "meaning": "historia; evolución; vicitudes"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

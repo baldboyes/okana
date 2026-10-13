@@ -1,0 +1,190 @@
+{
+  "character": "漢",
+  "meanings": "antigua región de China, China, hombre",
+  "words": [
+    {
+      "entryId": "1213170",
+      "spelling": "漢字",
+      "reading": "かんじ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "漢字【かんじ】",
+      "meaning": "caracteres chinos; kanji"
+    },
+    {
+      "entryId": "1213240",
+      "spelling": "漢方薬",
+      "reading": "かんぽうやく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "漢方薬【かんぽうやく】",
+      "meaning": "planta medicinal; hierba medicinal"
+    },
+    {
+      "entryId": "1614200",
+      "spelling": "漢方",
+      "reading": "かんぽう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "漢方【かんぽう】",
+      "meaning": "medicina tradicional china"
+    },
+    {
+      "entryId": "1614200",
+      "spelling": "漢法",
+      "reading": "かんぽう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "漢法【かんぽう】",
+      "meaning": "medicina tradicional china"
+    },
+    {
+      "entryId": "1213220",
+      "spelling": "漢文",
+      "reading": "かんぶん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "漢文【かんぶん】",
+      "meaning": "literatura clásica China"
+    },
+    {
+      "entryId": "1213150",
+      "spelling": "漢語",
+      "reading": "かんご",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "漢語【かんご】",
+      "meaning": "espada china; espada chino-japonesa"
+    },
+    {
+      "entryId": "1213260",
+      "spelling": "漢和",
+      "reading": "かんわ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "漢和【かんわ】",
+      "meaning": "diccionario chino-japonés"
+    },
+    {
+      "entryId": "1356150",
+      "spelling": "常用漢字",
+      "reading": "じょうようかんじ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "常用漢字【じょうようかんじ】",
+      "meaning": "kanji de uso común"
+    },
+    {
+      "entryId": "1610360",
+      "spelling": "珍粉漢粉",
+      "reading": "ちんぷんかんぷん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "珍粉漢粉【ちんぷんかんぷん】",
+      "meaning": "galimatías; jerigonza; palabras ininteligibles; sin pies ni cabeza; sin sentido"
+    },
+    {
+      "entryId": "1610360",
+      "spelling": "珍糞漢糞",
+      "reading": "ちんぷんかんぷん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "珍糞漢糞【ちんぷんかんぷん】",
+      "meaning": "galimatías; jerigonza; palabras ininteligibles; sin pies ni cabeza; sin sentido"
+    },
+    {
+      "entryId": "1610360",
+      "spelling": "珍紛漢紛",
+      "reading": "ちんぷんかんぷん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "珍紛漢紛【ちんぷんかんぷん】",
+      "meaning": "galimatías; jerigonza; palabras ininteligibles; sin pies ni cabeza; sin sentido"
+    },
+    {
+      "entryId": "1213160",
+      "spelling": "漢詩",
+      "reading": "かんし",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "漢詩【かんし】",
+      "meaning": "poesía china"
+    },
+    {
+      "entryId": "1231960",
+      "spelling": "巨漢",
+      "reading": "きょかん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "巨漢【きょかん】",
+      "meaning": "gigante"
+    },
+    {
+      "entryId": "1655450",
+      "spelling": "漢和字典",
+      "reading": "かんわじてん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "漢和字典【かんわじてん】",
+      "meaning": "diccionario de kanji; diccionario de ideogramas chinos"
+    },
+    {
+      "entryId": "1655450",
+      "spelling": "漢和辞典",
+      "reading": "かんわじてん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "漢和辞典【かんわじてん】",
+      "meaning": "diccionario de kanji; diccionario de ideogramas chinos"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

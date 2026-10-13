@@ -1,0 +1,240 @@
+{
+  "character": "射",
+  "meanings": "disparar, tirar, radiar, liberar",
+  "words": [
+    {
+      "entryId": "1516690",
+      "spelling": "放射能",
+      "reading": "ほうしゃのう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "放射能【ほうしゃのう】",
+      "meaning": "radiactividad"
+    },
+    {
+      "entryId": "1516610",
+      "spelling": "放射性",
+      "reading": "ほうしゃせい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "放射性【ほうしゃせい】",
+      "meaning": "radioactivo; radiactivo"
+    },
+    {
+      "entryId": "1516630",
+      "spelling": "放射線",
+      "reading": "ほうしゃせん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "放射線【ほうしゃせん】",
+      "meaning": "radiación"
+    },
+    {
+      "entryId": "1477490",
+      "spelling": "発射",
+      "reading": "はっしゃ",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "発射【はっしゃ】",
+      "meaning": "lanzar; disparar"
+    },
+    {
+      "entryId": "1426590",
+      "spelling": "注射",
+      "reading": "ちゅうしゃ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "注射【ちゅうしゃ】",
+      "meaning": "inyección"
+    },
+    {
+      "entryId": "1253570",
+      "spelling": "射つ",
+      "reading": "うつ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "射つ【うつ】",
+      "meaning": "atacar; vengar"
+    },
+    {
+      "entryId": "1322280",
+      "spelling": "射程",
+      "reading": "しゃてい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "射程【しゃてい】",
+      "meaning": "alcance (armas de fuego)"
+    },
+    {
+      "entryId": "1322210",
+      "spelling": "射撃",
+      "reading": "しゃげき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "射撃【しゃげき】",
+      "meaning": "disparo"
+    },
+    {
+      "entryId": "1322240",
+      "spelling": "射殺",
+      "reading": "しゃさつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "射殺【しゃさつ】",
+      "meaning": "muerte a tiros; muerte por disparo; fusilamiento"
+    },
+    {
+      "entryId": "1601830",
+      "spelling": "日射し",
+      "reading": "ひざし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "日射し【ひざし】",
+      "meaning": "luz del sol; rayos del sol"
+    },
+    {
+      "entryId": "1601830",
+      "spelling": "陽射",
+      "reading": "ひざし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "陽射【ひざし】",
+      "meaning": "luz del sol; rayos del sol"
+    },
+    {
+      "entryId": "1601830",
+      "spelling": "陽射し",
+      "reading": "ひざし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "陽射し【ひざし】",
+      "meaning": "luz del sol; rayos del sol"
+    },
+    {
+      "entryId": "1516600",
+      "spelling": "放射",
+      "reading": "ほうしゃ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "放射【ほうしゃ】",
+      "meaning": "radiación; emisión"
+    },
+    {
+      "entryId": "1480420",
+      "spelling": "反射",
+      "reading": "はんしゃ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "反射【はんしゃ】",
+      "meaning": "reflexión; reflejo"
+    },
+    {
+      "entryId": "1322250",
+      "spelling": "射止める",
+      "reading": "いとめる",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "射止める【いとめる】",
+      "meaning": "abatir de un disparo; matar a tiros; capturar; apresar; conseguir"
+    },
+    {
+      "entryId": "1350930",
+      "spelling": "照射",
+      "reading": "しょうしゃ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "照射【しょうしゃ】",
+      "meaning": "irradiar; exposición"
+    },
+    {
+      "entryId": "1610500",
+      "spelling": "投射",
+      "reading": "とうしゃ",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "投射【とうしゃ】",
+      "meaning": "proyección"
+    },
+    {
+      "entryId": "1322170",
+      "spelling": "射す",
+      "reading": "さす",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "射す【さす】",
+      "meaning": "brillar"
+    },
+    {
+      "entryId": "1322270",
+      "spelling": "射精",
+      "reading": "しゃせい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "射精【しゃせい】",
+      "meaning": "eyaculación; eyacular"
+    },
+    {
+      "entryId": "1322180",
+      "spelling": "射る",
+      "reading": "いる",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "射る【いる】",
+      "meaning": "disparar"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

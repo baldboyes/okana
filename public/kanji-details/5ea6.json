@@ -1,0 +1,251 @@
+{
+  "character": "度",
+  "meanings": "grado, vez, veces",
+  "words": [
+    {
+      "entryId": "1374880",
+      "spelling": "制度",
+      "reading": "せいど",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "制度【せいど】",
+      "meaning": "sistema; institución; organización"
+    },
+    {
+      "entryId": "1436540",
+      "spelling": "程度",
+      "reading": "ていど",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "程度【ていど】",
+      "meaning": "grado; límite (grado más alto)"
+    },
+    {
+      "entryId": "1289370",
+      "spelling": "今度",
+      "reading": "こんど",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "今度【こんど】",
+      "meaning": "ahora; esta vez; la próxima vez; en otra ocasión"
+    },
+    {
+      "entryId": "1292300",
+      "spelling": "二度",
+      "reading": "ふたたび",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "二度【ふたたび】",
+      "meaning": "otra vez; una vez más; segunda vez"
+    },
+    {
+      "entryId": "1410780",
+      "spelling": "態度",
+      "reading": "たいど",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "態度【たいど】",
+      "meaning": "actitud; manera; comportamiento"
+    },
+    {
+      "entryId": "1189170",
+      "spelling": "何度",
+      "reading": "なんど",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "何度【なんど】",
+      "meaning": "cuántas veces; con qué frecuencia; (am) qué tan seguido"
+    },
+    {
+      "entryId": "1469050",
+      "spelling": "年度",
+      "reading": "ねんど",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "年度【ねんど】",
+      "meaning": "año fiscal"
+    },
+    {
+      "entryId": "1576250",
+      "spelling": "一度",
+      "reading": "いちど",
+      "senseNumbers": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "japanese": "一度【いちど】",
+      "meaning": "una vez; un tiempo; en una ocasión; un grado; un tono; un intervalo musical; temporalmente; por el momento; por ahora"
+    },
+    {
+      "entryId": "1576250",
+      "spelling": "一度",
+      "reading": "ひとたび",
+      "senseNumbers": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "japanese": "一度【ひとたび】",
+      "meaning": "una vez; un tiempo; en una ocasión; un grado; un tono; un intervalo musical; temporalmente; por el momento; por ahora"
+    },
+    {
+      "entryId": "1576250",
+      "spelling": "１度",
+      "reading": "いちど",
+      "senseNumbers": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "japanese": "１度【いちど】",
+      "meaning": "una vez; un tiempo; en una ocasión; un grado; un tono; un intervalo musical; temporalmente; por el momento; por ahora"
+    },
+    {
+      "entryId": "1657600",
+      "spelling": "今年度",
+      "reading": "こんねんど",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "今年度【こんねんど】",
+      "meaning": "este año"
+    },
+    {
+      "entryId": "1462730",
+      "spelling": "二度",
+      "reading": "にど",
+      "senseNumbers": [
+        8,
+        9
+      ],
+      "japanese": "二度【にど】",
+      "meaning": "segunda vez; dos grados"
+    },
+    {
+      "entryId": "1462730",
+      "spelling": "２度",
+      "reading": "にど",
+      "senseNumbers": [
+        8,
+        9
+      ],
+      "japanese": "２度【にど】",
+      "meaning": "segunda vez; dos grados"
+    },
+    {
+      "entryId": "1183510",
+      "spelling": "温度",
+      "reading": "おんど",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "温度【おんど】",
+      "meaning": "temperatura"
+    },
+    {
+      "entryId": "1283830",
+      "spelling": "高度",
+      "reading": "こうど",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "高度【こうど】",
+      "meaning": "altura; alto nivel"
+    },
+    {
+      "entryId": "1264690",
+      "spelling": "限度",
+      "reading": "げんど",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "限度【げんど】",
+      "meaning": "límite; límites"
+    },
+    {
+      "entryId": "1405050",
+      "spelling": "速度",
+      "reading": "そくど",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "速度【そくど】",
+      "meaning": "velocidad"
+    },
+    {
+      "entryId": "1469970",
+      "spelling": "濃度",
+      "reading": "のうど",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "濃度【のうど】",
+      "meaning": "concentración; claridad"
+    },
+    {
+      "entryId": "1206190",
+      "spelling": "角度",
+      "reading": "かくど",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "角度【かくど】",
+      "meaning": "ángulo"
+    },
+    {
+      "entryId": "1293240",
+      "spelling": "再度",
+      "reading": "さいど",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "再度【さいど】",
+      "meaning": "bis; de nuevo; dos veces"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "character": "歌",
+  "meanings": "canción, cantar",
+  "words": [
+    {
+      "entryId": "1193180",
+      "spelling": "歌",
+      "reading": "うた",
+      "senseNumbers": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "japanese": "歌【うた】",
+      "meaning": "canción; poesía clásica japonesa (esp. tanka); poesía moderna; poesía (poema)"
+    },
+    {
+      "entryId": "1193290",
+      "spelling": "歌手",
+      "reading": "かしゅ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "歌手【かしゅ】",
+      "meaning": "cantante"
+    },
+    {
+      "entryId": "1193420",
+      "spelling": "歌舞伎",
+      "reading": "かぶき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "歌舞伎【かぶき】",
+      "meaning": "kabuki; drama clásico japonés"
+    },
+    {
+      "entryId": "1193420",
+      "spelling": "歌舞妓",
+      "reading": "かぶき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "歌舞妓【かぶき】",
+      "meaning": "kabuki; drama clásico japonés"
+    },
+    {
+      "entryId": "1418630",
+      "spelling": "短歌",
+      "reading": "たんか",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "短歌【たんか】",
+      "meaning": "tanka (poema japonés de 31 sílabas)"
+    },
+    {
+      "entryId": "1418630",
+      "spelling": "短歌",
+      "reading": "みじかうた",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "短歌【みじかうた】",
+      "meaning": "tanka (poema japonés de 31 sílabas)"
+    },
+    {
+      "entryId": "1193260",
+      "spelling": "歌劇",
+      "reading": "かげき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "歌劇【かげき】",
+      "meaning": "ópera"
+    },
+    {
+      "entryId": "1193340",
+      "spelling": "歌人",
+      "reading": "かじん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "歌人【かじん】",
+      "meaning": "poeta (japonés)"
+    },
+    {
+      "entryId": "1193280",
+      "spelling": "歌詞",
+      "reading": "かし",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "歌詞【かし】",
+      "meaning": "letra de canción"
+    },
+    {
+      "entryId": "1193300",
+      "spelling": "歌集",
+      "reading": "かしゅう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "歌集【かしゅう】",
+      "meaning": "antología; libro de poesía"
+    },
+    {
+      "entryId": "1176800",
+      "spelling": "演歌",
+      "reading": "えんか",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "演歌【えんか】",
+      "meaning": "trovador; enka; canción tradicional japonesa"
+    },
+    {
+      "entryId": "1176800",
+      "spelling": "艶歌",
+      "reading": "えんか",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "艶歌【えんか】",
+      "meaning": "trovador; enka; canción tradicional japonesa"
+    },
+    {
+      "entryId": "1286220",
+      "spelling": "国歌",
+      "reading": "こっか",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "国歌【こっか】",
+      "meaning": "himno nacional"
+    },
+    {
+      "entryId": "1562000",
+      "spelling": "倭歌",
+      "reading": "わか",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "倭歌【わか】",
+      "meaning": "waka (poema japonés de 31 sílabas)"
+    },
+    {
+      "entryId": "1562000",
+      "spelling": "和歌",
+      "reading": "わか",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "和歌【わか】",
+      "meaning": "waka (poema japonés de 31 sílabas)"
+    },
+    {
+      "entryId": "1588120",
+      "spelling": "歌う",
+      "reading": "うたう",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "歌う【うたう】",
+      "meaning": "cantar"
+    },
+    {
+      "entryId": "1607440",
+      "spelling": "歌声",
+      "reading": "うたごえ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "歌声【うたごえ】",
+      "meaning": "canto; voz"
+    },
+    {
+      "entryId": "1607440",
+      "spelling": "歌声",
+      "reading": "かせい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "歌声【かせい】",
+      "meaning": "canto; voz"
+    },
+    {
+      "entryId": "1193320",
+      "spelling": "歌唱",
+      "reading": "かしょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "歌唱【かしょう】",
+      "meaning": "canto; cante; cantar; canción"
+    },
+    {
+      "entryId": "1193460",
+      "spelling": "歌謡曲",
+      "reading": "かようきょく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "歌謡曲【かようきょく】",
+      "meaning": "canción popular; éxito musical"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

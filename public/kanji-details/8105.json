@@ -1,0 +1,120 @@
+{
+  "character": "脅",
+  "meanings": "amenaza, coacción, amenazar, coaccionar",
+  "words": [
+    {
+      "entryId": "1238090",
+      "spelling": "脅威",
+      "reading": "きょうい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "脅威【きょうい】",
+      "meaning": "amenaza"
+    },
+    {
+      "entryId": "1238110",
+      "spelling": "脅迫",
+      "reading": "きょうはく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "脅迫【きょうはく】",
+      "meaning": "amenaza; coacción; terrorismo"
+    },
+    {
+      "entryId": "1630260",
+      "spelling": "脅し",
+      "reading": "おどし",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "脅し【おどし】",
+      "meaning": "amenaza"
+    },
+    {
+      "entryId": "1578070",
+      "spelling": "脅かす",
+      "reading": "おどかす",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "脅かす【おどかす】",
+      "meaning": "espantar; intimidar; asustar; amedrentar; amenazar; sorprender"
+    },
+    {
+      "entryId": "1238070",
+      "spelling": "脅す",
+      "reading": "おどす",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "脅す【おどす】",
+      "meaning": "amenazar; intimidar; asustar"
+    },
+    {
+      "entryId": "1236630",
+      "spelling": "脅える",
+      "reading": "おびえる",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "脅える【おびえる】",
+      "meaning": "temblar de miedo"
+    },
+    {
+      "entryId": "1578075",
+      "spelling": "脅かす",
+      "reading": "おびやかす",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "脅かす【おびやかす】",
+      "meaning": "amedrentar; meter miedo; asustar; atemorizar; intimidar"
+    },
+    {
+      "entryId": "1630270",
+      "spelling": "脅かし",
+      "reading": "おどかし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "脅かし【おどかし】",
+      "meaning": "amenaza"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

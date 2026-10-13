@@ -1,0 +1,240 @@
+{
+  "character": "会",
+  "meanings": "asociación, reunión, encontrarse con, reunirse",
+  "words": [
+    {
+      "entryId": "1156110",
+      "spelling": "委員会",
+      "reading": "いいんかい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "委員会【いいんかい】",
+      "meaning": "junta del comité; comité"
+    },
+    {
+      "entryId": "1198230",
+      "spelling": "会員",
+      "reading": "かいいん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "会員【かいいん】",
+      "meaning": "socio; miembro"
+    },
+    {
+      "entryId": "1198360",
+      "spelling": "会議",
+      "reading": "かいぎ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "会議【かいぎ】",
+      "meaning": "congreso; encuentro; convención"
+    },
+    {
+      "entryId": "1198500",
+      "spelling": "会見",
+      "reading": "かいけん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "会見【かいけん】",
+      "meaning": "entrevistar; entrevista; audiencia (con alguien)"
+    },
+    {
+      "entryId": "1198550",
+      "spelling": "会社",
+      "reading": "かいしゃ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "会社【かいしゃ】",
+      "meaning": "empresa; compañía; corporación"
+    },
+    {
+      "entryId": "1198760",
+      "spelling": "会談",
+      "reading": "かいだん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "会談【かいだん】",
+      "meaning": "conversación; conferencia; discusión; entrevista; plática"
+    },
+    {
+      "entryId": "1198770",
+      "spelling": "会長",
+      "reading": "かいちょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "会長【かいちょう】",
+      "meaning": "presidente (de una sociedad)"
+    },
+    {
+      "entryId": "1226040",
+      "spelling": "議会",
+      "reading": "ぎかい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "議会【ぎかい】",
+      "meaning": "congreso; parlamento"
+    },
+    {
+      "entryId": "1286240",
+      "spelling": "国会",
+      "reading": "こっかい",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "国会【こっかい】",
+      "meaning": "Dieta de Japón (parlamento)"
+    },
+    {
+      "entryId": "1322700",
+      "spelling": "社会",
+      "reading": "しゃかい",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "社会【しゃかい】",
+      "meaning": "sociedad"
+    },
+    {
+      "entryId": "1401490",
+      "spelling": "総会",
+      "reading": "そうかい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "総会【そうかい】",
+      "meaning": "asamblea general"
+    },
+    {
+      "entryId": "1413180",
+      "spelling": "大会",
+      "reading": "たいかい",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "大会【たいかい】",
+      "meaning": "convención; torneo; gran encuentro"
+    },
+    {
+      "entryId": "1235550",
+      "spelling": "協会",
+      "reading": "きょうかい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "協会【きょうかい】",
+      "meaning": "asociación; sociedad; organización"
+    },
+    {
+      "entryId": "1322800",
+      "spelling": "社会党",
+      "reading": "しゃかいとう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "社会党【しゃかいとう】",
+      "meaning": "Partido Socialista"
+    },
+    {
+      "entryId": "1198530",
+      "spelling": "会合",
+      "reading": "かいごう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "会合【かいごう】",
+      "meaning": "reunión; congregación"
+    },
+    {
+      "entryId": "1198660",
+      "spelling": "会場",
+      "reading": "かいじょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "会場【かいじょう】",
+      "meaning": "asamblea; lugar de reunión; terreno"
+    },
+    {
+      "entryId": "1220800",
+      "spelling": "機会",
+      "reading": "きかい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "機会【きかい】",
+      "meaning": "posibilidad; oportunidad"
+    },
+    {
+      "entryId": "1333600",
+      "spelling": "集会",
+      "reading": "しゅうかい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "集会【しゅうかい】",
+      "meaning": "reunión; asamblea"
+    },
+    {
+      "entryId": "1322740",
+      "spelling": "社会主義",
+      "reading": "しゃかいしゅぎ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "社会主義【しゃかいしゅぎ】",
+      "meaning": "socialismo"
+    },
+    {
+      "entryId": "1198880",
+      "spelling": "会話",
+      "reading": "かいわ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "会話【かいわ】",
+      "meaning": "conversación; plática; conversar; charlar; departir; dialogar; hablar"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

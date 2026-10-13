@@ -1,0 +1,241 @@
+{
+  "character": "舞",
+  "meanings": "danza, baile, revoloteo, bailar, revolotear",
+  "words": [
+    {
+      "entryId": "1499150",
+      "spelling": "舞台",
+      "reading": "ぶたい",
+      "senseNumbers": [
+        13,
+        14
+      ],
+      "japanese": "舞台【ぶたい】",
+      "meaning": "decorado (teatro); marco o escenario (novela, obra, etc.)"
+    },
+    {
+      "entryId": "1193420",
+      "spelling": "歌舞伎",
+      "reading": "かぶき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "歌舞伎【かぶき】",
+      "meaning": "kabuki; drama clásico japonés"
+    },
+    {
+      "entryId": "1193420",
+      "spelling": "歌舞妓",
+      "reading": "かぶき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "歌舞妓【かぶき】",
+      "meaning": "kabuki; drama clásico japonés"
+    },
+    {
+      "entryId": "1499220",
+      "spelling": "舞踊",
+      "reading": "ぶよう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "舞踊【ぶよう】",
+      "meaning": "baile; danza"
+    },
+    {
+      "entryId": "1956920",
+      "spelling": "舞",
+      "reading": "まい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "舞【まい】",
+      "meaning": "baile; danza"
+    },
+    {
+      "entryId": "1956920",
+      "spelling": "舞い",
+      "reading": "まい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "舞い【まい】",
+      "meaning": "baile; danza"
+    },
+    {
+      "entryId": "1259990",
+      "spelling": "見舞う",
+      "reading": "みまう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "見舞う【みまう】",
+      "meaning": "visitar a un enfermo; caer encima"
+    },
+    {
+      "entryId": "1604690",
+      "spelling": "見舞",
+      "reading": "みまい",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "見舞【みまい】",
+      "meaning": "visita (a un enfermo)"
+    },
+    {
+      "entryId": "1604690",
+      "spelling": "見舞い",
+      "reading": "みまい",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "見舞い【みまい】",
+      "meaning": "visita (a un enfermo)"
+    },
+    {
+      "entryId": "1499100",
+      "spelling": "舞う",
+      "reading": "まう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "舞う【まう】",
+      "meaning": "bailar; danzar; volar"
+    },
+    {
+      "entryId": "1499180",
+      "spelling": "舞踏",
+      "reading": "ぶとう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "舞踏【ぶとう】",
+      "meaning": "baile; danza"
+    },
+    {
+      "entryId": "1613630",
+      "spelling": "演舞",
+      "reading": "えんぶ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "演舞【えんぶ】",
+      "meaning": "interpretación de un baile (danza)"
+    },
+    {
+      "entryId": "1952740",
+      "spelling": "振る舞い",
+      "reading": "ふるまい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "振る舞い【ふるまい】",
+      "meaning": "conducta; comportamiento"
+    },
+    {
+      "entryId": "1952740",
+      "spelling": "振舞",
+      "reading": "ふるまい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "振舞【ふるまい】",
+      "meaning": "conducta; comportamiento"
+    },
+    {
+      "entryId": "1952740",
+      "spelling": "振舞い",
+      "reading": "ふるまい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "振舞い【ふるまい】",
+      "meaning": "conducta; comportamiento"
+    },
+    {
+      "entryId": "1603090",
+      "spelling": "振る舞う",
+      "reading": "ふるまう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "振る舞う【ふるまう】",
+      "meaning": "postrarse; comportarse; deleitar"
+    },
+    {
+      "entryId": "1603090",
+      "spelling": "振舞う",
+      "reading": "ふるまう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "振舞う【ふるまう】",
+      "meaning": "postrarse; comportarse; deleitar"
+    },
+    {
+      "entryId": "1001970",
+      "spelling": "お仕舞",
+      "reading": "おしまい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "お仕舞【おしまい】",
+      "meaning": "fin; acabose; colmo"
+    },
+    {
+      "entryId": "1001970",
+      "spelling": "お仕舞い",
+      "reading": "おしまい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "お仕舞い【おしまい】",
+      "meaning": "fin; acabose; colmo"
+    },
+    {
+      "entryId": "1001970",
+      "spelling": "御仕舞",
+      "reading": "おしまい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "御仕舞【おしまい】",
+      "meaning": "fin; acabose; colmo"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

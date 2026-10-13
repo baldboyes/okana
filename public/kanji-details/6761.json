@@ -1,0 +1,240 @@
+{
+  "character": "条",
+  "meanings": "artículo, cláusula, tratado",
+  "words": [
+    {
+      "entryId": "1241750",
+      "spelling": "条",
+      "reading": "すじ",
+      "senseNumbers": [
+        51
+      ],
+      "japanese": "条【すじ】",
+      "meaning": "fibra; hilo; músculo"
+    },
+    {
+      "entryId": "1356510",
+      "spelling": "条件",
+      "reading": "じょうけん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "条件【じょうけん】",
+      "meaning": "condición (requisito)"
+    },
+    {
+      "entryId": "1356580",
+      "spelling": "条約",
+      "reading": "じょうやく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "条約【じょうやく】",
+      "meaning": "tratado; pacto"
+    },
+    {
+      "entryId": "1356550",
+      "spelling": "条項",
+      "reading": "じょうこう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "条項【じょうこう】",
+      "meaning": "artículo; cláusula; precepto"
+    },
+    {
+      "entryId": "1356610",
+      "spelling": "条令",
+      "reading": "じょうれい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "条令【じょうれい】",
+      "meaning": "ordenanzas; reglas; reglamentos"
+    },
+    {
+      "entryId": "1356610",
+      "spelling": "条例",
+      "reading": "じょうれい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "条例【じょうれい】",
+      "meaning": "ordenanzas; reglas; reglamentos"
+    },
+    {
+      "entryId": "1530180",
+      "spelling": "無条件",
+      "reading": "むじょうけん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "無条件【むじょうけん】",
+      "meaning": "incondicional"
+    },
+    {
+      "entryId": "1560500",
+      "spelling": "労働条件",
+      "reading": "ろうどうじょうけん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "労働条件【ろうどうじょうけん】",
+      "meaning": "condiciones de trabajo"
+    },
+    {
+      "entryId": "1575970",
+      "spelling": "ひと条",
+      "reading": "ひとすじ",
+      "senseNumbers": [
+        26
+      ],
+      "japanese": "ひと条【ひとすじ】",
+      "meaning": "una línea; seriamente; ciegamente; francamente"
+    },
+    {
+      "entryId": "1575970",
+      "spelling": "一条",
+      "reading": "ひとすじ",
+      "senseNumbers": [
+        26
+      ],
+      "japanese": "一条【ひとすじ】",
+      "meaning": "una línea; seriamente; ciegamente; francamente"
+    },
+    {
+      "entryId": "1356560",
+      "spelling": "条文",
+      "reading": "じょうぶん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "条文【じょうぶん】",
+      "meaning": "precepto; texto de un artículo; texto de una cláusula"
+    },
+    {
+      "entryId": "1163520",
+      "spelling": "一条",
+      "reading": "いちじょう",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "一条【いちじょう】",
+      "meaning": "raya; asunto; cita (autor)"
+    },
+    {
+      "entryId": "1154790",
+      "spelling": "案の条",
+      "reading": "あんのじょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "案の条【あんのじょう】",
+      "meaning": "justo como uno piensa; como de costumbre"
+    },
+    {
+      "entryId": "1492970",
+      "spelling": "不条理",
+      "reading": "ふじょうり",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "不条理【ふじょうり】",
+      "meaning": "incongruencia; incoherencia"
+    },
+    {
+      "entryId": "1099490",
+      "spelling": "撥条",
+      "reading": "ばね",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "撥条【ばね】",
+      "meaning": "cuerda (mecanismo de los relojes y juguetes a cuerda); resorte"
+    },
+    {
+      "entryId": "1099490",
+      "spelling": "発条",
+      "reading": "ばね",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "発条【ばね】",
+      "meaning": "cuerda (mecanismo de los relojes y juguetes a cuerda); resorte"
+    },
+    {
+      "entryId": "2209940",
+      "spelling": "検索条件",
+      "reading": "けんさくじょうけん",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "検索条件【けんさくじょうけん】",
+      "meaning": "criterios de búsqueda"
+    },
+    {
+      "entryId": "1151980",
+      "spelling": "悪条件",
+      "reading": "あくじょうけん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "悪条件【あくじょうけん】",
+      "meaning": "condiciones desfavorables"
+    },
+    {
+      "entryId": "1356600",
+      "spelling": "条理",
+      "reading": "じょうり",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "条理【じょうり】",
+      "meaning": "razón"
+    },
+    {
+      "entryId": "1761470",
+      "spelling": "教条主義",
+      "reading": "きょうじょうしゅぎ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "教条主義【きょうじょうしゅぎ】",
+      "meaning": "dogmatismo"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

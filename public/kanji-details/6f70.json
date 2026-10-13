@@ -1,0 +1,100 @@
+{
+  "character": "潰",
+  "meanings": "",
+  "words": [
+    {
+      "entryId": "1516280",
+      "spelling": "崩潰",
+      "reading": "ほうかい",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "崩潰【ほうかい】",
+      "meaning": "colapso; derrumbe; caída; desmoronamiento"
+    },
+    {
+      "entryId": "1192820",
+      "spelling": "暇潰し",
+      "reading": "ひまつぶし",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "暇潰し【ひまつぶし】",
+      "meaning": "pérdida de tiempo; matar el tiempo"
+    },
+    {
+      "entryId": "1433820",
+      "spelling": "潰す",
+      "reading": "つぶす",
+      "senseNumbers": [
+        28
+      ],
+      "japanese": "潰す【つぶす】",
+      "meaning": "aplastar; pulverizar; rellenar; moler"
+    },
+    {
+      "entryId": "1433830",
+      "spelling": "潰れる",
+      "reading": "つぶれる",
+      "senseNumbers": [
+        24
+      ],
+      "japanese": "潰れる【つぶれる】",
+      "meaning": "quedarse en quiebra; bancarrota"
+    },
+    {
+      "entryId": "1636160",
+      "spelling": "潰瘍",
+      "reading": "かいよう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "潰瘍【かいよう】",
+      "meaning": "úlcera"
+    },
+    {
+      "entryId": "1158630",
+      "spelling": "胃潰瘍",
+      "reading": "いかいよう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "胃潰瘍【いかいよう】",
+      "meaning": "úlcera estomacal"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": false,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

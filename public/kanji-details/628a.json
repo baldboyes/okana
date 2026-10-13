@@ -1,0 +1,130 @@
+{
+  "character": "把",
+  "meanings": "llevar, coger, comprender, haz, manojo, racimo, contador de racimos",
+  "words": [
+    {
+      "entryId": "1598780",
+      "spelling": "把っ手",
+      "reading": "とって",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "把っ手【とって】",
+      "meaning": "mango; empuñadura; tirador (e.g. de un cajón, etc.)"
+    },
+    {
+      "entryId": "1598780",
+      "spelling": "把手",
+      "reading": "とって",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "把手【とって】",
+      "meaning": "mango; empuñadura; tirador (e.g. de un cajón, etc.)"
+    },
+    {
+      "entryId": "1470910",
+      "spelling": "把握",
+      "reading": "はあく",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "把握【はあく】",
+      "meaning": "estar al tanto; tener bajo control"
+    },
+    {
+      "entryId": "1404450",
+      "spelling": "把",
+      "reading": "たば",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "把【たば】",
+      "meaning": "haz; gavilla; fajo; manojo; fardo; ramo"
+    },
+    {
+      "entryId": "1412950",
+      "spelling": "大雑把",
+      "reading": "おおざっぱ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "大雑把【おおざっぱ】",
+      "meaning": "impreciso; aproximado; a ojo; sin afinar mucho; a barrisco; más o menos; en líneas generales; por encima; aproximadamente; grosso modo"
+    },
+    {
+      "entryId": "1607320",
+      "spelling": "把",
+      "reading": "ば",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "把【ば】",
+      "meaning": "contador para haces; atados; etc."
+    },
+    {
+      "entryId": "1607320",
+      "spelling": "把",
+      "reading": "ぱ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "把【ぱ】",
+      "meaning": "contador para haces; atados; etc."
+    },
+    {
+      "entryId": "1607320",
+      "spelling": "把",
+      "reading": "わ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "把【わ】",
+      "meaning": "contador para haces; atados; etc."
+    },
+    {
+      "entryId": "1433650",
+      "spelling": "把む",
+      "reading": "つかむ",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "把む【つかむ】",
+      "meaning": "coger; agarrar; empuñar; asir; captar; comprender; entender; enganchar al vuelo; lograr; conseguir; no dejar escapar; sostener; agarrarse de; ponerse la mano encima"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "character": "異",
+  "meanings": "raro, extraño, inusual, diferente",
+  "words": [
+    {
+      "entryId": "1158140",
+      "spelling": "異例",
+      "reading": "いれい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "異例【いれい】",
+      "meaning": "excepción; enfermedad; singular; excepcional; sin precedente"
+    },
+    {
+      "entryId": "1157760",
+      "spelling": "異常",
+      "reading": "いじょう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "異常【いじょう】",
+      "meaning": "extrañeza; anormalidad; desorden"
+    },
+    {
+      "entryId": "1158150",
+      "spelling": "異論",
+      "reading": "いろん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "異論【いろん】",
+      "meaning": "opinión diferente; objeción"
+    },
+    {
+      "entryId": "1400820",
+      "spelling": "相異",
+      "reading": "そうい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "相異【そうい】",
+      "meaning": "discrepancia; incongruencia"
+    },
+    {
+      "entryId": "1157580",
+      "spelling": "異議",
+      "reading": "いぎ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "異議【いぎ】",
+      "meaning": "objeción; disentir; protesta"
+    },
+    {
+      "entryId": "1157970",
+      "spelling": "異動",
+      "reading": "いどう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "異動【いどう】",
+      "meaning": "cambio"
+    },
+    {
+      "entryId": "1454690",
+      "spelling": "特異",
+      "reading": "とくい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "特異【とくい】",
+      "meaning": "único; singular"
+    },
+    {
+      "entryId": "1157700",
+      "spelling": "異質",
+      "reading": "いしつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "異質【いしつ】",
+      "meaning": "diferente (calidad, naturaleza); heterogéneo"
+    },
+    {
+      "entryId": "1157810",
+      "spelling": "異色",
+      "reading": "いしょく",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "異色【いしょく】",
+      "meaning": "único; color diferente; novedad; innovación"
+    },
+    {
+      "entryId": "1158040",
+      "spelling": "異変",
+      "reading": "いへん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "異変【いへん】",
+      "meaning": "accidente; desastre"
+    },
+    {
+      "entryId": "1159020",
+      "spelling": "異和感",
+      "reading": "いわかん",
+      "senseNumbers": [
+        7,
+        8
+      ],
+      "japanese": "異和感【いわかん】",
+      "meaning": "malestar; inquietud física; sentimiento inquietante; sentirse fuera de lugar; sentido de molestia"
+    },
+    {
+      "entryId": "1238700",
+      "spelling": "驚異",
+      "reading": "きょうい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "驚異【きょうい】",
+      "meaning": "maravilla"
+    },
+    {
+      "entryId": "1158110",
+      "spelling": "異名",
+      "reading": "いみょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "異名【いみょう】",
+      "meaning": "otro nombre; apodo; alias"
+    },
+    {
+      "entryId": "1158110",
+      "spelling": "異名",
+      "reading": "いめい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "異名【いめい】",
+      "meaning": "otro nombre; apodo; alias"
+    },
+    {
+      "entryId": "1158120",
+      "spelling": "異様",
+      "reading": "いよう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "異様【いよう】",
+      "meaning": "bizarro; extraño; excéntrico; raro; curioso"
+    },
+    {
+      "entryId": "1157860",
+      "spelling": "異性",
+      "reading": "いせい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "異性【いせい】",
+      "meaning": "sexo opuesto"
+    },
+    {
+      "entryId": "1157670",
+      "spelling": "異国",
+      "reading": "いこく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "異国【いこく】",
+      "meaning": "país extranjero; extranjero; exótico"
+    },
+    {
+      "entryId": "1587560",
+      "spelling": "異文",
+      "reading": "いぶん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "異文【いぶん】",
+      "meaning": "cuento extraño; otro cuento; variante (lectura); extraño reporte o cuento"
+    },
+    {
+      "entryId": "1291340",
+      "spelling": "差異",
+      "reading": "さい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "差異【さい】",
+      "meaning": "diferencia; disparidad"
+    },
+    {
+      "entryId": "1157800",
+      "spelling": "異状",
+      "reading": "いじょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "異状【いじょう】",
+      "meaning": "algo equivocado; accidente; cambio; anormalidad; aberración"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

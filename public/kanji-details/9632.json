@@ -1,0 +1,240 @@
+{
+  "character": "防",
+  "meanings": "defender, proteger, aguantar, prevenir, presa, banco",
+  "words": [
+    {
+      "entryId": "1520200",
+      "spelling": "防衛",
+      "reading": "ぼうえい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "防衛【ぼうえい】",
+      "meaning": "defensa; protección; autodefensa; defensa propia"
+    },
+    {
+      "entryId": "1287030",
+      "spelling": "国防",
+      "reading": "こくぼう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "国防【こくぼう】",
+      "meaning": "defensa nacional"
+    },
+    {
+      "entryId": "1520380",
+      "spelling": "防止",
+      "reading": "ぼうし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "防止【ぼうし】",
+      "meaning": "prevención"
+    },
+    {
+      "entryId": "1543660",
+      "spelling": "予防",
+      "reading": "よぼう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "予防【よぼう】",
+      "meaning": "prevención; medida preventiva"
+    },
+    {
+      "entryId": "1543660",
+      "spelling": "預防",
+      "reading": "よぼう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "預防【よぼう】",
+      "meaning": "prevención; medida preventiva"
+    },
+    {
+      "entryId": "1350340",
+      "spelling": "消防",
+      "reading": "しょうぼう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "消防【しょうぼう】",
+      "meaning": "exterminio de incendios; control de incendios"
+    },
+    {
+      "entryId": "1520360",
+      "spelling": "防災",
+      "reading": "ぼうさい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "防災【ぼうさい】",
+      "meaning": "prevención de catástrofes"
+    },
+    {
+      "entryId": "1519130",
+      "spelling": "防害",
+      "reading": "ぼうがい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "防害【ぼうがい】",
+      "meaning": "interferencia"
+    },
+    {
+      "entryId": "1520330",
+      "spelling": "防御",
+      "reading": "ぼうぎょ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "防御【ぼうぎょ】",
+      "meaning": "defensa; salvaguardia; protección"
+    },
+    {
+      "entryId": "1520330",
+      "spelling": "防禦",
+      "reading": "ぼうぎょ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "防禦【ぼうぎょ】",
+      "meaning": "defensa; salvaguardia; protección"
+    },
+    {
+      "entryId": "1710300",
+      "spelling": "防護",
+      "reading": "ぼうご",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "防護【ぼうご】",
+      "meaning": "protección"
+    },
+    {
+      "entryId": "1520570",
+      "spelling": "防犯",
+      "reading": "ぼうはん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "防犯【ぼうはん】",
+      "meaning": "prevención de la delincuencia"
+    },
+    {
+      "entryId": "1435350",
+      "spelling": "堤防",
+      "reading": "ていぼう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "堤防【ていぼう】",
+      "meaning": "dique; rompeolas"
+    },
+    {
+      "entryId": "1520260",
+      "spelling": "防火",
+      "reading": "ぼうか",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "防火【ぼうか】",
+      "meaning": "prevención de incendios; antifuego"
+    },
+    {
+      "entryId": "1520240",
+      "spelling": "防音",
+      "reading": "ぼうおん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "防音【ぼうおん】",
+      "meaning": "insonorización; aislamiento acústico"
+    },
+    {
+      "entryId": "1520490",
+      "spelling": "防水",
+      "reading": "ぼうすい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "防水【ぼうすい】",
+      "meaning": "a prueba de agua; impermeable"
+    },
+    {
+      "entryId": "1611520",
+      "spelling": "防戦",
+      "reading": "ぼうせん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "防戦【ぼうせん】",
+      "meaning": "guerra defensiva"
+    },
+    {
+      "entryId": "1710150",
+      "spelling": "防弾",
+      "reading": "ぼうだん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "防弾【ぼうだん】",
+      "meaning": "a prueba de balas; antibalas; a prueba de bombas; antibombas"
+    },
+    {
+      "entryId": "1520190",
+      "spelling": "防ぐ",
+      "reading": "ふせぐ",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "防ぐ【ふせぐ】",
+      "meaning": "protegerse; defenderse; impedir; prevenir; repeler; rechazar; alejar"
+    },
+    {
+      "entryId": "1350360",
+      "spelling": "消防車",
+      "reading": "しょうぼうしゃ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "消防車【しょうぼうしゃ】",
+      "meaning": "autobomba"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

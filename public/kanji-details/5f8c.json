@@ -1,0 +1,242 @@
+{
+  "character": "後",
+  "meanings": "después, atrás, detrás, retrasarse",
+  "words": [
+    {
+      "entryId": "1268990",
+      "spelling": "午後",
+      "reading": "ごご",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "午後【ごご】",
+      "meaning": "la tarde; p.m; P.M."
+    },
+    {
+      "entryId": "1269320",
+      "spelling": "後",
+      "reading": "あと",
+      "senseNumbers": [
+        30
+      ],
+      "japanese": "後【あと】",
+      "meaning": "después; luego"
+    },
+    {
+      "entryId": "1289140",
+      "spelling": "今後",
+      "reading": "こんご",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "今後【こんご】",
+      "meaning": "de ahora en adelante"
+    },
+    {
+      "entryId": "1293810",
+      "spelling": "最後",
+      "reading": "さいご",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "最後【さいご】",
+      "meaning": "último; fin; conclusión"
+    },
+    {
+      "entryId": "1607450",
+      "spelling": "戦後",
+      "reading": "せんご",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "戦後【せんご】",
+      "meaning": "posguerra"
+    },
+    {
+      "entryId": "1270040",
+      "spelling": "後半",
+      "reading": "こうはん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "後半【こうはん】",
+      "meaning": "segunda mitad"
+    },
+    {
+      "entryId": "1430930",
+      "spelling": "直後",
+      "reading": "ちょくご",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "直後【ちょくご】",
+      "meaning": "justo despúes de"
+    },
+    {
+      "entryId": "1269470",
+      "spelling": "後援",
+      "reading": "こうえん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "後援【こうえん】",
+      "meaning": "patrocinio; apoyo"
+    },
+    {
+      "entryId": "1422020",
+      "spelling": "後れ",
+      "reading": "おくれ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "後れ【おくれ】",
+      "meaning": "retraso; demora"
+    },
+    {
+      "entryId": "1269590",
+      "spelling": "後継",
+      "reading": "こうけい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "後継【こうけい】",
+      "meaning": "sucesor"
+    },
+    {
+      "entryId": "1269990",
+      "spelling": "後任",
+      "reading": "こうにん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "後任【こうにん】",
+      "meaning": "sucesor"
+    },
+    {
+      "entryId": "1269880",
+      "spelling": "後退",
+      "reading": "こうたい",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "後退【こうたい】",
+      "meaning": "retroceso; marcha atrás; reculada; regresión; retirada"
+    },
+    {
+      "entryId": "1155100",
+      "spelling": "以後",
+      "reading": "いご",
+      "senseNumbers": [
+        11,
+        12
+      ],
+      "japanese": "以後【いご】",
+      "meaning": "en adelante; desde ahora; en lo sucesivo; en un futuro; de allí en adelante; desde (después de la forma -te del verbo); tras; desde (entonces)"
+    },
+    {
+      "entryId": "1155100",
+      "spelling": "已後",
+      "reading": "いご",
+      "senseNumbers": [
+        11,
+        12
+      ],
+      "japanese": "已後【いご】",
+      "meaning": "en adelante; desde ahora; en lo sucesivo; en un futuro; de allí en adelante; desde (después de la forma -te del verbo); tras; desde (entonces)"
+    },
+    {
+      "entryId": "1269410",
+      "spelling": "後",
+      "reading": "うしろ",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "後【うしろ】",
+      "meaning": "detrás; atrás; parte trasera; después"
+    },
+    {
+      "entryId": "1269410",
+      "spelling": "後ろ",
+      "reading": "うしろ",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "後ろ【うしろ】",
+      "meaning": "detrás; atrás; parte trasera; después"
+    },
+    {
+      "entryId": "1269540",
+      "spelling": "後期",
+      "reading": "こうき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "後期【こうき】",
+      "meaning": "post-; etapa posterior"
+    },
+    {
+      "entryId": "1392910",
+      "spelling": "前後",
+      "reading": "ぜんご",
+      "senseNumbers": [
+        22
+      ],
+      "japanese": "前後【ぜんご】",
+      "meaning": "antes y despúes; contenido; en medio"
+    },
+    {
+      "entryId": "1472730",
+      "spelling": "背後",
+      "reading": "はいご",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "背後【はいご】",
+      "meaning": "detrás"
+    },
+    {
+      "entryId": "1270010",
+      "spelling": "後輩",
+      "reading": "こうはい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "後輩【こうはい】",
+      "meaning": "sufijo que indica menor antigüedad que uno en el trabajo escuela etc"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

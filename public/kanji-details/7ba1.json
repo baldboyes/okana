@@ -1,0 +1,240 @@
+{
+  "character": "管",
+  "meanings": "tubería, tubo, caño, control, controlar, administrar",
+  "words": [
+    {
+      "entryId": "1214200",
+      "spelling": "管理",
+      "reading": "かんり",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "管理【かんり】",
+      "meaning": "controlar; dirigir; administrar; manejo de ~ (administración de ~)"
+    },
+    {
+      "entryId": "1577650",
+      "spelling": "管",
+      "reading": "かん",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "管【かん】",
+      "meaning": "tubo; tubería; caño; cañería"
+    },
+    {
+      "entryId": "1255180",
+      "spelling": "血管",
+      "reading": "けっかん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "血管【けっかん】",
+      "meaning": "vaso sanguíneo"
+    },
+    {
+      "entryId": "1513320",
+      "spelling": "保管",
+      "reading": "ほかん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "保管【ほかん】",
+      "meaning": "custodia; almacén; (~suru) mantener; consevar"
+    },
+    {
+      "entryId": "1214160",
+      "spelling": "管制",
+      "reading": "かんせい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "管制【かんせい】",
+      "meaning": "control; regulación"
+    },
+    {
+      "entryId": "1214090",
+      "spelling": "管轄",
+      "reading": "かんかつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "管轄【かんかつ】",
+      "meaning": "jurisdicción; competencia; autoridad; poder; facultad; control"
+    },
+    {
+      "entryId": "1343190",
+      "spelling": "所管",
+      "reading": "しょかん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "所管【しょかん】",
+      "meaning": "jurisdicción"
+    },
+    {
+      "entryId": "1158230",
+      "spelling": "移管",
+      "reading": "いかん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "移管【いかん】",
+      "meaning": "transferir el control"
+    },
+    {
+      "entryId": "1214110",
+      "spelling": "管区",
+      "reading": "かんく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "管区【かんく】",
+      "meaning": "jurisdicción"
+    },
+    {
+      "entryId": "1466140",
+      "spelling": "入国管理局",
+      "reading": "にゅうこくかんりきょく",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "入国管理局【にゅうこくかんりきょく】",
+      "meaning": "oficina de inmigración"
+    },
+    {
+      "entryId": "1214140",
+      "spelling": "管弦楽団",
+      "reading": "かんげんがくだん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "管弦楽団【かんげんがくだん】",
+      "meaning": "orquesta"
+    },
+    {
+      "entryId": "1214130",
+      "spelling": "管弦楽",
+      "reading": "かんげんがく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "管弦楽【かんげんがく】",
+      "meaning": "música orquestal"
+    },
+    {
+      "entryId": "1214130",
+      "spelling": "管絃楽",
+      "reading": "かんげんがく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "管絃楽【かんげんがく】",
+      "meaning": "música orquestal"
+    },
+    {
+      "entryId": "1222040",
+      "spelling": "気管支",
+      "reading": "きかんし",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "気管支【きかんし】",
+      "meaning": "bronquio"
+    },
+    {
+      "entryId": "1218910",
+      "spelling": "器管",
+      "reading": "きかん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "器管【きかん】",
+      "meaning": "órgano (del cuerpo); instrumento"
+    },
+    {
+      "entryId": "1010530",
+      "spelling": "只管",
+      "reading": "ひたすら",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "只管【ひたすら】",
+      "meaning": "asiduamente; interminablemente; nada pero; en serio; decidido"
+    },
+    {
+      "entryId": "1113680",
+      "spelling": "ブラウン管",
+      "reading": "ブラウンかん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "ブラウン管【ブラウンかん】",
+      "meaning": "la pequeña pantalla; la televisión"
+    },
+    {
+      "entryId": "1214260",
+      "spelling": "管理人",
+      "reading": "かんりにん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "管理人【かんりにん】",
+      "meaning": "mánager"
+    },
+    {
+      "entryId": "2868440",
+      "spelling": "管",
+      "reading": "くだ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "管【くだ】",
+      "meaning": "tubo; tubería; caño; cañería"
+    },
+    {
+      "entryId": "1214170",
+      "spelling": "管制塔",
+      "reading": "かんせいとう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "管制塔【かんせいとう】",
+      "meaning": "torre de control"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

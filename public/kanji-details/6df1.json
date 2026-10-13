@@ -1,0 +1,240 @@
+{
+  "character": "深",
+  "meanings": "profundo, hondo, profundizar, profundizar en",
+  "words": [
+    {
+      "entryId": "1362730",
+      "spelling": "深刻",
+      "reading": "しんこく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "深刻【しんこく】",
+      "meaning": "grave"
+    },
+    {
+      "entryId": "1362810",
+      "spelling": "深夜",
+      "reading": "しんや",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "深夜【しんや】",
+      "meaning": "tarde por la noche"
+    },
+    {
+      "entryId": "1362680",
+      "spelling": "深める",
+      "reading": "ふかめる",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "深める【ふかめる】",
+      "meaning": "profundizar; elevar; intensificar"
+    },
+    {
+      "entryId": "1657120",
+      "spelling": "水深",
+      "reading": "すいしん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "水深【すいしん】",
+      "meaning": "profundidad del agua"
+    },
+    {
+      "entryId": "1365250",
+      "spelling": "深切",
+      "reading": "しんせつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "深切【しんせつ】",
+      "meaning": "amable"
+    },
+    {
+      "entryId": "1362660",
+      "spelling": "深まる",
+      "reading": "ふかまる",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "深まる【ふかまる】",
+      "meaning": "profundizarse; elevarse; intensificarse"
+    },
+    {
+      "entryId": "1362670",
+      "spelling": "深み",
+      "reading": "ふかみ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "深み【ふかみ】",
+      "meaning": "profundidad; hondura"
+    },
+    {
+      "entryId": "1362670",
+      "spelling": "深味",
+      "reading": "ふかみ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "深味【ふかみ】",
+      "meaning": "profundidad; hondura"
+    },
+    {
+      "entryId": "1362640",
+      "spelling": "深い",
+      "reading": "ふかい",
+      "senseNumbers": [
+        21
+      ],
+      "japanese": "深い【ふかい】",
+      "meaning": "profundo"
+    },
+    {
+      "entryId": "1238420",
+      "spelling": "興味深い",
+      "reading": "きょうみぶかい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "興味深い【きょうみぶかい】",
+      "meaning": "muy interesante; de gran interés"
+    },
+    {
+      "entryId": "1279290",
+      "spelling": "深ける",
+      "reading": "ふける",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "深ける【ふける】",
+      "meaning": "hacerse tarde; avanzar (tiempo); pasar (tiempo)"
+    },
+    {
+      "entryId": "1362650",
+      "spelling": "深さ",
+      "reading": "ふかさ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "深さ【ふかさ】",
+      "meaning": "profundidad"
+    },
+    {
+      "entryId": "1546330",
+      "spelling": "用心深い",
+      "reading": "ようじんぶかい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "用心深い【ようじんぶかい】",
+      "meaning": "cauteloso; cuidadoso; precavido; vigilante; atento"
+    },
+    {
+      "entryId": "1599490",
+      "spelling": "情け深い",
+      "reading": "なさけぶかい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "情け深い【なさけぶかい】",
+      "meaning": "bondadoso; compasivo; misericordioso; cálido; caritativo; afectuoso; amistoso; benévolo"
+    },
+    {
+      "entryId": "1599490",
+      "spelling": "情深い",
+      "reading": "なさけぶかい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "情深い【なさけぶかい】",
+      "meaning": "bondadoso; compasivo; misericordioso; cálido; caritativo; afectuoso; amistoso; benévolo"
+    },
+    {
+      "entryId": "1606010",
+      "spelling": "夜深け",
+      "reading": "よふけ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "夜深け【よふけ】",
+      "meaning": "tarde por la noche"
+    },
+    {
+      "entryId": "1610330",
+      "spelling": "注意深い",
+      "reading": "ちゅういぶかい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "注意深い【ちゅういぶかい】",
+      "meaning": "cuidadoso; cauteloso"
+    },
+    {
+      "entryId": "1179570",
+      "spelling": "おく深い",
+      "reading": "おくふかい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "おく深い【おくふかい】",
+      "meaning": "profundo; intrincado"
+    },
+    {
+      "entryId": "1179570",
+      "spelling": "奥深い",
+      "reading": "おくふかい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "奥深い【おくふかい】",
+      "meaning": "profundo; intrincado"
+    },
+    {
+      "entryId": "1179570",
+      "spelling": "奥深い",
+      "reading": "おくぶかい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "奥深い【おくぶかい】",
+      "meaning": "profundo; intrincado"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

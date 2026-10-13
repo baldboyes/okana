@@ -1,0 +1,230 @@
+{
+  "character": "坊",
+  "meanings": "chico, muchacho, sacerdote",
+  "words": [
+    {
+      "entryId": "1383310",
+      "spelling": "赤ん坊",
+      "reading": "あかんぼ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "赤ん坊【あかんぼ】",
+      "meaning": "bebé"
+    },
+    {
+      "entryId": "1383310",
+      "spelling": "赤ん坊",
+      "reading": "あかんぼう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "赤ん坊【あかんぼう】",
+      "meaning": "bebé"
+    },
+    {
+      "entryId": "1599340",
+      "spelling": "泥坊",
+      "reading": "どろぼう",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "泥坊【どろぼう】",
+      "meaning": "ladrón"
+    },
+    {
+      "entryId": "1519050",
+      "spelling": "坊さん",
+      "reading": "ぼうさん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "坊さん【ぼうさん】",
+      "meaning": "monje budista; persona calva"
+    },
+    {
+      "entryId": "1519080",
+      "spelling": "坊主",
+      "reading": "ぼうず",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "坊主【ぼうず】",
+      "meaning": "monje budista; persona calva"
+    },
+    {
+      "entryId": "1519080",
+      "spelling": "坊主",
+      "reading": "ぼんず",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "坊主【ぼんず】",
+      "meaning": "monje budista; persona calva"
+    },
+    {
+      "entryId": "1603720",
+      "spelling": "坊ちゃん",
+      "reading": "ぼっちゃん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "坊ちゃん【ぼっちゃん】",
+      "meaning": "niño; muchacho; pequeño; hijo"
+    },
+    {
+      "entryId": "1603720",
+      "spelling": "坊っちゃん",
+      "reading": "ぼっちゃん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "坊っちゃん【ぼっちゃん】",
+      "meaning": "niño; muchacho; pequeño; hijo"
+    },
+    {
+      "entryId": "1360320",
+      "spelling": "寐坊",
+      "reading": "ねぼう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "寐坊【ねぼう】",
+      "meaning": "dormir hasta tarde"
+    },
+    {
+      "entryId": "1360320",
+      "spelling": "寝坊",
+      "reading": "ねぼう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "寝坊【ねぼう】",
+      "meaning": "dormir hasta tarde"
+    },
+    {
+      "entryId": "1612830",
+      "spelling": "お坊さん",
+      "reading": "おぼうさん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "お坊さん【おぼうさん】",
+      "meaning": "monje budista"
+    },
+    {
+      "entryId": "1612830",
+      "spelling": "御坊さん",
+      "reading": "おぼうさん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "御坊さん【おぼうさん】",
+      "meaning": "monje budista"
+    },
+    {
+      "entryId": "1519060",
+      "spelling": "坊や",
+      "reading": "ぼうや",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "坊や【ぼうや】",
+      "meaning": "muchacho; chico"
+    },
+    {
+      "entryId": "1637600",
+      "spelling": "暴れん坊",
+      "reading": "あばれんぼう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "暴れん坊【あばれんぼう】",
+      "meaning": "chulo; que hace lo que le viene en gana"
+    },
+    {
+      "entryId": "1790040",
+      "spelling": "あまえん坊",
+      "reading": "あまえんぼう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "あまえん坊【あまえんぼう】",
+      "meaning": "mimado; mimoso; zalamero"
+    },
+    {
+      "entryId": "1790040",
+      "spelling": "甘えん坊",
+      "reading": "あまえんぼう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "甘えん坊【あまえんぼう】",
+      "meaning": "mimado; mimoso; zalamero"
+    },
+    {
+      "entryId": "1298460",
+      "spelling": "桜ん坊",
+      "reading": "さくらんぼ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "桜ん坊【さくらんぼ】",
+      "meaning": "cereza (eng: cherry); cereza"
+    },
+    {
+      "entryId": "1298460",
+      "spelling": "桜ん坊",
+      "reading": "さくらんぼう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "桜ん坊【さくらんぼう】",
+      "meaning": "cereza (eng: cherry); cereza"
+    },
+    {
+      "entryId": "1428410",
+      "spelling": "朝寝坊",
+      "reading": "あさねぼう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "朝寝坊【あさねぼう】",
+      "meaning": "levantarse tarde; quedarse dormido"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "character": "掃",
+  "meanings": "cepillo, barrer, arrastrar con todo",
+  "words": [
+    {
+      "entryId": "1378320",
+      "spelling": "清掃",
+      "reading": "せいそう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "清掃【せいそう】",
+      "meaning": "limpieza"
+    },
+    {
+      "entryId": "1399790",
+      "spelling": "掃除",
+      "reading": "そうじ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "掃除【そうじ】",
+      "meaning": "limpieza; hacer la limpieza; limpiar"
+    },
+    {
+      "entryId": "1164350",
+      "spelling": "一掃",
+      "reading": "いっそう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "一掃【いっそう】",
+      "meaning": "arrasar algo; hacer borrón y cuenta nueva"
+    },
+    {
+      "entryId": "1501620",
+      "spelling": "掃う",
+      "reading": "はらう",
+      "senseNumbers": [
+        26,
+        27
+      ],
+      "japanese": "掃う【はらう】",
+      "meaning": "pagar; cepillar; limpiar"
+    },
+    {
+      "entryId": "1596390",
+      "spelling": "掃除器",
+      "reading": "そうじき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "掃除器【そうじき】",
+      "meaning": "aspiradora"
+    },
+    {
+      "entryId": "1596390",
+      "spelling": "掃除機",
+      "reading": "そうじき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "掃除機【そうじき】",
+      "meaning": "aspiradora"
+    },
+    {
+      "entryId": "1399760",
+      "spelling": "掃く",
+      "reading": "はく",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "掃く【はく】",
+      "meaning": "barrer; cepillar; recoger"
+    },
+    {
+      "entryId": "1414390",
+      "spelling": "大掃除",
+      "reading": "おおそうじ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "大掃除【おおそうじ】",
+      "meaning": "limpieza general"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

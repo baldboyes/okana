@@ -1,0 +1,240 @@
+{
+  "character": "期",
+  "meanings": "período, plazo, intención, propósito",
+  "words": [
+    {
+      "entryId": "1220550",
+      "spelling": "期間",
+      "reading": "きかん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "期間【きかん】",
+      "meaning": "periodo"
+    },
+    {
+      "entryId": "1220570",
+      "spelling": "期待",
+      "reading": "きたい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "期待【きたい】",
+      "meaning": "esperar que; tener la esperanza de; tener expectativas de; expectación; anticipación; esperanza"
+    },
+    {
+      "entryId": "1316040",
+      "spelling": "時期",
+      "reading": "じき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "時期【じき】",
+      "meaning": "temporada"
+    },
+    {
+      "entryId": "1400190",
+      "spelling": "早期",
+      "reading": "そうき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "早期【そうき】",
+      "meaning": "durante el período inicial; temprano"
+    },
+    {
+      "entryId": "1429850",
+      "spelling": "長期",
+      "reading": "ちょうき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "長期【ちょうき】",
+      "meaning": "período de tiempo largo; largo período de tiempo"
+    },
+    {
+      "entryId": "1220560",
+      "spelling": "期限",
+      "reading": "きげん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "期限【きげん】",
+      "meaning": "término; periodo; período"
+    },
+    {
+      "entryId": "1435490",
+      "spelling": "定期",
+      "reading": "ていき",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "定期【ていき】",
+      "meaning": "plazo; período"
+    },
+    {
+      "entryId": "1467190",
+      "spelling": "任期",
+      "reading": "にんき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "任期【にんき】",
+      "meaning": "término; mandato"
+    },
+    {
+      "entryId": "1418640",
+      "spelling": "短期",
+      "reading": "たんき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "短期【たんき】",
+      "meaning": "corto plazo"
+    },
+    {
+      "entryId": "1452030",
+      "spelling": "同期",
+      "reading": "どうき",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "同期【どうき】",
+      "meaning": "sincronización; mismo período"
+    },
+    {
+      "entryId": "1392750",
+      "spelling": "前期",
+      "reading": "ぜんき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "前期【ぜんき】",
+      "meaning": "período anterior"
+    },
+    {
+      "entryId": "1176430",
+      "spelling": "延期",
+      "reading": "えんき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "延期【えんき】",
+      "meaning": "aplazamiento; prorrogación; prorroga; aplazar; prorrogar; posponer"
+    },
+    {
+      "entryId": "1269540",
+      "spelling": "後期",
+      "reading": "こうき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "後期【こうき】",
+      "meaning": "post-; etapa posterior"
+    },
+    {
+      "entryId": "1342630",
+      "spelling": "初期",
+      "reading": "しょき",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "初期【しょき】",
+      "meaning": "principio; fase inicial"
+    },
+    {
+      "entryId": "1604040",
+      "spelling": "末期",
+      "reading": "まっき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "末期【まっき】",
+      "meaning": "terminal (enfermedad)"
+    },
+    {
+      "entryId": "1429900",
+      "spelling": "長期的",
+      "reading": "ちょうきてき",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "長期的【ちょうきてき】",
+      "meaning": "largo plazo"
+    },
+    {
+      "entryId": "1220610",
+      "spelling": "期日",
+      "reading": "きじつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "期日【きじつ】",
+      "meaning": "fecha de plazo"
+    },
+    {
+      "entryId": "1220610",
+      "spelling": "期日",
+      "reading": "きにち",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "期日【きにち】",
+      "meaning": "fecha de plazo"
+    },
+    {
+      "entryId": "1220610",
+      "spelling": "期日",
+      "reading": "ごじつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "期日【ごじつ】",
+      "meaning": "fecha de plazo"
+    },
+    {
+      "entryId": "1590470",
+      "spelling": "劃期的",
+      "reading": "かっきてき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "劃期的【かっきてき】",
+      "meaning": "inaudito; sin precedentes"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

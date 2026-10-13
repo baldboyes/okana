@@ -1,0 +1,241 @@
+{
+  "character": "科",
+  "meanings": "departamento, curso, materia, falta, delito",
+  "words": [
+    {
+      "entryId": "1192700",
+      "spelling": "科学",
+      "reading": "かがく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "科学【かがく】",
+      "meaning": "ciencia"
+    },
+    {
+      "entryId": "1192700",
+      "spelling": "科學",
+      "reading": "かがく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "科學【かがく】",
+      "meaning": "ciencia"
+    },
+    {
+      "entryId": "1237020",
+      "spelling": "教科書",
+      "reading": "きょうかしょ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "教科書【きょうかしょ】",
+      "meaning": "libro de texto"
+    },
+    {
+      "entryId": "1206590",
+      "spelling": "学科",
+      "reading": "がっか",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "学科【がっか】",
+      "meaning": "objeto de estudio; tema de estudio"
+    },
+    {
+      "entryId": "1203380",
+      "spelling": "外科",
+      "reading": "げか",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "外科【げか】",
+      "meaning": "quirúrgico"
+    },
+    {
+      "entryId": "1159770",
+      "spelling": "医科",
+      "reading": "いか",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "医科【いか】",
+      "meaning": "ciencia médica; departamento médico"
+    },
+    {
+      "entryId": "1192730",
+      "spelling": "科学技術庁",
+      "reading": "かがくぎじゅつちょう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "科学技術庁【かがくぎじゅつちょう】",
+      "meaning": "Agencia de Ciencia y Tecnología"
+    },
+    {
+      "entryId": "1192750",
+      "spelling": "科学者",
+      "reading": "かがくしゃ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "科学者【かがくしゃ】",
+      "meaning": "científico"
+    },
+    {
+      "entryId": "1549900",
+      "spelling": "理科",
+      "reading": "りか",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "理科【りか】",
+      "meaning": "ciencia"
+    },
+    {
+      "entryId": "1590600",
+      "spelling": "科目",
+      "reading": "かもく",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "科目【かもく】",
+      "meaning": "materia (escuela); asignatura; curso; currículo"
+    },
+    {
+      "entryId": "1457830",
+      "spelling": "内科",
+      "reading": "ないか",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "内科【ないか】",
+      "meaning": "medicina interna"
+    },
+    {
+      "entryId": "1237010",
+      "spelling": "教科",
+      "reading": "きょうか",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "教科【きょうか】",
+      "meaning": "curso; materia"
+    },
+    {
+      "entryId": "1192680",
+      "spelling": "科",
+      "reading": "か",
+      "senseNumbers": [
+        16,
+        17
+      ],
+      "japanese": "科【か】",
+      "meaning": "departamento; sección; (taxonomía) familia"
+    },
+    {
+      "entryId": "1313110",
+      "spelling": "歯科",
+      "reading": "しか",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "歯科【しか】",
+      "meaning": "odontología"
+    },
+    {
+      "entryId": "1303850",
+      "spelling": "産婦人科",
+      "reading": "さんふじんか",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "産婦人科【さんふじんか】",
+      "meaning": "departamento de maternidad y ginecología; departamento de obstetricia y ginecología"
+    },
+    {
+      "entryId": "1348200",
+      "spelling": "小児科",
+      "reading": "しょうにか",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "小児科【しょうにか】",
+      "meaning": "pediatría"
+    },
+    {
+      "entryId": "1313140",
+      "spelling": "歯科医師",
+      "reading": "しかいし",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "歯科医師【しかいし】",
+      "meaning": "dentista"
+    },
+    {
+      "entryId": "1278000",
+      "spelling": "工科",
+      "reading": "こうか",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "工科【こうか】",
+      "meaning": "curso de ingeniería"
+    },
+    {
+      "entryId": "1322720",
+      "spelling": "社会科学",
+      "reading": "しゃかいかがく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "社会科学【しゃかいかがく】",
+      "meaning": "ciencias sociales"
+    },
+    {
+      "entryId": "1203390",
+      "spelling": "外科医",
+      "reading": "げかい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "外科医【げかい】",
+      "meaning": "cirujano"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

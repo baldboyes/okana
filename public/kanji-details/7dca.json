@@ -1,0 +1,145 @@
+{
+  "character": "緊",
+  "meanings": "severo, estricto, tensar, apretar, apremiante, urgente",
+  "words": [
+    {
+      "entryId": "1241850",
+      "spelling": "緊急",
+      "reading": "きんきゅう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "緊急【きんきゅう】",
+      "meaning": "urgente; emergencia"
+    },
+    {
+      "entryId": "1241880",
+      "spelling": "緊張",
+      "reading": "きんちょう",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "緊張【きんちょう】",
+      "meaning": "tensión; tensión mental; nerviosismo; ponerse tenso; ponerse nervioso; enervarse"
+    },
+    {
+      "entryId": "1241910",
+      "spelling": "緊密",
+      "reading": "きんみつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "緊密【きんみつ】",
+      "meaning": "íntimo; estrecho"
+    },
+    {
+      "entryId": "1241890",
+      "spelling": "緊迫",
+      "reading": "きんぱく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "緊迫【きんぱく】",
+      "meaning": "tensión"
+    },
+    {
+      "entryId": "1241870",
+      "spelling": "緊縮",
+      "reading": "きんしゅく",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "緊縮【きんしゅく】",
+      "meaning": "restricción; reducción; limitación"
+    },
+    {
+      "entryId": "1257110",
+      "spelling": "緊い",
+      "reading": "かたい",
+      "senseNumbers": [
+        36
+      ],
+      "japanese": "緊い【かたい】",
+      "meaning": "duro; sólido; duro (al tacto)"
+    },
+    {
+      "entryId": "1152700",
+      "spelling": "握り緊める",
+      "reading": "にぎりしめる",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "握り緊める【にぎりしめる】",
+      "meaning": "agarrar duramente"
+    },
+    {
+      "entryId": "1436560",
+      "spelling": "緊まる",
+      "reading": "しまる",
+      "senseNumbers": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "japanese": "緊まる【しまる】",
+      "meaning": "cerrarse; estar cerrado; estar con llave; cerrar; cerrar con llave; apretar; estar apretado; volverse sobrio; ponerse tenso; tensarse; restringirse los gastos; ahorrar; economizar"
+    },
+    {
+      "entryId": "1010500",
+      "spelling": "緊々",
+      "reading": "ひしひし",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "緊々【ひしひし】",
+      "meaning": "ruido de leves pisadas; sentir vivamente"
+    },
+    {
+      "entryId": "1010500",
+      "spelling": "緊緊",
+      "reading": "ひしひし",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "緊緊【ひしひし】",
+      "meaning": "ruido de leves pisadas; sentir vivamente"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

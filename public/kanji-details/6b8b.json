@@ -1,0 +1,240 @@
+{
+  "character": "残",
+  "meanings": "resto, balance, quedar, dejar",
+  "words": [
+    {
+      "entryId": "1304480",
+      "spelling": "残り",
+      "reading": "のこり",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "残り【のこり】",
+      "meaning": "resto; residuo; restantes; sobra"
+    },
+    {
+      "entryId": "1304680",
+      "spelling": "残念",
+      "reading": "ざんねん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "残念【ざんねん】",
+      "meaning": "deplorable; mala suerte; (una) pena; (una) lástima; desilusión; decepción"
+    },
+    {
+      "entryId": "1600260",
+      "spelling": "残す",
+      "reading": "のこす",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "残す【のこす】",
+      "meaning": "dejar atrás; legar; salvar; reservar"
+    },
+    {
+      "entryId": "1304590",
+      "spelling": "残高",
+      "reading": "ざんだか",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "残高【ざんだか】",
+      "meaning": "balance (banco); saldo"
+    },
+    {
+      "entryId": "1304560",
+      "spelling": "残業",
+      "reading": "ざんぎょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "残業【ざんぎょう】",
+      "meaning": "horas extra; prórroga"
+    },
+    {
+      "entryId": "1830250",
+      "spelling": "いき残り",
+      "reading": "いきのこり",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "いき残り【いきのこり】",
+      "meaning": "superviviente"
+    },
+    {
+      "entryId": "1830250",
+      "spelling": "生き残り",
+      "reading": "いきのこり",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "生き残り【いきのこり】",
+      "meaning": "superviviente"
+    },
+    {
+      "entryId": "1830250",
+      "spelling": "生残り",
+      "reading": "いきのこり",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "生残り【いきのこり】",
+      "meaning": "superviviente"
+    },
+    {
+      "entryId": "1326740",
+      "spelling": "とり残す",
+      "reading": "とりのこす",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "とり残す【とりのこす】",
+      "meaning": "dejar atrás"
+    },
+    {
+      "entryId": "1326740",
+      "spelling": "取り残す",
+      "reading": "とりのこす",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "取り残す【とりのこす】",
+      "meaning": "dejar atrás"
+    },
+    {
+      "entryId": "1326740",
+      "spelling": "取残す",
+      "reading": "とりのこす",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "取残す【とりのこす】",
+      "meaning": "dejar atrás"
+    },
+    {
+      "entryId": "1304600",
+      "spelling": "残刻",
+      "reading": "ざんこく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "残刻【ざんこく】",
+      "meaning": "crueldad; severidad"
+    },
+    {
+      "entryId": "1304600",
+      "spelling": "残酷",
+      "reading": "ざんこく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "残酷【ざんこく】",
+      "meaning": "crueldad; severidad"
+    },
+    {
+      "entryId": "1530010",
+      "spelling": "無残",
+      "reading": "むざん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "無残【むざん】",
+      "meaning": "crueldad; atrocidad; (a) sangre fría; tragedia; miseria"
+    },
+    {
+      "entryId": "1304510",
+      "spelling": "残る",
+      "reading": "のこる",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "残る【のこる】",
+      "meaning": "quedar; dejar atrás; quedarse"
+    },
+    {
+      "entryId": "1611130",
+      "spelling": "残らず",
+      "reading": "のこらず",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "残らず【のこらず】",
+      "meaning": "totalmente; sin excepción"
+    },
+    {
+      "entryId": "1531530",
+      "spelling": "名残",
+      "reading": "なごり",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "名残【なごり】",
+      "meaning": "remanente"
+    },
+    {
+      "entryId": "1531530",
+      "spelling": "名残り",
+      "reading": "なごり",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "名残り【なごり】",
+      "meaning": "remanente"
+    },
+    {
+      "entryId": "1304620",
+      "spelling": "残暑",
+      "reading": "ざんしょ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "残暑【ざんしょ】",
+      "meaning": "calor veraniego persistente"
+    },
+    {
+      "entryId": "1531540",
+      "spelling": "名残り惜しい",
+      "reading": "なごりおしい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "名残り惜しい【なごりおしい】",
+      "meaning": "a regañadientes; lamentablemente"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

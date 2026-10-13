@@ -1,0 +1,242 @@
+{
+  "character": "禁",
+  "meanings": "prohibición, proscripción, prohibir",
+  "words": [
+    {
+      "entryId": "1241550",
+      "spelling": "禁止",
+      "reading": "きんし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "禁止【きんし】",
+      "meaning": "impedimento; veda; restricción; prohibición; prohibir; vetar; vedar"
+    },
+    {
+      "entryId": "1241490",
+      "spelling": "禁烟",
+      "reading": "きんえん",
+      "senseNumbers": [
+        13,
+        14
+      ],
+      "japanese": "禁烟【きんえん】",
+      "meaning": "¡No fumar!; Prohibido Fumar; abstenerse de fumar"
+    },
+    {
+      "entryId": "1241490",
+      "spelling": "禁煙",
+      "reading": "きんえん",
+      "senseNumbers": [
+        13,
+        14
+      ],
+      "japanese": "禁煙【きんえん】",
+      "meaning": "¡No fumar!; Prohibido Fumar; abstenerse de fumar"
+    },
+    {
+      "entryId": "1198950",
+      "spelling": "解禁",
+      "reading": "かいきん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "解禁【かいきん】",
+      "meaning": "levantamiento de una prohibición"
+    },
+    {
+      "entryId": "1241670",
+      "spelling": "禁輸",
+      "reading": "きんゆ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "禁輸【きんゆ】",
+      "meaning": "embargo"
+    },
+    {
+      "entryId": "1213610",
+      "spelling": "監禁",
+      "reading": "かんきん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "監禁【かんきん】",
+      "meaning": "reclusión; confinamiento; privación de la libertad"
+    },
+    {
+      "entryId": "1241540",
+      "spelling": "禁固",
+      "reading": "きんこ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "禁固【きんこ】",
+      "meaning": "reclusión; internamiento; privación de libertad; encarcelamiento; encarcelación"
+    },
+    {
+      "entryId": "1241540",
+      "spelling": "禁錮",
+      "reading": "きんこ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "禁錮【きんこ】",
+      "meaning": "reclusión; internamiento; privación de libertad; encarcelamiento; encarcelación"
+    },
+    {
+      "entryId": "1241470",
+      "spelling": "禁じる",
+      "reading": "きんじる",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "禁じる【きんじる】",
+      "meaning": "prohibir"
+    },
+    {
+      "entryId": "1241660",
+      "spelling": "禁物",
+      "reading": "きんもつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "禁物【きんもつ】",
+      "meaning": "tabú; cosa prohibida"
+    },
+    {
+      "entryId": "1241480",
+      "spelling": "禁ずる",
+      "reading": "きんずる",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "禁ずる【きんずる】",
+      "meaning": "prohibir"
+    },
+    {
+      "entryId": "1241570",
+      "spelling": "禁酒",
+      "reading": "きんしゅ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "禁酒【きんしゅ】",
+      "meaning": "prohibición (alcohólica)"
+    },
+    {
+      "entryId": "1241530",
+      "spelling": "禁句",
+      "reading": "きんく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "禁句【きんく】",
+      "meaning": "palabra tabú"
+    },
+    {
+      "entryId": "1597010",
+      "spelling": "立ち入り禁止",
+      "reading": "たちいりきんし",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "立ち入り禁止【たちいりきんし】",
+      "meaning": "prohibido el paso"
+    },
+    {
+      "entryId": "1597010",
+      "spelling": "立ち入禁止",
+      "reading": "たちいりきんし",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "立ち入禁止【たちいりきんし】",
+      "meaning": "prohibido el paso"
+    },
+    {
+      "entryId": "1597010",
+      "spelling": "立入り禁止",
+      "reading": "たちいりきんし",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "立入り禁止【たちいりきんし】",
+      "meaning": "prohibido el paso"
+    },
+    {
+      "entryId": "1597010",
+      "spelling": "立入禁止",
+      "reading": "たちいりきんし",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "立入禁止【たちいりきんし】",
+      "meaning": "prohibido el paso"
+    },
+    {
+      "entryId": "1609680",
+      "spelling": "禁欲的",
+      "reading": "きんよくてき",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "禁欲的【きんよくてき】",
+      "meaning": "abstemio"
+    },
+    {
+      "entryId": "1262590",
+      "spelling": "厳禁",
+      "reading": "げんきん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "厳禁【げんきん】",
+      "meaning": "prohibición estricta; prohibición rigurosa"
+    },
+    {
+      "entryId": "1241510",
+      "spelling": "禁忌",
+      "reading": "きんき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "禁忌【きんき】",
+      "meaning": "tabú"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

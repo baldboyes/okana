@@ -1,0 +1,120 @@
+{
+  "character": "網",
+  "meanings": "red, emboscada",
+  "words": [
+    {
+      "entryId": "1534380",
+      "spelling": "網",
+      "reading": "あみ",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "網【あみ】",
+      "meaning": "red"
+    },
+    {
+      "entryId": "1433410",
+      "spelling": "通信網",
+      "reading": "つうしんもう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "通信網【つうしんもう】",
+      "meaning": "red de comunicaciones"
+    },
+    {
+      "entryId": "1534440",
+      "spelling": "網膜",
+      "reading": "もうまく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "網膜【もうまく】",
+      "meaning": "retina"
+    },
+    {
+      "entryId": "1272430",
+      "spelling": "交通網",
+      "reading": "こうつうもう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "交通網【こうつうもう】",
+      "meaning": "red de tráfico"
+    },
+    {
+      "entryId": "1534390",
+      "spelling": "網戸",
+      "reading": "あみど",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "網戸【あみど】",
+      "meaning": "mosquitera; tela mosquitera"
+    },
+    {
+      "entryId": "1534450",
+      "spelling": "網羅",
+      "reading": "もうら",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "網羅【もうら】",
+      "meaning": "abarcar; cubrir; incluir; comprender"
+    },
+    {
+      "entryId": "1447360",
+      "spelling": "投網",
+      "reading": "とあみ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "投網【とあみ】",
+      "meaning": "atarraya; esparavel; red redonda para pescas que se usa lanzándola; especie de redejón; red triangular para cazar patos"
+    },
+    {
+      "entryId": "1447360",
+      "spelling": "投網",
+      "reading": "なげあみ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "投網【なげあみ】",
+      "meaning": "atarraya; esparavel; red redonda para pescas que se usa lanzándola; especie de redejón; red triangular para cazar patos"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

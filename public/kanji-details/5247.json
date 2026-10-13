@@ -1,0 +1,170 @@
+{
+  "character": "則",
+  "meanings": "regla, norma, ley, decisión",
+  "words": [
+    {
+      "entryId": "1262070",
+      "spelling": "原則",
+      "reading": "げんそく",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "原則【げんそく】",
+      "meaning": "principio; regla general; ley fundamental"
+    },
+    {
+      "entryId": "1223021",
+      "spelling": "規則",
+      "reading": "きそく",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "規則【きそく】",
+      "meaning": "regla"
+    },
+    {
+      "entryId": "1478100",
+      "spelling": "罰則",
+      "reading": "ばっそく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "罰則【ばっそく】",
+      "meaning": "código penal"
+    },
+    {
+      "entryId": "1279580",
+      "spelling": "校則",
+      "reading": "こうそく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "校則【こうそく】",
+      "meaning": "reglamento escolar"
+    },
+    {
+      "entryId": "1480650",
+      "spelling": "反則",
+      "reading": "はんそく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "反則【はんそく】",
+      "meaning": "falta; violación"
+    },
+    {
+      "entryId": "1480650",
+      "spelling": "犯則",
+      "reading": "はんそく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "犯則【はんそく】",
+      "meaning": "falta; violación"
+    },
+    {
+      "entryId": "1517380",
+      "spelling": "方則",
+      "reading": "ほうそく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "方則【ほうそく】",
+      "meaning": "ley; fundamento; principio"
+    },
+    {
+      "entryId": "1517380",
+      "spelling": "法則",
+      "reading": "ほうそく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "法則【ほうそく】",
+      "meaning": "ley; fundamento; principio"
+    },
+    {
+      "entryId": "1404090",
+      "spelling": "則する",
+      "reading": "そくする",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "則する【そくする】",
+      "meaning": "adaptar; conformar"
+    },
+    {
+      "entryId": "1491840",
+      "spelling": "不規則",
+      "reading": "ふきそく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "不規則【ふきそく】",
+      "meaning": "irregular"
+    },
+    {
+      "entryId": "1511300",
+      "spelling": "変則",
+      "reading": "へんそく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "変則【へんそく】",
+      "meaning": "irregularidad"
+    },
+    {
+      "entryId": "1404100",
+      "spelling": "則ち",
+      "reading": "すなわち",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "則ち【すなわち】",
+      "meaning": "es decir; o sea; esto es; vamos; en definitiva; en resumen; en otras palabras"
+    },
+    {
+      "entryId": "1206970",
+      "spelling": "学則",
+      "reading": "がくそく",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "学則【がくそく】",
+      "meaning": "reglamento escolar"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

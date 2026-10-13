@@ -1,0 +1,241 @@
+{
+  "character": "鉄",
+  "meanings": "hierro, acero",
+  "words": [
+    {
+      "entryId": "1437960",
+      "spelling": "鉄道",
+      "reading": "てつどう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "鉄道【てつどう】",
+      "meaning": "vía férrea"
+    },
+    {
+      "entryId": "1437780",
+      "spelling": "鉄",
+      "reading": "てつ",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "鉄【てつ】",
+      "meaning": "hierro"
+    },
+    {
+      "entryId": "1437880",
+      "spelling": "鉄鋼",
+      "reading": "てっこう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "鉄鋼【てっこう】",
+      "meaning": "hierro y acero"
+    },
+    {
+      "entryId": "1420900",
+      "spelling": "地下鉄",
+      "reading": "ちかてつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "地下鉄【ちかてつ】",
+      "meaning": "tren subterráneo; metro subterráneo"
+    },
+    {
+      "entryId": "1286870",
+      "spelling": "国鉄",
+      "reading": "こくてつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "国鉄【こくてつ】",
+      "meaning": "Ferrocarriles Nacionales"
+    },
+    {
+      "entryId": "1311340",
+      "spelling": "私鉄",
+      "reading": "してつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "私鉄【してつ】",
+      "meaning": "tren privado"
+    },
+    {
+      "entryId": "1601570",
+      "spelling": "引き鉄",
+      "reading": "ひきがね",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "引き鉄【ひきがね】",
+      "meaning": "gatillo"
+    },
+    {
+      "entryId": "1601570",
+      "spelling": "引鉄",
+      "reading": "ひきがね",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "引鉄【ひきがね】",
+      "meaning": "gatillo"
+    },
+    {
+      "entryId": "1437890",
+      "spelling": "鉄骨",
+      "reading": "てっこつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "鉄骨【てっこつ】",
+      "meaning": "marco de acero"
+    },
+    {
+      "entryId": "1437830",
+      "spelling": "鉄筋",
+      "reading": "てっきん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "鉄筋【てっきん】",
+      "meaning": "armazón de acero"
+    },
+    {
+      "entryId": "1380720",
+      "spelling": "製鉄",
+      "reading": "せいてつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "製鉄【せいてつ】",
+      "meaning": "siderúrgico"
+    },
+    {
+      "entryId": "1437920",
+      "spelling": "鉄製",
+      "reading": "てっせい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "鉄製【てっせい】",
+      "meaning": "hecho de hierro"
+    },
+    {
+      "entryId": "1437920",
+      "spelling": "鉄製",
+      "reading": "てつせい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "鉄製【てつせい】",
+      "meaning": "hecho de hierro"
+    },
+    {
+      "entryId": "1438030",
+      "spelling": "鉄棒",
+      "reading": "てつぼう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "鉄棒【てつぼう】",
+      "meaning": "varilla; barra (de acero)"
+    },
+    {
+      "entryId": "1438010",
+      "spelling": "鉄炮",
+      "reading": "てっぽう",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "鉄炮【てっぽう】",
+      "meaning": "fusil; rifle"
+    },
+    {
+      "entryId": "1438010",
+      "spelling": "鉄砲",
+      "reading": "てっぽう",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "鉄砲【てっぽう】",
+      "meaning": "fusil; rifle"
+    },
+    {
+      "entryId": "1626970",
+      "spelling": "非鉄金属",
+      "reading": "ひてつきんぞく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "非鉄金属【ひてつきんぞく】",
+      "meaning": "metales no ferrosos"
+    },
+    {
+      "entryId": "1437820",
+      "spelling": "鉄橋",
+      "reading": "てっきょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "鉄橋【てっきょう】",
+      "meaning": "puente de ferrocarril; puente de hierro"
+    },
+    {
+      "entryId": "1629420",
+      "spelling": "鉄葉",
+      "reading": "ブリキ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "鉄葉【ブリキ】",
+      "meaning": "hojalata"
+    },
+    {
+      "entryId": "1779760",
+      "spelling": "鉄鎚",
+      "reading": "かなづち",
+      "senseNumbers": [
+        14,
+        15
+      ],
+      "japanese": "鉄鎚【かなづち】",
+      "meaning": "martillo; nadador primerizo"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

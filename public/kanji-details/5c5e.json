@@ -1,0 +1,160 @@
+{
+  "character": "属",
+  "meanings": "subordinación, obediencia, pertenencia",
+  "words": [
+    {
+      "entryId": "1243040",
+      "spelling": "金属",
+      "reading": "きんぞく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "金属【きんぞく】",
+      "meaning": "metal precioso"
+    },
+    {
+      "entryId": "1343310",
+      "spelling": "所属",
+      "reading": "しょぞく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "所属【しょぞく】",
+      "meaning": "vinculado a; pertenecer a; miembro"
+    },
+    {
+      "entryId": "1672550",
+      "spelling": "無所属",
+      "reading": "むしょぞく",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "無所属【むしょぞく】",
+      "meaning": "independiente"
+    },
+    {
+      "entryId": "1602700",
+      "spelling": "付属",
+      "reading": "ふぞく",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "付属【ふぞく】",
+      "meaning": "anexo; pertenecer; estar ligado a; depender de; accesorios"
+    },
+    {
+      "entryId": "1602700",
+      "spelling": "附属",
+      "reading": "ふぞく",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "附属【ふぞく】",
+      "meaning": "anexo; pertenecer; estar ligado a; depender de; accesorios"
+    },
+    {
+      "entryId": "1405710",
+      "spelling": "属する",
+      "reading": "ぞくする",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "属する【ぞくする】",
+      "meaning": "pertenecer"
+    },
+    {
+      "entryId": "1221420",
+      "spelling": "帰属",
+      "reading": "きぞく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "帰属【きぞく】",
+      "meaning": "perteneciendo a"
+    },
+    {
+      "entryId": "1223490",
+      "spelling": "貴金属",
+      "reading": "ききんぞく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "貴金属【ききんぞく】",
+      "meaning": "metal precioso"
+    },
+    {
+      "entryId": "1357140",
+      "spelling": "属託",
+      "reading": "しょくたく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "属託【しょくたく】",
+      "meaning": "comisión; encargo; delegación"
+    },
+    {
+      "entryId": "1626970",
+      "spelling": "非鉄金属",
+      "reading": "ひてつきんぞく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "非鉄金属【ひてつきんぞく】",
+      "meaning": "metales no ferrosos"
+    },
+    {
+      "entryId": "1335340",
+      "spelling": "従属",
+      "reading": "じゅうぞく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "従属【じゅうぞく】",
+      "meaning": "subordinación; dependencia"
+    },
+    {
+      "entryId": "1473130",
+      "spelling": "配属",
+      "reading": "はいぞく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "配属【はいぞく】",
+      "meaning": "asignación"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

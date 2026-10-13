@@ -1,0 +1,131 @@
+{
+  "character": "零",
+  "meanings": "cero, nada, pequeño, derramar, desbordar, estropearse, hacerse ruinas",
+  "words": [
+    {
+      "entryId": "1557690",
+      "spelling": "零時",
+      "reading": "れいじ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "零時【れいじ】",
+      "meaning": "hora cero (medianoche)"
+    },
+    {
+      "entryId": "1609430",
+      "spelling": "落ち零れ",
+      "reading": "おちこぼれ",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "落ち零れ【おちこぼれ】",
+      "meaning": "sobras; desertor; rezagados"
+    },
+    {
+      "entryId": "1557630",
+      "spelling": "零",
+      "reading": "れい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "零【れい】",
+      "meaning": "cero"
+    },
+    {
+      "entryId": "1557660",
+      "spelling": "零下",
+      "reading": "れいか",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "零下【れいか】",
+      "meaning": "bajo cero"
+    },
+    {
+      "entryId": "2839962",
+      "spelling": "零",
+      "reading": "ゼロ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "零【ゼロ】",
+      "meaning": "Cero"
+    },
+    {
+      "entryId": "1557640",
+      "spelling": "零す",
+      "reading": "こぼす",
+      "senseNumbers": [
+        12,
+        13
+      ],
+      "japanese": "零す【こぼす】",
+      "meaning": "derramar; regar; quejarse; murmurar; refunfuñar"
+    },
+    {
+      "entryId": "1557650",
+      "spelling": "零れる",
+      "reading": "こぼれる",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "零れる【こぼれる】",
+      "meaning": "derramarse; regarse; infiltrarse"
+    },
+    {
+      "entryId": "1548540",
+      "spelling": "零落れる",
+      "reading": "おちぶれる",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "零落れる【おちぶれる】",
+      "meaning": "caer en la miseria; arruinarse"
+    },
+    {
+      "entryId": "1557710",
+      "spelling": "零点",
+      "reading": "れいてん",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "零点【れいてん】",
+      "meaning": "cero puntos; fracaso"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

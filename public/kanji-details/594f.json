@@ -1,0 +1,140 @@
+{
+  "character": "奏",
+  "meanings": "dirigirse al emperador, tocar un instrumento, completar",
+  "words": [
+    {
+      "entryId": "1607520",
+      "spelling": "演奏",
+      "reading": "えんそう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "演奏【えんそう】",
+      "meaning": "tocar (instrumento musical); interpretar o ejecutar una obra musical; interpretación musical; ejecutar; interpretar; tocar"
+    },
+    {
+      "entryId": "1235690",
+      "spelling": "協奏曲",
+      "reading": "きょうそうきょく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "協奏曲【きょうそうきょく】",
+      "meaning": "concierto"
+    },
+    {
+      "entryId": "1399490",
+      "spelling": "奏者",
+      "reading": "そうしゃ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "奏者【そうしゃ】",
+      "meaning": "instrumentista; músico"
+    },
+    {
+      "entryId": "1307270",
+      "spelling": "四重奏",
+      "reading": "しじゅうそう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "四重奏【しじゅうそう】",
+      "meaning": "cuarteto instrumental"
+    },
+    {
+      "entryId": "1285070",
+      "spelling": "合奏",
+      "reading": "がっそう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "合奏【がっそう】",
+      "meaning": "concierto"
+    },
+    {
+      "entryId": "1176970",
+      "spelling": "演奏会",
+      "reading": "えんそうかい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "演奏会【えんそうかい】",
+      "meaning": "concierto"
+    },
+    {
+      "entryId": "1638350",
+      "spelling": "五重奏",
+      "reading": "ごじゅうそう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "五重奏【ごじゅうそう】",
+      "meaning": "quinteto"
+    },
+    {
+      "entryId": "1399470",
+      "spelling": "奏でる",
+      "reading": "かなでる",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "奏でる【かなでる】",
+      "meaning": "tocar (instrumento)"
+    },
+    {
+      "entryId": "1300800",
+      "spelling": "三重奏",
+      "reading": "さんじゅうそう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "三重奏【さんじゅうそう】",
+      "meaning": "trío; terceto"
+    },
+    {
+      "entryId": "1462270",
+      "spelling": "二重奏",
+      "reading": "にじゅうそう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "二重奏【にじゅうそう】",
+      "meaning": "dúo instrumental"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

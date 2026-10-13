@@ -1,0 +1,240 @@
+{
+  "character": "神",
+  "meanings": "dios, alma",
+  "words": [
+    {
+      "entryId": "1379950",
+      "spelling": "精神",
+      "reading": "せいしん",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "精神【せいしん】",
+      "meaning": "mente; alma; corazón; espíritu; intención"
+    },
+    {
+      "entryId": "1364440",
+      "spelling": "神",
+      "reading": "かみ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "神【かみ】",
+      "meaning": "dios"
+    },
+    {
+      "entryId": "1153890",
+      "spelling": "安神",
+      "reading": "あんしん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "安神【あんしん】",
+      "meaning": "alivio; paz mental"
+    },
+    {
+      "entryId": "1364520",
+      "spelling": "神経",
+      "reading": "しんけい",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "神経【しんけい】",
+      "meaning": "nervio; sensibilidad"
+    },
+    {
+      "entryId": "1364670",
+      "spelling": "神社",
+      "reading": "じんしゃ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "神社【じんしゃ】",
+      "meaning": "Templo Sintoísta"
+    },
+    {
+      "entryId": "1364670",
+      "spelling": "神社",
+      "reading": "じんじゃ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "神社【じんじゃ】",
+      "meaning": "Templo Sintoísta"
+    },
+    {
+      "entryId": "1364500",
+      "spelling": "神宮",
+      "reading": "じんぐう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "神宮【じんぐう】",
+      "meaning": "templo shinto"
+    },
+    {
+      "entryId": "1364940",
+      "spelling": "神話",
+      "reading": "しんわ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "神話【しんわ】",
+      "meaning": "mito; leyenda"
+    },
+    {
+      "entryId": "1360750",
+      "spelling": "神身",
+      "reading": "しんしん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "神身【しんしん】",
+      "meaning": "mente y cuerpo"
+    },
+    {
+      "entryId": "1360750",
+      "spelling": "身神",
+      "reading": "しんしん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "身神【しんしん】",
+      "meaning": "mente y cuerpo"
+    },
+    {
+      "entryId": "1364920",
+      "spelling": "神さま",
+      "reading": "かみさま",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "神さま【かみさま】",
+      "meaning": "dios"
+    },
+    {
+      "entryId": "1364920",
+      "spelling": "神様",
+      "reading": "かみさま",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "神様【かみさま】",
+      "meaning": "dios"
+    },
+    {
+      "entryId": "1364860",
+      "spelling": "神父",
+      "reading": "しんぷ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "神父【しんぷ】",
+      "meaning": "sacerdote católico; padre"
+    },
+    {
+      "entryId": "1364480",
+      "spelling": "神楽",
+      "reading": "かぐら",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "神楽【かぐら】",
+      "meaning": "antigua música y danza Shinto"
+    },
+    {
+      "entryId": "1364600",
+      "spelling": "神経質",
+      "reading": "しんけいしつ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "神経質【しんけいしつ】",
+      "meaning": "nervioso; el nerviosismo"
+    },
+    {
+      "entryId": "1345210",
+      "spelling": "女神",
+      "reading": "めがみ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "女神【めがみ】",
+      "meaning": "diosa"
+    },
+    {
+      "entryId": "1345210",
+      "spelling": "妻神",
+      "reading": "めがみ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "妻神【めがみ】",
+      "meaning": "diosa"
+    },
+    {
+      "entryId": "1345210",
+      "spelling": "陰神",
+      "reading": "めがみ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "陰神【めがみ】",
+      "meaning": "diosa"
+    },
+    {
+      "entryId": "1751230",
+      "spelling": "精神障害",
+      "reading": "せいしんしょうがい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "精神障害【せいしんしょうがい】",
+      "meaning": "trastorno mental"
+    },
+    {
+      "entryId": "1364790",
+      "spelling": "神道",
+      "reading": "しんとう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "神道【しんとう】",
+      "meaning": "sintoísmo"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

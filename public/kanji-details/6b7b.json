@@ -1,0 +1,240 @@
+{
+  "character": "死",
+  "meanings": "muerte, morir",
+  "words": [
+    {
+      "entryId": "1310720",
+      "spelling": "死",
+      "reading": "し",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "死【し】",
+      "meaning": "muerte; deceso"
+    },
+    {
+      "entryId": "1310870",
+      "spelling": "死者",
+      "reading": "ししゃ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "死者【ししゃ】",
+      "meaning": "difunto; fallecido; muerto"
+    },
+    {
+      "entryId": "1470450",
+      "spelling": "脳死",
+      "reading": "のうし",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "脳死【のうし】",
+      "meaning": "muerte cerebral"
+    },
+    {
+      "entryId": "1310950",
+      "spelling": "死亡",
+      "reading": "しぼう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "死亡【しぼう】",
+      "meaning": "muerte; mortalidad (pérdida de vidas humanas)"
+    },
+    {
+      "entryId": "1310800",
+      "spelling": "死去",
+      "reading": "しきょ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "死去【しきょ】",
+      "meaning": "muerte"
+    },
+    {
+      "entryId": "1310810",
+      "spelling": "死刑",
+      "reading": "しけい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "死刑【しけい】",
+      "meaning": "pena de muerte; pena capital"
+    },
+    {
+      "entryId": "1601890",
+      "spelling": "必死",
+      "reading": "ひっし",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "必死【ひっし】",
+      "meaning": "muerte inevitable; desesperación; frenético; resultado inevitable; desesperadamente"
+    },
+    {
+      "entryId": "1310920",
+      "spelling": "死体",
+      "reading": "したい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "死体【したい】",
+      "meaning": "cadáver"
+    },
+    {
+      "entryId": "1310740",
+      "spelling": "死因",
+      "reading": "しいん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "死因【しいん】",
+      "meaning": "causa de muerte"
+    },
+    {
+      "entryId": "1310880",
+      "spelling": "死傷者",
+      "reading": "ししょうしゃ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "死傷者【ししょうしゃ】",
+      "meaning": "muertos y heridos"
+    },
+    {
+      "entryId": "1310990",
+      "spelling": "死亡率",
+      "reading": "しぼうりつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "死亡率【しぼうりつ】",
+      "meaning": "índice de mortalidad; tasa de mortalidad; mortalidad"
+    },
+    {
+      "entryId": "1153770",
+      "spelling": "安楽死",
+      "reading": "あんらくし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "安楽死【あんらくし】",
+      "meaning": "eutanasia"
+    },
+    {
+      "entryId": "1310820",
+      "spelling": "死刑囚",
+      "reading": "しけいしゅう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "死刑囚【しけいしゅう】",
+      "meaning": "criminales condenados a muerte"
+    },
+    {
+      "entryId": "1379060",
+      "spelling": "生死",
+      "reading": "しょうし",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "生死【しょうし】",
+      "meaning": "vida y muerte (o vida o muerte)"
+    },
+    {
+      "entryId": "1379060",
+      "spelling": "生死",
+      "reading": "しょうじ",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "生死【しょうじ】",
+      "meaning": "vida y muerte (o vida o muerte)"
+    },
+    {
+      "entryId": "1379060",
+      "spelling": "生死",
+      "reading": "せいし",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "生死【せいし】",
+      "meaning": "vida y muerte (o vida o muerte)"
+    },
+    {
+      "entryId": "1310770",
+      "spelling": "死活",
+      "reading": "しかつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "死活【しかつ】",
+      "meaning": "vida y muerte; vida o muerte"
+    },
+    {
+      "entryId": "1390250",
+      "spelling": "戦死",
+      "reading": "せんし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "戦死【せんし】",
+      "meaning": "muerto en combate"
+    },
+    {
+      "entryId": "1490300",
+      "spelling": "病死",
+      "reading": "びょうし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "病死【びょうし】",
+      "meaning": "deceso por enfermedad; muerte natural"
+    },
+    {
+      "entryId": "1421910",
+      "spelling": "致死",
+      "reading": "ちし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "致死【ちし】",
+      "meaning": "letal; mortal"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

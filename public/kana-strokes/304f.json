@@ -1,0 +1,30 @@
+{
+  "character": "く",
+  "script": "hiragana",
+  "viewBox": "0 0 1024 1024",
+  "coordinates": "svg-native-y-down",
+  "strokes": [
+    {
+      "ordinal": 1,
+      "parts": [
+        {
+          "id": "z12367d1",
+          "clipId": "z12367c1",
+          "outline": "M554 99C543 100 538 115 545 122C555 140 556 163 543 180C509 237 469 290 427 341C392 385 355 426 321 470C311 485 308 505 316 522C326 549 350 569 366 592C442 691 512 794 578 900C586 912 598 924 613 923C634 920 650 900 649 880C650 861 642 843 631 828C577 744 507 673 441 600C414 571 384 544 363 511C358 498 368 485 376 476C444 400 511 324 581 250C598 234 616 219 636 207C645 198 642 183 636 173C621 147 602 122 576 106C569 102 562 100 554 99Z",
+          "median": "M 561,111 605,180 337,479 346,523 625,884.9"
+        }
+      ]
+    }
+  ],
+  "provenance": {
+    "commit": "ec5e17cca76c87587790bcbce5ea0b4d4fb753d6",
+    "modifiedAt": "2026-10-02",
+    "license": "LGPL-3.0-or-later",
+    "sourceFilename": "12367.svg",
+    "sourceUrl": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12367.svg",
+    "sourceSha256": "36990f183f19e89d697b48df3de9aef80e44f47cf836242f6a471e279a69f25b",
+    "gitBlobSha1": "baac3fcdbf34016ac6c89ca7de5b5dbe5d000164",
+    "sourceHeader": "\nAnimCJK 2016-2026 Copyright FM-SH, https://github.com/parsimonhi/animCJK\nYou can redistribute and/or modify these files under the terms of the GNU\nLesser General Public License as published by the Free Software Foundation,\neither version 3 of the license, or (at your option) any later version. You\nshould have received a copy of this license (the file \"LGPL.txt\") along with\nthese files; if not, see https://www.gnu.org/licenses/.\n",
+    "notice": "Converted SVG outlines and median paths to grouped JSON without geometry changes by Okana on 2026-10-02, from AnimCJK ec5e17cca76c87587790bcbce5ea0b4d4fb753d6. Graphics remain LGPL-3.0-or-later; original copyright and notices are retained in sourceHeader and corresponding source SVG files."
+  }
+}

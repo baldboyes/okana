@@ -1,0 +1,240 @@
+{
+  "character": "務",
+  "meanings": "tarea, obligaciones, deber, cargo, servir, desempeñar un cargo",
+  "words": [
+    {
+      "entryId": "1204140",
+      "spelling": "外務省",
+      "reading": "がいむしょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "外務省【がいむしょう】",
+      "meaning": "Ministerio de Asuntos Exteriores"
+    },
+    {
+      "entryId": "1314270",
+      "spelling": "事務",
+      "reading": "じむ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "事務【じむ】",
+      "meaning": "trabajo de oficina"
+    },
+    {
+      "entryId": "1314400",
+      "spelling": "事務処",
+      "reading": "じむしょ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "事務処【じむしょ】",
+      "meaning": "oficina"
+    },
+    {
+      "entryId": "1314400",
+      "spelling": "事務所",
+      "reading": "じむしょ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "事務所【じむしょ】",
+      "meaning": "oficina"
+    },
+    {
+      "entryId": "1389870",
+      "spelling": "専務",
+      "reading": "せんむ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "専務【せんむ】",
+      "meaning": "administrador; director; gerente; función principal (de uno)"
+    },
+    {
+      "entryId": "1239540",
+      "spelling": "業務",
+      "reading": "ぎょうむ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "業務【ぎょうむ】",
+      "meaning": "deber; rutina; operación; negocio"
+    },
+    {
+      "entryId": "1204130",
+      "spelling": "外務",
+      "reading": "がいむ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "外務【がいむ】",
+      "meaning": "asuntos exteriores"
+    },
+    {
+      "entryId": "1225900",
+      "spelling": "義務",
+      "reading": "ぎむ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "義務【ぎむ】",
+      "meaning": "deber; obligación; responsabilidad"
+    },
+    {
+      "entryId": "1241070",
+      "spelling": "勤務",
+      "reading": "きんむ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "勤務【きんむ】",
+      "meaning": "servicio; función; trabajo"
+    },
+    {
+      "entryId": "1287150",
+      "spelling": "国務長官",
+      "reading": "こくむちょうかん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "国務長官【こくむちょうかん】",
+      "meaning": "Secretario de Estado"
+    },
+    {
+      "entryId": "1274820",
+      "spelling": "公務員",
+      "reading": "こうむいん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "公務員【こうむいん】",
+      "meaning": "funcionario público; empleado del gobierno"
+    },
+    {
+      "entryId": "1467260",
+      "spelling": "任務",
+      "reading": "にんむ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "任務【にんむ】",
+      "meaning": "misión; deber; obligación"
+    },
+    {
+      "entryId": "1297000",
+      "spelling": "財務",
+      "reading": "ざいむ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "財務【ざいむ】",
+      "meaning": "asuntos financieros"
+    },
+    {
+      "entryId": "2872052",
+      "spelling": "務める",
+      "reading": "つとめる",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "務める【つとめる】",
+      "meaning": "desempeñar; ejercer; hacerse cargo de; trabajar"
+    },
+    {
+      "entryId": "1287130",
+      "spelling": "国務省",
+      "reading": "こくむしょう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "国務省【こくむしょう】",
+      "meaning": "Departamento de Estado"
+    },
+    {
+      "entryId": "1517460",
+      "spelling": "法務省",
+      "reading": "ほうむしょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "法務省【ほうむしょう】",
+      "meaning": "Ministerio de Justicia"
+    },
+    {
+      "entryId": "1357580",
+      "spelling": "職務",
+      "reading": "しょくむ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "職務【しょくむ】",
+      "meaning": "funciones profesionales; deberes profesionales"
+    },
+    {
+      "entryId": "1287120",
+      "spelling": "国務",
+      "reading": "こくむ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "国務【こくむ】",
+      "meaning": "asuntos de estado"
+    },
+    {
+      "entryId": "1459250",
+      "spelling": "内務",
+      "reading": "ないむ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "内務【ないむ】",
+      "meaning": "asuntos internos; asuntos de interior"
+    },
+    {
+      "entryId": "1249820",
+      "spelling": "刑務所",
+      "reading": "けいむしょ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "刑務所【けいむしょ】",
+      "meaning": "prisión; cárcel; penitenciaria"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

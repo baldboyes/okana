@@ -1,0 +1,150 @@
+{
+  "character": "純",
+  "meanings": "puro, genuino, pureza, inocencia, tal como es",
+  "words": [
+    {
+      "entryId": "1417550",
+      "spelling": "単純",
+      "reading": "たんじゅん",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "単純【たんじゅん】",
+      "meaning": "sencillez; simplicidad; sencillo (simple; fácil)"
+    },
+    {
+      "entryId": "1341930",
+      "spelling": "純粋",
+      "reading": "じゅんすい",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "純粋【じゅんすい】",
+      "meaning": "puro; no adulterado"
+    },
+    {
+      "entryId": "1615490",
+      "spelling": "純",
+      "reading": "じゅん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "純【じゅん】",
+      "meaning": "puro; inocente; casto"
+    },
+    {
+      "entryId": "1341860",
+      "spelling": "純益",
+      "reading": "じゅんえき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "純益【じゅんえき】",
+      "meaning": "rendimiento neto; beneficio neto"
+    },
+    {
+      "entryId": "1341980",
+      "spelling": "純度",
+      "reading": "じゅんど",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "純度【じゅんど】",
+      "meaning": "pureza (de una sustancia)"
+    },
+    {
+      "entryId": "1341910",
+      "spelling": "純情",
+      "reading": "じゅんじょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "純情【じゅんじょう】",
+      "meaning": "inocencia; candidez; pureza de corazón; inocente; ingenuo; cándido; iluso"
+    },
+    {
+      "entryId": "1492790",
+      "spelling": "不純",
+      "reading": "ふじゅん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "不純【ふじゅん】",
+      "meaning": "impuro; adulterado"
+    },
+    {
+      "entryId": "1341920",
+      "spelling": "純心",
+      "reading": "じゅんしん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "純心【じゅんしん】",
+      "meaning": "pureza; sinceridad"
+    },
+    {
+      "entryId": "1341920",
+      "spelling": "純真",
+      "reading": "じゅんしん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "純真【じゅんしん】",
+      "meaning": "pureza; sinceridad"
+    },
+    {
+      "entryId": "1341870",
+      "spelling": "純化",
+      "reading": "じゅんか",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "純化【じゅんか】",
+      "meaning": "purificación"
+    },
+    {
+      "entryId": "1378230",
+      "spelling": "清純",
+      "reading": "せいじゅん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "清純【せいじゅん】",
+      "meaning": "pureza; inocencia; candor"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "character": "源",
+  "meanings": "fuente, origen",
+  "words": [
+    {
+      "entryId": "1312720",
+      "spelling": "資源",
+      "reading": "しげん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "資源【しげん】",
+      "meaning": "recursos"
+    },
+    {
+      "entryId": "1296810",
+      "spelling": "財源",
+      "reading": "ざいげん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "財源【ざいげん】",
+      "meaning": "fuente de ingresos; fondos"
+    },
+    {
+      "entryId": "1263360",
+      "spelling": "源",
+      "reading": "みなもと",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "源【みなもと】",
+      "meaning": "fuente; origen"
+    },
+    {
+      "entryId": "1443220",
+      "spelling": "電源",
+      "reading": "でんげん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "電源【でんげん】",
+      "meaning": "fuente de energía eléctrica"
+    },
+    {
+      "entryId": "1290160",
+      "spelling": "根源",
+      "reading": "こんげん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "根源【こんげん】",
+      "meaning": "raíz; origen; cimientos; base; principio"
+    },
+    {
+      "entryId": "1263380",
+      "spelling": "源泉",
+      "reading": "げんせん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "源泉【げんせん】",
+      "meaning": "fuente"
+    },
+    {
+      "entryId": "1591140",
+      "spelling": "起源",
+      "reading": "きげん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "起源【きげん】",
+      "meaning": "origen; comienzo; ascensión"
+    },
+    {
+      "entryId": "1371460",
+      "spelling": "水源",
+      "reading": "すいげん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "水源【すいげん】",
+      "meaning": "manantial"
+    },
+    {
+      "entryId": "1271090",
+      "spelling": "語源",
+      "reading": "ごげん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "語源【ごげん】",
+      "meaning": "etimología"
+    },
+    {
+      "entryId": "1272960",
+      "spelling": "光源",
+      "reading": "こうげん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "光源【こうげん】",
+      "meaning": "fuente luminosa"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

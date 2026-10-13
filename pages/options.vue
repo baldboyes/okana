@@ -177,7 +177,46 @@
         </div>
       </div>
     </div>
-    
+
+    <section aria-labelledby="source-credits-title" class="mt-10 mb-6 text-sm leading-relaxed text-gray-600">
+      <h2 id="source-credits-title" class="text-lg font-semibold text-gray-700 mb-3">Fuentes y créditos</h2>
+      <ul class="space-y-3">
+        <li>Listas de niveles y significados de práctica:
+          <a href="https://kanjikana.com/es/kanji/" target="_blank" rel="noopener noreferrer" class="text-blue-700 underline underline-offset-4">Kanjikana</a>
+          (<a href="https://kanjikana.com/es/credits" target="_blank" rel="noopener noreferrer" class="text-blue-700 underline underline-offset-4">créditos</a>).
+          Las palabras del detalle no se han copiado de sus páginas.</li>
+        <li>Significados del detalle:
+          <a href="https://www.edrdg.org/wiki/KANJIDIC_Project.html" target="_blank" rel="noopener noreferrer" class="text-blue-700 underline underline-offset-4">KANJIDIC2</a>,
+          Jim Breen y EDRDG. Español: Francisco Gutierrez y Gabriel Sanroman.
+          <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener noreferrer" class="text-blue-700 underline underline-offset-4">CC BY-SA 4.0</a>.</li>
+        <li>Palabras y lecturas:
+          <a href="https://www.edrdg.org/wiki/JMdict-EDICT_Dictionary_Project.html" target="_blank" rel="noopener noreferrer" class="text-blue-700 underline underline-offset-4">JMdict</a>,
+          Jim Breen, EDRDG y colaboradores
+          (<a href="https://www.edrdg.org/edrdg/licence.html" target="_blank" rel="noopener noreferrer" class="text-blue-700 underline underline-offset-4">licencia de los componentes japoneses: CC BY-SA 4.0</a>).
+          Traducciones españolas: HISPADIC y RUI, de Francisco Barberan;
+          <a href="https://www.edrdg.org/wwwjdic/wwwjdicinf.html#copyr_tag" target="_blank" rel="noopener noreferrer" class="text-blue-700 underline underline-offset-4">fuentes y condiciones de publicación de subconjuntos de WWWJDIC</a>
+          (<a href="https://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="noopener noreferrer" class="text-blue-700 underline underline-offset-4">CC BY-SA 3.0 para el material mostrado</a>).
+          Las traducciones conservan los derechos de sus compiladores.</li>
+        <li>Gráficos de trazos de Kanji:
+          <a href="https://github.com/parsimonhi/animCJK/tree/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6" target="_blank" rel="noopener noreferrer" class="text-blue-700 underline underline-offset-4">AnimCJK</a>,
+          © 2016–2026 FM-SH, derivados de MakeMeAHanzi y de las fuentes Arphic PL KaitiM GB y Big5.
+          Los gráficos locales derivados se ofrecen bajo la Arphic Public License (APL):
+          <a href="/kanji-strokes/COPYING.txt" target="_blank" rel="noopener noreferrer" class="text-blue-700 underline underline-offset-4">avisos originales</a> y
+          <a href="/kanji-strokes/ARPHICPL.TXT" target="_blank" rel="noopener noreferrer" class="text-blue-700 underline underline-offset-4">licencia APL</a>.
+          Se seleccionaron y convirtieron a archivos JSON el 1 de octubre de 2026, sin modificar la geometría.
+          Esta licencia corresponde a los gráficos, no al conjunto de la aplicación.</li>
+        <li>Gráficos de trazos de Hiragana y Katakana:
+          <a href="https://github.com/parsimonhi/animCJK/tree/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana" target="_blank" rel="noopener noreferrer" class="text-blue-700 underline underline-offset-4">AnimCJK, fuentes originales</a>,
+          © 2016–2026 FM-SH. Los 142 gráficos seleccionados y convertidos a JSON conservan la geometría original y se ofrecen bajo LGPL-3.0-o-posterior, distinta de la APL de Kanji:
+          <a href="/kana-strokes/COPYING.txt" target="_blank" rel="noopener noreferrer" class="text-blue-700 underline underline-offset-4">avisos originales</a>,
+          <a href="/kana-strokes/LGPL.txt" target="_blank" rel="noopener noreferrer" class="text-blue-700 underline underline-offset-4">licencia LGPL v3</a> y
+          <a href="/kana-strokes/GPL-3.0.txt" target="_blank" rel="noopener noreferrer" class="text-blue-700 underline underline-offset-4">texto GPL v3 incorporado</a>.
+          Los SVG originales se conservan en <a href="/kana-strokes/source/12354.svg" target="_blank" rel="noopener noreferrer" class="text-blue-700 underline underline-offset-4">el corpus local (ejemplo: あ)</a>.
+          Esta licencia corresponde a los gráficos de kana, no al conjunto de la aplicación.</li>
+      </ul>
+      <p class="mt-3">Los detalles locales seleccionan y ordenan hasta 20 palabras con marcas de prioridad de JMdict y sentidos en español.
+        No son una clasificación de frecuencia ni la misma selección de Kanjikana. Los campos ausentes se indican sin inventar traducciones.</p>
+    </section>
   </div>
 </template>
 

@@ -1,0 +1,240 @@
+{
+  "character": "冷",
+  "meanings": "frío, enfriar, enfriarse, helarse, helar",
+  "words": [
+    {
+      "entryId": "1557060",
+      "spelling": "冷戦",
+      "reading": "れいせん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "冷戦【れいせん】",
+      "meaning": "guerra fría"
+    },
+    {
+      "entryId": "1557050",
+      "spelling": "冷静",
+      "reading": "れいせい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "冷静【れいせい】",
+      "meaning": "calma; compostura; serenidad"
+    },
+    {
+      "entryId": "1557110",
+      "spelling": "冷ぞう庫",
+      "reading": "れいぞうこ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "冷ぞう庫【れいぞうこ】",
+      "meaning": "refrigerador; nevera"
+    },
+    {
+      "entryId": "1557110",
+      "spelling": "冷蔵庫",
+      "reading": "れいぞうこ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "冷蔵庫【れいぞうこ】",
+      "meaning": "refrigerador; nevera"
+    },
+    {
+      "entryId": "1557170",
+      "spelling": "冷凍",
+      "reading": "れいとう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "冷凍【れいとう】",
+      "meaning": "congelado"
+    },
+    {
+      "entryId": "1757800",
+      "spelling": "冷夏",
+      "reading": "れいか",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "冷夏【れいか】",
+      "meaning": "(un) verano fresco"
+    },
+    {
+      "entryId": "1557290",
+      "spelling": "冷房",
+      "reading": "れいぼう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "冷房【れいぼう】",
+      "meaning": "enfriamiento"
+    },
+    {
+      "entryId": "1602240",
+      "spelling": "冷やか",
+      "reading": "ひややか",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "冷やか【ひややか】",
+      "meaning": "frío; indiferente"
+    },
+    {
+      "entryId": "1602240",
+      "spelling": "冷ややか",
+      "reading": "ひややか",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "冷ややか【ひややか】",
+      "meaning": "frío; indiferente"
+    },
+    {
+      "entryId": "1557020",
+      "spelling": "冷水",
+      "reading": "れいすい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "冷水【れいすい】",
+      "meaning": "agua fría"
+    },
+    {
+      "entryId": "1557150",
+      "spelling": "冷淡",
+      "reading": "れいたん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "冷淡【れいたん】",
+      "meaning": "frialdad; indiferencia"
+    },
+    {
+      "entryId": "1556630",
+      "spelling": "冷える",
+      "reading": "ひえる",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "冷える【ひえる】",
+      "meaning": "enfriarse; congelarse"
+    },
+    {
+      "entryId": "1556770",
+      "spelling": "冷す",
+      "reading": "ひやす",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "冷す【ひやす】",
+      "meaning": "enfriar; refrescar"
+    },
+    {
+      "entryId": "1556770",
+      "spelling": "冷やす",
+      "reading": "ひやす",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "冷やす【ひやす】",
+      "meaning": "enfriar; refrescar"
+    },
+    {
+      "entryId": "1556980",
+      "spelling": "冷酷",
+      "reading": "れいこく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "冷酷【れいこく】",
+      "meaning": "crueldad; cruel; despiadado; implacable"
+    },
+    {
+      "entryId": "1602210",
+      "spelling": "冷や汗",
+      "reading": "ひやあせ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "冷や汗【ひやあせ】",
+      "meaning": "sudor frío"
+    },
+    {
+      "entryId": "1602210",
+      "spelling": "冷汗",
+      "reading": "ひやあせ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "冷汗【ひやあせ】",
+      "meaning": "sudor frío"
+    },
+    {
+      "entryId": "1556730",
+      "spelling": "冷たい",
+      "reading": "つべたい",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "冷たい【つべたい】",
+      "meaning": "fresco; frío; congelado; insensible"
+    },
+    {
+      "entryId": "1556730",
+      "spelling": "冷たい",
+      "reading": "つめたい",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "冷たい【つめたい】",
+      "meaning": "fresco; frío; congelado; insensible"
+    },
+    {
+      "entryId": "1210560",
+      "spelling": "寒冷",
+      "reading": "かんれい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "寒冷【かんれい】",
+      "meaning": "frío"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "character": "加",
+  "meanings": "agregar, añadir, incrementar, Canadá, sumar, unirse",
+  "words": [
+    {
+      "entryId": "1190580",
+      "spelling": "加盟",
+      "reading": "かめい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "加盟【かめい】",
+      "meaning": "inscripción; ingreso; afiliación"
+    },
+    {
+      "entryId": "1302090",
+      "spelling": "参加",
+      "reading": "さんか",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "参加【さんか】",
+      "meaning": "participación"
+    },
+    {
+      "entryId": "1403160",
+      "spelling": "増加",
+      "reading": "ぞうか",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "増加【ぞうか】",
+      "meaning": "aumentar; incrementarse; crecer; aumento"
+    },
+    {
+      "entryId": "1432460",
+      "spelling": "追加",
+      "reading": "ついか",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "追加【ついか】",
+      "meaning": "adición; suplemento; apéndice; agregar (en software)"
+    },
+    {
+      "entryId": "1302110",
+      "spelling": "参加者",
+      "reading": "さんかしゃ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "参加者【さんかしゃ】",
+      "meaning": "participante"
+    },
+    {
+      "entryId": "1190430",
+      "spelling": "加入",
+      "reading": "かにゅう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "加入【かにゅう】",
+      "meaning": "participación; incorporarse; adscribirse; ingresar; afiliarse"
+    },
+    {
+      "entryId": "1190120",
+      "spelling": "加工",
+      "reading": "かこう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "加工【かこう】",
+      "meaning": "manufactura; curado; procesamiento; fabricación"
+    },
+    {
+      "entryId": "1189940",
+      "spelling": "加",
+      "reading": "か",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "加【か】",
+      "meaning": "adición; suma; incremento"
+    },
+    {
+      "entryId": "1190370",
+      "spelling": "加速",
+      "reading": "かそく",
+      "senseNumbers": [
+        8,
+        9
+      ],
+      "japanese": "加速【かそく】",
+      "meaning": "acelerar; aceleración; acelerador"
+    },
+    {
+      "entryId": "1496170",
+      "spelling": "付加",
+      "reading": "ふか",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "付加【ふか】",
+      "meaning": "extra; anexo; agregado"
+    },
+    {
+      "entryId": "1496170",
+      "spelling": "附加",
+      "reading": "ふか",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "附加【ふか】",
+      "meaning": "extra; anexo; agregado"
+    },
+    {
+      "entryId": "1190030",
+      "spelling": "加害者",
+      "reading": "かがいしゃ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "加害者【かがいしゃ】",
+      "meaning": "agresor"
+    },
+    {
+      "entryId": "1190570",
+      "spelling": "加味",
+      "reading": "かみ",
+      "senseNumbers": [
+        18,
+        19
+      ],
+      "japanese": "加味【かみ】",
+      "meaning": "aderezo; saborizante; tomar (algo) en consideración; tomar dentro en la cuenta"
+    },
+    {
+      "entryId": "1590450",
+      "spelling": "加担",
+      "reading": "かたん",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "加担【かたん】",
+      "meaning": "colaboración; cooperación; toma de partido"
+    },
+    {
+      "entryId": "1189990",
+      "spelling": "加圧",
+      "reading": "かあつ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "加圧【かあつ】",
+      "meaning": "aumento de presión; presionar"
+    },
+    {
+      "entryId": "1190230",
+      "spelling": "加算",
+      "reading": "かさん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "加算【かさん】",
+      "meaning": "adición; suma"
+    },
+    {
+      "entryId": "1190470",
+      "spelling": "加熱",
+      "reading": "かねつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "加熱【かねつ】",
+      "meaning": "calentamiento"
+    },
+    {
+      "entryId": "1577190",
+      "spelling": "加重",
+      "reading": "かじゅう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "加重【かじゅう】",
+      "meaning": "agravación; agravación de las penas"
+    },
+    {
+      "entryId": "1577190",
+      "spelling": "加重",
+      "reading": "かちょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "加重【かちょう】",
+      "meaning": "agravación; agravación de las penas"
+    },
+    {
+      "entryId": "1190080",
+      "spelling": "加減",
+      "reading": "かげん",
+      "senseNumbers": [
+        32
+      ],
+      "japanese": "加減【かげん】",
+      "meaning": "ajustar; regular; graduar; moderación; ajuste"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

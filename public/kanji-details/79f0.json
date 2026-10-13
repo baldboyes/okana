@@ -1,0 +1,230 @@
+{
+  "character": "称",
+  "meanings": "llamar, nombrar, alabar, apelativo, nombre",
+  "words": [
+    {
+      "entryId": "1531620",
+      "spelling": "名称",
+      "reading": "めいしょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "名称【めいしょう】",
+      "meaning": "nombre; título"
+    },
+    {
+      "entryId": "1250760",
+      "spelling": "敬称",
+      "reading": "けいしょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "敬称【けいしょう】",
+      "meaning": "título de honor"
+    },
+    {
+      "entryId": "1187610",
+      "spelling": "仮称",
+      "reading": "かしょう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "仮称【かしょう】",
+      "meaning": "nombre temporal"
+    },
+    {
+      "entryId": "1433270",
+      "spelling": "通称",
+      "reading": "つうしょう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "通称【つうしょう】",
+      "meaning": "apodo; sobrenombre; alias"
+    },
+    {
+      "entryId": "1150840",
+      "spelling": "愛称",
+      "reading": "あいしょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "愛称【あいしょう】",
+      "meaning": "nombre cariñoso"
+    },
+    {
+      "entryId": "1552030",
+      "spelling": "略称",
+      "reading": "りゃくしょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "略称【りゃくしょう】",
+      "meaning": "abreviatura"
+    },
+    {
+      "entryId": "1317950",
+      "spelling": "自称",
+      "reading": "じしょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "自称【じしょう】",
+      "meaning": "autobombo; autoelogio; alabanza de uno mismo"
+    },
+    {
+      "entryId": "1266510",
+      "spelling": "呼称",
+      "reading": "こしょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "呼称【こしょう】",
+      "meaning": "exclamar; gritar; llamar por nombre"
+    },
+    {
+      "entryId": "1351250",
+      "spelling": "称する",
+      "reading": "しょうする",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "称する【しょうする】",
+      "meaning": "llamarse; hacerse nombrar"
+    },
+    {
+      "entryId": "1594920",
+      "spelling": "称讃",
+      "reading": "しょうさん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "称讃【しょうさん】",
+      "meaning": "agasajar; agasajo; elogiar; alabar; elogio; alabanza"
+    },
+    {
+      "entryId": "1594920",
+      "spelling": "称讚",
+      "reading": "しょうさん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "称讚【しょうさん】",
+      "meaning": "agasajar; agasajo; elogiar; alabar; elogio; alabanza"
+    },
+    {
+      "entryId": "1594920",
+      "spelling": "称賛",
+      "reading": "しょうさん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "称賛【しょうさん】",
+      "meaning": "agasajar; agasajo; elogiar; alabar; elogio; alabanza"
+    },
+    {
+      "entryId": "1410100",
+      "spelling": "対称",
+      "reading": "たいしょう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "対称【たいしょう】",
+      "meaning": "simetría"
+    },
+    {
+      "entryId": "1603550",
+      "spelling": "称める",
+      "reading": "ほめる",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "称める【ほめる】",
+      "meaning": "alabar; admirar; elogiar"
+    },
+    {
+      "entryId": "2216920",
+      "spelling": "正式名称",
+      "reading": "せいしきめいしょう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "正式名称【せいしきめいしょう】",
+      "meaning": "nombre formal"
+    },
+    {
+      "entryId": "1200890",
+      "spelling": "改称",
+      "reading": "かいしょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "改称【かいしょう】",
+      "meaning": "cambio de nombre; cambio de denominación"
+    },
+    {
+      "entryId": "1163740",
+      "spelling": "一人称",
+      "reading": "いちにんしょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "一人称【いちにんしょう】",
+      "meaning": "primera persona"
+    },
+    {
+      "entryId": "1163740",
+      "spelling": "１人称",
+      "reading": "いちにんしょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "１人称【いちにんしょう】",
+      "meaning": "primera persona"
+    },
+    {
+      "entryId": "1406480",
+      "spelling": "尊称",
+      "reading": "そんしょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "尊称【そんしょう】",
+      "meaning": "título honorario"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

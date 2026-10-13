@@ -1,0 +1,140 @@
+{
+  "character": "粘",
+  "meanings": "perseverancia, tenacidad, pegajoso, perseverar, ser tenaz, ser pegajoso",
+  "words": [
+    {
+      "entryId": "1469670",
+      "spelling": "粘り",
+      "reading": "ねばり",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "粘り【ねばり】",
+      "meaning": "pegajosidad; viscosidad"
+    },
+    {
+      "entryId": "1469760",
+      "spelling": "粘土",
+      "reading": "ねばつち",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "粘土【ねばつち】",
+      "meaning": "arcilla; barro"
+    },
+    {
+      "entryId": "1469760",
+      "spelling": "粘土",
+      "reading": "ねんど",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "粘土【ねんど】",
+      "meaning": "arcilla; barro"
+    },
+    {
+      "entryId": "1469760",
+      "spelling": "粘土",
+      "reading": "へな",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "粘土【へな】",
+      "meaning": "arcilla; barro"
+    },
+    {
+      "entryId": "1469760",
+      "spelling": "粘土",
+      "reading": "へなつち",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "粘土【へなつち】",
+      "meaning": "arcilla; barro"
+    },
+    {
+      "entryId": "1469780",
+      "spelling": "粘膜",
+      "reading": "ねんまく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "粘膜【ねんまく】",
+      "meaning": "membrana mucosa"
+    },
+    {
+      "entryId": "1469700",
+      "spelling": "粘る",
+      "reading": "ねばる",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "粘る【ねばる】",
+      "meaning": "pegar; adherir; adherirse; aferrarse"
+    },
+    {
+      "entryId": "1469730",
+      "spelling": "粘着",
+      "reading": "ねんちゃく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "粘着【ねんちゃく】",
+      "meaning": "adhesivo"
+    },
+    {
+      "entryId": "1600180",
+      "spelling": "粘々",
+      "reading": "ねばねば",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "粘々【ねばねば】",
+      "meaning": "pegajoso; viscoso; pastoso; glutinoso; gelificado; con textura de gel"
+    },
+    {
+      "entryId": "1600180",
+      "spelling": "粘粘",
+      "reading": "ねばねば",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "粘粘【ねばねば】",
+      "meaning": "pegajoso; viscoso; pastoso; glutinoso; gelificado; con textura de gel"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

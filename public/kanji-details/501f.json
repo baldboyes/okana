@@ -1,0 +1,220 @@
+{
+  "character": "借",
+  "meanings": "deuda, pedir prestado, alquilar",
+  "words": [
+    {
+      "entryId": "1323940",
+      "spelling": "借金",
+      "reading": "しゃっきん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "借金【しゃっきん】",
+      "meaning": "deuda"
+    },
+    {
+      "entryId": "1460850",
+      "spelling": "六借しい",
+      "reading": "むずかしい",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "六借しい【むずかしい】",
+      "meaning": "difícil; complicado"
+    },
+    {
+      "entryId": "1323930",
+      "spelling": "借款",
+      "reading": "しゃっかん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "借款【しゃっかん】",
+      "meaning": "préstamo (internacional)"
+    },
+    {
+      "entryId": "1323860",
+      "spelling": "借り入れ",
+      "reading": "かりいれ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "借り入れ【かりいれ】",
+      "meaning": "deuda"
+    },
+    {
+      "entryId": "1323860",
+      "spelling": "借入",
+      "reading": "かりいれ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "借入【かりいれ】",
+      "meaning": "deuda"
+    },
+    {
+      "entryId": "1323860",
+      "spelling": "借入れ",
+      "reading": "かりいれ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "借入れ【かりいれ】",
+      "meaning": "deuda"
+    },
+    {
+      "entryId": "1323560",
+      "spelling": "借りる",
+      "reading": "かりる",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "借りる【かりる】",
+      "meaning": "tomar prestado; rentar; alquilar; comprar a crédito"
+    },
+    {
+      "entryId": "1579690",
+      "spelling": "借家",
+      "reading": "しゃくや",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "借家【しゃくや】",
+      "meaning": "arrendamiento de vivienda o de local"
+    },
+    {
+      "entryId": "1579690",
+      "spelling": "借家",
+      "reading": "しゃっか",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "借家【しゃっか】",
+      "meaning": "arrendamiento de vivienda o de local"
+    },
+    {
+      "entryId": "1579690",
+      "spelling": "借屋",
+      "reading": "しゃくや",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "借屋【しゃくや】",
+      "meaning": "arrendamiento de vivienda o de local"
+    },
+    {
+      "entryId": "1323540",
+      "spelling": "借り",
+      "reading": "かり",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "借り【かり】",
+      "meaning": "deuda; compromiso; obligación"
+    },
+    {
+      "entryId": "1411190",
+      "spelling": "貸借",
+      "reading": "たいしゃく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "貸借【たいしゃく】",
+      "meaning": "crédito; balance"
+    },
+    {
+      "entryId": "1215480",
+      "spelling": "間借り",
+      "reading": "まがり",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "間借り【まがり】",
+      "meaning": "alquiler de una habitación"
+    },
+    {
+      "entryId": "1393130",
+      "spelling": "前借り",
+      "reading": "まえがり",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "前借り【まえがり】",
+      "meaning": "adelanto; préstamo"
+    },
+    {
+      "entryId": "1323970",
+      "spelling": "借り主",
+      "reading": "かりぬし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "借り主【かりぬし】",
+      "meaning": "arrendatario; prestatario"
+    },
+    {
+      "entryId": "1323970",
+      "spelling": "借主",
+      "reading": "かりぬし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "借主【かりぬし】",
+      "meaning": "arrendatario; prestatario"
+    },
+    {
+      "entryId": "1472280",
+      "spelling": "拝借",
+      "reading": "はいしゃく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "拝借【はいしゃく】",
+      "meaning": "préstamo"
+    },
+    {
+      "entryId": "1323740",
+      "spelling": "借り出す",
+      "reading": "かりだす",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "借り出す【かりだす】",
+      "meaning": "tomar prestado; llevar"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

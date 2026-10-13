@@ -1,0 +1,120 @@
+{
+  "character": "勇",
+  "meanings": "valentía, audacia, heroísmo, estar en buen estado de animo, ser animado",
+  "words": [
+    {
+      "entryId": "1539740",
+      "spelling": "勇気",
+      "reading": "ゆうき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "勇気【ゆうき】",
+      "meaning": "coraje; valentía; valor; audacia"
+    },
+    {
+      "entryId": "1614650",
+      "spelling": "義勇",
+      "reading": "ぎゆう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "義勇【ぎゆう】",
+      "meaning": "heroísmo; lealtad y coraje"
+    },
+    {
+      "entryId": "1539730",
+      "spelling": "勇悍",
+      "reading": "ゆうかん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "勇悍【ゆうかん】",
+      "meaning": "valiente; audaz"
+    },
+    {
+      "entryId": "1539730",
+      "spelling": "勇敢",
+      "reading": "ゆうかん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "勇敢【ゆうかん】",
+      "meaning": "valiente; audaz"
+    },
+    {
+      "entryId": "1539800",
+      "spelling": "勇者",
+      "reading": "ゆうしゃ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "勇者【ゆうしゃ】",
+      "meaning": "héroe; el valiente; hombre de valor"
+    },
+    {
+      "entryId": "1539800",
+      "spelling": "勇者",
+      "reading": "ゆうじゃ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "勇者【ゆうじゃ】",
+      "meaning": "héroe; el valiente; hombre de valor"
+    },
+    {
+      "entryId": "1539660",
+      "spelling": "勇ましい",
+      "reading": "いさましい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "勇ましい【いさましい】",
+      "meaning": "valiente"
+    },
+    {
+      "entryId": "1539700",
+      "spelling": "勇む",
+      "reading": "いさむ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "勇む【いさむ】",
+      "meaning": "estar de buen humor; estar animado; tener vitalidad; reanimarse"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

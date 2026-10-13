@@ -1,0 +1,241 @@
+{
+  "character": "約",
+  "meanings": "promesa, aproximadamente, encogerse, economizar",
+  "words": [
+    {
+      "entryId": "1250190",
+      "spelling": "契約",
+      "reading": "けいやく",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "契約【けいやく】",
+      "meaning": "contrato; acuerdo"
+    },
+    {
+      "entryId": "1356580",
+      "spelling": "条約",
+      "reading": "じょうやく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "条約【じょうやく】",
+      "meaning": "tratado; pacto"
+    },
+    {
+      "entryId": "1274880",
+      "spelling": "公約",
+      "reading": "こうやく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "公約【こうやく】",
+      "meaning": "promesa; palabra; juramento"
+    },
+    {
+      "entryId": "1538130",
+      "spelling": "約束",
+      "reading": "やくそく",
+      "senseNumbers": [
+        22,
+        23
+      ],
+      "japanese": "約束【やくそく】",
+      "meaning": "promesa; cita; compromiso; convención; regla"
+    },
+    {
+      "entryId": "1543750",
+      "spelling": "予約",
+      "reading": "よやく",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "予約【よやく】",
+      "meaning": "reservar; hacer una reserva; reserva"
+    },
+    {
+      "entryId": "1374970",
+      "spelling": "制約",
+      "reading": "せいやく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "制約【せいやく】",
+      "meaning": "restricción"
+    },
+    {
+      "entryId": "1223110",
+      "spelling": "規約",
+      "reading": "きやく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "規約【きやく】",
+      "meaning": "reglas; normas; estatutos"
+    },
+    {
+      "entryId": "1289710",
+      "spelling": "婚約",
+      "reading": "こんやく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "婚約【こんやく】",
+      "meaning": "compromiso; noviazgo"
+    },
+    {
+      "entryId": "1199300",
+      "spelling": "解約",
+      "reading": "かいやく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "解約【かいやく】",
+      "meaning": "cancelación"
+    },
+    {
+      "entryId": "1386350",
+      "spelling": "節約",
+      "reading": "せつやく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "節約【せつやく】",
+      "meaning": "ahorrar; economizar"
+    },
+    {
+      "entryId": "1333790",
+      "spelling": "集約",
+      "reading": "しゅうやく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "集約【しゅうやく】",
+      "meaning": "resumen"
+    },
+    {
+      "entryId": "1638860",
+      "spelling": "婚約者",
+      "reading": "こんやくしゃ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "婚約者【こんやくしゃ】",
+      "meaning": "novio; prometido"
+    },
+    {
+      "entryId": "1731460",
+      "spelling": "密約",
+      "reading": "みつやく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "密約【みつやく】",
+      "meaning": "acuerdo secreto"
+    },
+    {
+      "entryId": "1605860",
+      "spelling": "要約",
+      "reading": "ようやく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "要約【ようやく】",
+      "meaning": "clasificación de la información; recapitulación; resumen; sumario"
+    },
+    {
+      "entryId": "1538100",
+      "spelling": "約",
+      "reading": "やく",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "約【やく】",
+      "meaning": "más o menos; aproximadamente"
+    },
+    {
+      "entryId": "1256010",
+      "spelling": "倹約",
+      "reading": "けんやく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "倹約【けんやく】",
+      "meaning": "economizar; ahorrar; ahorro; economía; frugalidad; reserva"
+    },
+    {
+      "entryId": "1091940",
+      "spelling": "新約克",
+      "reading": "ニューヨーク",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "新約克【ニューヨーク】",
+      "meaning": "Nueva York (eng: New York); nueva york; new york"
+    },
+    {
+      "entryId": "1091940",
+      "spelling": "紐約",
+      "reading": "ニューヨーク",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "紐約【ニューヨーク】",
+      "meaning": "Nueva York (eng: New York); nueva york; new york"
+    },
+    {
+      "entryId": "1250210",
+      "spelling": "契約書",
+      "reading": "けいやくしょ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "契約書【けいやくしょ】",
+      "meaning": "contrato; documento contractual"
+    },
+    {
+      "entryId": "1532670",
+      "spelling": "盟約",
+      "reading": "めいやく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "盟約【めいやく】",
+      "meaning": "juramento; promesa; pacto; convenio"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

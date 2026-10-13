@@ -1,0 +1,201 @@
+{
+  "character": "与",
+  "meanings": "otorgar, conceder, proveer, unir fuerzas",
+  "words": [
+    {
+      "entryId": "1544870",
+      "spelling": "与党",
+      "reading": "よとう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "与党【よとう】",
+      "meaning": "partido político en el poder"
+    },
+    {
+      "entryId": "1230350",
+      "spelling": "給与",
+      "reading": "きゅうよ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "給与【きゅうよ】",
+      "meaning": "salario; sueldo; paga"
+    },
+    {
+      "entryId": "1216050",
+      "spelling": "干与",
+      "reading": "かんよ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "干与【かんよ】",
+      "meaning": "intervenir; tomar parte; participar; intervención; participación"
+    },
+    {
+      "entryId": "1216050",
+      "spelling": "関与",
+      "reading": "かんよ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "関与【かんよ】",
+      "meaning": "intervenir; tomar parte; participar; intervención; participación"
+    },
+    {
+      "entryId": "1233890",
+      "spelling": "供与",
+      "reading": "きょうよ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "供与【きょうよ】",
+      "meaning": "proveer; suministrar; abastecer; provisión; suministro; abastecimiento"
+    },
+    {
+      "entryId": "1541740",
+      "spelling": "猶与",
+      "reading": "ゆうよ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "猶与【ゆうよ】",
+      "meaning": "titubeo; duda; vacilación; fluctuación"
+    },
+    {
+      "entryId": "1496430",
+      "spelling": "付与",
+      "reading": "ふよ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "付与【ふよ】",
+      "meaning": "concesión; otorgamiento; dación"
+    },
+    {
+      "entryId": "1496430",
+      "spelling": "附与",
+      "reading": "ふよ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "附与【ふよ】",
+      "meaning": "concesión; otorgamiento; dación"
+    },
+    {
+      "entryId": "1302610",
+      "spelling": "参与",
+      "reading": "さんよ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "参与【さんよ】",
+      "meaning": "participación"
+    },
+    {
+      "entryId": "1403590",
+      "spelling": "贈与",
+      "reading": "ぞうよ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "贈与【ぞうよ】",
+      "meaning": "regalo; donación"
+    },
+    {
+      "entryId": "1330360",
+      "spelling": "授与",
+      "reading": "じゅよ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "授与【じゅよ】",
+      "meaning": "otorgar; conceder"
+    },
+    {
+      "entryId": "1219810",
+      "spelling": "寄与",
+      "reading": "きよ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "寄与【きよ】",
+      "meaning": "contribución; servicio"
+    },
+    {
+      "entryId": "1411240",
+      "spelling": "貸与",
+      "reading": "たいよ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "貸与【たいよ】",
+      "meaning": "préstamo"
+    },
+    {
+      "entryId": "1544730",
+      "spelling": "与える",
+      "reading": "あたえる",
+      "senseNumbers": [
+        14,
+        15
+      ],
+      "japanese": "与える【あたえる】",
+      "meaning": "dar; regalar; recompensar; pasar (una varible de una función)"
+    },
+    {
+      "entryId": "1635630",
+      "spelling": "譲与",
+      "reading": "じょうよ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "譲与【じょうよ】",
+      "meaning": "cesión; transmisión; traspaso"
+    },
+    {
+      "entryId": "1378980",
+      "spelling": "生殺与奪",
+      "reading": "せいさつよだつ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "生殺与奪【せいさつよだつ】",
+      "meaning": "tener poder para dar y quitar la vida; ser dueño de vidas y haciendas; disponer de un poder absoluto"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

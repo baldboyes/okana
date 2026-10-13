@@ -1,0 +1,200 @@
+{
+  "character": "林",
+  "meanings": "arboleda, soto",
+  "words": [
+    {
+      "entryId": "1555440",
+      "spelling": "林",
+      "reading": "はやし",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "林【はやし】",
+      "meaning": "bosque; bosquecillo; arboleda; soto"
+    },
+    {
+      "entryId": "1362530",
+      "spelling": "森林",
+      "reading": "しんりん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "森林【しんりん】",
+      "meaning": "bosque"
+    },
+    {
+      "entryId": "1470790",
+      "spelling": "農林",
+      "reading": "のうりん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "農林【のうりん】",
+      "meaning": "agricultura y silvicultura"
+    },
+    {
+      "entryId": "1303230",
+      "spelling": "山林",
+      "reading": "さんりん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "山林【さんりん】",
+      "meaning": "bosque (lit bosquecillo de la montaña)"
+    },
+    {
+      "entryId": "1555470",
+      "spelling": "林業",
+      "reading": "りんぎょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "林業【りんぎょう】",
+      "meaning": "silvicultura"
+    },
+    {
+      "entryId": "1299570",
+      "spelling": "雑木林",
+      "reading": "ざつぼくりん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "雑木林【ざつぼくりん】",
+      "meaning": "bosque mixto; arboleda o bosque con árboles de diferentes especies"
+    },
+    {
+      "entryId": "1299570",
+      "spelling": "雑木林",
+      "reading": "ぞうきばやし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "雑木林【ぞうきばやし】",
+      "meaning": "bosque mixto; arboleda o bosque con árboles de diferentes especies"
+    },
+    {
+      "entryId": "1838510",
+      "spelling": "林野",
+      "reading": "りんや",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "林野【りんや】",
+      "meaning": "bosques y campos"
+    },
+    {
+      "entryId": "1555480",
+      "spelling": "林檎",
+      "reading": "りんご",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "林檎【りんご】",
+      "meaning": "manzana; manzano"
+    },
+    {
+      "entryId": "1349970",
+      "spelling": "松林",
+      "reading": "まつばやし",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "松林【まつばやし】",
+      "meaning": "bosque de pinos"
+    },
+    {
+      "entryId": "1692500",
+      "spelling": "樹林",
+      "reading": "じゅりん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "樹林【じゅりん】",
+      "meaning": "bosque"
+    },
+    {
+      "entryId": "1155010",
+      "spelling": "杏林",
+      "reading": "きょうりん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "杏林【きょうりん】",
+      "meaning": "bosquecillo de albaricoques, damascos o chabacanos"
+    },
+    {
+      "entryId": "1173590",
+      "spelling": "営林署",
+      "reading": "えいりんしょ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "営林署【えいりんしょ】",
+      "meaning": "departamento local de silvicultura"
+    },
+    {
+      "entryId": "1794860",
+      "spelling": "営林局",
+      "reading": "えいりんきょく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "営林局【えいりんきょく】",
+      "meaning": "oficina regional de silvicultura"
+    },
+    {
+      "entryId": "1555450",
+      "spelling": "林学",
+      "reading": "りんがく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "林学【りんがく】",
+      "meaning": "silvicultura"
+    },
+    {
+      "entryId": "1635140",
+      "spelling": "辞林",
+      "reading": "じりん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "辞林【じりん】",
+      "meaning": "diccionario"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

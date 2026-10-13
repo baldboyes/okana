@@ -1,0 +1,153 @@
+{
+  "character": "袋",
+  "meanings": "saco, bolsa",
+  "words": [
+    {
+      "entryId": "1411070",
+      "spelling": "袋",
+      "reading": "ふくろ",
+      "senseNumbers": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "japanese": "袋【ふくろ】",
+      "meaning": "bolsa; bolso; saco; morral; cáscara de naranja (y otras frutas); callejón sin salida; lote de tierra rodeada por agua"
+    },
+    {
+      "entryId": "1328090",
+      "spelling": "手袋",
+      "reading": "てぶくろ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "手袋【てぶくろ】",
+      "meaning": "guante"
+    },
+    {
+      "entryId": "1311580",
+      "spelling": "紙袋",
+      "reading": "かみぶくろ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "紙袋【かみぶくろ】",
+      "meaning": "bolsa de papel"
+    },
+    {
+      "entryId": "1311580",
+      "spelling": "紙袋",
+      "reading": "かんぶくろ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "紙袋【かんぶくろ】",
+      "meaning": "bolsa de papel"
+    },
+    {
+      "entryId": "1074260",
+      "spelling": "段袋",
+      "reading": "ズボン",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "段袋【ズボン】",
+      "meaning": "pantalón (fre: jupon); pantalones"
+    },
+    {
+      "entryId": "1002370",
+      "spelling": "お袋",
+      "reading": "おふくろ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "お袋【おふくろ】",
+      "meaning": "(mi) madre; madre; mamá; mi vieja"
+    },
+    {
+      "entryId": "1002370",
+      "spelling": "お袋",
+      "reading": "オフクロ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "お袋【オフクロ】",
+      "meaning": "(mi) madre; madre; mamá; mi vieja"
+    },
+    {
+      "entryId": "1002370",
+      "spelling": "御袋",
+      "reading": "おふくろ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "御袋【おふくろ】",
+      "meaning": "(mi) madre; madre; mamá; mi vieja"
+    },
+    {
+      "entryId": "1158600",
+      "spelling": "胃袋",
+      "reading": "いぶくろ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "胃袋【いぶくろ】",
+      "meaning": "estómago; vientre"
+    },
+    {
+      "entryId": "1360210",
+      "spelling": "寝袋",
+      "reading": "ねぶくろ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "寝袋【ねぶくろ】",
+      "meaning": "saco de dormir"
+    },
+    {
+      "entryId": "1684720",
+      "spelling": "堪忍袋",
+      "reading": "かんにんぶくろ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "堪忍袋【かんにんぶくろ】",
+      "meaning": "límite de la paciencia"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,951 @@
+{
+  "commit": "ec5e17cca76c87587790bcbce5ea0b4d4fb753d6",
+  "modifiedAt": "2026-10-02",
+  "license": "LGPL-3.0-or-later",
+  "notice": "Converted SVG outlines and median paths to grouped JSON without geometry changes by Okana on 2026-10-02, from AnimCJK ec5e17cca76c87587790bcbce5ea0b4d4fb753d6. Graphics remain LGPL-3.0-or-later; original copyright and notices are retained in sourceHeader and corresponding source SVG files.",
+  "coordinates": "svg-native-y-down",
+  "targetCount": 142,
+  "importedCount": 142,
+  "sourceCount": 177,
+  "missing": [],
+  "logicalStrokeCount": 419,
+  "partCount": 440,
+  "multipart": {
+    "あ": [
+      3
+    ],
+    "お": [
+      2
+    ],
+    "す": [
+      2
+    ],
+    "ず": [
+      2
+    ],
+    "な": [
+      4
+    ],
+    "ぬ": [
+      2
+    ],
+    "ね": [
+      2
+    ],
+    "の": [
+      1
+    ],
+    "は": [
+      3
+    ],
+    "ば": [
+      3
+    ],
+    "ぱ": [
+      3
+    ],
+    "ほ": [
+      4
+    ],
+    "ぼ": [
+      4
+    ],
+    "ぽ": [
+      4
+    ],
+    "ま": [
+      3
+    ],
+    "み": [
+      1
+    ],
+    "む": [
+      2
+    ],
+    "め": [
+      2
+    ],
+    "よ": [
+      2
+    ],
+    "る": [
+      1
+    ]
+  },
+  "directory": {
+    "url": "https://api.github.com/repos/parsimonhi/animCJK/contents/svgsJaKana?ref=ec5e17cca76c87587790bcbce5ea0b4d4fb753d6",
+    "sha256": "1af169a3da6c0e12f9597e45bc3e0a6f55eee3eaf6c71feaede8589c9839b475",
+    "bytes": 173815
+  },
+  "sources": {
+    "12354.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12354.svg",
+      "gitBlobSha1": "54f1cfde769734d131dae32604251ffd29b41077",
+      "sha256": "6e07815d308def22c9fdcacf68281e26e734758a72a0a16bd4cf377ea11a5275",
+      "bytes": 3437
+    },
+    "12356.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12356.svg",
+      "gitBlobSha1": "9e4e7c67ef5edc4c3d88b601b1d965387b9f1f89",
+      "sha256": "d27009128a1253c26c7cbc01c90b85d8430006e19f93ddcbd9659ebcc34b674c",
+      "bytes": 2015
+    },
+    "12358.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12358.svg",
+      "gitBlobSha1": "37c56a557935b42cc4dc9bf3471b354c5293ac81",
+      "sha256": "781107513e750855308083e5f00a8f0749de939d486809df18353658dd0e8eef",
+      "bytes": 1965
+    },
+    "12360.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12360.svg",
+      "gitBlobSha1": "65d02a3bc4038fbc64cf7e70c31ce03796b125b0",
+      "sha256": "96e2ce554168e87800dad78e676e2cf3f23755cf8eed3115cd11aff862125bd0",
+      "bytes": 2461
+    },
+    "12362.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12362.svg",
+      "gitBlobSha1": "a5fe999d9e65974040d42ff655470226c3240f0d",
+      "sha256": "78ed2030404609a19eb905d53d7c3ebecd440ace558e7b60920935aa08a22798",
+      "bytes": 3482
+    },
+    "12363.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12363.svg",
+      "gitBlobSha1": "ad7e20ad5d961c1a2f5ab9dcbbb8101924513b27",
+      "sha256": "f78103493dc2503b7aa8f772436952ac3657d75e0541ef1081e7e44cf64e6519",
+      "bytes": 2763
+    },
+    "12364.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12364.svg",
+      "gitBlobSha1": "3eec33b8b3a02554c9d7f3265202161c0aec3e4b",
+      "sha256": "cd3a6a9b2d74839f03caa5f2926b54c70cf51545f6bf990cd48389dd06007b9c",
+      "bytes": 3582
+    },
+    "12365.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12365.svg",
+      "gitBlobSha1": "8075e2a02ef91ee683de2d11a90df77a42c1f9b1",
+      "sha256": "81ce7daa63a156c28b26d29dbd1d194ee04271c542278ee3562bd3a37a2ee940",
+      "bytes": 2778
+    },
+    "12366.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12366.svg",
+      "gitBlobSha1": "f29a195ba84ca64a6e82c40e62fa8626ca740c99",
+      "sha256": "5908154ce8e5b56eb88abf31353f71875419418a9595ecad722470fb8820c9f7",
+      "bytes": 3545
+    },
+    "12367.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12367.svg",
+      "gitBlobSha1": "baac3fcdbf34016ac6c89ca7de5b5dbe5d000164",
+      "sha256": "36990f183f19e89d697b48df3de9aef80e44f47cf836242f6a471e279a69f25b",
+      "bytes": 1514
+    },
+    "12368.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12368.svg",
+      "gitBlobSha1": "7618ba3ad175d5014ed92d889b00e424fa3e4b24",
+      "sha256": "a5501e5e5ecc48d477f10c10d488ee40d5dc5bb95e55b5a251dd07ec32bcdb02",
+      "bytes": 2288
+    },
+    "12369.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12369.svg",
+      "gitBlobSha1": "0885a5626173d850e04d8517f2fb7dd83e842c3d",
+      "sha256": "4a7622ad7c0e3a6d01f7ff2f54b42abcb0fe966740ceabec6770d08bd85aad4d",
+      "bytes": 2504
+    },
+    "12370.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12370.svg",
+      "gitBlobSha1": "46ae97e346588ec54869c0a6e0452ae3643db4c5",
+      "sha256": "f1f9fb3056cd857ed198b95b1f1dc16641d33c94d85d459519ee26c85ae5a70b",
+      "bytes": 3287
+    },
+    "12371.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12371.svg",
+      "gitBlobSha1": "b1269f93fb583190853d693ca910678c1d88cfe9",
+      "sha256": "68d1792222ad1502a29a3f519ab2ccc2a6553a187f8e104b62bfcc27e9547d8c",
+      "bytes": 2061
+    },
+    "12372.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12372.svg",
+      "gitBlobSha1": "1afddc67b31f5e673b61a9c94368de58718a878b",
+      "sha256": "e052a9c188faaabc611cd4ae649642bd21bc63ca26aedd23701cfc61e9164ace",
+      "bytes": 2829
+    },
+    "12373.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12373.svg",
+      "gitBlobSha1": "c2df17eeab987043f843ecf493abd17e2cc443e2",
+      "sha256": "43ba16f4e43079e12dde4d6b266276890a99615de34e5edfb6e829eaafbf5fd6",
+      "bytes": 2366
+    },
+    "12374.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12374.svg",
+      "gitBlobSha1": "040dbc93ead92729dbd47b96755e6933f5bffabc",
+      "sha256": "2fdcb3584da0b047020a193b38ddcb8caae0e9dc479337c90ecaa88af4d011af",
+      "bytes": 2949
+    },
+    "12375.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12375.svg",
+      "gitBlobSha1": "bef3fe5d0311494c2deeef555590b2e9371429f6",
+      "sha256": "20e2951535e980fcd2fe6848c2f5f344021db6a50f7f4c708ab50fbc60b7c633",
+      "bytes": 1586
+    },
+    "12376.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12376.svg",
+      "gitBlobSha1": "9e759e6315d685520e71f5c8db6d8c6ef20b09fe",
+      "sha256": "2fddd36fefb747382cba98e29ffb9e989c870b754abb87ffc4a514a5c19f195b",
+      "bytes": 2360
+    },
+    "12377.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12377.svg",
+      "gitBlobSha1": "01fef19b242feae957b7565e3154cbd3d407bdb8",
+      "sha256": "ea0250a4d41bc7324781e0d669eacfd65e0b1d36e3ca53863e9515178c9ca01d",
+      "bytes": 2648
+    },
+    "12378.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12378.svg",
+      "gitBlobSha1": "614c801809dcb9a9defa4752f59973467c90e465",
+      "sha256": "26516db3822382f7270d0a79c0875ddfe426fadfa7de994d45077598f639a403",
+      "bytes": 3401
+    },
+    "12379.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12379.svg",
+      "gitBlobSha1": "76ac1545ab8d433891f7b674148b27196f645312",
+      "sha256": "67362c78e70e4157a0f27d65f1a8b8545e749c2f6637646d6c36e0aefbf4ee23",
+      "bytes": 2770
+    },
+    "12380.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12380.svg",
+      "gitBlobSha1": "a8c259310ae0efa9835a4b6f3148bd852b37452f",
+      "sha256": "b3ceb460062b756393e9b1f5c8ba50b9041bc827f2bed9ddbefc8c3010ab707a",
+      "bytes": 3533
+    },
+    "12381.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12381.svg",
+      "gitBlobSha1": "4afd9c3a4f9e5ab7e20efd3bb18190b6d1ce37e8",
+      "sha256": "dd1d922f86bb39c54daf6e05742b2782b7ed7eea8bb1e5cc47198fa1a7de4b60",
+      "bytes": 2122
+    },
+    "12382.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12382.svg",
+      "gitBlobSha1": "517d94713f3f2bdbf649df95ec9a3cca3ba0442c",
+      "sha256": "45dd24aaf948a5b3c1ff8909fa55d6e7670ea9564bcd865fdfe9a4587f37a5ca",
+      "bytes": 2890
+    },
+    "12383.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12383.svg",
+      "gitBlobSha1": "5f5ccdc71213a8bc19135a38bb686fff12fd35ff",
+      "sha256": "01b3374e3af5b4641a73765564bb92134c4936842bfc7224d8781f4da67563e5",
+      "bytes": 2851
+    },
+    "12384.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12384.svg",
+      "gitBlobSha1": "48b2af7b0c77e4c54be49f7200336bad26195007",
+      "sha256": "ee93517dd0212484dd95dab956649679e6975733b15e8406308efb7e33760b07",
+      "bytes": 3619
+    },
+    "12385.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12385.svg",
+      "gitBlobSha1": "8eca466d0e7c265b3e9f621b853635c7b5e9bc66",
+      "sha256": "fd086a8dbe09e4c4653f1dc2cebd93bb5869d9c177019640f671e14dd9e2d14d",
+      "bytes": 2297
+    },
+    "12386.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12386.svg",
+      "gitBlobSha1": "42a0e2361ec60f79d4b077ac4d643955fe3acaf7",
+      "sha256": "b40d45fef2f118f32f2b4378f81d0cfca2d0d1f8fc46c972ed3ca00cc729844f",
+      "bytes": 3065
+    },
+    "12388.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12388.svg",
+      "gitBlobSha1": "016fda557eff72ad5b6e44bf8a4115c0526b84e0",
+      "sha256": "019eb221a4af96a7822ff510ad0d36bf65195e8b241b0c54736e98cb31416329",
+      "bytes": 1397
+    },
+    "12389.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12389.svg",
+      "gitBlobSha1": "71e6f13305b7f1d5ef79d5c582c711875f80d45d",
+      "sha256": "ed9c3213a0332da8e12c1e7266afbd091eda68fe74b4ccc046d725184e472a73",
+      "bytes": 2033
+    },
+    "12390.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12390.svg",
+      "gitBlobSha1": "e5b2f866bcf2846e130bab76242a536a71bb9f60",
+      "sha256": "ecc86d33d1bd041aead7032ccc0fc54369282d540bf79cce8700316a80255ca0",
+      "bytes": 1810
+    },
+    "12391.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12391.svg",
+      "gitBlobSha1": "c46d0a32ae220cb4d7028cab71a07f7613a424f5",
+      "sha256": "3dd26d87a9deef3d00acc07a9df6740be6677c3bf30da52ae19e73a1aa3533ae",
+      "bytes": 2617
+    },
+    "12392.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12392.svg",
+      "gitBlobSha1": "927ccd7ff17fd068967d75c70478065395c3b30d",
+      "sha256": "cedc7f8580ac408563ffa76a03eeb0ab7f4c7cb9a088928f7f0094ffd0264f18",
+      "bytes": 2149
+    },
+    "12393.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12393.svg",
+      "gitBlobSha1": "cd4e299f2aa3b691bbb2c236c2acfba433a12290",
+      "sha256": "dfac27a4b3cf8e965de7b4974bcdf65717e241b31edad27653786a039b76fc6f",
+      "bytes": 2913
+    },
+    "12394.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12394.svg",
+      "gitBlobSha1": "06a437be0c3afc3f624e11db63b7e5ec8e95adff",
+      "sha256": "5a77718ecf04b6e3f96f212b09d8793335591fe5739dfe7a70e87bca0b64d281",
+      "bytes": 3202
+    },
+    "12395.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12395.svg",
+      "gitBlobSha1": "d3e6a39a6094383b7dc6b35082d36cce802d8f3a",
+      "sha256": "8445511daa2592fcfd1f67e0467eb0aeba4f3e2d752b8fd92857619df2f2eae5",
+      "bytes": 2456
+    },
+    "12396.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12396.svg",
+      "gitBlobSha1": "263015c544e509bea47b8bdd095cdf013511ce79",
+      "sha256": "8bce9bec68b604afe4725743bd12cbdab39e09694c14a66da64755f8e0a67e56",
+      "bytes": 3636
+    },
+    "12397.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12397.svg",
+      "gitBlobSha1": "8d722899d36f30c48db52514c618dead8c45e531",
+      "sha256": "d9621813eff47f10053506a19572ae6c50e5d7284fc89a3bcdeb1b19e6918e7a",
+      "bytes": 3428
+    },
+    "12398.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12398.svg",
+      "gitBlobSha1": "90243c5ee48986bf553336dc83ff86a5b8d189de",
+      "sha256": "59de8efd5a8fee9a0b4ac23727d379659d20caa1191a4defb80ac38b85a12094",
+      "bytes": 2345
+    },
+    "12399.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12399.svg",
+      "gitBlobSha1": "0bc04e66f681392476b31e86c04e99723deab7db",
+      "sha256": "e5bee16c6e9b6edf6d9e6c0af588cbf611748ffa1861a0d42242835d5a383c38",
+      "bytes": 2937
+    },
+    "12400.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12400.svg",
+      "gitBlobSha1": "aaef1d0deac43992b85faf2e21e1ce59e416c9dd",
+      "sha256": "9076efde52b8cb3da0b0ba6bd1b76fab8c3d60fcab6f5e4a22141e02068dfdc1",
+      "bytes": 3615
+    },
+    "12401.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12401.svg",
+      "gitBlobSha1": "b54c9aa7975298445f2c5a6929fb372f58433aac",
+      "sha256": "8a2515947f632bdc99db261a584288a17d160a0627ca6421ce7946af7cd99b2c",
+      "bytes": 3470
+    },
+    "12402.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12402.svg",
+      "gitBlobSha1": "661489c8b5b75298e319ae9983f21c249b1d507b",
+      "sha256": "061b94ef38657bdcc5082840700cd73c4bfc4ab9d578279d0f1dcf439c94c65d",
+      "bytes": 2042
+    },
+    "12403.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12403.svg",
+      "gitBlobSha1": "5df5c0c423ddc9b68d1466dea5db4129193d1ec6",
+      "sha256": "c7bc8c4cf6ce9a6bd91af44fea476bf39c0e3f82986b7c2665346984245239e4",
+      "bytes": 2810
+    },
+    "12404.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12404.svg",
+      "gitBlobSha1": "9d8d8614c77727c96ec11c2d727a879b445778a6",
+      "sha256": "eb6322fc256aa768cc2c66b4406fb770573c61a4b9d40118b316117170121187",
+      "bytes": 2581
+    },
+    "12405.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12405.svg",
+      "gitBlobSha1": "17148b097a1c04b944d0a77af0a0356e3aa9816a",
+      "sha256": "575fda2a0f7f8c5b514dbb44093be64ace2a9d271275589406ce757b310a64ef",
+      "bytes": 2647
+    },
+    "12406.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12406.svg",
+      "gitBlobSha1": "3f841a1e216f61f2a1357c863ee4c1f10c4eb01b",
+      "sha256": "79b134cc7941729a64b8d62eedd1262e7cdace7fc10f504e04fe512382e76f62",
+      "bytes": 3421
+    },
+    "12407.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12407.svg",
+      "gitBlobSha1": "c6287aefbbf13eaad3c91715b137837264f34536",
+      "sha256": "e57122dd2a4ca4bf5217ecdf317206f06132c90a635a580486905d277294b426",
+      "bytes": 3190
+    },
+    "12408.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12408.svg",
+      "gitBlobSha1": "8b2fa3fc388d92844c1da323a3de03144bc5bb2f",
+      "sha256": "f6272e63e4c5c865a940a5a8f2821e94676bd299caf179cb837ed41d331b08d2",
+      "bytes": 1529
+    },
+    "12409.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12409.svg",
+      "gitBlobSha1": "a391b3cb8cee2041f62959e2577a700b0b75e477",
+      "sha256": "24bb569fb3cc6609b71d24235fbfb0170d0189c2a245eab948976ad41a8672d5",
+      "bytes": 2295
+    },
+    "12410.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12410.svg",
+      "gitBlobSha1": "9ec61f1af0b0821ac2b360f288fbbe0d7df371f7",
+      "sha256": "9fcf3cbae5ebc4d02fe6897cc8e9b5c7537adf1c6a66bf0697591ef82ffb6b28",
+      "bytes": 2069
+    },
+    "12411.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12411.svg",
+      "gitBlobSha1": "f5b1626cab55885a8ff952e5b32e2198154fb33a",
+      "sha256": "500b20f6191aedf0b97e1a80b6f28fd8b73889e587e9fd5d31d28a6f1f851ed9",
+      "bytes": 3788
+    },
+    "12412.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12412.svg",
+      "gitBlobSha1": "bfac38c100762b439abd481380c46449775d6285",
+      "sha256": "470f0663a6bb970cc291a0f55ed8a291f9cdbd6ff3603ef6e1bae7461999f570",
+      "bytes": 4563
+    },
+    "12413.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12413.svg",
+      "gitBlobSha1": "5b889514c4a161f9fa97d535a26e8f3af2ed3494",
+      "sha256": "8b3816b85d1f1353edb7d22bc74ebc632735f2548e89270d83264c84acca44ec",
+      "bytes": 4332
+    },
+    "12414.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12414.svg",
+      "gitBlobSha1": "beed2ac32c807e1588acad3cbeb83363971600de",
+      "sha256": "49efae9de72f9f5620142b9f2a7d08fae51ddec025e434ca5844e232e25e0ed2",
+      "bytes": 3200
+    },
+    "12415.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12415.svg",
+      "gitBlobSha1": "5a0488dd01628d64f0fefcab88799c8e9c0e7989",
+      "sha256": "4d08fc63dd322a2f7c575a4501e773891d7f0af2810d4af1dd4bf4243ece5457",
+      "bytes": 2915
+    },
+    "12416.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12416.svg",
+      "gitBlobSha1": "3ab49fba216f8bc5608fc611a2d9c47a259c38a3",
+      "sha256": "a698c8478a6af73eb5f386f6b5ec00506716fed7c9d0e87dad042244c594c57c",
+      "bytes": 3378
+    },
+    "12417.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12417.svg",
+      "gitBlobSha1": "51f3c48dd03cdd99e5f0e5b6ce37f7ef6d5ef631",
+      "sha256": "3837154fc71a4fb02aae9812c97772cd559650b6ea0d784e5e87a2bcdd834f2c",
+      "bytes": 3247
+    },
+    "12418.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12418.svg",
+      "gitBlobSha1": "e33a6cbad7ecfced3fd5b241c599d77442cf0e90",
+      "sha256": "9dba7ae56d716cb0686315f0741836a534c6036ac2ec332a660212d4e860ac28",
+      "bytes": 2357
+    },
+    "12420.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12420.svg",
+      "gitBlobSha1": "2c4319700cb2b5c92d40e2c2a7cf22f2f34c628d",
+      "sha256": "2df656d2150c7c622c04395ecf5f1c86cbfed3ae74d71cbe97c3762a0f9e6890",
+      "bytes": 2734
+    },
+    "12422.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12422.svg",
+      "gitBlobSha1": "7bf8d1cef8ca6909078e2569e43bf36459a8320a",
+      "sha256": "eafc587c11ccf6b3f7589fba7025dbbfddfc82e170821edc6ee3d1c87ce1f29a",
+      "bytes": 2565
+    },
+    "12424.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12424.svg",
+      "gitBlobSha1": "160da2b833eefb8921d2f56e21de1ce2a6998b4c",
+      "sha256": "3b95e714cfb627fdc28c26fe1aa671aecbb1c8ef83f1d80853b3e3c619686440",
+      "bytes": 2544
+    },
+    "12425.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12425.svg",
+      "gitBlobSha1": "5bdece45ce4c268b74d16d667ebc756fadf60935",
+      "sha256": "146c806cbcb07edb4b4d7b4962d9c26d1ac7c05f1b625df8ad007794bcfb7176",
+      "bytes": 2253
+    },
+    "12426.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12426.svg",
+      "gitBlobSha1": "d0814c152611aa4585e82ed2b751ac6806ed1d46",
+      "sha256": "a860a803d6db86c0882e69165d29b20bf9fcb3aefa6791f29b213ed0fb3db0d7",
+      "bytes": 2027
+    },
+    "12427.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12427.svg",
+      "gitBlobSha1": "dc34f935354eb4916d7c3abda31c2446d2edae39",
+      "sha256": "8a5991d0b1ec39db249584d050c962f28b508910e1c367819d1962499088fda3",
+      "bytes": 2664
+    },
+    "12428.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12428.svg",
+      "gitBlobSha1": "5a8f117aa608f797e8571b738efdbd2625422b37",
+      "sha256": "25d0375c10a15e78da8a4981eacdb789ad1b957820a0d446a68b8ae9e9872c14",
+      "bytes": 2692
+    },
+    "12429.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12429.svg",
+      "gitBlobSha1": "ef07a3ffe415abcc62131ee56cae46e2367498c7",
+      "sha256": "c53b5d994b94c4d8a9a157d7bec776e8776600046b88aaad8ff133675470f5af",
+      "bytes": 2076
+    },
+    "12431.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12431.svg",
+      "gitBlobSha1": "a4e87765b050d2ec1d477c596462f55cd2ba74ab",
+      "sha256": "b9a3f3d2518877e456674e029614998fdd91f35d9e6b6476120f77a5252a0c9f",
+      "bytes": 2579
+    },
+    "12434.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12434.svg",
+      "gitBlobSha1": "049d65524f9c39c93c31f207b8c85a2ea0f64bf1",
+      "sha256": "9c195775f160fb782e2f5f1c8e970e973f0ecd9a382f52bd32a58c75abae644a",
+      "bytes": 2953
+    },
+    "12435.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12435.svg",
+      "gitBlobSha1": "dcb87f4b9fed672e2886f94436917b5c3f03d04f",
+      "sha256": "671eb0dd93c51b480dff399762c158f879651f5d56991c9eeff8096af0ba6fe2",
+      "bytes": 2070
+    },
+    "12450.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12450.svg",
+      "gitBlobSha1": "60d0103b8f31ef0a0aa61c70ea27a1fa937f2a6c",
+      "sha256": "12b6d519bb509735e4ec47d953af828b94dc31dad28aae758b542eb4259523df",
+      "bytes": 2101
+    },
+    "12452.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12452.svg",
+      "gitBlobSha1": "514f17286be9fd48e525fa7bef03cd842118e3f4",
+      "sha256": "c9c8a5f025af3e27b08b233eca816921c01611bcd7fd1f19c1e63de2c6e767c8",
+      "bytes": 1926
+    },
+    "12454.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12454.svg",
+      "gitBlobSha1": "8728d8f5f573714cb72d895b8c41d38017fa772b",
+      "sha256": "3b3586e5a0657b7fe984fe890e62b5c8e368a2b08c828220b8c26defb280934d",
+      "bytes": 2379
+    },
+    "12456.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12456.svg",
+      "gitBlobSha1": "310c5047ac3ae305b9795fe947ea5a5e982ac52a",
+      "sha256": "074e1ec09cf106a9aa9c90ca24903b093dd04874a253e6040149cbc96624e6a5",
+      "bytes": 2279
+    },
+    "12458.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12458.svg",
+      "gitBlobSha1": "a2046e6b790ee81588fde1ee0e8bb3a11513bfe2",
+      "sha256": "b60a6b96d90d6be5d3ac782adb4a4c1eafb53d122863a2cbaffb5bc3713ab151",
+      "bytes": 2517
+    },
+    "12459.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12459.svg",
+      "gitBlobSha1": "d94fac6c3b66cca34f4fd05b9b62d01570019c57",
+      "sha256": "be330753e5fc22dc15d10f20327cbc8454d49aec63351fd5ca15c33b14c68270",
+      "bytes": 1958
+    },
+    "12460.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12460.svg",
+      "gitBlobSha1": "e008be687c22f5cf322b68a26c1ee003e50f4786",
+      "sha256": "1e9be618689f4a739d6871a63a1d7a885024e543fd89ef836c30ed5e45b707e4",
+      "bytes": 2726
+    },
+    "12461.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12461.svg",
+      "gitBlobSha1": "80cc3aec395b775180a01bca6a85000d40e1c654",
+      "sha256": "de11349bc30217c7545ce872df1c33043b0acf03cec89ef415aab58453709d3f",
+      "bytes": 2319
+    },
+    "12462.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12462.svg",
+      "gitBlobSha1": "4cc01cf8d867b07c9fbcb9319c8d4d0ef55a2629",
+      "sha256": "c3dc270297ef0633226dbe8ec70ca0969ef1786c4e1c9d35beeeb1851505b8f9",
+      "bytes": 3082
+    },
+    "12463.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12463.svg",
+      "gitBlobSha1": "fe2b622a098a2575c6d0efefe8bb189bbd815525",
+      "sha256": "9230bfa0a2281b053a8fda526471e2422ffe83e1f8c19afec9c3215f3b1762db",
+      "bytes": 2148
+    },
+    "12464.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12464.svg",
+      "gitBlobSha1": "da9f3b99c653a9c4eb7a61d2ad57ab37472d262b",
+      "sha256": "5eb873c56858bc6c2a51b1b6b4d03671f3c6b04cc1296ec58919247a8ea7ecc8",
+      "bytes": 2910
+    },
+    "12465.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12465.svg",
+      "gitBlobSha1": "d9bc8593446d56e7a765457a8b773459d6701ec0",
+      "sha256": "de8f1f25a79e964c685f6bc0751a05b99a1dabbd3c5afa5e493e7f88a3d7f911",
+      "bytes": 2150
+    },
+    "12466.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12466.svg",
+      "gitBlobSha1": "abcb64bd9352e82cb42f94bbd271d673f32bd0e7",
+      "sha256": "5853d0ef400c149f5cfde84405f0a033f40cb304f0463892e2a35b8b38ac6985",
+      "bytes": 2913
+    },
+    "12467.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12467.svg",
+      "gitBlobSha1": "95d104ab301644af3ba5e7209eaf88a94ceb2486",
+      "sha256": "201c824a84b1609ea641c9fd511d59f4b216e796ff7f686ce74297082b28b5a4",
+      "bytes": 1910
+    },
+    "12468.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12468.svg",
+      "gitBlobSha1": "fa3d0e85f37377fbcfa758ba139609374072190d",
+      "sha256": "9e0803cb063152779b3d8d2bd88a75b2ec7e6de46967b763b4699daa8b322423",
+      "bytes": 2673
+    },
+    "12469.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12469.svg",
+      "gitBlobSha1": "aec4e6bc69ab03a7f4a87153204c64c8862b5722",
+      "sha256": "176ca6b0db626798d2b7db2f042adbe0e2e335afbe5d846b4da2a85dc75d3eb9",
+      "bytes": 2142
+    },
+    "12470.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12470.svg",
+      "gitBlobSha1": "f3e8c5420f17133cb42fe2d26a76f65b74d665b9",
+      "sha256": "d38457466fc785d5772d38b7d31e54286efe95d49216301ef7accbd424152724",
+      "bytes": 2905
+    },
+    "12471.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12471.svg",
+      "gitBlobSha1": "11312f39f1abbb3d84f550997b87321c608f87ab",
+      "sha256": "1cbd8970c282add2f592e186316775297a3184f02b012e7474b22deba68a319c",
+      "bytes": 1894
+    },
+    "12472.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12472.svg",
+      "gitBlobSha1": "afe92bb020f9d6d061bf3b2eb8144aa732e53042",
+      "sha256": "2cfced07b1f4a9126aa13ab2b977dd54d2931da07094a3ab43070c0e00fff58e",
+      "bytes": 2657
+    },
+    "12473.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12473.svg",
+      "gitBlobSha1": "3cd9b7f04aa7cb1285ecef3fe5d53de170fbe621",
+      "sha256": "7559afbb4572e031cada0a19a7db34da0bfb74d5a7d7d2a3318e30034e87646b",
+      "bytes": 1900
+    },
+    "12474.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12474.svg",
+      "gitBlobSha1": "cd45e932938bd6a69b783d632c73dbfcea731881",
+      "sha256": "e1cb50921eb434f0613509bd8a3f12be3fed294a4da4c88be8a79f61968eca1a",
+      "bytes": 2656
+    },
+    "12475.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12475.svg",
+      "gitBlobSha1": "21f9c78a8b677151cea6642da30a383188fb20d0",
+      "sha256": "fda5f677218fe0bc8df7f2d457857e9b8d6a1ffcd23d0b5435562841667de47d",
+      "bytes": 1987
+    },
+    "12476.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12476.svg",
+      "gitBlobSha1": "430e0c8858ed7d6c06919246b61f82bc2f3f7ab0",
+      "sha256": "a87ec7d91979b17580afae264f335c0d62514eb70e9208122dd3a8ce92afb372",
+      "bytes": 2750
+    },
+    "12477.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12477.svg",
+      "gitBlobSha1": "1f15b3fcbd29295670651c0b30ef685b700d1098",
+      "sha256": "e4f7c89243100bbb9348a394b11b368738ff6b80b989ee1ae17038121cbb9309",
+      "bytes": 1820
+    },
+    "12478.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12478.svg",
+      "gitBlobSha1": "50bf17dd058d04698dfa361bd60c1f2c15773261",
+      "sha256": "f9112236e2557afddbe747751c1ce02f94923406e87685a144b460fc89a27aae",
+      "bytes": 2580
+    },
+    "12479.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12479.svg",
+      "gitBlobSha1": "870213be1020402f92e3d23c2f993435d0ad5cf7",
+      "sha256": "6a636d349f5e3a1729d1b2f612a53b0ef4310f9a197d307de902b0539a4cec5d",
+      "bytes": 2196
+    },
+    "12480.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12480.svg",
+      "gitBlobSha1": "40f1f91ab1bdc8a0944bd2023ba2a49e18e0ff1e",
+      "sha256": "e2d8b4740d35d9681679ef37918c0121dddf106a0e57d2017bac414d65037f2a",
+      "bytes": 2959
+    },
+    "12481.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12481.svg",
+      "gitBlobSha1": "4b78d38064fb6db5dd942f575ed1eef735017fea",
+      "sha256": "fc81311875d45c95af592d2d3feca4b69c3251a2c67170da7a91cd41d02a89e5",
+      "bytes": 2098
+    },
+    "12482.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12482.svg",
+      "gitBlobSha1": "0e999d852743472501ec8fa90443c3fc12272e63",
+      "sha256": "7f1fc212bc08f6440e0af798f15c6a61f8f46ff8b45b671e29f7c9232a9779ef",
+      "bytes": 2861
+    },
+    "12484.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12484.svg",
+      "gitBlobSha1": "75d8c2defdcf31684fb86c706b3510552afa64b6",
+      "sha256": "f8fc3d08ff91554116faf94613c9171a3935a904d5f818c6517dae2fd8be70c2",
+      "bytes": 1819
+    },
+    "12485.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12485.svg",
+      "gitBlobSha1": "ce21bcc3376a9ae60f550a56816ad619da153898",
+      "sha256": "6f5b0588bdee918d9c636fa0371e6e55380751e7e485d499fdb8412c21f6419d",
+      "bytes": 2579
+    },
+    "12486.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12486.svg",
+      "gitBlobSha1": "6496310b8140b4ff4dbd5c368458b7daecc0e2fd",
+      "sha256": "a3243732f90255c2f0e4667b405431484815397631c56e8e0e20ffc7a887a155",
+      "bytes": 2035
+    },
+    "12487.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12487.svg",
+      "gitBlobSha1": "ecb4d279dc930bd8623b588f41b777ccbe3389dc",
+      "sha256": "543b7f4a72bf9b92dc143e075f6c6740db37dfeeed51091c4071f35ee8c96c08",
+      "bytes": 2798
+    },
+    "12488.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12488.svg",
+      "gitBlobSha1": "6f791193153a1473781c16f0ca3f1718fd6431cb",
+      "sha256": "3d3ae52752b35f97693c7734e987c9a7fc4115edb6c581d1ca77e9ccdc19ec1a",
+      "bytes": 1716
+    },
+    "12489.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12489.svg",
+      "gitBlobSha1": "25618992a52e3c93dfd9fee1a0376f30f3a812ed",
+      "sha256": "8c9cc694ab2143d09a27f578ce96e46e91d93067e3f1065226a84f80f3d87143",
+      "bytes": 2479
+    },
+    "12490.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12490.svg",
+      "gitBlobSha1": "a7351ab8532fa03827852ef3a17e20d221b2fa55",
+      "sha256": "e01132ce3f046bd70ae9d7da647cffd76cd706a2e89e42890e21eaf087e19750",
+      "bytes": 1948
+    },
+    "12491.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12491.svg",
+      "gitBlobSha1": "97d6c9f66972f3227c316d2ad76fd5661173bb5b",
+      "sha256": "5701fced5e3e34823c053748f29418bea2f6bf3235dbb51d801f1dc2dcdeefd4",
+      "bytes": 1508
+    },
+    "12492.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12492.svg",
+      "gitBlobSha1": "36991d514cb443ea79a9b38499b1a77202eae8b4",
+      "sha256": "b1587ba4ff9cf41eccf9fd450b14b2d5d22111bdacf78204bf702a4a55893c6f",
+      "bytes": 1716
+    },
+    "12493.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12493.svg",
+      "gitBlobSha1": "df380fe1757a1c8ed0c20dd104c90500f3b41b56",
+      "sha256": "2e6e1777d63ebf45d9a12ee255eb2bc5f71b14e173ece161e0f3f3ec0d133568",
+      "bytes": 2345
+    },
+    "12494.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12494.svg",
+      "gitBlobSha1": "8c5935f0a75a7ae518e7b4b085ea7a1b11de31b2",
+      "sha256": "11af85aae25c5b1175d41bf5cd792980e44e9379eb24948d6c4e6ecbea731da4",
+      "bytes": 1217
+    },
+    "12495.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12495.svg",
+      "gitBlobSha1": "57ad9326a89e5934ddef4c37da70debbf7cefd88",
+      "sha256": "7f33d71b51c6e2ce162f828dabc6cc32e1cd85df32510b43a971ae3108ac6445",
+      "bytes": 1539
+    },
+    "12496.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12496.svg",
+      "gitBlobSha1": "4431962eacd18318abb07fabc9a8bb0c6b021129",
+      "sha256": "473d37793940c17ac3492b9b580e75f3275844a9d798d0a0eba06146f92eb9f3",
+      "bytes": 2313
+    },
+    "12497.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12497.svg",
+      "gitBlobSha1": "826a49ec790b1b201a8db979317a5682bfcc1085",
+      "sha256": "be106782d81d921f3cdcf8e3ae251586540f0523e183e03459446d331682cb67",
+      "bytes": 2087
+    },
+    "12498.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12498.svg",
+      "gitBlobSha1": "4a8f0295ccd4eab2ed9e46fa4b29cf74ddbf39d5",
+      "sha256": "c71ce4d41c10d6e53508d4d38f408ba8a34247993b23064e33eabddd1292b983",
+      "bytes": 1762
+    },
+    "12499.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12499.svg",
+      "gitBlobSha1": "38bc318d16aef5fe5ef778f6588848d011f42d14",
+      "sha256": "2570b6ee086fcb566b2e031b3401dabfb5e44cfa221f12fadbf21052c70b8bd2",
+      "bytes": 2534
+    },
+    "12500.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12500.svg",
+      "gitBlobSha1": "2254dbb7633d472c96fc4542e5fdc329d4c557f3",
+      "sha256": "266be5b37856fbabb0391251f851bca69009ff57af91197543ebbf93960b33c0",
+      "bytes": 2310
+    },
+    "12501.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12501.svg",
+      "gitBlobSha1": "8b8563af28b23817355bb24a441bba2df86fb77c",
+      "sha256": "5218b6a379a712bc87aadc6b811af45dcd4d04de618ae16acd6bdb130e82d7e5",
+      "bytes": 1524
+    },
+    "12502.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12502.svg",
+      "gitBlobSha1": "85e5df7b84c9123c7363557f2be8dc2b38e7b5ec",
+      "sha256": "746f1fd6d5f6723bd0ad1c34b41f448efba73bdcd2bc4afe8f306529a1a36779",
+      "bytes": 2283
+    },
+    "12503.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12503.svg",
+      "gitBlobSha1": "ab75db9b411829e617841ac05fbab21724b3b8f4",
+      "sha256": "5d4905ac471260066b895387f804ed2e87bbc511d0c739cc9bfc83af15ef27ba",
+      "bytes": 2051
+    },
+    "12504.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12504.svg",
+      "gitBlobSha1": "5a780dc463a14940ce4f14f6d8349a864f4452b7",
+      "sha256": "0884bb9bd1e6e11e30ad87b94b46ade6946e6da6eb613a5008689fea68838ef4",
+      "bytes": 1351
+    },
+    "12505.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12505.svg",
+      "gitBlobSha1": "57299b2603e6510b75205eaaf27f48265aa5ec7d",
+      "sha256": "e2fe75f7941c714bc9a6fda8eb92719a6e17d96a8b488ec48e241069375a08cf",
+      "bytes": 2125
+    },
+    "12506.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12506.svg",
+      "gitBlobSha1": "2675151ef02a23928a78d9e3c3f6c316858205ee",
+      "sha256": "56f653e7d172a71c424836ed63c9db22ec10236852bb23a707d490491c1973f3",
+      "bytes": 1899
+    },
+    "12507.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12507.svg",
+      "gitBlobSha1": "0e57b116e540d34240603b81a998cc5dc3921f6b",
+      "sha256": "c336f902a49a30e97390e60ca05ae628206156954171cc28ac4f2bd5b6dd6e97",
+      "bytes": 2380
+    },
+    "12508.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12508.svg",
+      "gitBlobSha1": "4da59edd62e393b3ddfe79ee2eb164e51394c31a",
+      "sha256": "7ddb6475394d2659b7fd8f970a89e99807f7a1f3751c7737019c16003b4f9bc1",
+      "bytes": 3143
+    },
+    "12509.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12509.svg",
+      "gitBlobSha1": "0ba297c73d65ae6ed67bcecb63b4166834405f89",
+      "sha256": "b32f5959a89ce85462cf3a62118c05c9623b6bdb5161c9d60228b16605d91289",
+      "bytes": 2913
+    },
+    "12510.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12510.svg",
+      "gitBlobSha1": "0df6604baceaedb999126e0c245cd02ebf585b37",
+      "sha256": "8e7ae85b4846251032864758b2c45b93d5137e4d55d8e2247bb736b37b674df9",
+      "bytes": 1683
+    },
+    "12511.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12511.svg",
+      "gitBlobSha1": "83312d1b0186122cb27c9271026e98360fd7a5e9",
+      "sha256": "2a98dd0894d8aa7c0cd4452ad957a8595ad9656b8573d86c5937b5107d68e044",
+      "bytes": 1767
+    },
+    "12512.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12512.svg",
+      "gitBlobSha1": "195986e93c90664a012160fe36ec817e5126e714",
+      "sha256": "4bf2e89653ca8400aed8baa53bd936e1b9ed1a0817cd39b3603dcb68b87e68eb",
+      "bytes": 1732
+    },
+    "12513.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12513.svg",
+      "gitBlobSha1": "63f109c89ceb043c79341d88d5734948da590aa8",
+      "sha256": "71e15df844e6e3b974f479652925410d24e36a28537e41b7596dd5d6379fda75",
+      "bytes": 1556
+    },
+    "12514.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12514.svg",
+      "gitBlobSha1": "db9a98a20ee77cd6e6cad49e63ba63194ff2b1e3",
+      "sha256": "7d8636b8f5383feab067d83cd0bc69c2af394b2ef244e6f88f1ab8f7a7af440b",
+      "bytes": 2070
+    },
+    "12516.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12516.svg",
+      "gitBlobSha1": "69b09c57a5e8a636eec9e2d0cbf4631c71be8955",
+      "sha256": "4b0fb7043cc095b109b9fbd0b0801e49da5af659ff32aa79b0c21c1795be7a25",
+      "bytes": 1753
+    },
+    "12518.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12518.svg",
+      "gitBlobSha1": "fe6f9c046858af4f8950607fa746dc27f9503cff",
+      "sha256": "a004418964c0b9973baa17d52420e95b70a582e3d32f8cd48f0688300a881825",
+      "bytes": 1715
+    },
+    "12520.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12520.svg",
+      "gitBlobSha1": "65d19e8bbbf4eb008a4d35df42383d134044789b",
+      "sha256": "0e84b4334610e00ee00f209fcdf652f0f884fed3254194e7d28a17dc0ecbaeb5",
+      "bytes": 2103
+    },
+    "12521.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12521.svg",
+      "gitBlobSha1": "0b5ab842bf5c51cfa9936f5e28dd92facf04ec4f",
+      "sha256": "f84d42c91c9fb41813935eff551a309007299d7c79effd67f3b42fcfac38ea08",
+      "bytes": 1692
+    },
+    "12522.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12522.svg",
+      "gitBlobSha1": "b2e23179369412216dc2dc4d9306b1cf269fc603",
+      "sha256": "6c548d9447d7a6b37e4016d13c2a9f16d2c91c1790a64955079116c05dd7548a",
+      "bytes": 1661
+    },
+    "12523.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12523.svg",
+      "gitBlobSha1": "1b89a8d7e3246c84319504d4cc24321aa27ba7d6",
+      "sha256": "752d7b7d43215aa03d441562ad393625567b5e94feb857f306cd26b056489441",
+      "bytes": 1699
+    },
+    "12524.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12524.svg",
+      "gitBlobSha1": "30a1cc3bfed00eeb5a261990b0c92ad352f61d8e",
+      "sha256": "39cb1687c1e561a412bbdea9d29ce504c1d0b6b3dfc342726e70414bf8bce192",
+      "bytes": 1354
+    },
+    "12525.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12525.svg",
+      "gitBlobSha1": "adc030125cfd8cd4711b2e808cdb9e711afbefb2",
+      "sha256": "498e6211d13961c813bf0783fe4992d4f6554f2dfef24f46b4b6d3b6176cb53a",
+      "bytes": 2107
+    },
+    "12527.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12527.svg",
+      "gitBlobSha1": "6b37d723549eb146da466d40d3976ef507412b67",
+      "sha256": "1d58a07261b0738cf21ebb8fdefb2a9b0b688cf18fffad03c297d6469ccd9d50",
+      "bytes": 1925
+    },
+    "12530.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12530.svg",
+      "gitBlobSha1": "be58809d70ec0ae75afb023f1d6f9748fed3a26e",
+      "sha256": "7889b5a98c159f49c6bb1d824cb58fbd44ab69f5e07a5ab8d20003c6dd252dd4",
+      "bytes": 1955
+    },
+    "12531.svg": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12531.svg",
+      "gitBlobSha1": "30dbb36015e39a07c1452728ed68e6ec56700d24",
+      "sha256": "ad63ea82b67152c010d1c805c7500c75daa9d1e9cf4272fe2ba24da9304be751",
+      "bytes": 1501
+    }
+  },
+  "licenses": {
+    "COPYING.txt": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/licenses/COPYING.txt",
+      "sha256": "4d284bbcd461e3fbaa6e2b61740ad68b281fce92ab8be817a0be5267d632a71f",
+      "bytes": 1476
+    },
+    "LGPL.txt": {
+      "url": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/licenses/LGPL.txt",
+      "sha256": "a5681bf9b05db14d86776930017c647ad9e6e56ff6bbcfdf21e5848288dfaf1b",
+      "bytes": 7651
+    },
+    "GPL-3.0.txt": {
+      "url": "https://www.gnu.org/licenses/gpl-3.0.txt",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    }
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "character": "歩",
+  "meanings": "camino, caminar, razón, proporción, ir a pie",
+  "words": [
+    {
+      "entryId": "1357050",
+      "spelling": "譲歩",
+      "reading": "じょうほ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "譲歩【じょうほ】",
+      "meaning": "ceder; conceder; concesión; compromiso"
+    },
+    {
+      "entryId": "1166460",
+      "spelling": "一歩",
+      "reading": "いっぽ",
+      "senseNumbers": [
+        10,
+        11,
+        12
+      ],
+      "japanese": "一歩【いっぽ】",
+      "meaning": "(un) paso; nivel; etapa; grado pequeño; cantidad pequeña"
+    },
+    {
+      "entryId": "1166460",
+      "spelling": "１歩",
+      "reading": "いっぽ",
+      "senseNumbers": [
+        10,
+        11,
+        12
+      ],
+      "japanese": "１歩【いっぽ】",
+      "meaning": "(un) paso; nivel; etapa; grado pequeño; cantidad pequeña"
+    },
+    {
+      "entryId": "1366190",
+      "spelling": "進歩",
+      "reading": "しんぽ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "進歩【しんぽ】",
+      "meaning": "avanzar; progresar; progreso; desarrollo"
+    },
+    {
+      "entryId": "1415370",
+      "spelling": "第一歩",
+      "reading": "だいいっぽ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "第一歩【だいいっぽ】",
+      "meaning": "primer paso"
+    },
+    {
+      "entryId": "1444510",
+      "spelling": "徒歩",
+      "reading": "とほ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "徒歩【とほ】",
+      "meaning": "caminata"
+    },
+    {
+      "entryId": "1514300",
+      "spelling": "歩",
+      "reading": "ほ",
+      "senseNumbers": [
+        11,
+        12
+      ],
+      "japanese": "歩【ほ】",
+      "meaning": "paso; zancada; contador para pasos"
+    },
+    {
+      "entryId": "1514410",
+      "spelling": "歩調",
+      "reading": "ほちょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "歩調【ほちょう】",
+      "meaning": "paso; velocidad; ritmo"
+    },
+    {
+      "entryId": "1303620",
+      "spelling": "散歩",
+      "reading": "さんぽ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "散歩【さんぽ】",
+      "meaning": "paseo"
+    },
+    {
+      "entryId": "1514330",
+      "spelling": "歩",
+      "reading": "あゆみ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "歩【あゆみ】",
+      "meaning": "paso; andar; curso; recorrido"
+    },
+    {
+      "entryId": "1514330",
+      "spelling": "歩み",
+      "reading": "あゆみ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "歩み【あゆみ】",
+      "meaning": "paso; andar; curso; recorrido"
+    },
+    {
+      "entryId": "1514420",
+      "spelling": "歩道",
+      "reading": "ほどう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "歩道【ほどう】",
+      "meaning": "arcén"
+    },
+    {
+      "entryId": "1163850",
+      "spelling": "ひとり歩き",
+      "reading": "ひとりあるき",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "ひとり歩き【ひとりあるき】",
+      "meaning": "caminando solo; andando solo; recorriendo solo; yendo solo; quedarse en la posición (propia)"
+    },
+    {
+      "entryId": "1163850",
+      "spelling": "一人歩き",
+      "reading": "ひとりあるき",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "一人歩き【ひとりあるき】",
+      "meaning": "caminando solo; andando solo; recorriendo solo; yendo solo; quedarse en la posición (propia)"
+    },
+    {
+      "entryId": "1163850",
+      "spelling": "独り歩き",
+      "reading": "ひとりあるき",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "独り歩き【ひとりあるき】",
+      "meaning": "caminando solo; andando solo; recorriendo solo; yendo solo; quedarse en la posición (propia)"
+    },
+    {
+      "entryId": "1514310",
+      "spelling": "歩きまわる",
+      "reading": "あるきまわる",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "歩きまわる【あるきまわる】",
+      "meaning": "ir de aquí para allá; ir y venir"
+    },
+    {
+      "entryId": "1514310",
+      "spelling": "歩き回る",
+      "reading": "あるきまわる",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "歩き回る【あるきまわる】",
+      "meaning": "ir de aquí para allá; ir y venir"
+    },
+    {
+      "entryId": "1514310",
+      "spelling": "歩き廻る",
+      "reading": "あるきまわる",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "歩き廻る【あるきまわる】",
+      "meaning": "ir de aquí para allá; ir y venir"
+    },
+    {
+      "entryId": "1343050",
+      "spelling": "初歩",
+      "reading": "しょほ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "初歩【しょほ】",
+      "meaning": "primeros pasos; fundamentos; bases"
+    },
+    {
+      "entryId": "1234230",
+      "spelling": "競歩",
+      "reading": "きょうほ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "競歩【きょうほ】",
+      "meaning": "marcha; caminata; marcha atlética (deporte)"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

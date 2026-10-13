@@ -1,0 +1,246 @@
+{
+  "character": "抜",
+  "meanings": "omitir, echar, extraer, tirar, quitar, sacar",
+  "words": [
+    {
+      "entryId": "1478300",
+      "spelling": "抜本的",
+      "reading": "ばっぽんてき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "抜本的【ばっぽんてき】",
+      "meaning": "drástico; radical"
+    },
+    {
+      "entryId": "1392380",
+      "spelling": "選抜",
+      "reading": "せんばつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "選抜【せんばつ】",
+      "meaning": "selección"
+    },
+    {
+      "entryId": "1392380",
+      "spelling": "選抜",
+      "reading": "センバツ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "選抜【センバツ】",
+      "meaning": "selección"
+    },
+    {
+      "entryId": "1478250",
+      "spelling": "抜群",
+      "reading": "ばっくん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "抜群【ばっくん】",
+      "meaning": "extraordinario; excepcional"
+    },
+    {
+      "entryId": "1478250",
+      "spelling": "抜群",
+      "reading": "ばつぐん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "抜群【ばつぐん】",
+      "meaning": "extraordinario; excepcional"
+    },
+    {
+      "entryId": "1478220",
+      "spelling": "抜けだす",
+      "reading": "ぬけだす",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "抜けだす【ぬけだす】",
+      "meaning": "escaparse de ~"
+    },
+    {
+      "entryId": "1478220",
+      "spelling": "抜け出す",
+      "reading": "ぬけだす",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "抜け出す【ぬけだす】",
+      "meaning": "escaparse de ~"
+    },
+    {
+      "entryId": "1478220",
+      "spelling": "抜出す",
+      "reading": "ぬけだす",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "抜出す【ぬけだす】",
+      "meaning": "escaparse de ~"
+    },
+    {
+      "entryId": "1201700",
+      "spelling": "海抜",
+      "reading": "かいばつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "海抜【かいばつ】",
+      "meaning": "altura sobre el nivel del mar"
+    },
+    {
+      "entryId": "1601310",
+      "spelling": "抜枠",
+      "reading": "ばっすい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "抜枠【ばっすい】",
+      "meaning": "extracto; selección"
+    },
+    {
+      "entryId": "1601310",
+      "spelling": "抜粋",
+      "reading": "ばっすい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "抜粋【ばっすい】",
+      "meaning": "extracto; selección"
+    },
+    {
+      "entryId": "1601310",
+      "spelling": "抜萃",
+      "reading": "ばっすい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "抜萃【ばっすい】",
+      "meaning": "extracto; selección"
+    },
+    {
+      "entryId": "1478120",
+      "spelling": "抜かす",
+      "reading": "ぬかす",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "抜かす【ぬかす】",
+      "meaning": "vituperear; omitir; zafar; soltar"
+    },
+    {
+      "entryId": "1169090",
+      "spelling": "引き抜く",
+      "reading": "ひきぬく",
+      "senseNumbers": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "japanese": "引き抜く【ひきぬく】",
+      "meaning": "extraer; arrancar; sacar; reclutar talentos; atraer; desgarrar; desarraigar"
+    },
+    {
+      "entryId": "1169090",
+      "spelling": "引抜く",
+      "reading": "ひきぬく",
+      "senseNumbers": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "japanese": "引抜く【ひきぬく】",
+      "meaning": "extraer; arrancar; sacar; reclutar talentos; atraer; desgarrar; desarraigar"
+    },
+    {
+      "entryId": "1215640",
+      "spelling": "間抜け",
+      "reading": "まぬけ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "間抜け【まぬけ】",
+      "meaning": "tonto; simple; mentecato; bobo"
+    },
+    {
+      "entryId": "1390770",
+      "spelling": "栓抜",
+      "reading": "せんぬき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "栓抜【せんぬき】",
+      "meaning": "sacacorchos; descorchador"
+    },
+    {
+      "entryId": "1390770",
+      "spelling": "栓抜き",
+      "reading": "せんぬき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "栓抜き【せんぬき】",
+      "meaning": "sacacorchos; descorchador"
+    },
+    {
+      "entryId": "1432370",
+      "spelling": "追い抜く",
+      "reading": "おいぬく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "追い抜く【おいぬく】",
+      "meaning": "dejar atrás; rebasar; sobrepasar; superar"
+    },
+    {
+      "entryId": "1432370",
+      "spelling": "追抜く",
+      "reading": "おいぬく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "追抜く【おいぬく】",
+      "meaning": "dejar atrás; rebasar; sobrepasar; superar"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

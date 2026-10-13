@@ -1,0 +1,200 @@
+{
+  "character": "編",
+  "meanings": "ensamblar, tejer, editar, compilar",
+  "words": [
+    {
+      "entryId": "1512040",
+      "spelling": "編成",
+      "reading": "へんせい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "編成【へんせい】",
+      "meaning": "estructura; configuración; ordenamiento; organización"
+    },
+    {
+      "entryId": "1603240",
+      "spelling": "編修",
+      "reading": "へんしゅう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "編修【へんしゅう】",
+      "meaning": "edición"
+    },
+    {
+      "entryId": "1603240",
+      "spelling": "編輯",
+      "reading": "へんしゅう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "編輯【へんしゅう】",
+      "meaning": "edición"
+    },
+    {
+      "entryId": "1603240",
+      "spelling": "編集",
+      "reading": "へんしゅう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "編集【へんしゅう】",
+      "meaning": "edición"
+    },
+    {
+      "entryId": "1597300",
+      "spelling": "短編",
+      "reading": "たんぺん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "短編【たんぺん】",
+      "meaning": "corto (e.g. historia, película)"
+    },
+    {
+      "entryId": "1430110",
+      "spelling": "長編",
+      "reading": "ちょうへん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "長編【ちょうへん】",
+      "meaning": "versión completa"
+    },
+    {
+      "entryId": "1201110",
+      "spelling": "改編",
+      "reading": "かいへん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "改編【かいへん】",
+      "meaning": "reorganización"
+    },
+    {
+      "entryId": "1405860",
+      "spelling": "続編",
+      "reading": "ぞくへん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "続編【ぞくへん】",
+      "meaning": "continuación; secuela"
+    },
+    {
+      "entryId": "1512060",
+      "spelling": "編入",
+      "reading": "へんにゅう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "編入【へんにゅう】",
+      "meaning": "admisión; incorporación; afiliación; ingreso"
+    },
+    {
+      "entryId": "1586670",
+      "spelling": "編みもの",
+      "reading": "あみもの",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "編みもの【あみもの】",
+      "meaning": "tejido; labor de punto; croché"
+    },
+    {
+      "entryId": "1586670",
+      "spelling": "編み物",
+      "reading": "あみもの",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "編み物【あみもの】",
+      "meaning": "tejido; labor de punto; croché"
+    },
+    {
+      "entryId": "1586670",
+      "spelling": "編もの",
+      "reading": "あみもの",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "編もの【あみもの】",
+      "meaning": "tejido; labor de punto; croché"
+    },
+    {
+      "entryId": "1586670",
+      "spelling": "編物",
+      "reading": "あみもの",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "編物【あみもの】",
+      "meaning": "tejido; labor de punto; croché"
+    },
+    {
+      "entryId": "1511950",
+      "spelling": "編む",
+      "reading": "あむ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "編む【あむ】",
+      "meaning": "tejer; trenzar; editar; planear"
+    },
+    {
+      "entryId": "1511970",
+      "spelling": "編曲",
+      "reading": "へんきょく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "編曲【へんきょく】",
+      "meaning": "arreglo (música)"
+    },
+    {
+      "entryId": "1512050",
+      "spelling": "編隊",
+      "reading": "へんたい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "編隊【へんたい】",
+      "meaning": "formación"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "character": "身",
+  "meanings": "cuerpo, uno mismo, posición",
+  "words": [
+    {
+      "entryId": "1318000",
+      "spelling": "自身",
+      "reading": "じしん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "自身【じしん】",
+      "meaning": "por uno mismo; personalmente"
+    },
+    {
+      "entryId": "1339260",
+      "spelling": "出身",
+      "reading": "しゅっしん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "出身【しゅっしん】",
+      "meaning": "procedencia; origen"
+    },
+    {
+      "entryId": "1365520",
+      "spelling": "身",
+      "reading": "み",
+      "senseNumbers": [
+        21
+      ],
+      "japanese": "身【み】",
+      "meaning": "(mi) cuerpo"
+    },
+    {
+      "entryId": "1409140",
+      "spelling": "身体",
+      "reading": "からだ",
+      "senseNumbers": [
+        12,
+        13
+      ],
+      "japanese": "身体【からだ】",
+      "meaning": "cuerpo; salud"
+    },
+    {
+      "entryId": "1599430",
+      "spelling": "中身",
+      "reading": "なかみ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "中身【なかみ】",
+      "meaning": "interior; contenido; relleno"
+    },
+    {
+      "entryId": "1365770",
+      "spelling": "身長",
+      "reading": "しんちょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "身長【しんちょう】",
+      "meaning": "estatura"
+    },
+    {
+      "entryId": "1395410",
+      "spelling": "全身",
+      "reading": "ぜんしん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "全身【ぜんしん】",
+      "meaning": "de cuerpo entero; todo el cuerpo"
+    },
+    {
+      "entryId": "1417640",
+      "spelling": "単身",
+      "reading": "たんしん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "単身【たんしん】",
+      "meaning": "solo; sin ayuda; lejos de casa"
+    },
+    {
+      "entryId": "1365670",
+      "spelling": "身もと",
+      "reading": "みもと",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "身もと【みもと】",
+      "meaning": "procedencia; identidad"
+    },
+    {
+      "entryId": "1365670",
+      "spelling": "身元",
+      "reading": "みもと",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "身元【みもと】",
+      "meaning": "procedencia; identidad"
+    },
+    {
+      "entryId": "1365670",
+      "spelling": "身許",
+      "reading": "みもと",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "身許【みもと】",
+      "meaning": "procedencia; identidad"
+    },
+    {
+      "entryId": "1455850",
+      "spelling": "独身",
+      "reading": "どくしん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "独身【どくしん】",
+      "meaning": "célibe; soltero"
+    },
+    {
+      "entryId": "1365810",
+      "spelling": "身分",
+      "reading": "みぶん",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "身分【みぶん】",
+      "meaning": "posición social"
+    },
+    {
+      "entryId": "1527070",
+      "spelling": "身方",
+      "reading": "みかた",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "身方【みかた】",
+      "meaning": "amigo; aliado; partidario"
+    },
+    {
+      "entryId": "1318620",
+      "spelling": "自分自身",
+      "reading": "じぶんじしん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "自分自身【じぶんじしん】",
+      "meaning": "mismo; propio"
+    },
+    {
+      "entryId": "1332870",
+      "spelling": "終身",
+      "reading": "しゅうしん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "終身【しゅうしん】",
+      "meaning": "toda la vida"
+    },
+    {
+      "entryId": "1360750",
+      "spelling": "心身",
+      "reading": "しんしん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "心身【しんしん】",
+      "meaning": "mente y cuerpo"
+    },
+    {
+      "entryId": "1360750",
+      "spelling": "心身",
+      "reading": "しんじん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "心身【しんじん】",
+      "meaning": "mente y cuerpo"
+    },
+    {
+      "entryId": "1360750",
+      "spelling": "神身",
+      "reading": "しんしん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "神身【しんしん】",
+      "meaning": "mente y cuerpo"
+    },
+    {
+      "entryId": "1360750",
+      "spelling": "身心",
+      "reading": "しんしん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "身心【しんしん】",
+      "meaning": "mente y cuerpo"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

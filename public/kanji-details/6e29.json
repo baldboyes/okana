@@ -1,0 +1,240 @@
+{
+  "character": "温",
+  "meanings": "templado, cálido, amable, afable, calentarse, calentar",
+  "words": [
+    {
+      "entryId": "1221950",
+      "spelling": "気温",
+      "reading": "きおん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "気温【きおん】",
+      "meaning": "temperatura atmosférica"
+    },
+    {
+      "entryId": "1183450",
+      "spelling": "温泉",
+      "reading": "おんせん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "温泉【おんせん】",
+      "meaning": "aguas termales; balneario; onsen; spa"
+    },
+    {
+      "entryId": "1183480",
+      "spelling": "温暖",
+      "reading": "おんだん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "温暖【おんだん】",
+      "meaning": "calor; calidez"
+    },
+    {
+      "entryId": "1183510",
+      "spelling": "温度",
+      "reading": "おんど",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "温度【おんど】",
+      "meaning": "temperatura"
+    },
+    {
+      "entryId": "1183600",
+      "spelling": "温健",
+      "reading": "おんけん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "温健【おんけん】",
+      "meaning": "moderado"
+    },
+    {
+      "entryId": "1283280",
+      "spelling": "高温",
+      "reading": "こうおん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "高温【こうおん】",
+      "meaning": "temperatura alta; temperatura elevada"
+    },
+    {
+      "entryId": "1183390",
+      "spelling": "温室",
+      "reading": "おんしつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "温室【おんしつ】",
+      "meaning": "invernadero"
+    },
+    {
+      "entryId": "1409250",
+      "spelling": "体温",
+      "reading": "たいおん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "体温【たいおん】",
+      "meaning": "temperatura del cuerpo"
+    },
+    {
+      "entryId": "1607190",
+      "spelling": "低温",
+      "reading": "ていおん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "低温【ていおん】",
+      "meaning": "temperatura baja"
+    },
+    {
+      "entryId": "1371330",
+      "spelling": "水温",
+      "reading": "すいおん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "水温【すいおん】",
+      "meaning": "temperatura del agua"
+    },
+    {
+      "entryId": "1586420",
+      "spelling": "温かい",
+      "reading": "あたたかい",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "温かい【あたたかい】",
+      "meaning": "cálido; afable; cordial; apacible; suave; templado"
+    },
+    {
+      "entryId": "1586420",
+      "spelling": "温かい",
+      "reading": "あったかい",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "温かい【あったかい】",
+      "meaning": "cálido; afable; cordial; apacible; suave; templado"
+    },
+    {
+      "entryId": "1586420",
+      "spelling": "温かい",
+      "reading": "あったけー",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "温かい【あったけー】",
+      "meaning": "cálido; afable; cordial; apacible; suave; templado"
+    },
+    {
+      "entryId": "1183460",
+      "spelling": "温存",
+      "reading": "おんぞん",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "温存【おんぞん】",
+      "meaning": "preservar; conservar; guardar"
+    },
+    {
+      "entryId": "1513310",
+      "spelling": "保温",
+      "reading": "ほおん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "保温【ほおん】",
+      "meaning": "aislamiento térmico"
+    },
+    {
+      "entryId": "1586430",
+      "spelling": "温まる",
+      "reading": "あたたまる",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "温まる【あたたまる】",
+      "meaning": "calentarse; calentarse (clima, ambiente), caldearse; asolearse"
+    },
+    {
+      "entryId": "1586430",
+      "spelling": "温まる",
+      "reading": "あったまる",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "温まる【あったまる】",
+      "meaning": "calentarse; calentarse (clima, ambiente), caldearse; asolearse"
+    },
+    {
+      "entryId": "1586430",
+      "spelling": "温まる",
+      "reading": "ぬくまる",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "温まる【ぬくまる】",
+      "meaning": "calentarse; calentarse (clima, ambiente), caldearse; asolearse"
+    },
+    {
+      "entryId": "1183380",
+      "spelling": "温厚",
+      "reading": "おんこう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "温厚【おんこう】",
+      "meaning": "dulce (carácter)"
+    },
+    {
+      "entryId": "1183470",
+      "spelling": "温帯",
+      "reading": "おんたい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "温帯【おんたい】",
+      "meaning": "zona templada"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

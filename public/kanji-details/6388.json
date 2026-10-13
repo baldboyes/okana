@@ -1,0 +1,171 @@
+{
+  "character": "授",
+  "meanings": "impartir, instruir, conceder, otorgar, enseñar, recibir, ser otorgado",
+  "words": [
+    {
+      "entryId": "1237160",
+      "spelling": "教授",
+      "reading": "きょうじゅ",
+      "senseNumbers": [
+        11,
+        12
+      ],
+      "japanese": "教授【きょうじゅ】",
+      "meaning": "profesor; enseñanza; instrucción"
+    },
+    {
+      "entryId": "1330290",
+      "spelling": "授業",
+      "reading": "じゅぎょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "授業【じゅぎょう】",
+      "meaning": "clase; lección"
+    },
+    {
+      "entryId": "1344550",
+      "spelling": "助教授",
+      "reading": "じょきょうじゅ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "助教授【じょきょうじゅ】",
+      "meaning": "profesor asistente"
+    },
+    {
+      "entryId": "1659150",
+      "spelling": "授賞式",
+      "reading": "じゅしょうしき",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "授賞式【じゅしょうしき】",
+      "meaning": "ceremonia de premios"
+    },
+    {
+      "entryId": "1330360",
+      "spelling": "授与",
+      "reading": "じゅよ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "授与【じゅよ】",
+      "meaning": "otorgar; conceder"
+    },
+    {
+      "entryId": "1635910",
+      "spelling": "授精",
+      "reading": "じゅせい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "授精【じゅせい】",
+      "meaning": "fecundación; fertilización; polinización"
+    },
+    {
+      "entryId": "1330280",
+      "spelling": "授ける",
+      "reading": "さずける",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "授ける【さずける】",
+      "meaning": "depositar; entregar"
+    },
+    {
+      "entryId": "1885500",
+      "spelling": "授業中",
+      "reading": "じゅぎょうちゅう",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "授業中【じゅぎょうちゅう】",
+      "meaning": "durante la clase"
+    },
+    {
+      "entryId": "1330340",
+      "spelling": "授賞",
+      "reading": "じゅしょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "授賞【じゅしょう】",
+      "meaning": "conceder un premio; premiar; otorgar un premio"
+    },
+    {
+      "entryId": "1330350",
+      "spelling": "授乳",
+      "reading": "じゅにゅう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "授乳【じゅにゅう】",
+      "meaning": "lactancia (suministro de leche al bebé por parte de la madre); dar de mamar; amamantar"
+    },
+    {
+      "entryId": "1330270",
+      "spelling": "授かる",
+      "reading": "さずかる",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "授かる【さずかる】",
+      "meaning": "ser premiado"
+    },
+    {
+      "entryId": "1442020",
+      "spelling": "伝授",
+      "reading": "でんじゅ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "伝授【でんじゅ】",
+      "meaning": "iniciación; instrucción"
+    },
+    {
+      "entryId": "1697970",
+      "spelling": "授権",
+      "reading": "じゅけん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "授権【じゅけん】",
+      "meaning": "apoderamiento; otorgamiento de poderes o facultades"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

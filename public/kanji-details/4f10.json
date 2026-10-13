@@ -1,0 +1,71 @@
+{
+  "character": "伐",
+  "meanings": "talar, cortar, atacar, golpear",
+  "words": [
+    {
+      "entryId": "1478010",
+      "spelling": "伐つ",
+      "reading": "うつ",
+      "senseNumbers": [
+        12,
+        13
+      ],
+      "japanese": "伐つ【うつ】",
+      "meaning": "atacar; derrotar; destruir; castigar; disparar; vengar"
+    },
+    {
+      "entryId": "1580950",
+      "spelling": "伐りだす",
+      "reading": "きりだす",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "伐りだす【きりだす】",
+      "meaning": "extraer madera o minerales; tocar un tema; abordar un tema; entrar en materia; sacar chispa; hacer chispa; encender fuego de modo primitivo (golpeando pedernal o frotando dos palos)"
+    },
+    {
+      "entryId": "1580950",
+      "spelling": "伐り出す",
+      "reading": "きりだす",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "伐り出す【きりだす】",
+      "meaning": "extraer madera o minerales; tocar un tema; abordar un tema; entrar en materia; sacar chispa; hacer chispa; encender fuego de modo primitivo (golpeando pedernal o frotando dos palos)"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

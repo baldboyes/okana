@@ -1,0 +1,240 @@
+{
+  "character": "急",
+  "meanings": "prisa, urgencia, apresurarse, darse prisa",
+  "words": [
+    {
+      "entryId": "1241850",
+      "spelling": "緊急",
+      "reading": "きんきゅう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "緊急【きんきゅう】",
+      "meaning": "urgente; emergencia"
+    },
+    {
+      "entryId": "1228560",
+      "spelling": "急",
+      "reading": "きゅう",
+      "senseNumbers": [
+        35
+      ],
+      "japanese": "急【きゅう】",
+      "meaning": "urgente; imprevisto; empinado"
+    },
+    {
+      "entryId": "1228890",
+      "spelling": "急速",
+      "reading": "きゅうそく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "急速【きゅうそく】",
+      "meaning": "veloz; rápido"
+    },
+    {
+      "entryId": "1581270",
+      "spelling": "早急",
+      "reading": "さっきゅう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "早急【さっきゅう】",
+      "meaning": "urgente"
+    },
+    {
+      "entryId": "1581270",
+      "spelling": "早急",
+      "reading": "そうきゅう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "早急【そうきゅう】",
+      "meaning": "urgente"
+    },
+    {
+      "entryId": "1228680",
+      "spelling": "急劇",
+      "reading": "きゅうげき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "急劇【きゅうげき】",
+      "meaning": "abrupto; súbito; fulminante"
+    },
+    {
+      "entryId": "1228680",
+      "spelling": "急激",
+      "reading": "きゅうげき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "急激【きゅうげき】",
+      "meaning": "abrupto; súbito; fulminante"
+    },
+    {
+      "entryId": "1228820",
+      "spelling": "急性",
+      "reading": "きゅうせい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "急性【きゅうせい】",
+      "meaning": "agudo; severo"
+    },
+    {
+      "entryId": "1228570",
+      "spelling": "急いで",
+      "reading": "いそいで",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "急いで【いそいで】",
+      "meaning": "apresuradamente"
+    },
+    {
+      "entryId": "1229020",
+      "spelling": "急きょ",
+      "reading": "きゅうきょ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "急きょ【きゅうきょ】",
+      "meaning": "precipitadamente; de prisa"
+    },
+    {
+      "entryId": "1229020",
+      "spelling": "急拠",
+      "reading": "きゅうきょ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "急拠【きゅうきょ】",
+      "meaning": "precipitadamente; de prisa"
+    },
+    {
+      "entryId": "1229020",
+      "spelling": "急遽",
+      "reading": "きゅうきょ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "急遽【きゅうきょ】",
+      "meaning": "precipitadamente; de prisa"
+    },
+    {
+      "entryId": "1228870",
+      "spelling": "急増",
+      "reading": "きゅうぞう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "急増【きゅうぞう】",
+      "meaning": "incremento repentino"
+    },
+    {
+      "entryId": "1229100",
+      "spelling": "救急車",
+      "reading": "きゅうきゅうしゃ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "救急車【きゅうきゅうしゃ】",
+      "meaning": "ambulancia"
+    },
+    {
+      "entryId": "1454750",
+      "spelling": "特急",
+      "reading": "とっきゅう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "特急【とっきゅう】",
+      "meaning": "tren expreso especial"
+    },
+    {
+      "entryId": "1229000",
+      "spelling": "急落",
+      "reading": "きゅうらく",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "急落【きゅうらく】",
+      "meaning": "disparase a la baja; descender en picado; caer súbitamente"
+    },
+    {
+      "entryId": "1179880",
+      "spelling": "応急",
+      "reading": "おうきゅう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "応急【おうきゅう】",
+      "meaning": "emergencia"
+    },
+    {
+      "entryId": "1214470",
+      "spelling": "緩急",
+      "reading": "かんきゅう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "緩急【かんきゅう】",
+      "meaning": "en caso de emergencia"
+    },
+    {
+      "entryId": "1228920",
+      "spelling": "急騰",
+      "reading": "きゅうとう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "急騰【きゅうとう】",
+      "meaning": "subir de repente; dispararse al alza"
+    },
+    {
+      "entryId": "1228980",
+      "spelling": "急務",
+      "reading": "きゅうむ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "急務【きゅうむ】",
+      "meaning": "asunto urgente"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

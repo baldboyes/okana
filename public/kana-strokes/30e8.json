@@ -1,0 +1,52 @@
+{
+  "character": "ヨ",
+  "script": "katakana",
+  "viewBox": "0 0 1024 1024",
+  "coordinates": "svg-native-y-down",
+  "strokes": [
+    {
+      "ordinal": 1,
+      "parts": [
+        {
+          "id": "z12520d1",
+          "clipId": "z12520c1",
+          "outline": "M701 190C697 190 694 190 690 191C555 225 377 276 258 262C205 256 240 291 250 298C284 321 301 328 334 322C440 304 543 264 652 265C689 265 698 313 695 335C693 353 683 455 683 461C678 501 678 501 676 521C665 613 652 706 640 740C631 763 709 776 713 752C727 648 728 532 748 429C758 378 776 328 805 286C814 272 773 240 744 215C735 206 721 191 701 190Z",
+          "median": "M 243,270 308,295 684,217 746,290 681,721"
+        }
+      ]
+    },
+    {
+      "ordinal": 2,
+      "parts": [
+        {
+          "id": "z12520d2",
+          "clipId": "z12520c2",
+          "outline": "M683 461C644 471 364 520 275 515C244 513 246 529 264 546C310 588 357 578 432 561C521 542 574 532 676 521C696 518 703 457 683 461Z",
+          "median": "M 262,536 308,551 678,471"
+        }
+      ]
+    },
+    {
+      "ordinal": 3,
+      "parts": [
+        {
+          "id": "z12520d3",
+          "clipId": "z12520c3",
+          "outline": "M243 795C173 792 213 825 236 837C245 843 268 853 289 851C410 840 573 809 641 820C704 830 726 833 742 817C766 794 747 769 713 752C692 739 664 735 640 740C559 760 336 799 243 795Z",
+          "median": "M 215,803 279,828 590,768 740,803"
+        }
+      ]
+    }
+  ],
+  "provenance": {
+    "commit": "ec5e17cca76c87587790bcbce5ea0b4d4fb753d6",
+    "modifiedAt": "2026-10-02",
+    "license": "LGPL-3.0-or-later",
+    "sourceFilename": "12520.svg",
+    "sourceUrl": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12520.svg",
+    "sourceSha256": "0e84b4334610e00ee00f209fcdf652f0f884fed3254194e7d28a17dc0ecbaeb5",
+    "gitBlobSha1": "65d19e8bbbf4eb008a4d35df42383d134044789b",
+    "sourceHeader": "\nAnimCJK 2016-2026 Copyright FM-SH, https://github.com/parsimonhi/animCJK\nYou can redistribute and/or modify these files under the terms of the GNU\nLesser General Public License as published by the Free Software Foundation,\neither version 3 of the license, or (at your option) any later version. You\nshould have received a copy of this license (the file \"LGPL.txt\") along with\nthese files; if not, see https://www.gnu.org/licenses/.\n",
+    "notice": "Converted SVG outlines and median paths to grouped JSON without geometry changes by Okana on 2026-10-02, from AnimCJK ec5e17cca76c87587790bcbce5ea0b4d4fb753d6. Graphics remain LGPL-3.0-or-later; original copyright and notices are retained in sourceHeader and corresponding source SVG files."
+  }
+}

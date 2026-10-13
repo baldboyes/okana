@@ -1,0 +1,241 @@
+{
+  "character": "開",
+  "meanings": "abrir, desdoblar, dar comienzo, abrirse, estar abierto",
+  "words": [
+    {
+      "entryId": "1202880",
+      "spelling": "開発",
+      "reading": "かいはつ",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "開発【かいはつ】",
+      "meaning": "desarrollo; explotación"
+    },
+    {
+      "entryId": "1202880",
+      "spelling": "開発",
+      "reading": "かいほつ",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "開発【かいほつ】",
+      "meaning": "desarrollo; explotación"
+    },
+    {
+      "entryId": "1202710",
+      "spelling": "開催",
+      "reading": "かいさい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "開催【かいさい】",
+      "meaning": "celebrar; organizar; promover; convención; conferencia; congreso; evento"
+    },
+    {
+      "entryId": "1202760",
+      "spelling": "開始",
+      "reading": "かいし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "開始【かいし】",
+      "meaning": "principio; comienzo; inicio"
+    },
+    {
+      "entryId": "1202950",
+      "spelling": "開放",
+      "reading": "かいほう",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "開放【かいほう】",
+      "meaning": "abierto; espacioso"
+    },
+    {
+      "entryId": "1273370",
+      "spelling": "公開",
+      "reading": "こうかい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "公開【こうかい】",
+      "meaning": "abierto al público"
+    },
+    {
+      "entryId": "1440600",
+      "spelling": "展開",
+      "reading": "てんかい",
+      "senseNumbers": [
+        27,
+        28
+      ],
+      "japanese": "展開【てんかい】",
+      "meaning": "desarrollo; expansión (lo contrario a compresión)"
+    },
+    {
+      "entryId": "1202960",
+      "spelling": "開幕",
+      "reading": "かいまく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "開幕【かいまく】",
+      "meaning": "estreno; inauguración"
+    },
+    {
+      "entryId": "1292400",
+      "spelling": "再開",
+      "reading": "さいかい",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "再開【さいかい】",
+      "meaning": "reapertura; reanudación; reinicio"
+    },
+    {
+      "entryId": "1202560",
+      "spelling": "開会",
+      "reading": "かいかい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "開会【かいかい】",
+      "meaning": "inauguración; apertura; inicio"
+    },
+    {
+      "entryId": "1202800",
+      "spelling": "開設",
+      "reading": "かいせつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "開設【かいせつ】",
+      "meaning": "inauguración; apertura"
+    },
+    {
+      "entryId": "1408850",
+      "spelling": "打開",
+      "reading": "だかい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "打開【だかい】",
+      "meaning": "irrumpir; romper"
+    },
+    {
+      "entryId": "1202810",
+      "spelling": "開戦",
+      "reading": "かいせん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "開戦【かいせん】",
+      "meaning": "apertura de hostilidades; comienzo de la guerra"
+    },
+    {
+      "entryId": "1202830",
+      "spelling": "開拓",
+      "reading": "かいたく",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "開拓【かいたく】",
+      "meaning": "rehabilitación de tierras; cultivo; labrado; exploración; desarrollo"
+    },
+    {
+      "entryId": "1202600",
+      "spelling": "開業",
+      "reading": "かいぎょう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "開業【かいぎょう】",
+      "meaning": "apertura de negocio"
+    },
+    {
+      "entryId": "1657660",
+      "spelling": "再開発",
+      "reading": "さいかいはつ",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "再開発【さいかいはつ】",
+      "meaning": "reurbanización"
+    },
+    {
+      "entryId": "1202870",
+      "spelling": "開店",
+      "reading": "かいてん",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "開店【かいてん】",
+      "meaning": "apertura (inauguración) de un negocio"
+    },
+    {
+      "entryId": "1202850",
+      "spelling": "開通",
+      "reading": "かいつう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "開通【かいつう】",
+      "meaning": "abrirse al tráfico; inauguración de una linea de tránsito"
+    },
+    {
+      "entryId": "1613490",
+      "spelling": "宇宙開発",
+      "reading": "うちゅうかいはつ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "宇宙開発【うちゅうかいはつ】",
+      "meaning": "exploración espacial"
+    },
+    {
+      "entryId": "1202530",
+      "spelling": "開演",
+      "reading": "かいえん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "開演【かいえん】",
+      "meaning": "comenzar la función; levantando el telón; comienzo (ej. concierto)"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

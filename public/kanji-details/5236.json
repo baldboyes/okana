@@ -1,0 +1,240 @@
+{
+  "character": "制",
+  "meanings": "determinar, establecer, comprobar, cesar, poner fin, sistema, construir",
+  "words": [
+    {
+      "entryId": "1223010",
+      "spelling": "規制",
+      "reading": "きせい",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "規制【きせい】",
+      "meaning": "código; estatuto; ley; reglamento; medida; regla; regular; reglamentar"
+    },
+    {
+      "entryId": "1374880",
+      "spelling": "制度",
+      "reading": "せいど",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "制度【せいど】",
+      "meaning": "sistema; institución; organización"
+    },
+    {
+      "entryId": "1409550",
+      "spelling": "体制",
+      "reading": "たいせい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "体制【たいせい】",
+      "meaning": "organización; sistema; arquitectura"
+    },
+    {
+      "entryId": "1374800",
+      "spelling": "制裁",
+      "reading": "せいさい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "制裁【せいさい】",
+      "meaning": "restricción; sanciones; castigo"
+    },
+    {
+      "entryId": "1380690",
+      "spelling": "制造",
+      "reading": "せいぞう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "制造【せいぞう】",
+      "meaning": "manufactura; fabricación"
+    },
+    {
+      "entryId": "1236350",
+      "spelling": "強制",
+      "reading": "きょうせい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "強制【きょうせい】",
+      "meaning": "obligación; coerción; coacción; a la fuerza; forzar; constreñir; compeler; obligar; coaccionar"
+    },
+    {
+      "entryId": "1374700",
+      "spelling": "制限",
+      "reading": "せいげん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "制限【せいげん】",
+      "meaning": "restricción; limitación"
+    },
+    {
+      "entryId": "1374810",
+      "spelling": "制作",
+      "reading": "せいさく",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "制作【せいさく】",
+      "meaning": "obra (e.g. película, libro); trabajo"
+    },
+    {
+      "entryId": "1374620",
+      "spelling": "制",
+      "reading": "せい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "制【せい】",
+      "meaning": "sistema; organización; orden"
+    },
+    {
+      "entryId": "1374870",
+      "spelling": "制定",
+      "reading": "せいてい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "制定【せいてい】",
+      "meaning": "promulgación; establecimiento"
+    },
+    {
+      "entryId": "1547290",
+      "spelling": "抑制",
+      "reading": "よくせい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "抑制【よくせい】",
+      "meaning": "restricción; inhibición"
+    },
+    {
+      "entryId": "1387980",
+      "spelling": "先制",
+      "reading": "せんせい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "先制【せんせい】",
+      "meaning": "anticipación; iniciativa"
+    },
+    {
+      "entryId": "1517330",
+      "spelling": "法制",
+      "reading": "ほうせい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "法制【ほうせい】",
+      "meaning": "legislación; leyes; ley"
+    },
+    {
+      "entryId": "1374970",
+      "spelling": "制約",
+      "reading": "せいやく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "制約【せいやく】",
+      "meaning": "restricción"
+    },
+    {
+      "entryId": "1374940",
+      "spelling": "制服",
+      "reading": "せいふく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "制服【せいふく】",
+      "meaning": "uniforme (ropa)"
+    },
+    {
+      "entryId": "1449820",
+      "spelling": "統制",
+      "reading": "とうせい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "統制【とうせい】",
+      "meaning": "control; reglamentación"
+    },
+    {
+      "entryId": "1595970",
+      "spelling": "制御",
+      "reading": "せいぎょ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "制御【せいぎょ】",
+      "meaning": "control; restricción"
+    },
+    {
+      "entryId": "1595970",
+      "spelling": "制禦",
+      "reading": "せいぎょ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "制禦【せいぎょ】",
+      "meaning": "control; restricción"
+    },
+    {
+      "entryId": "1595970",
+      "spelling": "制馭",
+      "reading": "せいぎょ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "制馭【せいぎょ】",
+      "meaning": "control; restricción"
+    },
+    {
+      "entryId": "1374930",
+      "spelling": "制覇",
+      "reading": "せいは",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "制覇【せいは】",
+      "meaning": "conquista; dominación; dominio"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

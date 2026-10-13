@@ -1,0 +1,242 @@
+{
+  "character": "全",
+  "meanings": "completo, total, enteramente, completamente",
+  "words": [
+    {
+      "entryId": "1153930",
+      "spelling": "安全",
+      "reading": "あんせん",
+      "senseNumbers": [
+        10,
+        11
+      ],
+      "japanese": "安全【あんせん】",
+      "meaning": "seguro; seguridad"
+    },
+    {
+      "entryId": "1153930",
+      "spelling": "安全",
+      "reading": "あんぜん",
+      "senseNumbers": [
+        10,
+        11
+      ],
+      "japanese": "安全【あんぜん】",
+      "meaning": "seguro; seguridad"
+    },
+    {
+      "entryId": "1395660",
+      "spelling": "全体",
+      "reading": "ぜんたい",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "全体【ぜんたい】",
+      "meaning": "enteramente; íntegramente; entero (todo completo)"
+    },
+    {
+      "entryId": "1581180",
+      "spelling": "全国",
+      "reading": "ぜんこく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "全国【ぜんこく】",
+      "meaning": "nacionalmente; en todo el país"
+    },
+    {
+      "entryId": "1394840",
+      "spelling": "全員",
+      "reading": "ぜいいん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "全員【ぜいいん】",
+      "meaning": "todos los miembros (unanimidad); toda la tripulación; todos"
+    },
+    {
+      "entryId": "1394840",
+      "spelling": "全員",
+      "reading": "ぜんいん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "全員【ぜんいん】",
+      "meaning": "todos los miembros (unanimidad); toda la tripulación; todos"
+    },
+    {
+      "entryId": "1154030",
+      "spelling": "安全保障",
+      "reading": "あんぜんほしょう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "安全保障【あんぜんほしょう】",
+      "meaning": "garantía de securidad ej. (seguridad militar, red de seguridad, etc."
+    },
+    {
+      "entryId": "1395890",
+      "spelling": "全日",
+      "reading": "ぜんじつ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "全日【ぜんじつ】",
+      "meaning": "todos los días"
+    },
+    {
+      "entryId": "1396130",
+      "spelling": "全部",
+      "reading": "ぜんぶ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "全部【ぜんぶ】",
+      "meaning": "todo; entero; enteramente"
+    },
+    {
+      "entryId": "1396390",
+      "spelling": "全力",
+      "reading": "ぜんりょく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "全力【ぜんりょく】",
+      "meaning": "con todas las fuerzas"
+    },
+    {
+      "entryId": "1360950",
+      "spelling": "心不全",
+      "reading": "しんふぜん",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "心不全【しんふぜん】",
+      "meaning": "insuficiencia cardiaca"
+    },
+    {
+      "entryId": "1211510",
+      "spelling": "完全",
+      "reading": "かんぜん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "完全【かんぜん】",
+      "meaning": "por completo; por entero; del todo; plenamente; perfeción; compleción"
+    },
+    {
+      "entryId": "1396300",
+      "spelling": "全面的",
+      "reading": "ぜんめんてき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "全面的【ぜんめんてき】",
+      "meaning": "en general"
+    },
+    {
+      "entryId": "1493630",
+      "spelling": "不全",
+      "reading": "ふぜん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "不全【ふぜん】",
+      "meaning": "parcial; incompleto; imperfecto"
+    },
+    {
+      "entryId": "1256360",
+      "spelling": "健全",
+      "reading": "けんぜん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "健全【けんぜん】",
+      "meaning": "saludable; sano; lozano"
+    },
+    {
+      "entryId": "1395410",
+      "spelling": "全身",
+      "reading": "ぜんしん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "全身【ぜんしん】",
+      "meaning": "de cuerpo entero; todo el cuerpo"
+    },
+    {
+      "entryId": "1396020",
+      "spelling": "全般",
+      "reading": "ぜんぱん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "全般【ぜんぱん】",
+      "meaning": "generalidad; universalidad; globaliad"
+    },
+    {
+      "entryId": "1395530",
+      "spelling": "全世界",
+      "reading": "ぜんせかい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "全世界【ぜんせかい】",
+      "meaning": "el mundo entero"
+    },
+    {
+      "entryId": "1395340",
+      "spelling": "全集",
+      "reading": "ぜんしゅう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "全集【ぜんしゅう】",
+      "meaning": "obras completas (vg de algún autor)"
+    },
+    {
+      "entryId": "1395980",
+      "spelling": "全廃",
+      "reading": "ぜんぱい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "全廃【ぜんぱい】",
+      "meaning": "abolición total"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

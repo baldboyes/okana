@@ -1,0 +1,120 @@
+{
+  "character": "沿",
+  "meanings": "seguir a lo largo de, bordear",
+  "words": [
+    {
+      "entryId": "1176710",
+      "spelling": "沿って",
+      "reading": "そって",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "沿って【そって】",
+      "meaning": "a lo largo de; con arreglo a"
+    },
+    {
+      "entryId": "1176740",
+      "spelling": "沿岸",
+      "reading": "えんがん",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "沿岸【えんがん】",
+      "meaning": "litoral"
+    },
+    {
+      "entryId": "1176760",
+      "spelling": "沿道",
+      "reading": "えんどう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "沿道【えんどう】",
+      "meaning": "borde del camino; lado del camino"
+    },
+    {
+      "entryId": "1176750",
+      "spelling": "沿線",
+      "reading": "えんせん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "沿線【えんせん】",
+      "meaning": "borde de la linea"
+    },
+    {
+      "entryId": "1176720",
+      "spelling": "沿海",
+      "reading": "えんかい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "沿海【えんかい】",
+      "meaning": "litoral; costa marítima"
+    },
+    {
+      "entryId": "1735990",
+      "spelling": "沿海州",
+      "reading": "えんかいしゅう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "沿海州【えんかいしゅう】",
+      "meaning": "(Rusas) provincias marítimas"
+    },
+    {
+      "entryId": "1176700",
+      "spelling": "沿う",
+      "reading": "そう",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "沿う【そう】",
+      "meaning": "ir a lo largo de; ir a la par con"
+    },
+    {
+      "entryId": "1176730",
+      "spelling": "沿革",
+      "reading": "えんかく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "沿革【えんかく】",
+      "meaning": "historia; evolución; vicitudes"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "character": "戦",
+  "meanings": "guerra, batalla, lucha, pelear, batallar, combatir, luchar",
+  "words": [
+    {
+      "entryId": "1390360",
+      "spelling": "戦争",
+      "reading": "せんそう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "戦争【せんそう】",
+      "meaning": "hacer la guerra; guerrear; guerra"
+    },
+    {
+      "entryId": "1607450",
+      "spelling": "戦後",
+      "reading": "せんご",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "戦後【せんご】",
+      "meaning": "posguerra"
+    },
+    {
+      "entryId": "1297800",
+      "spelling": "作戦",
+      "reading": "さくせん",
+      "senseNumbers": [
+        10,
+        11
+      ],
+      "japanese": "作戦【さくせん】",
+      "meaning": "tácticas; estrategia; operación militar; operación naval"
+    },
+    {
+      "entryId": "1297800",
+      "spelling": "策戦",
+      "reading": "さくせん",
+      "senseNumbers": [
+        10,
+        11
+      ],
+      "japanese": "策戦【さくせん】",
+      "meaning": "tácticas; estrategia; operación militar; operación naval"
+    },
+    {
+      "entryId": "1390420",
+      "spelling": "戦闘",
+      "reading": "せんとう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "戦闘【せんとう】",
+      "meaning": "batalla; combate"
+    },
+    {
+      "entryId": "1557060",
+      "spelling": "冷戦",
+      "reading": "れいせん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "冷戦【れいせん】",
+      "meaning": "guerra fría"
+    },
+    {
+      "entryId": "1390600",
+      "spelling": "戦略",
+      "reading": "せんりゃく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "戦略【せんりゃく】",
+      "meaning": "estrategia (táctica)"
+    },
+    {
+      "entryId": "1434980",
+      "spelling": "停戦",
+      "reading": "ていせん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "停戦【ていせん】",
+      "meaning": "armisticio; alto el fuego; cese de las hostilidades"
+    },
+    {
+      "entryId": "1428240",
+      "spelling": "挑戦",
+      "reading": "ちょうせん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "挑戦【ちょうせん】",
+      "meaning": "reto; desafío"
+    },
+    {
+      "entryId": "1596950",
+      "spelling": "戦い",
+      "reading": "たたかい",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "戦い【たたかい】",
+      "meaning": "batalla; pelea; conflicto; lucha"
+    },
+    {
+      "entryId": "1458640",
+      "spelling": "内戦",
+      "reading": "ないせん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "内戦【ないせん】",
+      "meaning": "guerra civil"
+    },
+    {
+      "entryId": "1414360",
+      "spelling": "大戦",
+      "reading": "たいせん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "大戦【たいせん】",
+      "meaning": "gran guerra; guerra grande; gran batalla; batalla grande"
+    },
+    {
+      "entryId": "1390280",
+      "spelling": "戦術",
+      "reading": "せんじゅつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "戦術【せんじゅつ】",
+      "meaning": "táctica"
+    },
+    {
+      "entryId": "1390340",
+      "spelling": "戦線",
+      "reading": "せんせん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "戦線【せんせん】",
+      "meaning": "frente (de guerra)"
+    },
+    {
+      "entryId": "1332900",
+      "spelling": "終戦",
+      "reading": "しゅうせん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "終戦【しゅうせん】",
+      "meaning": "armisticio; fin de la guerra"
+    },
+    {
+      "entryId": "1390350",
+      "spelling": "戦前",
+      "reading": "せんぜん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "戦前【せんぜん】",
+      "meaning": "preguerra"
+    },
+    {
+      "entryId": "1390270",
+      "spelling": "戦車",
+      "reading": "せんしゃ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "戦車【せんしゃ】",
+      "meaning": "tanque (vehículo militar)"
+    },
+    {
+      "entryId": "1472560",
+      "spelling": "敗戦",
+      "reading": "はいせん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "敗戦【はいせん】",
+      "meaning": "derrota"
+    },
+    {
+      "entryId": "1392220",
+      "spelling": "選挙戦",
+      "reading": "せんきょせん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "選挙戦【せんきょせん】",
+      "meaning": "campaña electoral"
+    },
+    {
+      "entryId": "1202810",
+      "spelling": "開戦",
+      "reading": "かいせん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "開戦【かいせん】",
+      "meaning": "apertura de hostilidades; comienzo de la guerra"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

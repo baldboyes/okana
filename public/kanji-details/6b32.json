@@ -1,0 +1,214 @@
+{
+  "character": "欲",
+  "meanings": "anhelo, ansia, deseo, querer, desear",
+  "words": [
+    {
+      "entryId": "1587690",
+      "spelling": "意欲",
+      "reading": "いよく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "意欲【いよく】",
+      "meaning": "voluntad; desaire; ambición"
+    },
+    {
+      "entryId": "1547320",
+      "spelling": "欲",
+      "reading": "よく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "欲【よく】",
+      "meaning": "deseo; avaricia; codicia; anhelo; interés"
+    },
+    {
+      "entryId": "1358660",
+      "spelling": "食欲",
+      "reading": "しょくよく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "食欲【しょくよく】",
+      "meaning": "apetito (por la comida)"
+    },
+    {
+      "entryId": "1547350",
+      "spelling": "欲求",
+      "reading": "よっきゅう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "欲求【よっきゅう】",
+      "meaning": "deseo"
+    },
+    {
+      "entryId": "1547410",
+      "spelling": "欲望",
+      "reading": "よくぼう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "欲望【よくぼう】",
+      "meaning": "deseo; apetito; lujuria"
+    },
+    {
+      "entryId": "1547330",
+      "spelling": "欲しい",
+      "reading": "ほしい",
+      "senseNumbers": [
+        10,
+        11
+      ],
+      "japanese": "欲しい【ほしい】",
+      "meaning": "deseado; deseado por; necesidad de; (después de la forma -te de un verbo) quiero que (tu)..."
+    },
+    {
+      "entryId": "1547340",
+      "spelling": "欲する",
+      "reading": "ほっする",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "欲する【ほっする】",
+      "meaning": "querer; desear"
+    },
+    {
+      "entryId": "1611550",
+      "spelling": "欲しがる",
+      "reading": "ほしがる",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "欲しがる【ほしがる】",
+      "meaning": "querer; desear"
+    },
+    {
+      "entryId": "1530950",
+      "spelling": "無欲",
+      "reading": "むよく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "無欲【むよく】",
+      "meaning": "desinterés; altruismo"
+    },
+    {
+      "entryId": "1547390",
+      "spelling": "欲ばり",
+      "reading": "よくばり",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "欲ばり【よくばり】",
+      "meaning": "avaro"
+    },
+    {
+      "entryId": "1547390",
+      "spelling": "欲張り",
+      "reading": "よくばり",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "欲張り【よくばり】",
+      "meaning": "avaro"
+    },
+    {
+      "entryId": "1599350",
+      "spelling": "貪欲",
+      "reading": "たんよく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "貪欲【たんよく】",
+      "meaning": "avaricia; codicia"
+    },
+    {
+      "entryId": "1599350",
+      "spelling": "貪欲",
+      "reading": "とんよく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "貪欲【とんよく】",
+      "meaning": "avaricia; codicia"
+    },
+    {
+      "entryId": "1599350",
+      "spelling": "貪欲",
+      "reading": "どんよく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "貪欲【どんよく】",
+      "meaning": "avaricia; codicia"
+    },
+    {
+      "entryId": "1609680",
+      "spelling": "禁欲的",
+      "reading": "きんよくてき",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "禁欲的【きんよくてき】",
+      "meaning": "abstemio"
+    },
+    {
+      "entryId": "1375540",
+      "spelling": "性欲",
+      "reading": "せいよく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "性欲【せいよく】",
+      "meaning": "deseo sexual"
+    },
+    {
+      "entryId": "1586140",
+      "spelling": "愛欲",
+      "reading": "あいよく",
+      "senseNumbers": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "japanese": "愛欲【あいよく】",
+      "meaning": "pasión; deseo sexual; lujuria; (Budismo) apego (esp. a la familia de uno o a un miembro del sexo opuesto; (Budismo) apego (esp. a la familia de uno o a un miembro del sexo opuesto)"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

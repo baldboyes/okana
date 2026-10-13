@@ -1,0 +1,240 @@
+{
+  "character": "物",
+  "meanings": "cosa, objeto, materia",
+  "words": [
+    {
+      "entryId": "1369070",
+      "spelling": "人物",
+      "reading": "じんぶつ",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "人物【じんぶつ】",
+      "meaning": "carácter; personalidad; persona; hombre; personaje; hombre con talento"
+    },
+    {
+      "entryId": "1451470",
+      "spelling": "動物",
+      "reading": "どうぶつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "動物【どうぶつ】",
+      "meaning": "animal"
+    },
+    {
+      "entryId": "1257540",
+      "spelling": "建て物",
+      "reading": "たてもの",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "建て物【たてもの】",
+      "meaning": "edificio"
+    },
+    {
+      "entryId": "1257540",
+      "spelling": "建物",
+      "reading": "たてもの",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "建物【たてもの】",
+      "meaning": "edificio"
+    },
+    {
+      "entryId": "1502430",
+      "spelling": "物価",
+      "reading": "ぶっか",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "物価【ぶっか】",
+      "meaning": "precios"
+    },
+    {
+      "entryId": "1502480",
+      "spelling": "物語",
+      "reading": "ものがたり",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "物語【ものがたり】",
+      "meaning": "cuento; historia; leyenda"
+    },
+    {
+      "entryId": "1502480",
+      "spelling": "物語り",
+      "reading": "ものがたり",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "物語り【ものがたり】",
+      "meaning": "cuento; historia; leyenda"
+    },
+    {
+      "entryId": "1502560",
+      "spelling": "物質",
+      "reading": "ぶっしつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "物質【ぶっしつ】",
+      "meaning": "material; sustancia"
+    },
+    {
+      "entryId": "1357300",
+      "spelling": "植物",
+      "reading": "しょくぶつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "植物【しょくぶつ】",
+      "meaning": "planta(s); vegetación"
+    },
+    {
+      "entryId": "1379430",
+      "spelling": "生物",
+      "reading": "せいぶつ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "生物【せいぶつ】",
+      "meaning": "seres vivos; criatura"
+    },
+    {
+      "entryId": "1474720",
+      "spelling": "博物館",
+      "reading": "はくぶつかん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "博物館【はくぶつかん】",
+      "meaning": "museo"
+    },
+    {
+      "entryId": "1502540",
+      "spelling": "物資",
+      "reading": "ぶっし",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "物資【ぶっし】",
+      "meaning": "artículos; suministros; recursos"
+    },
+    {
+      "entryId": "1195890",
+      "spelling": "貨物",
+      "reading": "かぶつ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "貨物【かぶつ】",
+      "meaning": "carga"
+    },
+    {
+      "entryId": "1195890",
+      "spelling": "貨物",
+      "reading": "かもつ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "貨物【かもつ】",
+      "meaning": "carga"
+    },
+    {
+      "entryId": "1523180",
+      "spelling": "本物",
+      "reading": "ほんもの",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "本物【ほんもの】",
+      "meaning": "artículo genuino"
+    },
+    {
+      "entryId": "1523180",
+      "spelling": "本物",
+      "reading": "ホンモノ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "本物【ホンモノ】",
+      "meaning": "artículo genuino"
+    },
+    {
+      "entryId": "1589730",
+      "spelling": "買い物",
+      "reading": "かいもの",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "買い物【かいもの】",
+      "meaning": "(las) compras (lit. cosas compradas)"
+    },
+    {
+      "entryId": "1589730",
+      "spelling": "買い物",
+      "reading": "かいもん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "買い物【かいもん】",
+      "meaning": "(las) compras (lit. cosas compradas)"
+    },
+    {
+      "entryId": "1589730",
+      "spelling": "買物",
+      "reading": "かいもの",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "買物【かいもの】",
+      "meaning": "(las) compras (lit. cosas compradas)"
+    },
+    {
+      "entryId": "1470710",
+      "spelling": "農産物",
+      "reading": "のうさんぶつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "農産物【のうさんぶつ】",
+      "meaning": "productos agrícolas"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

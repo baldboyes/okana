@@ -1,0 +1,150 @@
+{
+  "character": "敢",
+  "meanings": "osado, atrevido",
+  "words": [
+    {
+      "entryId": "1192920",
+      "spelling": "果敢",
+      "reading": "かかん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "果敢【かかん】",
+      "meaning": "resuelto; decidido; atrevido"
+    },
+    {
+      "entryId": "1212900",
+      "spelling": "敢闘",
+      "reading": "かんとう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "敢闘【かんとう】",
+      "meaning": "lucha encarnizada; combate singular; pelea valerosa"
+    },
+    {
+      "entryId": "1212880",
+      "spelling": "敢行",
+      "reading": "かんこう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "敢行【かんこう】",
+      "meaning": "acción decisiva"
+    },
+    {
+      "entryId": "1539730",
+      "spelling": "勇敢",
+      "reading": "ゆうかん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "勇敢【ゆうかん】",
+      "meaning": "valiente; audaz"
+    },
+    {
+      "entryId": "1212850",
+      "spelling": "敢えて",
+      "reading": "あえて",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "敢えて【あえて】",
+      "meaning": "si me permito (hacer, decir)"
+    },
+    {
+      "entryId": "1212850",
+      "spelling": "敢て",
+      "reading": "あえて",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "敢て【あえて】",
+      "meaning": "si me permito (hacer, decir)"
+    },
+    {
+      "entryId": "1598980",
+      "spelling": "取り敢えず",
+      "reading": "とりあえず",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "取り敢えず【とりあえず】",
+      "meaning": "en seguida; en primer lugar; por el momento; por ahora"
+    },
+    {
+      "entryId": "1598980",
+      "spelling": "取敢えず",
+      "reading": "とりあえず",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "取敢えず【とりあえず】",
+      "meaning": "en seguida; en primer lugar; por el momento; por ahora"
+    },
+    {
+      "entryId": "1600630",
+      "spelling": "果敢ない",
+      "reading": "はかない",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "果敢ない【はかない】",
+      "meaning": "efímero; vano; pasajero; fugaz"
+    },
+    {
+      "entryId": "1600630",
+      "spelling": "果敢無い",
+      "reading": "はかない",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "果敢無い【はかない】",
+      "meaning": "efímero; vano; pasajero; fugaz"
+    },
+    {
+      "entryId": "1212890",
+      "spelling": "敢然",
+      "reading": "かんぜん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "敢然【かんぜん】",
+      "meaning": "con decisión; con determinación; decididamente; sin vacilar; con fe"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

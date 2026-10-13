@@ -1,0 +1,210 @@
+{
+  "character": "派",
+  "meanings": "grupo, división, rama, enviar, mandar",
+  "words": [
+    {
+      "entryId": "1471130",
+      "spelling": "派遣",
+      "reading": "はけん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "派遣【はけん】",
+      "meaning": "enviar; despachar; mandar"
+    },
+    {
+      "entryId": "1471180",
+      "spelling": "派閥",
+      "reading": "はばつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "派閥【はばつ】",
+      "meaning": "facción"
+    },
+    {
+      "entryId": "1551790",
+      "spelling": "立派",
+      "reading": "りっぱ",
+      "senseNumbers": [
+        21
+      ],
+      "japanese": "立派【りっぱ】",
+      "meaning": "magnífico; espléndido"
+    },
+    {
+      "entryId": "1291030",
+      "spelling": "左派",
+      "reading": "さは",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "左派【さは】",
+      "meaning": "izquierda (política)"
+    },
+    {
+      "entryId": "1455240",
+      "spelling": "特派員",
+      "reading": "とくはいん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "特派員【とくはいん】",
+      "meaning": "corresponsal"
+    },
+    {
+      "entryId": "1471140",
+      "spelling": "派手",
+      "reading": "はで",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "派手【はで】",
+      "meaning": "llamativo (vistoso; ostentoso); alocado (estrepitoso)"
+    },
+    {
+      "entryId": "1446030",
+      "spelling": "党派",
+      "reading": "とうは",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "党派【とうは】",
+      "meaning": "facción"
+    },
+    {
+      "entryId": "1582940",
+      "spelling": "派出所",
+      "reading": "はしゅつしょ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "派出所【はしゅつしょ】",
+      "meaning": "estación de policía local; comisaría local"
+    },
+    {
+      "entryId": "1582940",
+      "spelling": "派出所",
+      "reading": "はしゅつじょ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "派出所【はしゅつじょ】",
+      "meaning": "estación de policía local; comisaría local"
+    },
+    {
+      "entryId": "1552520",
+      "spelling": "流派",
+      "reading": "りゅうは",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "流派【りゅうは】",
+      "meaning": "escuela (ej. de ikebana)"
+    },
+    {
+      "entryId": "1165650",
+      "spelling": "一派",
+      "reading": "いっぱ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "一派【いっぱ】",
+      "meaning": "escuela; secta; partido"
+    },
+    {
+      "entryId": "1471150",
+      "spelling": "派生",
+      "reading": "はせい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "派生【はせい】",
+      "meaning": "derivación"
+    },
+    {
+      "entryId": "1471120",
+      "spelling": "派",
+      "reading": "は",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "派【は】",
+      "meaning": "pandilla; camarilla; facción; escuela"
+    },
+    {
+      "entryId": "1168420",
+      "spelling": "印象派",
+      "reading": "いんしょうは",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "印象派【いんしょうは】",
+      "meaning": "Impresionistas"
+    },
+    {
+      "entryId": "1377730",
+      "spelling": "正統派",
+      "reading": "せいとうは",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "正統派【せいとうは】",
+      "meaning": "escuela ortodoxa"
+    },
+    {
+      "entryId": "1528110",
+      "spelling": "未来派",
+      "reading": "みらいは",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "未来派【みらいは】",
+      "meaning": "futurismo"
+    },
+    {
+      "entryId": "1455230",
+      "spelling": "特派",
+      "reading": "とくは",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "特派【とくは】",
+      "meaning": "enviado especial"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

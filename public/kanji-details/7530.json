@@ -1,0 +1,242 @@
+{
+  "character": "田",
+  "meanings": "campo de arroz, arrozal",
+  "words": [
+    {
+      "entryId": "1371890",
+      "spelling": "水田",
+      "reading": "すいでん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "水田【すいでん】",
+      "meaning": "campo de arroz (lleno de agua); arrozal (inundado)"
+    },
+    {
+      "entryId": "1371890",
+      "spelling": "水田",
+      "reading": "みずた",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "水田【みずた】",
+      "meaning": "campo de arroz (lleno de agua); arrozal (inundado)"
+    },
+    {
+      "entryId": "1538720",
+      "spelling": "油田",
+      "reading": "ゆでん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "油田【ゆでん】",
+      "meaning": "campo petrolífero; yacimiento petrolífero"
+    },
+    {
+      "entryId": "1442750",
+      "spelling": "田舍",
+      "reading": "いなか",
+      "senseNumbers": [
+        12,
+        13
+      ],
+      "japanese": "田舍【いなか】",
+      "meaning": "rural; en el campo; suburbio; ciudad de origen o residencia"
+    },
+    {
+      "entryId": "1442750",
+      "spelling": "田舎",
+      "reading": "いなか",
+      "senseNumbers": [
+        12,
+        13
+      ],
+      "japanese": "田舎【いなか】",
+      "meaning": "rural; en el campo; suburbio; ciudad de origen o residencia"
+    },
+    {
+      "entryId": "1442740",
+      "spelling": "田園",
+      "reading": "でんえん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "田園【でんえん】",
+      "meaning": "campestre; campiña; provincia; de provincia"
+    },
+    {
+      "entryId": "1442740",
+      "spelling": "田園",
+      "reading": "でんおん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "田園【でんおん】",
+      "meaning": "campestre; campiña; provincia; de provincia"
+    },
+    {
+      "entryId": "1442740",
+      "spelling": "田苑",
+      "reading": "でんえん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "田苑【でんえん】",
+      "meaning": "campestre; campiña; provincia; de provincia"
+    },
+    {
+      "entryId": "1442830",
+      "spelling": "田畑",
+      "reading": "たはた",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "田畑【たはた】",
+      "meaning": "campos de cultivo"
+    },
+    {
+      "entryId": "1442830",
+      "spelling": "田畑",
+      "reading": "たはたけ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "田畑【たはたけ】",
+      "meaning": "campos de cultivo"
+    },
+    {
+      "entryId": "1442830",
+      "spelling": "田畑",
+      "reading": "でんばた",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "田畑【でんばた】",
+      "meaning": "campos de cultivo"
+    },
+    {
+      "entryId": "1442830",
+      "spelling": "田畑",
+      "reading": "でんぱた",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "田畑【でんぱた】",
+      "meaning": "campos de cultivo"
+    },
+    {
+      "entryId": "1442830",
+      "spelling": "田畠",
+      "reading": "たはた",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "田畠【たはた】",
+      "meaning": "campos de cultivo"
+    },
+    {
+      "entryId": "1442810",
+      "spelling": "田植",
+      "reading": "たうえ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "田植【たうえ】",
+      "meaning": "cultivo"
+    },
+    {
+      "entryId": "1442810",
+      "spelling": "田植え",
+      "reading": "たうえ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "田植え【たうえ】",
+      "meaning": "cultivo"
+    },
+    {
+      "entryId": "1613370",
+      "spelling": "稲田",
+      "reading": "いなだ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "稲田【いなだ】",
+      "meaning": "arrozal; campo de arroz"
+    },
+    {
+      "entryId": "1178790",
+      "spelling": "塩田",
+      "reading": "えんでん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "塩田【えんでん】",
+      "meaning": "salina"
+    },
+    {
+      "entryId": "1178790",
+      "spelling": "塩田",
+      "reading": "しおた",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "塩田【しおた】",
+      "meaning": "salina"
+    },
+    {
+      "entryId": "1178790",
+      "spelling": "塩田",
+      "reading": "しおだ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "塩田【しおだ】",
+      "meaning": "salina"
+    },
+    {
+      "entryId": "1442840",
+      "spelling": "田んぼ",
+      "reading": "たんぼ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "田んぼ【たんぼ】",
+      "meaning": "arrozal; campo de arroz; granja"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "character": "病",
+  "meanings": "enfermedad, caer enfermo",
+  "words": [
+    {
+      "entryId": "1490220",
+      "spelling": "病院",
+      "reading": "びょういん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "病院【びょういん】",
+      "meaning": "hospital"
+    },
+    {
+      "entryId": "1490230",
+      "spelling": "病気",
+      "reading": "びょうき",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "病気【びょうき】",
+      "meaning": "enfermedad"
+    },
+    {
+      "entryId": "1490230",
+      "spelling": "病気",
+      "reading": "ビョーキ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "病気【ビョーキ】",
+      "meaning": "enfermedad"
+    },
+    {
+      "entryId": "1490230",
+      "spelling": "病氣",
+      "reading": "びょうき",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "病氣【びょうき】",
+      "meaning": "enfermedad"
+    },
+    {
+      "entryId": "1995990",
+      "spelling": "水俣病",
+      "reading": "みなまたびょう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "水俣病【みなまたびょう】",
+      "meaning": "enfermedad de Minamata (envenenamiento por mercurio)"
+    },
+    {
+      "entryId": "1449640",
+      "spelling": "糖尿病",
+      "reading": "とうにょうびょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "糖尿病【とうにょうびょう】",
+      "meaning": "diabetes"
+    },
+    {
+      "entryId": "1475130",
+      "spelling": "白血病",
+      "reading": "はっけつびょう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "白血病【はっけつびょう】",
+      "meaning": "leucemia"
+    },
+    {
+      "entryId": "1490350",
+      "spelling": "病状",
+      "reading": "びょうじょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "病状【びょうじょう】",
+      "meaning": "condición medica"
+    },
+    {
+      "entryId": "1490400",
+      "spelling": "病棟",
+      "reading": "びょうとう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "病棟【びょうとう】",
+      "meaning": "pabellón hospitalario"
+    },
+    {
+      "entryId": "1461080",
+      "spelling": "難病",
+      "reading": "なんびょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "難病【なんびょう】",
+      "meaning": "enfermedad incurable"
+    },
+    {
+      "entryId": "1793880",
+      "spelling": "心臓病",
+      "reading": "しんぞうびょう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "心臓病【しんぞうびょう】",
+      "meaning": "dolencia cardiaca; enfermedad del corazón"
+    },
+    {
+      "entryId": "1490310",
+      "spelling": "病室",
+      "reading": "びょうしつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "病室【びょうしつ】",
+      "meaning": "habitación de hospital"
+    },
+    {
+      "entryId": "1255400",
+      "spelling": "血友病",
+      "reading": "けつゆうびょう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "血友病【けつゆうびょう】",
+      "meaning": "hemofilia"
+    },
+    {
+      "entryId": "1490330",
+      "spelling": "病床",
+      "reading": "びょうしょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "病床【びょうしょう】",
+      "meaning": "cama de enfermo; cama de hospital"
+    },
+    {
+      "entryId": "1490330",
+      "spelling": "病牀",
+      "reading": "びょうしょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "病牀【びょうしょう】",
+      "meaning": "cama de enfermo; cama de hospital"
+    },
+    {
+      "entryId": "1710910",
+      "spelling": "病理",
+      "reading": "びょうり",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "病理【びょうり】",
+      "meaning": "patología"
+    },
+    {
+      "entryId": "1477870",
+      "spelling": "発病",
+      "reading": "はつびょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "発病【はつびょう】",
+      "meaning": "ataque (enfermedad)"
+    },
+    {
+      "entryId": "1490360",
+      "spelling": "病人",
+      "reading": "びょうにん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "病人【びょうにん】",
+      "meaning": "enfermo; paciente"
+    },
+    {
+      "entryId": "1490410",
+      "spelling": "病名",
+      "reading": "びょうめい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "病名【びょうめい】",
+      "meaning": "nombre de una enfermedad"
+    },
+    {
+      "entryId": "1320600",
+      "spelling": "疾病",
+      "reading": "しっぺい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "疾病【しっぺい】",
+      "meaning": "enfermedad"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

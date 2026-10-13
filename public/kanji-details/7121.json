@@ -1,0 +1,240 @@
+{
+  "character": "無",
+  "meanings": "nada, inexistente, prefijo negativo, no hay",
+  "words": [
+    {
+      "entryId": "1531040",
+      "spelling": "無料",
+      "reading": "むりょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "無料【むりょう】",
+      "meaning": "gratis; gratuito"
+    },
+    {
+      "entryId": "1530190",
+      "spelling": "無職",
+      "reading": "むしょく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "無職【むしょく】",
+      "meaning": "sin empleo; sin ocupación; parado"
+    },
+    {
+      "entryId": "1672550",
+      "spelling": "無所属",
+      "reading": "むしょぞく",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "無所属【むしょぞく】",
+      "meaning": "independiente"
+    },
+    {
+      "entryId": "1215290",
+      "spelling": "間も無く",
+      "reading": "まもなく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "間も無く【まもなく】",
+      "meaning": "de inmediato; inmediatamente"
+    },
+    {
+      "entryId": "1529980",
+      "spelling": "無罪",
+      "reading": "むざい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "無罪【むざい】",
+      "meaning": "inocencia"
+    },
+    {
+      "entryId": "1530970",
+      "spelling": "無理",
+      "reading": "むり",
+      "senseNumbers": [
+        28
+      ],
+      "japanese": "無理【むり】",
+      "meaning": "a la fuerza; por la fuerza; forzadamente; forzosamente; poco razonable; imposible; excesivo"
+    },
+    {
+      "entryId": "1530380",
+      "spelling": "無線",
+      "reading": "むせん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "無線【むせん】",
+      "meaning": "inalámbrico"
+    },
+    {
+      "entryId": "1529930",
+      "spelling": "無効",
+      "reading": "むこう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "無効【むこう】",
+      "meaning": "anulado; deshabilitado; caduco; inválido"
+    },
+    {
+      "entryId": "1541610",
+      "spelling": "有無",
+      "reading": "うむ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "有無【うむ】",
+      "meaning": "presencia; existencia"
+    },
+    {
+      "entryId": "1541610",
+      "spelling": "有無",
+      "reading": "ゆうむ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "有無【ゆうむ】",
+      "meaning": "presencia; existencia"
+    },
+    {
+      "entryId": "1530130",
+      "spelling": "無償",
+      "reading": "むしょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "無償【むしょう】",
+      "meaning": "gratuito; sin coste; gratuidad"
+    },
+    {
+      "entryId": "1529660",
+      "spelling": "無縁",
+      "reading": "むえん",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "無縁【むえん】",
+      "meaning": "sin vínculo; sin conexción"
+    },
+    {
+      "entryId": "1957300",
+      "spelling": "余儀無く",
+      "reading": "よぎなく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "余儀無く【よぎなく】",
+      "meaning": "inevitablemente; necesariamente"
+    },
+    {
+      "entryId": "1530030",
+      "spelling": "無事",
+      "reading": "ぶじ",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "無事【ぶじ】",
+      "meaning": "seguridad; paz; tranquilidad"
+    },
+    {
+      "entryId": "1530220",
+      "spelling": "無人",
+      "reading": "ぶにん",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "無人【ぶにん】",
+      "meaning": "sin personas; de autoservicio"
+    },
+    {
+      "entryId": "1530220",
+      "spelling": "無人",
+      "reading": "むじん",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "無人【むじん】",
+      "meaning": "sin personas; de autoservicio"
+    },
+    {
+      "entryId": "1530220",
+      "spelling": "無人",
+      "reading": "むにん",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "無人【むにん】",
+      "meaning": "sin personas; de autoservicio"
+    },
+    {
+      "entryId": "1529860",
+      "spelling": "無言",
+      "reading": "むごん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "無言【むごん】",
+      "meaning": "silencio"
+    },
+    {
+      "entryId": "1530600",
+      "spelling": "無断",
+      "reading": "むだん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "無断【むだん】",
+      "meaning": "sin permiso; sin avisar"
+    },
+    {
+      "entryId": "1530180",
+      "spelling": "無条件",
+      "reading": "むじょうけん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "無条件【むじょうけん】",
+      "meaning": "incondicional"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

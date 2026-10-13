@@ -1,0 +1,240 @@
+{
+  "character": "起",
+  "meanings": "despertar, levantarse, comenzar, comienzo, despertar a alguien",
+  "words": [
+    {
+      "entryId": "1223840",
+      "spelling": "起訴",
+      "reading": "きそ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "起訴【きそ】",
+      "meaning": "entablar pleito; demandar; formular acusación; demanda; acusación"
+    },
+    {
+      "entryId": "1223940",
+      "spelling": "起用",
+      "reading": "きよう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "起用【きよう】",
+      "meaning": "asignación de un puesto; nombramiento para un cargo"
+    },
+    {
+      "entryId": "1223660",
+      "spelling": "起こす",
+      "reading": "おこす",
+      "senseNumbers": [
+        37
+      ],
+      "japanese": "起こす【おこす】",
+      "meaning": "levantar; causar; despertar a alguien"
+    },
+    {
+      "entryId": "1223660",
+      "spelling": "起す",
+      "reading": "おこす",
+      "senseNumbers": [
+        37
+      ],
+      "japanese": "起す【おこす】",
+      "meaning": "levantar; causar; despertar a alguien"
+    },
+    {
+      "entryId": "1436340",
+      "spelling": "提起",
+      "reading": "ていき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "提起【ていき】",
+      "meaning": "planteamiento; propuesta"
+    },
+    {
+      "entryId": "1611560",
+      "spelling": "発起人",
+      "reading": "ほっきにん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "発起人【ほっきにん】",
+      "meaning": "promotores"
+    },
+    {
+      "entryId": "1591140",
+      "spelling": "起原",
+      "reading": "きげん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "起原【きげん】",
+      "meaning": "origen; comienzo; ascensión"
+    },
+    {
+      "entryId": "1591140",
+      "spelling": "起源",
+      "reading": "きげん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "起源【きげん】",
+      "meaning": "origen; comienzo; ascensión"
+    },
+    {
+      "entryId": "1223680",
+      "spelling": "起こる",
+      "reading": "おこる",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "起こる【おこる】",
+      "meaning": "ocurrir; acaecer; suceder"
+    },
+    {
+      "entryId": "1223680",
+      "spelling": "起る",
+      "reading": "おこる",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "起る【おこる】",
+      "meaning": "ocurrir; acaecer; suceder"
+    },
+    {
+      "entryId": "1223860",
+      "spelling": "起点",
+      "reading": "きてん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "起点【きてん】",
+      "meaning": "punto de inicio; punto de partida"
+    },
+    {
+      "entryId": "1223910",
+      "spelling": "起爆",
+      "reading": "きばく",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "起爆【きばく】",
+      "meaning": "detonación; deflagración"
+    },
+    {
+      "entryId": "1177540",
+      "spelling": "縁起",
+      "reading": "いんえん",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "縁起【いんえん】",
+      "meaning": "presagio"
+    },
+    {
+      "entryId": "1177540",
+      "spelling": "縁起",
+      "reading": "えんぎ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "縁起【えんぎ】",
+      "meaning": "presagio"
+    },
+    {
+      "entryId": "1292480",
+      "spelling": "再起",
+      "reading": "さいき",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "再起【さいき】",
+      "meaning": "reaparición; vuelta; regreso; resurgimiento"
+    },
+    {
+      "entryId": "1223930",
+      "spelling": "起伏",
+      "reading": "きふく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "起伏【きふく】",
+      "meaning": "altibajos; irregularidades; ondulaciones; oscilaciones"
+    },
+    {
+      "entryId": "1504720",
+      "spelling": "奮起",
+      "reading": "ふんき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "奮起【ふんき】",
+      "meaning": "ánimo; enardecimiento; levantamiento del ánimo; levantamiento de la moral"
+    },
+    {
+      "entryId": "1223800",
+      "spelling": "起死回生",
+      "reading": "きしかいせい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "起死回生【きしかいせい】",
+      "meaning": "resurrección de los muertos; recuperación de una situación desesperada; resucitación"
+    },
+    {
+      "entryId": "1211270",
+      "spelling": "喚起",
+      "reading": "かんき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "喚起【かんき】",
+      "meaning": "concitación; llamada; concitar; llamar"
+    },
+    {
+      "entryId": "1223820",
+      "spelling": "起床",
+      "reading": "きしょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "起床【きしょう】",
+      "meaning": "levantarse de la cama"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

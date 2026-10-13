@@ -1,0 +1,210 @@
+{
+  "character": "皮",
+  "meanings": "pellejo, piel, cuero, pelaje",
+  "words": [
+    {
+      "entryId": "1483800",
+      "spelling": "皮",
+      "reading": "かわ",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "皮【かわ】",
+      "meaning": "piel; cuero; pelaje"
+    },
+    {
+      "entryId": "1483920",
+      "spelling": "皮ふ",
+      "reading": "ひふ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "皮ふ【ひふ】",
+      "meaning": "piel"
+    },
+    {
+      "entryId": "1483920",
+      "spelling": "皮フ",
+      "reading": "ひふ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "皮フ【ひふ】",
+      "meaning": "piel"
+    },
+    {
+      "entryId": "1483920",
+      "spelling": "皮膚",
+      "reading": "ひふ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "皮膚【ひふ】",
+      "meaning": "piel"
+    },
+    {
+      "entryId": "1483900",
+      "spelling": "皮肉",
+      "reading": "ひにく",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "皮肉【ひにく】",
+      "meaning": "cinismo; sarcasmo; ironía; sátira"
+    },
+    {
+      "entryId": "1533930",
+      "spelling": "毛皮",
+      "reading": "けがわ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "毛皮【けがわ】",
+      "meaning": "peletería; pieles finas"
+    },
+    {
+      "entryId": "1533930",
+      "spelling": "毛皮",
+      "reading": "もうひ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "毛皮【もうひ】",
+      "meaning": "peletería; pieles finas"
+    },
+    {
+      "entryId": "1483850",
+      "spelling": "皮革",
+      "reading": "ひかく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "皮革【ひかく】",
+      "meaning": "cuero; piel"
+    },
+    {
+      "entryId": "1483940",
+      "spelling": "皮ふ科",
+      "reading": "ひふか",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "皮ふ科【ひふか】",
+      "meaning": "dermatología"
+    },
+    {
+      "entryId": "1483940",
+      "spelling": "皮膚科",
+      "reading": "ひふか",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "皮膚科【ひふか】",
+      "meaning": "dermatología"
+    },
+    {
+      "entryId": "1166050",
+      "spelling": "一皮",
+      "reading": "ひとかわ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "一皮【ひとかわ】",
+      "meaning": "desenmascaramiento"
+    },
+    {
+      "entryId": "1206460",
+      "spelling": "皮靴",
+      "reading": "かわぐつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "皮靴【かわぐつ】",
+      "meaning": "zapatos de cuero"
+    },
+    {
+      "entryId": "1330380",
+      "spelling": "樹皮",
+      "reading": "じゅひ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "樹皮【じゅひ】",
+      "meaning": "corteza de un árbol"
+    },
+    {
+      "entryId": "1489850",
+      "spelling": "表皮",
+      "reading": "ひょうひ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "表皮【ひょうひ】",
+      "meaning": "epidermis"
+    },
+    {
+      "entryId": "1483950",
+      "spelling": "皮膚病",
+      "reading": "ひふびょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "皮膚病【ひふびょう】",
+      "meaning": "enfermedad de la piel"
+    },
+    {
+      "entryId": "1580440",
+      "spelling": "上皮",
+      "reading": "うわかわ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "上皮【うわかわ】",
+      "meaning": "epidermis"
+    },
+    {
+      "entryId": "1580440",
+      "spelling": "上皮",
+      "reading": "じょうひ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "上皮【じょうひ】",
+      "meaning": "epidermis"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "character": "眼",
+  "meanings": "ojo, vista, perspicacia, punto principal",
+  "words": [
+    {
+      "entryId": "1577670",
+      "spelling": "眼鏡",
+      "reading": "めがね",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "眼鏡【めがね】",
+      "meaning": "gafas; (am) lentes; (am) anteojos"
+    },
+    {
+      "entryId": "1604890",
+      "spelling": "眼",
+      "reading": "め",
+      "senseNumbers": [
+        49
+      ],
+      "japanese": "眼【め】",
+      "meaning": "ojo"
+    },
+    {
+      "entryId": "1580760",
+      "spelling": "人眼",
+      "reading": "ひとめ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "人眼【ひとめ】",
+      "meaning": "miradas ajenas; (el que dirá) la gente"
+    },
+    {
+      "entryId": "1591070",
+      "spelling": "きき眼",
+      "reading": "ききめ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "きき眼【ききめ】",
+      "meaning": "efecto; eficacia"
+    },
+    {
+      "entryId": "1217150",
+      "spelling": "眼科",
+      "reading": "がんか",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "眼科【がんか】",
+      "meaning": "oftalmología"
+    },
+    {
+      "entryId": "1463560",
+      "spelling": "肉眼",
+      "reading": "にくがん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "肉眼【にくがん】",
+      "meaning": "a simple vista; a ojo pelón"
+    },
+    {
+      "entryId": "1463560",
+      "spelling": "肉眼",
+      "reading": "にくげん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "肉眼【にくげん】",
+      "meaning": "a simple vista; a ojo pelón"
+    },
+    {
+      "entryId": "1535690",
+      "spelling": "眼薬",
+      "reading": "めぐすり",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "眼薬【めぐすり】",
+      "meaning": "gotas para los ojos; medicina para los ojos"
+    },
+    {
+      "entryId": "1535670",
+      "spelling": "眼つき",
+      "reading": "めつき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "眼つき【めつき】",
+      "meaning": "mirada; (expresión de los) ojos"
+    },
+    {
+      "entryId": "1535670",
+      "spelling": "眼付",
+      "reading": "めつき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "眼付【めつき】",
+      "meaning": "mirada; (expresión de los) ojos"
+    },
+    {
+      "entryId": "1535670",
+      "spelling": "眼付き",
+      "reading": "めつき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "眼付き【めつき】",
+      "meaning": "mirada; (expresión de los) ojos"
+    },
+    {
+      "entryId": "1569920",
+      "spelling": "眼蓋",
+      "reading": "まぶた",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "眼蓋【まぶた】",
+      "meaning": "párpado; párpados"
+    },
+    {
+      "entryId": "1217200",
+      "spelling": "眼差し",
+      "reading": "まなざし",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "眼差し【まなざし】",
+      "meaning": "mirada"
+    },
+    {
+      "entryId": "1217200",
+      "spelling": "眼指",
+      "reading": "まなざし",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "眼指【まなざし】",
+      "meaning": "mirada"
+    },
+    {
+      "entryId": "1242220",
+      "spelling": "近眼",
+      "reading": "きんがん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "近眼【きんがん】",
+      "meaning": "miopía; vista corta"
+    },
+    {
+      "entryId": "1242220",
+      "spelling": "近眼",
+      "reading": "ちかめ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "近眼【ちかめ】",
+      "meaning": "miopía; vista corta"
+    },
+    {
+      "entryId": "1612320",
+      "spelling": "老眼",
+      "reading": "ろうがん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "老眼【ろうがん】",
+      "meaning": "presbicia; hipermetropía"
+    },
+    {
+      "entryId": "2143090",
+      "spelling": "眼が覚める",
+      "reading": "めがさめる",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "眼が覚める【めがさめる】",
+      "meaning": "despabilarse; despejarse; despertarse"
+    },
+    {
+      "entryId": "1398710",
+      "spelling": "双眼鏡",
+      "reading": "そうがんきょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "双眼鏡【そうがんきょう】",
+      "meaning": "binoculares; prismáticos"
+    },
+    {
+      "entryId": "1217180",
+      "spelling": "眼球",
+      "reading": "がんきゅう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "眼球【がんきゅう】",
+      "meaning": "bolas de los ojos; evento destacado"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

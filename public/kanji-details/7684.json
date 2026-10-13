@@ -1,0 +1,240 @@
+{
+  "character": "的",
+  "meanings": "objetivo, propósito, sufijo para formar adjetivos",
+  "words": [
+    {
+      "entryId": "1245050",
+      "spelling": "具体的",
+      "reading": "ぐたいてき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "具体的【ぐたいてき】",
+      "meaning": "concretamente; específicamente"
+    },
+    {
+      "entryId": "1383030",
+      "spelling": "積極的",
+      "reading": "せっきょくてき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "積極的【せっきょくてき】",
+      "meaning": "asertivo; positivo; activo; proactivo"
+    },
+    {
+      "entryId": "1535560",
+      "spelling": "目的",
+      "reading": "もくてき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "目的【もくてき】",
+      "meaning": "propósito; meta; objetivo; intención"
+    },
+    {
+      "entryId": "1286520",
+      "spelling": "国際的",
+      "reading": "こくさいてき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "国際的【こくさいてき】",
+      "meaning": "internacional"
+    },
+    {
+      "entryId": "1522330",
+      "spelling": "本格的",
+      "reading": "ほんかくてき",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "本格的【ほんかくてき】",
+      "meaning": "auténtico; genuino"
+    },
+    {
+      "entryId": "1219260",
+      "spelling": "基本的",
+      "reading": "きほんてき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "基本的【きほんてき】",
+      "meaning": "básico (fundamental)"
+    },
+    {
+      "entryId": "1376010",
+      "spelling": "政治的",
+      "reading": "せいじてき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "政治的【せいじてき】",
+      "meaning": "político"
+    },
+    {
+      "entryId": "1721330",
+      "spelling": "最終的",
+      "reading": "さいしゅうてき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "最終的【さいしゅうてき】",
+      "meaning": "finalmente"
+    },
+    {
+      "entryId": "1396300",
+      "spelling": "全面的",
+      "reading": "ぜんめんてき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "全面的【ぜんめんてき】",
+      "meaning": "en general"
+    },
+    {
+      "entryId": "1517410",
+      "spelling": "法的",
+      "reading": "ほうてき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "法的【ほうてき】",
+      "meaning": "legalidad"
+    },
+    {
+      "entryId": "1609740",
+      "spelling": "経済的",
+      "reading": "けいざいてき",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "経済的【けいざいてき】",
+      "meaning": "económico"
+    },
+    {
+      "entryId": "1153270",
+      "spelling": "圧倒的",
+      "reading": "あっとうてき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "圧倒的【あっとうてき】",
+      "meaning": "abrumador"
+    },
+    {
+      "entryId": "1321180",
+      "spelling": "実質的",
+      "reading": "じっしつてき",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "実質的【じっしつてき】",
+      "meaning": "sustancialmente; considerablemente"
+    },
+    {
+      "entryId": "1702610",
+      "spelling": "社会的",
+      "reading": "しゃかいてき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "社会的【しゃかいてき】",
+      "meaning": "social"
+    },
+    {
+      "entryId": "1350220",
+      "spelling": "消極的",
+      "reading": "しょうきょくてき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "消極的【しょうきょくてき】",
+      "meaning": "negativo; poco entusiasta; pasivo; desmotivado"
+    },
+    {
+      "entryId": "1558160",
+      "spelling": "歴史的",
+      "reading": "れきしてき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "歴史的【れきしてき】",
+      "meaning": "histórico"
+    },
+    {
+      "entryId": "1165880",
+      "spelling": "一般的",
+      "reading": "いっぱんてき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "一般的【いっぱんてき】",
+      "meaning": "popular; típico; general"
+    },
+    {
+      "entryId": "1166560",
+      "spelling": "一方的",
+      "reading": "いっぽうてき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "一方的【いっぽうてき】",
+      "meaning": "estar de un lado; unilateral; arbitrario"
+    },
+    {
+      "entryId": "1478300",
+      "spelling": "抜本的",
+      "reading": "ばっぽんてき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "抜本的【ばっぽんてき】",
+      "meaning": "drástico; radical"
+    },
+    {
+      "entryId": "1420650",
+      "spelling": "知的",
+      "reading": "ちてき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "知的【ちてき】",
+      "meaning": "intelectual"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

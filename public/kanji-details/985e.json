@@ -1,0 +1,242 @@
+{
+  "character": "類",
+  "meanings": "variedad, clase, parecido, afectar",
+  "words": [
+    {
+      "entryId": "1369530",
+      "spelling": "人類",
+      "reading": "じんるい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "人類【じんるい】",
+      "meaning": "género humano; (la) humanidad"
+    },
+    {
+      "entryId": "1328890",
+      "spelling": "種類",
+      "reading": "しゅるい",
+      "senseNumbers": [
+        9,
+        10
+      ],
+      "japanese": "種類【しゅるい】",
+      "meaning": "variedad; tipo; categoría; contador para diferente orden de cosas"
+    },
+    {
+      "entryId": "1344200",
+      "spelling": "書類",
+      "reading": "しょるい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "書類【しょるい】",
+      "meaning": "documentos; papeles oficiales"
+    },
+    {
+      "entryId": "1365420",
+      "spelling": "親類",
+      "reading": "しんるい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "親類【しんるい】",
+      "meaning": "relación; parientes"
+    },
+    {
+      "entryId": "1613280",
+      "spelling": "衣類",
+      "reading": "いるい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "衣類【いるい】",
+      "meaning": "ropa; vestimenta; prendas"
+    },
+    {
+      "entryId": "1504460",
+      "spelling": "分類",
+      "reading": "ぶんるい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "分類【ぶんるい】",
+      "meaning": "clasificación"
+    },
+    {
+      "entryId": "1556100",
+      "spelling": "類似",
+      "reading": "るいじ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "類似【るいじ】",
+      "meaning": "similitud; semejanza"
+    },
+    {
+      "entryId": "1329190",
+      "spelling": "酒類",
+      "reading": "さけるい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "酒類【さけるい】",
+      "meaning": "bebidas alcohólicas; licor"
+    },
+    {
+      "entryId": "1329190",
+      "spelling": "酒類",
+      "reading": "しゅるい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "酒類【しゅるい】",
+      "meaning": "bebidas alcohólicas; licor"
+    },
+    {
+      "entryId": "1369560",
+      "spelling": "人類学",
+      "reading": "じんるいがく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "人類学【じんるいがく】",
+      "meaning": "antropología"
+    },
+    {
+      "entryId": "1430330",
+      "spelling": "鳥類",
+      "reading": "ちょうるい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "鳥類【ちょうるい】",
+      "meaning": "pájaros"
+    },
+    {
+      "entryId": "1556120",
+      "spelling": "類推",
+      "reading": "るいすい",
+      "senseNumbers": [
+        9,
+        10
+      ],
+      "japanese": "類推【るいすい】",
+      "meaning": "analogía; razonamiento analógico"
+    },
+    {
+      "entryId": "1453590",
+      "spelling": "同類",
+      "reading": "どうるい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "同類【どうるい】",
+      "meaning": "de la misma clase"
+    },
+    {
+      "entryId": "1556040",
+      "spelling": "類",
+      "reading": "るい",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "類【るい】",
+      "meaning": "(,n,s-suf) clase; especie; género; tipo; variedad"
+    },
+    {
+      "entryId": "1569220",
+      "spelling": "は虫類",
+      "reading": "はちゅうるい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "は虫類【はちゅうるい】",
+      "meaning": "reptiles"
+    },
+    {
+      "entryId": "1569220",
+      "spelling": "爬虫類",
+      "reading": "はちゅうるい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "爬虫類【はちゅうるい】",
+      "meaning": "reptiles"
+    },
+    {
+      "entryId": "1606370",
+      "spelling": "類型",
+      "reading": "るいけい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "類型【るいけい】",
+      "meaning": "categoría; clase; estereotipo"
+    },
+    {
+      "entryId": "1606370",
+      "spelling": "類形",
+      "reading": "るいけい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "類形【るいけい】",
+      "meaning": "categoría; clase; estereotipo"
+    },
+    {
+      "entryId": "1499570",
+      "spelling": "部類",
+      "reading": "ぶるい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "部類【ぶるい】",
+      "meaning": "clase; categoría"
+    },
+    {
+      "entryId": "1402270",
+      "spelling": "そう類",
+      "reading": "そうるい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "そう類【そうるい】",
+      "meaning": "alga"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "character": "寄",
+  "meanings": "colaborar, apoyarse en, acercarse, reunirse, arrimar, juntar",
+  "words": [
+    {
+      "entryId": "1591400",
+      "spelling": "寄付",
+      "reading": "きふ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "寄付【きふ】",
+      "meaning": "contribución; donación"
+    },
+    {
+      "entryId": "1591400",
+      "spelling": "寄附",
+      "reading": "きふ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "寄附【きふ】",
+      "meaning": "contribución; donación"
+    },
+    {
+      "entryId": "1598750",
+      "spelling": "年寄",
+      "reading": "としより",
+      "senseNumbers": [
+        18,
+        19
+      ],
+      "japanese": "年寄【としより】",
+      "meaning": "viejos; ancianos; personas de edad; entrenador de sumo"
+    },
+    {
+      "entryId": "1598750",
+      "spelling": "年寄り",
+      "reading": "としより",
+      "senseNumbers": [
+        18,
+        19
+      ],
+      "japanese": "年寄り【としより】",
+      "meaning": "viejos; ancianos; personas de edad; entrenador de sumo"
+    },
+    {
+      "entryId": "1219560",
+      "spelling": "寄せる",
+      "reading": "よせる",
+      "senseNumbers": [
+        36
+      ],
+      "japanese": "寄せる【よせる】",
+      "meaning": "acercar; arrimar; dedicar; enviar"
+    },
+    {
+      "entryId": "1577730",
+      "spelling": "寄贈",
+      "reading": "きそう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "寄贈【きそう】",
+      "meaning": "donativo; donación; beneficencia; caridad"
+    },
+    {
+      "entryId": "1577730",
+      "spelling": "寄贈",
+      "reading": "きぞう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "寄贈【きぞう】",
+      "meaning": "donativo; donación; beneficencia; caridad"
+    },
+    {
+      "entryId": "1219770",
+      "spelling": "寄生虫",
+      "reading": "きせいちゅう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "寄生虫【きせいちゅう】",
+      "meaning": "parásito"
+    },
+    {
+      "entryId": "1219810",
+      "spelling": "寄与",
+      "reading": "きよ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "寄与【きよ】",
+      "meaning": "contribución; servicio"
+    },
+    {
+      "entryId": "1551300",
+      "spelling": "立ち寄る",
+      "reading": "たちよる",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "立ち寄る【たちよる】",
+      "meaning": "visitar; pasar; entrar"
+    },
+    {
+      "entryId": "1551300",
+      "spelling": "立寄る",
+      "reading": "たちよる",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "立寄る【たちよる】",
+      "meaning": "visitar; pasar; entrar"
+    },
+    {
+      "entryId": "1219690",
+      "spelling": "寄金",
+      "reading": "ききん",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "寄金【ききん】",
+      "meaning": "contribución; donación"
+    },
+    {
+      "entryId": "1514340",
+      "spelling": "歩み寄る",
+      "reading": "あゆみよる",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "歩み寄る【あゆみよる】",
+      "meaning": "acercarse a pie; hacer concesiones mutuas"
+    },
+    {
+      "entryId": "1365640",
+      "spelling": "身寄",
+      "reading": "みより",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "身寄【みより】",
+      "meaning": "allegado; pariente; apoyo físico y moral"
+    },
+    {
+      "entryId": "1365640",
+      "spelling": "身寄り",
+      "reading": "みより",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "身寄り【みより】",
+      "meaning": "allegado; pariente; apoyo físico y moral"
+    },
+    {
+      "entryId": "1219750",
+      "spelling": "寄生",
+      "reading": "きせい",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "寄生【きせい】",
+      "meaning": "parasitar; ser un parásito; vivir como un parásito; parasitismo; parásito"
+    },
+    {
+      "entryId": "1219580",
+      "spelling": "寄せ集め",
+      "reading": "よせあつめ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "寄せ集め【よせあつめ】",
+      "meaning": "mescolanza; popurrí; revoltijo"
+    },
+    {
+      "entryId": "1219580",
+      "spelling": "寄集め",
+      "reading": "よせあつめ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "寄集め【よせあつめ】",
+      "meaning": "mescolanza; popurrí; revoltijo"
+    },
+    {
+      "entryId": "1590420",
+      "spelling": "片寄る",
+      "reading": "かたよる",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "片寄る【かたよる】",
+      "meaning": "arrinconarse; inclinarse; ser parcial"
+    },
+    {
+      "entryId": "1326620",
+      "spelling": "取り寄せる",
+      "reading": "とりよせる",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "取り寄せる【とりよせる】",
+      "meaning": "ordenar un envío; despachar"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

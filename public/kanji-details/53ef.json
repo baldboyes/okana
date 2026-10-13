@@ -1,0 +1,245 @@
+{
+  "character": "可",
+  "meanings": "bueno, aprobación, posible, poder hacer",
+  "words": [
+    {
+      "entryId": "1191060",
+      "spelling": "可能",
+      "reading": "かのう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "可能【かのう】",
+      "meaning": "posibilidad; factible"
+    },
+    {
+      "entryId": "1232880",
+      "spelling": "許可",
+      "reading": "きょか",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "許可【きょか】",
+      "meaning": "permitir; autorizar; dar licencia; dar permiso; licencia; permiso; autorización; visado"
+    },
+    {
+      "entryId": "1467540",
+      "spelling": "認可",
+      "reading": "にんか",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "認可【にんか】",
+      "meaning": "licencias; permisos"
+    },
+    {
+      "entryId": "1190860",
+      "spelling": "可怪しい",
+      "reading": "おかしい",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "可怪しい【おかしい】",
+      "meaning": "extraño; cómico; ridículo; divertido; risible; falso"
+    },
+    {
+      "entryId": "1190860",
+      "spelling": "可笑しい",
+      "reading": "おかしい",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "可笑しい【おかしい】",
+      "meaning": "extraño; cómico; ridículo; divertido; risible; falso"
+    },
+    {
+      "entryId": "1190710",
+      "spelling": "可",
+      "reading": "か",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "可【か】",
+      "meaning": "transitable; pasable; aceptable"
+    },
+    {
+      "entryId": "1491400",
+      "spelling": "不可欠",
+      "reading": "ふかけつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "不可欠【ふかけつ】",
+      "meaning": "imprescindible; indispensable; necesario"
+    },
+    {
+      "entryId": "1491520",
+      "spelling": "不可能",
+      "reading": "ふかのう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "不可能【ふかのう】",
+      "meaning": "imposible"
+    },
+    {
+      "entryId": "1190810",
+      "spelling": "可決",
+      "reading": "かけつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "可決【かけつ】",
+      "meaning": "aprobación; consentimiento; acuerdo; solución"
+    },
+    {
+      "entryId": "1491540",
+      "spelling": "不可避",
+      "reading": "ふかひ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "不可避【ふかひ】",
+      "meaning": "inevitable; ineludible; forzoso"
+    },
+    {
+      "entryId": "1491370",
+      "spelling": "不可",
+      "reading": "ふか",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "不可【ふか】",
+      "meaning": "imposible; negativo; reprobado"
+    },
+    {
+      "entryId": "1590740",
+      "spelling": "可哀そう",
+      "reading": "かわいそう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "可哀そう【かわいそう】",
+      "meaning": "malo; penoso; patético"
+    },
+    {
+      "entryId": "1590740",
+      "spelling": "可哀想",
+      "reading": "かわいそう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "可哀想【かわいそう】",
+      "meaning": "malo; penoso; patético"
+    },
+    {
+      "entryId": "1590740",
+      "spelling": "可哀相",
+      "reading": "かわいそう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "可哀相【かわいそう】",
+      "meaning": "malo; penoso; patético"
+    },
+    {
+      "entryId": "1590740",
+      "spelling": "可愛そう",
+      "reading": "かわいそう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "可愛そう【かわいそう】",
+      "meaning": "malo; penoso; patético"
+    },
+    {
+      "entryId": "1577200",
+      "spelling": "可愛い",
+      "reading": "かわいい",
+      "senseNumbers": [
+        15,
+        16
+      ],
+      "japanese": "可愛い【かわいい】",
+      "meaning": "bonito; hermoso; preferido; querido; amado; encantador; precioso; fascinante; seductor; gracioso; favorito; especial"
+    },
+    {
+      "entryId": "1577200",
+      "spelling": "可愛い",
+      "reading": "かわいーい",
+      "senseNumbers": [
+        15,
+        16
+      ],
+      "japanese": "可愛い【かわいーい】",
+      "meaning": "bonito; hermoso; preferido; querido; amado; encantador; precioso; fascinante; seductor; gracioso; favorito; especial"
+    },
+    {
+      "entryId": "1577200",
+      "spelling": "可愛い",
+      "reading": "かわえー",
+      "senseNumbers": [
+        15,
+        16
+      ],
+      "japanese": "可愛い【かわえー】",
+      "meaning": "bonito; hermoso; preferido; querido; amado; encantador; precioso; fascinante; seductor; gracioso; favorito; especial"
+    },
+    {
+      "entryId": "1577200",
+      "spelling": "可愛い",
+      "reading": "かわーい",
+      "senseNumbers": [
+        15,
+        16
+      ],
+      "japanese": "可愛い【かわーい】",
+      "meaning": "bonito; hermoso; preferido; querido; amado; encantador; precioso; fascinante; seductor; gracioso; favorito; especial"
+    },
+    {
+      "entryId": "1577200",
+      "spelling": "可愛い",
+      "reading": "カワいい",
+      "senseNumbers": [
+        15,
+        16
+      ],
+      "japanese": "可愛い【カワいい】",
+      "meaning": "bonito; hermoso; preferido; querido; amado; encantador; precioso; fascinante; seductor; gracioso; favorito; especial"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "character": "屋",
+  "meanings": "casa, tejado, tienda",
+  "words": [
+    {
+      "entryId": "1499320",
+      "spelling": "部屋",
+      "reading": "へや",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "部屋【へや】",
+      "meaning": "habitación"
+    },
+    {
+      "entryId": "1182700",
+      "spelling": "屋根",
+      "reading": "やね",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "屋根【やね】",
+      "meaning": "tejado"
+    },
+    {
+      "entryId": "1347830",
+      "spelling": "小屋",
+      "reading": "こや",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "小屋【こや】",
+      "meaning": "choza; cabaña; barraca; corral; casita; caseta; cobertizo"
+    },
+    {
+      "entryId": "1347830",
+      "spelling": "小屋",
+      "reading": "しょうおく",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "小屋【しょうおく】",
+      "meaning": "choza; cabaña; barraca; corral; casita; caseta; cobertizo"
+    },
+    {
+      "entryId": "1182710",
+      "spelling": "屋上",
+      "reading": "おくじょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "屋上【おくじょう】",
+      "meaning": "azotea"
+    },
+    {
+      "entryId": "1605460",
+      "spelling": "屋敷",
+      "reading": "やしき",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "屋敷【やしき】",
+      "meaning": "mansión"
+    },
+    {
+      "entryId": "1554320",
+      "spelling": "料理屋",
+      "reading": "りょうりや",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "料理屋【りょうりや】",
+      "meaning": "restaurante (eng: restaurant)"
+    },
+    {
+      "entryId": "1191780",
+      "spelling": "家屋",
+      "reading": "かおく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "家屋【かおく】",
+      "meaning": "casa"
+    },
+    {
+      "entryId": "1182680",
+      "spelling": "屋外",
+      "reading": "おくがい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "屋外【おくがい】",
+      "meaning": "afuera"
+    },
+    {
+      "entryId": "1584790",
+      "spelling": "問屋",
+      "reading": "といや",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "問屋【といや】",
+      "meaning": "mayorista (negocio)"
+    },
+    {
+      "entryId": "1584790",
+      "spelling": "問屋",
+      "reading": "とんや",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "問屋【とんや】",
+      "meaning": "mayorista (negocio)"
+    },
+    {
+      "entryId": "1182720",
+      "spelling": "屋体",
+      "reading": "やたい",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "屋体【やたい】",
+      "meaning": "carreta; carretón; puesto; puesto de venta; plataforma"
+    },
+    {
+      "entryId": "1182720",
+      "spelling": "屋台",
+      "reading": "やたい",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "屋台【やたい】",
+      "meaning": "carreta; carretón; puesto; puesto de venta; plataforma"
+    },
+    {
+      "entryId": "1182730",
+      "spelling": "屋内",
+      "reading": "おくない",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "屋内【おくない】",
+      "meaning": "interior (bajo techo)"
+    },
+    {
+      "entryId": "1231800",
+      "spelling": "居酒屋",
+      "reading": "いざかや",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "居酒屋【いざかや】",
+      "meaning": "bar; cantina; taberna"
+    },
+    {
+      "entryId": "1579690",
+      "spelling": "借屋",
+      "reading": "しゃくや",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "借屋【しゃくや】",
+      "meaning": "arrendamiento de vivienda o de local"
+    },
+    {
+      "entryId": "1522240",
+      "spelling": "本屋",
+      "reading": "ほんや",
+      "senseNumbers": [
+        15,
+        16,
+        17
+      ],
+      "japanese": "本屋【ほんや】",
+      "meaning": "librería; editor; edificio principal"
+    },
+    {
+      "entryId": "1329040",
+      "spelling": "酒屋",
+      "reading": "さかや",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "酒屋【さかや】",
+      "meaning": "taberna; destiladora"
+    },
+    {
+      "entryId": "1411170",
+      "spelling": "貸し屋",
+      "reading": "かしや",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "貸し屋【かしや】",
+      "meaning": "casa en alquiler"
+    },
+    {
+      "entryId": "1411170",
+      "spelling": "貸屋",
+      "reading": "かしや",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "貸屋【かしや】",
+      "meaning": "casa en alquiler"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

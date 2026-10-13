@@ -1,0 +1,160 @@
+{
+  "character": "版",
+  "meanings": "edición, impresión",
+  "words": [
+    {
+      "entryId": "1340030",
+      "spelling": "出版",
+      "reading": "しゅっぱん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "出版【しゅっぱん】",
+      "meaning": "publicar; editar; publicación"
+    },
+    {
+      "entryId": "1594870",
+      "spelling": "出版社",
+      "reading": "しゅっぱんしゃ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "出版社【しゅっぱんしゃ】",
+      "meaning": "casa editorial"
+    },
+    {
+      "entryId": "1594870",
+      "spelling": "出版者",
+      "reading": "しゅっぱんしゃ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "出版者【しゅっぱんしゃ】",
+      "meaning": "casa editorial"
+    },
+    {
+      "entryId": "1481510",
+      "spelling": "版画",
+      "reading": "はんが",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "版画【はんが】",
+      "meaning": "gravado de madera"
+    },
+    {
+      "entryId": "1481480",
+      "spelling": "版",
+      "reading": "はん",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "版【はん】",
+      "meaning": "edición; versión"
+    },
+    {
+      "entryId": "1481480",
+      "spelling": "版",
+      "reading": "ばん",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "版【ばん】",
+      "meaning": "edición; versión"
+    },
+    {
+      "entryId": "1343030",
+      "spelling": "初版",
+      "reading": "しょはん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "初版【しょはん】",
+      "meaning": "primera edición"
+    },
+    {
+      "entryId": "1481520",
+      "spelling": "版権",
+      "reading": "はんけん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "版権【はんけん】",
+      "meaning": "copyright; derecho de autor"
+    },
+    {
+      "entryId": "1201070",
+      "spelling": "改定版",
+      "reading": "かいていばん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "改定版【かいていばん】",
+      "meaning": "edición revisada"
+    },
+    {
+      "entryId": "1201070",
+      "spelling": "改訂版",
+      "reading": "かいていばん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "改訂版【かいていばん】",
+      "meaning": "edición revisada"
+    },
+    {
+      "entryId": "1386940",
+      "spelling": "絶版",
+      "reading": "ぜっぱん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "絶版【ぜっぱん】",
+      "meaning": "publicación fuera de continuación"
+    },
+    {
+      "entryId": "1362320",
+      "spelling": "新版",
+      "reading": "しんぱん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "新版【しんぱん】",
+      "meaning": "nuevo; flamante"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

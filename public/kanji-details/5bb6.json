@@ -1,0 +1,240 @@
+{
+  "character": "家",
+  "meanings": "casa, hogar, especialista",
+  "words": [
+    {
+      "entryId": "1192150",
+      "spelling": "家族",
+      "reading": "かぞく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "家族【かぞく】",
+      "meaning": "familia; miembros de la familia"
+    },
+    {
+      "entryId": "1192280",
+      "spelling": "家庭",
+      "reading": "かてい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "家庭【かてい】",
+      "meaning": "hogar; familia; casa"
+    },
+    {
+      "entryId": "1286170",
+      "spelling": "国家",
+      "reading": "こっか",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "国家【こっか】",
+      "meaning": "estado; nación; país"
+    },
+    {
+      "entryId": "1286170",
+      "spelling": "國家",
+      "reading": "こっか",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "國家【こっか】",
+      "meaning": "estado; nación; país"
+    },
+    {
+      "entryId": "1375980",
+      "spelling": "政治家",
+      "reading": "せいじか",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "政治家【せいじか】",
+      "meaning": "político (persona dedicada a la política)"
+    },
+    {
+      "entryId": "1297510",
+      "spelling": "作家",
+      "reading": "さっか",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "作家【さっか】",
+      "meaning": "autor; escritor; novelista; artista"
+    },
+    {
+      "entryId": "1389890",
+      "spelling": "専門家",
+      "reading": "せんもんか",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "専門家【せんもんか】",
+      "meaning": "especialista"
+    },
+    {
+      "entryId": "1470620",
+      "spelling": "農家",
+      "reading": "のうか",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "農家【のうか】",
+      "meaning": "agricultores"
+    },
+    {
+      "entryId": "1575940",
+      "spelling": "一家",
+      "reading": "いっか",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "一家【いっか】",
+      "meaning": "una casa; un hogar; una familia; familia propia; la gente de uno; un estilo"
+    },
+    {
+      "entryId": "1575940",
+      "spelling": "一家",
+      "reading": "いっけ",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "一家【いっけ】",
+      "meaning": "una casa; un hogar; una familia; familia propia; la gente de uno; un estilo"
+    },
+    {
+      "entryId": "1490090",
+      "spelling": "評論家",
+      "reading": "ひょうろんか",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "評論家【ひょうろんか】",
+      "meaning": "crítico (persona)"
+    },
+    {
+      "entryId": "1197120",
+      "spelling": "画家",
+      "reading": "がか",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "画家【がか】",
+      "meaning": "pintor; artista"
+    },
+    {
+      "entryId": "1192380",
+      "spelling": "家電",
+      "reading": "かでん",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "家電【かでん】",
+      "meaning": "electrónica de consumo"
+    },
+    {
+      "entryId": "1182700",
+      "spelling": "家根",
+      "reading": "やね",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "家根【やね】",
+      "meaning": "tejado"
+    },
+    {
+      "entryId": "1191980",
+      "spelling": "家事",
+      "reading": "かじ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "家事【かじ】",
+      "meaning": "quehaceres domésticos"
+    },
+    {
+      "entryId": "1192270",
+      "spelling": "家賃",
+      "reading": "やちん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "家賃【やちん】",
+      "meaning": "alquiler (casa)"
+    },
+    {
+      "entryId": "1320900",
+      "spelling": "実家",
+      "reading": "じっか",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "実家【じっか】",
+      "meaning": "casa (de los padres de uno)"
+    },
+    {
+      "entryId": "1191870",
+      "spelling": "家具",
+      "reading": "かぐ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "家具【かぐ】",
+      "meaning": "mobiliario; muebles"
+    },
+    {
+      "entryId": "1457730",
+      "spelling": "家",
+      "reading": "うち",
+      "senseNumbers": [
+        33
+      ],
+      "japanese": "家【うち】",
+      "meaning": "dentro"
+    },
+    {
+      "entryId": "1191910",
+      "spelling": "家計",
+      "reading": "かけい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "家計【かけい】",
+      "meaning": "presupuesto familiar"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

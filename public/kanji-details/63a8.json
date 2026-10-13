@@ -1,0 +1,171 @@
+{
+  "character": "推",
+  "meanings": "presionar, empujar, conjeturar, suponer, adivinar, aconsejar, inferir, llegar a la conclusión",
+  "words": [
+    {
+      "entryId": "1371140",
+      "spelling": "推進",
+      "reading": "すいしん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "推進【すいしん】",
+      "meaning": "promoción; impulso; fomento"
+    },
+    {
+      "entryId": "1371170",
+      "spelling": "推薦",
+      "reading": "すいせん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "推薦【すいせん】",
+      "meaning": "recomendación"
+    },
+    {
+      "entryId": "1371210",
+      "spelling": "推定",
+      "reading": "すいてい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "推定【すいてい】",
+      "meaning": "cálculo; presunción; estimación"
+    },
+    {
+      "entryId": "1371080",
+      "spelling": "推移",
+      "reading": "すいい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "推移【すいい】",
+      "meaning": "transición; cambio"
+    },
+    {
+      "entryId": "1371220",
+      "spelling": "推理",
+      "reading": "すいり",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "推理【すいり】",
+      "meaning": "deducir; inferir; colegir; razonamiento; deducción; inferencia"
+    },
+    {
+      "entryId": "1371200",
+      "spelling": "推測",
+      "reading": "すいそく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "推測【すいそく】",
+      "meaning": "deducir; inferir; presumir; suponer; conjeturar; calcular; suposición; conjetura"
+    },
+    {
+      "entryId": "1371120",
+      "spelling": "推奨",
+      "reading": "すいしょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "推奨【すいしょう】",
+      "meaning": "recomendación; respaldo"
+    },
+    {
+      "entryId": "1371070",
+      "spelling": "推す",
+      "reading": "おす",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "推す【おす】",
+      "meaning": "suponer; conjeturar; imaginar; proponer; recomendar"
+    },
+    {
+      "entryId": "1713000",
+      "spelling": "推理小説",
+      "reading": "すいりしょうせつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "推理小説【すいりしょうせつ】",
+      "meaning": "novela de misterio; novela detectivesca; novela policíaca"
+    },
+    {
+      "entryId": "1556120",
+      "spelling": "類推",
+      "reading": "るいすい",
+      "senseNumbers": [
+        9,
+        10
+      ],
+      "japanese": "類推【るいすい】",
+      "meaning": "analogía; razonamiento analógico"
+    },
+    {
+      "entryId": "1371230",
+      "spelling": "推量",
+      "reading": "すいりょう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "推量【すいりょう】",
+      "meaning": "deducir; inferir; presumir; suponer; conjeturar; calcular; inferencia; intuición"
+    },
+    {
+      "entryId": "1371250",
+      "spelling": "推敲",
+      "reading": "すいこう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "推敲【すいこう】",
+      "meaning": "refinamiento; mejoramiento"
+    },
+    {
+      "entryId": "1371090",
+      "spelling": "推挙",
+      "reading": "すいきょ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "推挙【すいきょ】",
+      "meaning": "recomendación"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

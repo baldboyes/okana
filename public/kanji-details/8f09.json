@@ -1,0 +1,93 @@
+{
+  "character": "載",
+  "meanings": "poner sobre, llevar (en coche, etc.), salir en el periódico, un año",
+  "words": [
+    {
+      "entryId": "1250610",
+      "spelling": "掲載",
+      "reading": "けいさい",
+      "senseNumbers": [
+        8,
+        9
+      ],
+      "japanese": "掲載【けいさい】",
+      "meaning": "publicación (e.g. artículo en papel); apariencia; inserción; insertar (e.g. un artículo); publicar (e.g. en un periódico)"
+    },
+    {
+      "entryId": "1223230",
+      "spelling": "記載",
+      "reading": "きさい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "記載【きさい】",
+      "meaning": "mención; anotación"
+    },
+    {
+      "entryId": "1600270",
+      "spelling": "載せる",
+      "reading": "のせる",
+      "senseNumbers": [
+        36
+      ],
+      "japanese": "載せる【のせる】",
+      "meaning": "subir a bordo(algo); dejar participar; imponer; registrar; mencionar; cargar(equipaje); publicar; poner encima"
+    },
+    {
+      "entryId": "1430230",
+      "spelling": "頂載",
+      "reading": "ちょうだい",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "頂載【ちょうだい】",
+      "meaning": "por favor"
+    },
+    {
+      "entryId": "2649690",
+      "spelling": "載る",
+      "reading": "のる",
+      "senseNumbers": [
+        11,
+        12,
+        13
+      ],
+      "japanese": "載る【のる】",
+      "meaning": "extender (pantalones); tomar parte en; compartir; unir; ser mencionado; estar en armonía; aparecer (impreso); ser registrado; ser encontrado (en diccionario)"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

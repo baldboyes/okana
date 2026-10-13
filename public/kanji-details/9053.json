@@ -1,0 +1,240 @@
+{
+  "character": "道",
+  "meanings": "camino, razón, modo, decir, senda, método",
+  "words": [
+    {
+      "entryId": "1454080",
+      "spelling": "道",
+      "reading": "みち",
+      "senseNumbers": [
+        26
+      ],
+      "japanese": "道【みち】",
+      "meaning": "camino; calle; método; vía; carretera; ruta; paso"
+    },
+    {
+      "entryId": "1515730",
+      "spelling": "報道",
+      "reading": "ほうどう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "報道【ほうどう】",
+      "meaning": "información; reportaje; periodismo"
+    },
+    {
+      "entryId": "1520810",
+      "spelling": "北海道",
+      "reading": "ほっかいどう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "北海道【ほっかいどう】",
+      "meaning": "Isla al Norte del Japón (una de las cuatro principales)"
+    },
+    {
+      "entryId": "1454290",
+      "spelling": "道路",
+      "reading": "どうろ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "道路【どうろ】",
+      "meaning": "camino; carretera; autopista"
+    },
+    {
+      "entryId": "1437960",
+      "spelling": "鉄道",
+      "reading": "てつどう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "鉄道【てつどう】",
+      "meaning": "vía férrea"
+    },
+    {
+      "entryId": "1223980",
+      "spelling": "軌道",
+      "reading": "きどう",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "軌道【きどう】",
+      "meaning": "órbita; curso; vía"
+    },
+    {
+      "entryId": "1335440",
+      "spelling": "柔道",
+      "reading": "じゅうどう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "柔道【じゅうどう】",
+      "meaning": "judo; yudo"
+    },
+    {
+      "entryId": "1283720",
+      "spelling": "高速道路",
+      "reading": "こうそくどうろ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "高速道路【こうそくどうろ】",
+      "meaning": "autopista"
+    },
+    {
+      "entryId": "1371920",
+      "spelling": "水道",
+      "reading": "すいどう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "水道【すいどう】",
+      "meaning": "suministro de agua"
+    },
+    {
+      "entryId": "1368890",
+      "spelling": "人道",
+      "reading": "じんどう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "人道【じんどう】",
+      "meaning": "humanidad; acera"
+    },
+    {
+      "entryId": "1368890",
+      "spelling": "人道",
+      "reading": "にんどう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "人道【にんどう】",
+      "meaning": "humanidad; acera"
+    },
+    {
+      "entryId": "1286920",
+      "spelling": "国道",
+      "reading": "こくどう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "国道【こくどう】",
+      "meaning": "carretera nacional"
+    },
+    {
+      "entryId": "1344130",
+      "spelling": "書道",
+      "reading": "しょどう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "書道【しょどう】",
+      "meaning": "caligrafía (esp. China)"
+    },
+    {
+      "entryId": "1425140",
+      "spelling": "中道",
+      "reading": "ちゅうどう",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "中道【ちゅうどう】",
+      "meaning": "mesura; moderación"
+    },
+    {
+      "entryId": "1454180",
+      "spelling": "道具",
+      "reading": "どうぐ",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "道具【どうぐ】",
+      "meaning": "herramienta; implemento; medios"
+    },
+    {
+      "entryId": "1185540",
+      "spelling": "下水道",
+      "reading": "げすいどう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "下水道【げすいどう】",
+      "meaning": "alcantarillado"
+    },
+    {
+      "entryId": "1454170",
+      "spelling": "道筋",
+      "reading": "みちすじ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "道筋【みちすじ】",
+      "meaning": "camino; ruta; itinerario"
+    },
+    {
+      "entryId": "1368930",
+      "spelling": "人道的",
+      "reading": "じんどうてき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "人道的【じんどうてき】",
+      "meaning": "humano"
+    },
+    {
+      "entryId": "1256910",
+      "spelling": "剣道",
+      "reading": "けんどう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "剣道【けんどう】",
+      "meaning": "kendo; esgrima"
+    },
+    {
+      "entryId": "1419480",
+      "spelling": "弾道",
+      "reading": "だんどう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "弾道【だんどう】",
+      "meaning": "trayectoria balística; trayectoria de un proyectil"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

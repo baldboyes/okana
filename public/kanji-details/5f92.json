@@ -1,0 +1,130 @@
+{
+  "character": "徒",
+  "meanings": "caminar, inútil, compañero",
+  "words": [
+    {
+      "entryId": "1379380",
+      "spelling": "生徒",
+      "reading": "せいと",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "生徒【せいと】",
+      "meaning": "pupilo"
+    },
+    {
+      "entryId": "1237290",
+      "spelling": "教徒",
+      "reading": "きょうと",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "教徒【きょうと】",
+      "meaning": "fiel; seguidor; creyente; discípulo; adepto; partidario; feligrés"
+    },
+    {
+      "entryId": "1444510",
+      "spelling": "徒歩",
+      "reading": "とほ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "徒歩【とほ】",
+      "meaning": "caminata"
+    },
+    {
+      "entryId": "1530510",
+      "spelling": "徒",
+      "reading": "むだ",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "徒【むだ】",
+      "meaning": "infructuosamente; ineficazmente; en vano; a lo tonto; para nada; en balde; inutilidad; futilidad"
+    },
+    {
+      "entryId": "1538900",
+      "spelling": "徒",
+      "reading": "ただ",
+      "senseNumbers": [
+        21
+      ],
+      "japanese": "徒【ただ】",
+      "meaning": "gratis; gratuito; simplemente; sencillamente; normal; normal y corriente; ordinario; general; común; sencillo"
+    },
+    {
+      "entryId": "1530520",
+      "spelling": "徒遣い",
+      "reading": "むだづかい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "徒遣い【むだづかい】",
+      "meaning": "desperdicio; despilfarro; derroche; dispendio; lujo"
+    },
+    {
+      "entryId": "1519500",
+      "spelling": "暴徒",
+      "reading": "ぼうと",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "暴徒【ぼうと】",
+      "meaning": "insurgente"
+    },
+    {
+      "entryId": "1834550",
+      "spelling": "異教徒",
+      "reading": "いきょうと",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "異教徒【いきょうと】",
+      "meaning": "pagano; herético"
+    },
+    {
+      "entryId": "1306060",
+      "spelling": "使徒",
+      "reading": "しと",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "使徒【しと】",
+      "meaning": "apóstol; discípulo"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

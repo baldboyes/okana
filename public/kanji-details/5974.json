@@ -1,0 +1,152 @@
+{
+  "character": "奴",
+  "meanings": "esclavo, criado, siervo, individuo, desprecio, insulto",
+  "words": [
+    {
+      "entryId": "1445650",
+      "spelling": "奴隷",
+      "reading": "どれい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "奴隷【どれい】",
+      "meaning": "esclavo; sirviente"
+    },
+    {
+      "entryId": "1445640",
+      "spelling": "奴",
+      "reading": "やつ",
+      "senseNumbers": [
+        13,
+        14,
+        15
+      ],
+      "japanese": "奴【やつ】",
+      "meaning": "(despectivo) (ese) tío; (ese) tipo; cosa; objeto; (despectivo o familiar) él; ella"
+    },
+    {
+      "entryId": "1483160",
+      "spelling": "彼奴",
+      "reading": "あいつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "彼奴【あいつ】",
+      "meaning": "ese; esa; el tío; el tipo; el gacho; la tía; la tipa; la gachi; el güey"
+    },
+    {
+      "entryId": "1579070",
+      "spelling": "此奴",
+      "reading": "こいつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "此奴【こいつ】",
+      "meaning": "éste; este tipo; esta persona"
+    },
+    {
+      "entryId": "1913290",
+      "spelling": "奴ら",
+      "reading": "やつら",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "奴ら【やつら】",
+      "meaning": "esa gente"
+    },
+    {
+      "entryId": "1913290",
+      "spelling": "奴ら",
+      "reading": "ヤツら",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "奴ら【ヤツら】",
+      "meaning": "esa gente"
+    },
+    {
+      "entryId": "1913290",
+      "spelling": "奴等",
+      "reading": "やつら",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "奴等【やつら】",
+      "meaning": "esa gente"
+    },
+    {
+      "entryId": "2092950",
+      "spelling": "此奴ら",
+      "reading": "こいつら",
+      "senseNumbers": [
+        2
+      ],
+      "japanese": "此奴ら【こいつら】",
+      "meaning": "esta gente"
+    },
+    {
+      "entryId": "2092950",
+      "spelling": "此奴等",
+      "reading": "こいつら",
+      "senseNumbers": [
+        2
+      ],
+      "japanese": "此奴等【こいつら】",
+      "meaning": "esta gente"
+    },
+    {
+      "entryId": "1474000",
+      "spelling": "売国奴",
+      "reading": "ばいこくど",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "売国奴【ばいこくど】",
+      "meaning": "traidor (a su país)"
+    },
+    {
+      "entryId": "1843020",
+      "spelling": "芸奴",
+      "reading": "げいぎ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "芸奴【げいぎ】",
+      "meaning": "geisha"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "character": "貧",
+  "meanings": "pobreza, pobre, escaso",
+  "words": [
+    {
+      "entryId": "1490830",
+      "spelling": "貧困",
+      "reading": "ひんこん",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "貧困【ひんこん】",
+      "meaning": "pobreza; miseria"
+    },
+    {
+      "entryId": "1490890",
+      "spelling": "貧富",
+      "reading": "ひんぷ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "貧富【ひんぷ】",
+      "meaning": "riqueza y pobreza; ricos y pobres"
+    },
+    {
+      "entryId": "1490740",
+      "spelling": "貧しい",
+      "reading": "まずしい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "貧しい【まずしい】",
+      "meaning": "pobre"
+    },
+    {
+      "entryId": "1490900",
+      "spelling": "貧之",
+      "reading": "びんぼう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "貧之【びんぼう】",
+      "meaning": "pobreza; indigente; pobre"
+    },
+    {
+      "entryId": "1490900",
+      "spelling": "貧乏",
+      "reading": "びんぼう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "貧乏【びんぼう】",
+      "meaning": "pobreza; indigente; pobre"
+    },
+    {
+      "entryId": "1490800",
+      "spelling": "貧血",
+      "reading": "ひんけつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "貧血【ひんけつ】",
+      "meaning": "anemia"
+    },
+    {
+      "entryId": "1490850",
+      "spelling": "貧弱",
+      "reading": "ひんじゃく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "貧弱【ひんじゃく】",
+      "meaning": "pobre; mísero; digno de lástima"
+    },
+    {
+      "entryId": "1490930",
+      "spelling": "貧乏人",
+      "reading": "びんぼうにん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "貧乏人【びんぼうにん】",
+      "meaning": "pobre; necesitado"
+    },
+    {
+      "entryId": "1583480",
+      "spelling": "貧",
+      "reading": "ひん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "貧【ひん】",
+      "meaning": "pobreza; volverse pobre; vivir en pobreza"
+    },
+    {
+      "entryId": "1240490",
+      "spelling": "極貧",
+      "reading": "ごくひん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "極貧【ごくひん】",
+      "meaning": "extrema pobreza; absoluta miseria"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

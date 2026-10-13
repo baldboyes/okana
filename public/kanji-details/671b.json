@@ -1,0 +1,240 @@
+{
+  "character": "望",
+  "meanings": "esperanza, deseo, aspiración, mirar lejos, popularidad, desear, esperar",
+  "words": [
+    {
+      "entryId": "1219910",
+      "spelling": "冀望",
+      "reading": "きぼう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "冀望【きぼう】",
+      "meaning": "esperar; tener la esperanza de; desear; anhelar; esperanza; deseo; aspiración"
+    },
+    {
+      "entryId": "1219910",
+      "spelling": "希望",
+      "reading": "きぼう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "希望【きぼう】",
+      "meaning": "esperar; tener la esperanza de; desear; anhelar; esperanza; deseo; aspiración"
+    },
+    {
+      "entryId": "1546830",
+      "spelling": "要望",
+      "reading": "ようぼう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "要望【ようぼう】",
+      "meaning": "petición; solicitud"
+    },
+    {
+      "entryId": "1440640",
+      "spelling": "展望",
+      "reading": "てんぼう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "展望【てんぼう】",
+      "meaning": "panorama; perspectivas"
+    },
+    {
+      "entryId": "1386960",
+      "spelling": "絶望",
+      "reading": "ぜつぼう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "絶望【ぜつぼう】",
+      "meaning": "desesperanza"
+    },
+    {
+      "entryId": "1519620",
+      "spelling": "望み",
+      "reading": "のぞみ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "望み【のぞみ】",
+      "meaning": "deseo en la vida; sueño de vida"
+    },
+    {
+      "entryId": "1309140",
+      "spelling": "志望",
+      "reading": "しぼう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "志望【しぼう】",
+      "meaning": "deseo; ambición"
+    },
+    {
+      "entryId": "1320170",
+      "spelling": "失望",
+      "reading": "しつぼう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "失望【しつぼう】",
+      "meaning": "desesperanza; desesperación; desaliento"
+    },
+    {
+      "entryId": "1519680",
+      "spelling": "望月",
+      "reading": "ぼうげつ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "望月【ぼうげつ】",
+      "meaning": "luna llena"
+    },
+    {
+      "entryId": "1519680",
+      "spelling": "望月",
+      "reading": "もちづき",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "望月【もちづき】",
+      "meaning": "luna llena"
+    },
+    {
+      "entryId": "1519630",
+      "spelling": "望む",
+      "reading": "のぞむ",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "望む【のぞむ】",
+      "meaning": "desear"
+    },
+    {
+      "entryId": "1541600",
+      "spelling": "有望",
+      "reading": "ゆうぼう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "有望【ゆうぼう】",
+      "meaning": "prometedor"
+    },
+    {
+      "entryId": "1577710",
+      "spelling": "願望",
+      "reading": "がんぼう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "願望【がんぼう】",
+      "meaning": "deseo; aspiración"
+    },
+    {
+      "entryId": "1577710",
+      "spelling": "願望",
+      "reading": "がんもう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "願望【がんもう】",
+      "meaning": "deseo; aspiración"
+    },
+    {
+      "entryId": "1410650",
+      "spelling": "待望",
+      "reading": "たいぼう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "待望【たいぼう】",
+      "meaning": "anhelo; ansia; ilusión"
+    },
+    {
+      "entryId": "1519650",
+      "spelling": "望遠鏡",
+      "reading": "ぼうえんきょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "望遠鏡【ぼうえんきょう】",
+      "meaning": "telescopio"
+    },
+    {
+      "entryId": "1547410",
+      "spelling": "慾望",
+      "reading": "よくぼう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "慾望【よくぼう】",
+      "meaning": "deseo; apetito; lujuria"
+    },
+    {
+      "entryId": "1547410",
+      "spelling": "欲望",
+      "reading": "よくぼう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "欲望【よくぼう】",
+      "meaning": "deseo; apetito; lujuria"
+    },
+    {
+      "entryId": "1519610",
+      "spelling": "望ましい",
+      "reading": "のぞましい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "望ましい【のぞましい】",
+      "meaning": "deseable"
+    },
+    {
+      "entryId": "1410580",
+      "spelling": "待ち望む",
+      "reading": "まちのぞむ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "待ち望む【まちのぞむ】",
+      "meaning": "anhelar"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

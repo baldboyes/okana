@@ -1,0 +1,240 @@
+{
+  "character": "草",
+  "meanings": "hierba, planta",
+  "words": [
+    {
+      "entryId": "1401910",
+      "spelling": "草",
+      "reading": "くさ",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "草【くさ】",
+      "meaning": "hierba; pasto"
+    },
+    {
+      "entryId": "1401930",
+      "spelling": "草案",
+      "reading": "そうあん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "草案【そうあん】",
+      "meaning": "borrador; minuta; escrito en sucio; proyecto"
+    },
+    {
+      "entryId": "1401970",
+      "spelling": "草はら",
+      "reading": "そうげん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "草はら【そうげん】",
+      "meaning": "pradera; herbazal; pastizal; prado"
+    },
+    {
+      "entryId": "1401970",
+      "spelling": "草原",
+      "reading": "くさはら",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "草原【くさはら】",
+      "meaning": "pradera; herbazal; pastizal; prado"
+    },
+    {
+      "entryId": "1401970",
+      "spelling": "草原",
+      "reading": "くさわら",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "草原【くさわら】",
+      "meaning": "pradera; herbazal; pastizal; prado"
+    },
+    {
+      "entryId": "1401970",
+      "spelling": "草原",
+      "reading": "そうげん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "草原【そうげん】",
+      "meaning": "pradera; herbazal; pastizal; prado"
+    },
+    {
+      "entryId": "1533340",
+      "spelling": "草綿",
+      "reading": "わた",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "草綿【わた】",
+      "meaning": "algodón; borra de algodón; guata"
+    },
+    {
+      "entryId": "1299460",
+      "spelling": "雑草",
+      "reading": "ざっそう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "雑草【ざっそう】",
+      "meaning": "malas hierbas; maleza"
+    },
+    {
+      "entryId": "1401940",
+      "spelling": "草花",
+      "reading": "くさばな",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "草花【くさばな】",
+      "meaning": "flores; hierbas que dan flores"
+    },
+    {
+      "entryId": "1401940",
+      "spelling": "草花",
+      "reading": "そうか",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "草花【そうか】",
+      "meaning": "flores; hierbas que dan flores"
+    },
+    {
+      "entryId": "1581300",
+      "spelling": "草木",
+      "reading": "くさき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "草木【くさき】",
+      "meaning": "plantas; vegetación"
+    },
+    {
+      "entryId": "1581300",
+      "spelling": "草木",
+      "reading": "そうもく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "草木【そうもく】",
+      "meaning": "plantas; vegetación"
+    },
+    {
+      "entryId": "1521800",
+      "spelling": "牧草",
+      "reading": "ぼくそう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "牧草【ぼくそう】",
+      "meaning": "pasto; hierba"
+    },
+    {
+      "entryId": "1610100",
+      "spelling": "草食",
+      "reading": "そうしょく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "草食【そうしょく】",
+      "meaning": "herbívoro"
+    },
+    {
+      "entryId": "1597150",
+      "spelling": "煙草",
+      "reading": "タバコ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "煙草【タバコ】",
+      "meaning": "tabaco; cigarrillos"
+    },
+    {
+      "entryId": "1597150",
+      "spelling": "烟草",
+      "reading": "たばこ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "烟草【たばこ】",
+      "meaning": "tabaco; cigarrillos"
+    },
+    {
+      "entryId": "1597150",
+      "spelling": "煙草",
+      "reading": "たばこ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "煙草【たばこ】",
+      "meaning": "tabaco; cigarrillos"
+    },
+    {
+      "entryId": "1402060",
+      "spelling": "草履",
+      "reading": "じょうり",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "草履【じょうり】",
+      "meaning": "zori; sandalia"
+    },
+    {
+      "entryId": "1402060",
+      "spelling": "草履",
+      "reading": "ぞうり",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "草履【ぞうり】",
+      "meaning": "zori; sandalia"
+    },
+    {
+      "entryId": "1003810",
+      "spelling": "草臥れる",
+      "reading": "くたびれる",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "草臥れる【くたびれる】",
+      "meaning": "fatigarse; fastidiarse"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

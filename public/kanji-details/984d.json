@@ -1,0 +1,140 @@
+{
+  "character": "額",
+  "meanings": "frente, cantidad de dinero, marco de un cuadro",
+  "words": [
+    {
+      "entryId": "1242700",
+      "spelling": "金額",
+      "reading": "きんがく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "金額【きんがく】",
+      "meaning": "cantidad de dinero"
+    },
+    {
+      "entryId": "1231950",
+      "spelling": "巨額",
+      "reading": "きょがく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "巨額【きょがく】",
+      "meaning": "tremenda suma; alta cifra; enorme cifra"
+    },
+    {
+      "entryId": "1407520",
+      "spelling": "多額",
+      "reading": "たがく",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "多額【たがく】",
+      "meaning": "gran cantidad de dinero"
+    },
+    {
+      "entryId": "1255520",
+      "spelling": "月額",
+      "reading": "げつがく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "月額【げつがく】",
+      "meaning": "cantidad mensual"
+    },
+    {
+      "entryId": "1291370",
+      "spelling": "差額",
+      "reading": "さがく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "差額【さがく】",
+      "meaning": "balance; diferencia"
+    },
+    {
+      "entryId": "1468330",
+      "spelling": "年額",
+      "reading": "ねんがく",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "年額【ねんがく】",
+      "meaning": "cantidad anual"
+    },
+    {
+      "entryId": "1207510",
+      "spelling": "額",
+      "reading": "ひたい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "額【ひたい】",
+      "meaning": "frente (cabeza)"
+    },
+    {
+      "entryId": "1207530",
+      "spelling": "額ぶち",
+      "reading": "がくぶち",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "額ぶち【がくぶち】",
+      "meaning": "marco (de una pintura, de un cuadro)"
+    },
+    {
+      "entryId": "1207530",
+      "spelling": "額縁",
+      "reading": "がくぶち",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "額縁【がくぶち】",
+      "meaning": "marco (de una pintura, de un cuadro)"
+    },
+    {
+      "entryId": "1755010",
+      "spelling": "産額",
+      "reading": "さんがく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "産額【さんがく】",
+      "meaning": "(cantidad de) producción"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

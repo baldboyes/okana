@@ -1,0 +1,242 @@
+{
+  "character": "内",
+  "meanings": "interior, dentro de, privado",
+  "words": [
+    {
+      "entryId": "1286930",
+      "spelling": "国内",
+      "reading": "こくない",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "国内【こくない】",
+      "meaning": "nacional; interno"
+    },
+    {
+      "entryId": "1308640",
+      "spelling": "市内",
+      "reading": "しない",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "市内【しない】",
+      "meaning": "(dentro de una) ciudad; local"
+    },
+    {
+      "entryId": "1445040",
+      "spelling": "都内",
+      "reading": "とない",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "都内【とない】",
+      "meaning": "área metropolitana"
+    },
+    {
+      "entryId": "1457910",
+      "spelling": "内閣",
+      "reading": "ないかく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "内閣【ないかく】",
+      "meaning": "consejo de ministros"
+    },
+    {
+      "entryId": "1459400",
+      "spelling": "内容",
+      "reading": "ないよう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "内容【ないよう】",
+      "meaning": "contenido; sustancia; materia; detalle; importancia"
+    },
+    {
+      "entryId": "1155180",
+      "spelling": "以内",
+      "reading": "いない",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "以内【いない】",
+      "meaning": "dentro (plazo; espacio); adentro (de); nada"
+    },
+    {
+      "entryId": "1459030",
+      "spelling": "内部",
+      "reading": "ないぶ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "内部【ないぶ】",
+      "meaning": "interno"
+    },
+    {
+      "entryId": "1258910",
+      "spelling": "県内",
+      "reading": "けんない",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "県内【けんない】",
+      "meaning": "dentro de la prefectura"
+    },
+    {
+      "entryId": "1458640",
+      "spelling": "内戦",
+      "reading": "ないせん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "内戦【ないせん】",
+      "meaning": "guerra civil"
+    },
+    {
+      "entryId": "1320350",
+      "spelling": "室内",
+      "reading": "しつない",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "室内【しつない】",
+      "meaning": "interior de un edificio"
+    },
+    {
+      "entryId": "1458380",
+      "spelling": "内需",
+      "reading": "ないじゅ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "内需【ないじゅ】",
+      "meaning": "demanda doméstica"
+    },
+    {
+      "entryId": "1154860",
+      "spelling": "案内",
+      "reading": "あない",
+      "senseNumbers": [
+        24,
+        25
+      ],
+      "japanese": "案内【あない】",
+      "meaning": "guiar; conducir a alguien; dirigir; indicar el camino; información; dirección; primero (al frente); mostrar (alrededor)"
+    },
+    {
+      "entryId": "1154860",
+      "spelling": "案内",
+      "reading": "あんない",
+      "senseNumbers": [
+        24,
+        25
+      ],
+      "japanese": "案内【あんない】",
+      "meaning": "guiar; conducir a alguien; dirigir; indicar el camino; información; dirección; primero (al frente); mostrar (alrededor)"
+    },
+    {
+      "entryId": "1228480",
+      "spelling": "宮内庁",
+      "reading": "くないちょう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "宮内庁【くないちょう】",
+      "meaning": "agencia de la casa imperial"
+    },
+    {
+      "entryId": "1459250",
+      "spelling": "内務",
+      "reading": "ないむ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "内務【ないむ】",
+      "meaning": "asuntos internos; asuntos de interior"
+    },
+    {
+      "entryId": "1459360",
+      "spelling": "内訳",
+      "reading": "うちわけ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "内訳【うちわけ】",
+      "meaning": "lista detallada"
+    },
+    {
+      "entryId": "1323220",
+      "spelling": "車内",
+      "reading": "しゃない",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "車内【しゃない】",
+      "meaning": "interior de un vehículo"
+    },
+    {
+      "entryId": "1457730",
+      "spelling": "内",
+      "reading": "うち",
+      "senseNumbers": [
+        33
+      ],
+      "japanese": "内【うち】",
+      "meaning": "dentro"
+    },
+    {
+      "entryId": "1160510",
+      "spelling": "域内",
+      "reading": "いきない",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "域内【いきない】",
+      "meaning": "dentro del área"
+    },
+    {
+      "entryId": "1409640",
+      "spelling": "体内",
+      "reading": "たいない",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "体内【たいない】",
+      "meaning": "dentro del cuerpo"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

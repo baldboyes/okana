@@ -1,0 +1,234 @@
+{
+  "character": "影",
+  "meanings": "sombra, silueta, forma, parte contraria, reverso",
+  "words": [
+    {
+      "entryId": "1173660",
+      "spelling": "影響",
+      "reading": "えいきょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "影響【えいきょう】",
+      "meaning": "influencia; efecto; influir en (sobre con); ejercer influencia sobre; influenciar; afectar; influir; ejercer influencia"
+    },
+    {
+      "entryId": "1298800",
+      "spelling": "撮影",
+      "reading": "さつえい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "撮影【さつえい】",
+      "meaning": "filmación; rodaje; toma; filmar; sacar fotos; tomar imágenes"
+    },
+    {
+      "entryId": "1590145",
+      "spelling": "影",
+      "reading": "かげ",
+      "senseNumbers": [
+        30,
+        31,
+        32,
+        33
+      ],
+      "japanese": "影【かげ】",
+      "meaning": "sombra; silueta; reflejo; imagen; presencia; señal; luz (estrellas, luna)"
+    },
+    {
+      "entryId": "1601160",
+      "spelling": "反影",
+      "reading": "はんえい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "反影【はんえい】",
+      "meaning": "reflejo; influencia"
+    },
+    {
+      "entryId": "1533410",
+      "spelling": "面影",
+      "reading": "おもかげ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "面影【おもかげ】",
+      "meaning": "sombra del pasado; sombras (del aspecto original)"
+    },
+    {
+      "entryId": "1159040",
+      "spelling": "遺影",
+      "reading": "いえい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "遺影【いえい】",
+      "meaning": "retrato de una persona fallecida"
+    },
+    {
+      "entryId": "1580660",
+      "spelling": "人影",
+      "reading": "じんえい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "人影【じんえい】",
+      "meaning": "sombra de una persona; vestigios de la fama de una persona"
+    },
+    {
+      "entryId": "1580660",
+      "spelling": "人影",
+      "reading": "ひとかげ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "人影【ひとかげ】",
+      "meaning": "sombra de una persona; vestigios de la fama de una persona"
+    },
+    {
+      "entryId": "1463840",
+      "spelling": "日影",
+      "reading": "ひかげ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "日影【ひかげ】",
+      "meaning": "luz del sol; sombra; oscuridad"
+    },
+    {
+      "entryId": "1170340",
+      "spelling": "影口",
+      "reading": "かげぐち",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "影口【かげぐち】",
+      "meaning": "cotilleo; chismorreo; chisme malicioso; calumnia; hablar mal a espaldas de alguien"
+    },
+    {
+      "entryId": "1447110",
+      "spelling": "投影",
+      "reading": "とうえい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "投影【とうえい】",
+      "meaning": "proyección"
+    },
+    {
+      "entryId": "1151440",
+      "spelling": "悪影響",
+      "reading": "あくえいきょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "悪影響【あくえいきょう】",
+      "meaning": "mala influencia"
+    },
+    {
+      "entryId": "1173680",
+      "spelling": "影響力",
+      "reading": "えいきょうりょく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "影響力【えいきょうりょく】",
+      "meaning": "influencia"
+    },
+    {
+      "entryId": "1587880",
+      "spelling": "陰影",
+      "reading": "いんえい",
+      "senseNumbers": [
+        10,
+        11
+      ],
+      "japanese": "陰影【いんえい】",
+      "meaning": "sombra; penumbra; sombrear"
+    },
+    {
+      "entryId": "1262900",
+      "spelling": "幻影",
+      "reading": "げんえい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "幻影【げんえい】",
+      "meaning": "ilusión; visión; espejismo"
+    },
+    {
+      "entryId": "1173650",
+      "spelling": "影画",
+      "reading": "かげえ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "影画【かげえ】",
+      "meaning": "silueta; sombra"
+    },
+    {
+      "entryId": "1173650",
+      "spelling": "影絵",
+      "reading": "かげえ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "影絵【かげえ】",
+      "meaning": "silueta; sombra"
+    },
+    {
+      "entryId": "1590170",
+      "spelling": "影武者",
+      "reading": "かげむしゃ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "影武者【かげむしゃ】",
+      "meaning": "Kagemusha (guerrero sombra) (película de Kurosawa); tiracables (traducción dudosa)"
+    },
+    {
+      "entryId": "1455000",
+      "spelling": "特殊撮影",
+      "reading": "とくしゅさつえい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "特殊撮影【とくしゅさつえい】",
+      "meaning": "efectos especiales"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "character": "亡",
+  "meanings": "desaparecer, perecer, difunto, huir, escapar",
+  "words": [
+    {
+      "entryId": "1310950",
+      "spelling": "死亡",
+      "reading": "しぼう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "死亡【しぼう】",
+      "meaning": "muerte; mortalidad (pérdida de vidas humanas)"
+    },
+    {
+      "entryId": "1310950",
+      "spelling": "ﾀﾋ亡",
+      "reading": "しぼう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "ﾀﾋ亡【しぼう】",
+      "meaning": "muerte; mortalidad (pérdida de vidas humanas)"
+    },
+    {
+      "entryId": "1319750",
+      "spelling": "亡う",
+      "reading": "うしなう",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "亡う【うしなう】",
+      "meaning": "perder (cosa); deshacerse de"
+    },
+    {
+      "entryId": "1518730",
+      "spelling": "亡命",
+      "reading": "ぼうめい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "亡命【ぼうめい】",
+      "meaning": "asilo político"
+    },
+    {
+      "entryId": "1310990",
+      "spelling": "死亡率",
+      "reading": "しぼうりつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "死亡率【しぼうりつ】",
+      "meaning": "índice de mortalidad; tasa de mortalidad; mortalidad"
+    },
+    {
+      "entryId": "1450470",
+      "spelling": "逃亡",
+      "reading": "とうぼう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "逃亡【とうぼう】",
+      "meaning": "huir; escapar; fugarse"
+    },
+    {
+      "entryId": "1528030",
+      "spelling": "未亡人",
+      "reading": "びぼうじん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "未亡人【びぼうじん】",
+      "meaning": "viuda"
+    },
+    {
+      "entryId": "1528030",
+      "spelling": "未亡人",
+      "reading": "みぼうじん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "未亡人【みぼうじん】",
+      "meaning": "viuda"
+    },
+    {
+      "entryId": "1533030",
+      "spelling": "滅亡",
+      "reading": "めつぼう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "滅亡【めつぼう】",
+      "meaning": "ruina; caída; colapso"
+    },
+    {
+      "entryId": "1603610",
+      "spelling": "亡びる",
+      "reading": "ほろびる",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "亡びる【ほろびる】",
+      "meaning": "fenecer; morir; acabarse; extinguirse; caer; desplomarse; desmoronarse"
+    },
+    {
+      "entryId": "1518540",
+      "spelling": "亡くなる",
+      "reading": "なくなる",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "亡くなる【なくなる】",
+      "meaning": "morir"
+    },
+    {
+      "entryId": "1518570",
+      "spelling": "亡がら",
+      "reading": "なきがら",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "亡がら【なきがら】",
+      "meaning": "cadáver"
+    },
+    {
+      "entryId": "1518570",
+      "spelling": "亡きがら",
+      "reading": "なきがら",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "亡きがら【なきがら】",
+      "meaning": "cadáver"
+    },
+    {
+      "entryId": "1518570",
+      "spelling": "亡き骸",
+      "reading": "なきがら",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "亡き骸【なきがら】",
+      "meaning": "cadáver"
+    },
+    {
+      "entryId": "1518570",
+      "spelling": "亡骸",
+      "reading": "なきがら",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "亡骸【なきがら】",
+      "meaning": "cadáver"
+    },
+    {
+      "entryId": "2835808",
+      "spelling": "亡くす",
+      "reading": "なくす",
+      "senseNumbers": [
+        6,
+        7,
+        8
+      ],
+      "japanese": "亡くす【なくす】",
+      "meaning": "perder algo; librarse de; perder a alguien (esposa, niño, etc)"
+    },
+    {
+      "entryId": "1518760",
+      "spelling": "亡霊",
+      "reading": "ぼうれい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "亡霊【ぼうれい】",
+      "meaning": "fantasma, espectro de un difunto"
+    },
+    {
+      "entryId": "1518670",
+      "spelling": "亡者",
+      "reading": "もうじゃ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "亡者【もうじゃ】",
+      "meaning": "el muerto"
+    },
+    {
+      "entryId": "1603620",
+      "spelling": "亡す",
+      "reading": "ほろぼす",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "亡す【ほろぼす】",
+      "meaning": "destruir; derrocar; hundir; arruinar"
+    },
+    {
+      "entryId": "1603620",
+      "spelling": "亡ぼす",
+      "reading": "ほろぼす",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "亡ぼす【ほろぼす】",
+      "meaning": "destruir; derrocar; hundir; arruinar"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

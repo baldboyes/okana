@@ -1,0 +1,180 @@
+{
+  "character": "儀",
+  "meanings": "regla, norma, etiqueta, ceremonia, modelo de astros",
+  "words": [
+    {
+      "entryId": "1402140",
+      "spelling": "葬儀",
+      "reading": "そうぎ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "葬儀【そうぎ】",
+      "meaning": "servicio funerario"
+    },
+    {
+      "entryId": "1531410",
+      "spelling": "名儀",
+      "reading": "めいぎ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "名儀【めいぎ】",
+      "meaning": "(bajo mi) nombre; título de propiedad"
+    },
+    {
+      "entryId": "1957300",
+      "spelling": "余儀なく",
+      "reading": "よぎなく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "余儀なく【よぎなく】",
+      "meaning": "inevitablemente; necesariamente"
+    },
+    {
+      "entryId": "1957300",
+      "spelling": "余儀無く",
+      "reading": "よぎなく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "余儀無く【よぎなく】",
+      "meaning": "inevitablemente; necesariamente"
+    },
+    {
+      "entryId": "1224700",
+      "spelling": "儀式",
+      "reading": "ぎしき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "儀式【ぎしき】",
+      "meaning": "ceremonia; rito; ritual; servicio"
+    },
+    {
+      "entryId": "1224690",
+      "spelling": "儀",
+      "reading": "ぎ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "儀【ぎ】",
+      "meaning": "regla; ceremonia; asunto; caso; materia"
+    },
+    {
+      "entryId": "1224820",
+      "spelling": "儀礼",
+      "reading": "ぎれい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "儀礼【ぎれい】",
+      "meaning": "protocolo; cortesía"
+    },
+    {
+      "entryId": "1557470",
+      "spelling": "礼儀",
+      "reading": "れいぎ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "礼儀【れいぎ】",
+      "meaning": "cortesía; buena educación; buenos modos"
+    },
+    {
+      "entryId": "1281890",
+      "spelling": "行儀",
+      "reading": "ぎょうぎ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "行儀【ぎょうぎ】",
+      "meaning": "formas (modo de proceder); conducta; comportamiento"
+    },
+    {
+      "entryId": "1002030",
+      "spelling": "お辞儀",
+      "reading": "おじぎ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "お辞儀【おじぎ】",
+      "meaning": "inclinación; reverencia"
+    },
+    {
+      "entryId": "1002030",
+      "spelling": "御辞儀",
+      "reading": "おじぎ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "御辞儀【おじぎ】",
+      "meaning": "inclinación; reverencia"
+    },
+    {
+      "entryId": "1421000",
+      "spelling": "地球儀",
+      "reading": "ちきゅうぎ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "地球儀【ちきゅうぎ】",
+      "meaning": "globo terráqueo"
+    },
+    {
+      "entryId": "1224760",
+      "spelling": "儀典",
+      "reading": "ぎてん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "儀典【ぎてん】",
+      "meaning": "ceremonia; rito; ritual; servicio"
+    },
+    {
+      "entryId": "1179430",
+      "spelling": "奥儀",
+      "reading": "おうぎ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "奥儀【おうぎ】",
+      "meaning": "arcano; misterio; secreto; enigma; secreto oculto"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

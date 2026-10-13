@@ -1,0 +1,240 @@
+{
+  "character": "荒",
+  "meanings": "áspero, tosco, rudo, salvaje, violento, desolarse, enfurecerse",
+  "words": [
+    {
+      "entryId": "1281620",
+      "spelling": "荒廃",
+      "reading": "こうはい",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "荒廃【こうはい】",
+      "meaning": "ruina"
+    },
+    {
+      "entryId": "1281490",
+      "spelling": "荒れる",
+      "reading": "あれる",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "荒れる【あれる】",
+      "meaning": "alocarse; descontrolarse; devastarse; agitarse"
+    },
+    {
+      "entryId": "1281610",
+      "spelling": "荒波",
+      "reading": "あらなみ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "荒波【あらなみ】",
+      "meaning": "mares tormentosos; olas furiosas"
+    },
+    {
+      "entryId": "1281480",
+      "spelling": "荒す",
+      "reading": "あらす",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "荒す【あらす】",
+      "meaning": "destrozar; estropear; asolar; arrasar"
+    },
+    {
+      "entryId": "1281480",
+      "spelling": "荒らす",
+      "reading": "あらす",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "荒らす【あらす】",
+      "meaning": "destrozar; estropear; asolar; arrasar"
+    },
+    {
+      "entryId": "1631340",
+      "spelling": "荒らげる",
+      "reading": "あららげる",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "荒らげる【あららげる】",
+      "meaning": "enrudecer; endurecer; poner agresivo"
+    },
+    {
+      "entryId": "1586770",
+      "spelling": "荒野",
+      "reading": "あらの",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "荒野【あらの】",
+      "meaning": "campo asolado; terreno devastado"
+    },
+    {
+      "entryId": "1586770",
+      "spelling": "荒野",
+      "reading": "あれの",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "荒野【あれの】",
+      "meaning": "campo asolado; terreno devastado"
+    },
+    {
+      "entryId": "1586770",
+      "spelling": "荒野",
+      "reading": "こうや",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "荒野【こうや】",
+      "meaning": "campo asolado; terreno devastado"
+    },
+    {
+      "entryId": "1281470",
+      "spelling": "荒っぽい",
+      "reading": "あらっぽい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "荒っぽい【あらっぽい】",
+      "meaning": "brusco; rústico; rudo"
+    },
+    {
+      "entryId": "1281450",
+      "spelling": "荒い",
+      "reading": "あらい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "荒い【あらい】",
+      "meaning": "brusco; rudo; violento"
+    },
+    {
+      "entryId": "1586740",
+      "spelling": "荒々しい",
+      "reading": "あらあらしい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "荒々しい【あらあらしい】",
+      "meaning": "áspero; brusco; violento"
+    },
+    {
+      "entryId": "1586740",
+      "spelling": "荒荒しい",
+      "reading": "あらあらしい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "荒荒しい【あらあらしい】",
+      "meaning": "áspero; brusco; violento"
+    },
+    {
+      "entryId": "1396970",
+      "spelling": "荒筋",
+      "reading": "あらすじ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "荒筋【あらすじ】",
+      "meaning": "resumen; esbozo"
+    },
+    {
+      "entryId": "1586770",
+      "spelling": "荒れ野",
+      "reading": "あれの",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "荒れ野【あれの】",
+      "meaning": "campo asolado; terreno devastado"
+    },
+    {
+      "entryId": "1671440",
+      "spelling": "荒療治",
+      "reading": "あらりょうじ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "荒療治【あらりょうじ】",
+      "meaning": "medida drástica; corte por lo sano"
+    },
+    {
+      "entryId": "1671350",
+      "spelling": "荒巻",
+      "reading": "あらまき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "荒巻【あらまき】",
+      "meaning": "pescado envuelto en paja, cañas o bambú"
+    },
+    {
+      "entryId": "1671350",
+      "spelling": "荒巻き",
+      "reading": "あらまき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "荒巻き【あらまき】",
+      "meaning": "pescado envuelto en paja, cañas o bambú"
+    },
+    {
+      "entryId": "1281600",
+      "spelling": "荒唐無けい",
+      "reading": "こうとうむけい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "荒唐無けい【こうとうむけい】",
+      "meaning": "exagerado y absurdo; ridículo; sin pies ni cabeza; impensable; disparatado"
+    },
+    {
+      "entryId": "1281600",
+      "spelling": "荒唐無稽",
+      "reading": "こうとうむけい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "荒唐無稽【こうとうむけい】",
+      "meaning": "exagerado y absurdo; ridículo; sin pies ni cabeza; impensable; disparatado"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

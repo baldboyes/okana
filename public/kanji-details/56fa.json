@@ -1,0 +1,240 @@
+{
+  "character": "固",
+  "meanings": "endurecer, fijar, terco, testarudo, originario de",
+  "words": [
+    {
+      "entryId": "1266650",
+      "spelling": "固定",
+      "reading": "こてい",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "固定【こてい】",
+      "meaning": "afianzamiento; amarre; apuntalamiento; fijación"
+    },
+    {
+      "entryId": "1266570",
+      "spelling": "固める",
+      "reading": "かためる",
+      "senseNumbers": [
+        21
+      ],
+      "japanese": "固める【かためる】",
+      "meaning": "endurecer; congelar; fortificar"
+    },
+    {
+      "entryId": "1266730",
+      "spelling": "固有",
+      "reading": "こゆう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "固有【こゆう】",
+      "meaning": "propio; individual; inherente"
+    },
+    {
+      "entryId": "1590410",
+      "spelling": "固まり",
+      "reading": "かたまり",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "固まり【かたまり】",
+      "meaning": "bloque; grupo; conjunto; bando; grumo; pedazo"
+    },
+    {
+      "entryId": "1241540",
+      "spelling": "禁固",
+      "reading": "きんこ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "禁固【きんこ】",
+      "meaning": "reclusión; internamiento; privación de libertad; encarcelamiento; encarcelación"
+    },
+    {
+      "entryId": "1591560",
+      "spelling": "強固",
+      "reading": "きょうこ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "強固【きょうこ】",
+      "meaning": "firme; sólido"
+    },
+    {
+      "entryId": "1591560",
+      "spelling": "鞏固",
+      "reading": "きょうこ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "鞏固【きょうこ】",
+      "meaning": "firme; sólido"
+    },
+    {
+      "entryId": "1217680",
+      "spelling": "頑固",
+      "reading": "がんこ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "頑固【がんこ】",
+      "meaning": "terquedad; obstinación"
+    },
+    {
+      "entryId": "1205800",
+      "spelling": "確固",
+      "reading": "かっこ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "確固【かっこ】",
+      "meaning": "firme; sólido; resuelto; decidido"
+    },
+    {
+      "entryId": "1266640",
+      "spelling": "固体",
+      "reading": "こたい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "固体【こたい】",
+      "meaning": "sólidos"
+    },
+    {
+      "entryId": "1610650",
+      "spelling": "固さ",
+      "reading": "かたさ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "固さ【かたさ】",
+      "meaning": "dureza; rigidez; firmeza; terquedad"
+    },
+    {
+      "entryId": "1266590",
+      "spelling": "固型",
+      "reading": "こけい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "固型【こけい】",
+      "meaning": "sólido"
+    },
+    {
+      "entryId": "1266590",
+      "spelling": "固形",
+      "reading": "こけい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "固形【こけい】",
+      "meaning": "sólido"
+    },
+    {
+      "entryId": "1239120",
+      "spelling": "凝固",
+      "reading": "ぎょうこ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "凝固【ぎょうこ】",
+      "meaning": "solidificación; coagulación; cuajado; endurecimiento; solidificarse; coagular; cuajar; endurecerse"
+    },
+    {
+      "entryId": "1631040",
+      "spelling": "固定費",
+      "reading": "こていひ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "固定費【こていひ】",
+      "meaning": "coste fijo"
+    },
+    {
+      "entryId": "1257110",
+      "spelling": "固い",
+      "reading": "かたい",
+      "senseNumbers": [
+        36
+      ],
+      "japanese": "固い【かたい】",
+      "meaning": "duro; sólido; duro (al tacto)"
+    },
+    {
+      "entryId": "1266550",
+      "spelling": "固まる",
+      "reading": "かたまる",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "固まる【かたまる】",
+      "meaning": "endurecerse; solidificarse; volverse firme; volverse cierto"
+    },
+    {
+      "entryId": "1578520",
+      "spelling": "固執",
+      "reading": "こしつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "固執【こしつ】",
+      "meaning": "insistencia; terquedad; testarudez; pertinacia; obstinación; tenacidad"
+    },
+    {
+      "entryId": "1578520",
+      "spelling": "固執",
+      "reading": "こしゅう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "固執【こしゅう】",
+      "meaning": "insistencia; terquedad; testarudez; pertinacia; obstinación; tenacidad"
+    },
+    {
+      "entryId": "1257140",
+      "spelling": "堅固",
+      "reading": "けんご",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "堅固【けんご】",
+      "meaning": "sólido; firme; robusto; consistente"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

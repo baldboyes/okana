@@ -1,0 +1,240 @@
+{
+  "character": "使",
+  "meanings": "usar, manejar, emplear",
+  "words": [
+    {
+      "entryId": "1305990",
+      "spelling": "使う",
+      "reading": "つかう",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "使う【つかう】",
+      "meaning": "despachar; enviar; donar; usar; manipular; emplear; necesitar; querer; gastar; consumir; hablar (inglés); practicar (esgrima); tomar (almuerzo propio); circular (dinero sucio)"
+    },
+    {
+      "entryId": "1306200",
+      "spelling": "使用",
+      "reading": "しよう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "使用【しよう】",
+      "meaning": "uso; aplicación; empleo; utilización"
+    },
+    {
+      "entryId": "1413880",
+      "spelling": "大使",
+      "reading": "たいし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "大使【たいし】",
+      "meaning": "embajador; legado"
+    },
+    {
+      "entryId": "1281910",
+      "spelling": "行使",
+      "reading": "こうし",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "行使【こうし】",
+      "meaning": "uso; empleo; ejercicio"
+    },
+    {
+      "entryId": "1413890",
+      "spelling": "大使館",
+      "reading": "たいしかん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "大使館【たいしかん】",
+      "meaning": "embajada"
+    },
+    {
+      "entryId": "1454940",
+      "spelling": "特使",
+      "reading": "とくし",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "特使【とくし】",
+      "meaning": "enviado especial"
+    },
+    {
+      "entryId": "1306160",
+      "spelling": "使命",
+      "reading": "しめい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "使命【しめい】",
+      "meaning": "misión; recado; mensaje"
+    },
+    {
+      "entryId": "1305950",
+      "spelling": "使い方",
+      "reading": "つかいかた",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "使い方【つかいかた】",
+      "meaning": "forma de usar algo; trato; manejo (de la situación, etc.); gestión"
+    },
+    {
+      "entryId": "1305720",
+      "spelling": "使い",
+      "reading": "つかい",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "使い【つかい】",
+      "meaning": "encargo; mandado; mensajero"
+    },
+    {
+      "entryId": "1306030",
+      "spelling": "使節",
+      "reading": "しせつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "使節【しせつ】",
+      "meaning": "delegado; enviado; emisario"
+    },
+    {
+      "entryId": "1306320",
+      "spelling": "使用料",
+      "reading": "しようりょう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "使用料【しようりょう】",
+      "meaning": "tasa; precio de un servicio; pago por el uso de un servicio público"
+    },
+    {
+      "entryId": "1439170",
+      "spelling": "天使",
+      "reading": "てんし",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "天使【てんし】",
+      "meaning": "ángel"
+    },
+    {
+      "entryId": "1273730",
+      "spelling": "公使",
+      "reading": "こうし",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "公使【こうし】",
+      "meaning": "ministro; enviado"
+    },
+    {
+      "entryId": "1597750",
+      "spelling": "使い捨",
+      "reading": "つかいすて",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "使い捨【つかいすて】",
+      "meaning": "desechable"
+    },
+    {
+      "entryId": "1597750",
+      "spelling": "使い捨て",
+      "reading": "つかいすて",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "使い捨て【つかいすて】",
+      "meaning": "desechable"
+    },
+    {
+      "entryId": "1597750",
+      "spelling": "使い捨て",
+      "reading": "つかいずて",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "使い捨て【つかいずて】",
+      "meaning": "desechable"
+    },
+    {
+      "entryId": "1305900",
+      "spelling": "使いみち",
+      "reading": "つかいみち",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "使いみち【つかいみち】",
+      "meaning": "uso; aprovechamiento; utilización"
+    },
+    {
+      "entryId": "1305900",
+      "spelling": "使い途",
+      "reading": "つかいみち",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "使い途【つかいみち】",
+      "meaning": "uso; aprovechamiento; utilización"
+    },
+    {
+      "entryId": "1305900",
+      "spelling": "使い道",
+      "reading": "つかいみち",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "使い道【つかいみち】",
+      "meaning": "uso; aprovechamiento; utilización"
+    },
+    {
+      "entryId": "1530520",
+      "spelling": "ムダ使い",
+      "reading": "むだづかい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "ムダ使い【むだづかい】",
+      "meaning": "desperdicio; despilfarro; derroche; dispendio; lujo"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

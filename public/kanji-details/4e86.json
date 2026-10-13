@@ -1,0 +1,150 @@
+{
+  "character": "了",
+  "meanings": "completar, alcanzar un fin, finalizar, comprender",
+  "words": [
+    {
+      "entryId": "1606280",
+      "spelling": "了承",
+      "reading": "りょうしょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "了承【りょうしょう】",
+      "meaning": "aprobación; entendimiento"
+    },
+    {
+      "entryId": "1333040",
+      "spelling": "終了",
+      "reading": "しゅうりょう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "終了【しゅうりょう】",
+      "meaning": "finalizar; cerrar; terminación"
+    },
+    {
+      "entryId": "1332760",
+      "spelling": "了える",
+      "reading": "おえる",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "了える【おえる】",
+      "meaning": "finalizar"
+    },
+    {
+      "entryId": "1553310",
+      "spelling": "了解",
+      "reading": "りょうかい",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "了解【りょうかい】",
+      "meaning": "entendimiento; comprensión"
+    },
+    {
+      "entryId": "1332450",
+      "spelling": "修了",
+      "reading": "しゅうりょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "修了【しゅうりょう】",
+      "meaning": "conclusión; fin"
+    },
+    {
+      "entryId": "1589600",
+      "spelling": "了る",
+      "reading": "おわる",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "了る【おわる】",
+      "meaning": "terminar; acabar; concluir"
+    },
+    {
+      "entryId": "1553290",
+      "spelling": "了",
+      "reading": "りょう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "了【りょう】",
+      "meaning": "acabar; terminación; comprensión"
+    },
+    {
+      "entryId": "1211630",
+      "spelling": "完了",
+      "reading": "かんりょう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "完了【かんりょう】",
+      "meaning": "conclusión; terminación; consumación"
+    },
+    {
+      "entryId": "1528140",
+      "spelling": "魅了",
+      "reading": "みりょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "魅了【みりょう】",
+      "meaning": "fascinación"
+    },
+    {
+      "entryId": "1532620",
+      "spelling": "明了",
+      "reading": "めいりょう",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "明了【めいりょう】",
+      "meaning": "claridad"
+    },
+    {
+      "entryId": "1305380",
+      "spelling": "了う",
+      "reading": "しまう",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "了う【しまう】",
+      "meaning": "finalizar; terminar; hacer algo completamente; ponerle fin a; cerrar; acabar; guardar"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

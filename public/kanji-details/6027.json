@@ -1,0 +1,242 @@
+{
+  "character": "性",
+  "meanings": "sexo, género, naturaleza, temperamento",
+  "words": [
+    {
+      "entryId": "1345250",
+      "spelling": "女性",
+      "reading": "じょせい",
+      "senseNumbers": [
+        13,
+        14
+      ],
+      "japanese": "女性【じょせい】",
+      "meaning": "sexo femenino; mujer (mejor término que onna); género femenino"
+    },
+    {
+      "entryId": "1345250",
+      "spelling": "女性",
+      "reading": "にょしょう",
+      "senseNumbers": [
+        13,
+        14
+      ],
+      "japanese": "女性【にょしょう】",
+      "meaning": "sexo femenino; mujer (mejor término que onna); género femenino"
+    },
+    {
+      "entryId": "1420160",
+      "spelling": "男性",
+      "reading": "だんせい",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "男性【だんせい】",
+      "meaning": "sexo masculino; hombre"
+    },
+    {
+      "entryId": "1375290",
+      "spelling": "性格",
+      "reading": "せいかく",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "性格【せいかく】",
+      "meaning": "carácter; personalidad"
+    },
+    {
+      "entryId": "1487730",
+      "spelling": "必要性",
+      "reading": "ひつようせい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "必要性【ひつようせい】",
+      "meaning": "necesidad"
+    },
+    {
+      "entryId": "1264960",
+      "spelling": "個性",
+      "reading": "こせい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "個性【こせい】",
+      "meaning": "yo en lo personal; (mi opinión personal es que); individualidad personal"
+    },
+    {
+      "entryId": "1208330",
+      "spelling": "活性",
+      "reading": "かっせい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "活性【かっせい】",
+      "meaning": "actividad"
+    },
+    {
+      "entryId": "1228820",
+      "spelling": "急性",
+      "reading": "きゅうせい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "急性【きゅうせい】",
+      "meaning": "agudo; severo"
+    },
+    {
+      "entryId": "1516610",
+      "spelling": "放射性",
+      "reading": "ほうしゃせい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "放射性【ほうしゃせい】",
+      "meaning": "radioactivo; radiactivo"
+    },
+    {
+      "entryId": "1304330",
+      "spelling": "酸性",
+      "reading": "さんせい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "酸性【さんせい】",
+      "meaning": "acidez"
+    },
+    {
+      "entryId": "1375470",
+      "spelling": "性能",
+      "reading": "せいのう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "性能【せいのう】",
+      "meaning": "rendimiento; eficiencia"
+    },
+    {
+      "entryId": "1212460",
+      "spelling": "感性",
+      "reading": "かんせい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "感性【かんせい】",
+      "meaning": "sensibilidad; sentido"
+    },
+    {
+      "entryId": "1375520",
+      "spelling": "性別",
+      "reading": "せいべつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "性別【せいべつ】",
+      "meaning": "distinción por sexo; sexo; género"
+    },
+    {
+      "entryId": "1375390",
+      "spelling": "性質",
+      "reading": "せいしつ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "性質【せいしつ】",
+      "meaning": "naturaleza; esencia; cualidad"
+    },
+    {
+      "entryId": "1526640",
+      "spelling": "慢性",
+      "reading": "まんせい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "慢性【まんせい】",
+      "meaning": "crónico"
+    },
+    {
+      "entryId": "1375430",
+      "spelling": "性的",
+      "reading": "せいてき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "性的【せいてき】",
+      "meaning": "sexo; sexual; sexy"
+    },
+    {
+      "entryId": "1452880",
+      "spelling": "同性愛",
+      "reading": "どうせいあい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "同性愛【どうせいあい】",
+      "meaning": "amor homosexual"
+    },
+    {
+      "entryId": "1366920",
+      "spelling": "人間性",
+      "reading": "にんげんせい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "人間性【にんげんせい】",
+      "meaning": "humanidad; naturaleza humana"
+    },
+    {
+      "entryId": "1586070",
+      "spelling": "合い性",
+      "reading": "あいしょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "合い性【あいしょう】",
+      "meaning": "afinidad; compatibilidad"
+    },
+    {
+      "entryId": "1586070",
+      "spelling": "合性",
+      "reading": "あいしょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "合性【あいしょう】",
+      "meaning": "afinidad; compatibilidad"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

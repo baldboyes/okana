@@ -1,0 +1,200 @@
+{
+  "character": "基",
+  "meanings": "fundamento, origen, base",
+  "words": [
+    {
+      "entryId": "1219190",
+      "spelling": "基本",
+      "reading": "きほん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "基本【きほん】",
+      "meaning": "bases; cimientos; fundamentos"
+    },
+    {
+      "entryId": "1591210",
+      "spelling": "基準",
+      "reading": "きじゅん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "基準【きじゅん】",
+      "meaning": "normas; estándares"
+    },
+    {
+      "entryId": "1219060",
+      "spelling": "基礎",
+      "reading": "きそ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "基礎【きそ】",
+      "meaning": "básico"
+    },
+    {
+      "entryId": "1219110",
+      "spelling": "基地",
+      "reading": "きち",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "基地【きち】",
+      "meaning": "base; estación (militar)"
+    },
+    {
+      "entryId": "1219020",
+      "spelling": "基金",
+      "reading": "ききん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "基金【ききん】",
+      "meaning": "fondo; fundación"
+    },
+    {
+      "entryId": "1219170",
+      "spelling": "基盤",
+      "reading": "きばん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "基盤【きばん】",
+      "meaning": "bases; cimientos; fundamentos"
+    },
+    {
+      "entryId": "1219260",
+      "spelling": "基本的",
+      "reading": "きほんてき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "基本的【きほんてき】",
+      "meaning": "básico (fundamental)"
+    },
+    {
+      "entryId": "1178680",
+      "spelling": "塩基",
+      "reading": "えんき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "塩基【えんき】",
+      "meaning": "base (química)"
+    },
+    {
+      "entryId": "1605270",
+      "spelling": "基く",
+      "reading": "もとづく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "基く【もとづく】",
+      "meaning": "basarse en; fundarse en"
+    },
+    {
+      "entryId": "1605270",
+      "spelling": "基ずく",
+      "reading": "もとづく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "基ずく【もとづく】",
+      "meaning": "basarse en; fundarse en"
+    },
+    {
+      "entryId": "1605270",
+      "spelling": "基づく",
+      "reading": "もとづく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "基づく【もとづく】",
+      "meaning": "basarse en; fundarse en"
+    },
+    {
+      "entryId": "1605270",
+      "spelling": "基付く",
+      "reading": "もとづく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "基付く【もとづく】",
+      "meaning": "basarse en; fundarse en"
+    },
+    {
+      "entryId": "1042520",
+      "spelling": "基督",
+      "reading": "キリスト",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "基督【キリスト】",
+      "meaning": "Cristo (por:)"
+    },
+    {
+      "entryId": "1042530",
+      "spelling": "基督教",
+      "reading": "キリストきょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "基督教【キリストきょう】",
+      "meaning": "Cristiandad"
+    },
+    {
+      "entryId": "1101370",
+      "spelling": "巴基斯担",
+      "reading": "パキスタン",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "巴基斯担【パキスタン】",
+      "meaning": "Pakistán; Paquistán"
+    },
+    {
+      "entryId": "1221900",
+      "spelling": "基地外",
+      "reading": "きちがい",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "基地外【きちがい】",
+      "meaning": "locura; loco; demente; ido; orate; chiflado"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

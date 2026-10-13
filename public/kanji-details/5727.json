@@ -1,0 +1,242 @@
+{
+  "character": "圧",
+  "meanings": "presión, opresión",
+  "words": [
+    {
+      "entryId": "1153340",
+      "spelling": "圧力",
+      "reading": "あつりょく",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "圧力【あつりょく】",
+      "meaning": "presión; stress"
+    },
+    {
+      "entryId": "1153270",
+      "spelling": "圧倒的",
+      "reading": "あっとうてき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "圧倒的【あっとうてき】",
+      "meaning": "abrumador"
+    },
+    {
+      "entryId": "1180470",
+      "spelling": "圧す",
+      "reading": "おす",
+      "senseNumbers": [
+        36,
+        37,
+        38
+      ],
+      "japanese": "圧す【おす】",
+      "meaning": "empujar; presionar; aplicar presión desde arriba; empujar abajo; estampar (i.e. un pasaporte); aplicar un sello; estampillar; estampar; sellar; apretar; oprimir; comprimir"
+    },
+    {
+      "entryId": "1589080",
+      "spelling": "圧さえる",
+      "reading": "おさえる",
+      "senseNumbers": [
+        28
+      ],
+      "japanese": "圧さえる【おさえる】",
+      "meaning": "suprimir; detener; atrapar; asegurar"
+    },
+    {
+      "entryId": "1419410",
+      "spelling": "弾圧",
+      "reading": "だんあつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "弾圧【だんあつ】",
+      "meaning": "represión; opresión"
+    },
+    {
+      "entryId": "1221880",
+      "spelling": "気圧",
+      "reading": "きあつ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "気圧【きあつ】",
+      "meaning": "presión atmosférica"
+    },
+    {
+      "entryId": "1255110",
+      "spelling": "血圧",
+      "reading": "けつあつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "血圧【けつあつ】",
+      "meaning": "presión sanguínea; tensión sanguínea"
+    },
+    {
+      "entryId": "1153080",
+      "spelling": "圧縮",
+      "reading": "あっしゅく",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "圧縮【あっしゅく】",
+      "meaning": "comprimir; condensar; compresión; condensación"
+    },
+    {
+      "entryId": "1335970",
+      "spelling": "重圧",
+      "reading": "じゅうあつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "重圧【じゅうあつ】",
+      "meaning": "presión"
+    },
+    {
+      "entryId": "1153260",
+      "spelling": "圧倒",
+      "reading": "あっとう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "圧倒【あっとう】",
+      "meaning": "abrumar; aplastar; derribar"
+    },
+    {
+      "entryId": "1434330",
+      "spelling": "低気圧",
+      "reading": "ていきあつ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "低気圧【ていきあつ】",
+      "meaning": "depresiones atmosféricas"
+    },
+    {
+      "entryId": "1547270",
+      "spelling": "抑圧",
+      "reading": "よくあつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "抑圧【よくあつ】",
+      "meaning": "represión; opresión"
+    },
+    {
+      "entryId": "1153140",
+      "spelling": "圧勝",
+      "reading": "あっしょう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "圧勝【あっしょう】",
+      "meaning": "victoria absoluta"
+    },
+    {
+      "entryId": "1203320",
+      "spelling": "外圧",
+      "reading": "がいあつ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "外圧【がいあつ】",
+      "meaning": "presión externa"
+    },
+    {
+      "entryId": "1153310",
+      "spelling": "圧迫",
+      "reading": "あっぱく",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "圧迫【あっぱく】",
+      "meaning": "opresión; presión"
+    },
+    {
+      "entryId": "1189990",
+      "spelling": "加圧",
+      "reading": "かあつ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "加圧【かあつ】",
+      "meaning": "aumento de presión; presionar"
+    },
+    {
+      "entryId": "1283370",
+      "spelling": "高気圧",
+      "reading": "こうきあつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "高気圧【こうきあつ】",
+      "meaning": "presión barométrica elevada; anticiclón"
+    },
+    {
+      "entryId": "1283250",
+      "spelling": "高圧",
+      "reading": "こうあつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "高圧【こうあつ】",
+      "meaning": "alto voltaje; alta presión"
+    },
+    {
+      "entryId": "1152990",
+      "spelling": "圧巻",
+      "reading": "あっかん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "圧巻【あっかん】",
+      "meaning": "punto culminante; mejor parte; lo mejor; obra maestra"
+    },
+    {
+      "entryId": "1152990",
+      "spelling": "圧観",
+      "reading": "あっかん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "圧観【あっかん】",
+      "meaning": "punto culminante; mejor parte; lo mejor; obra maestra"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "character": "交",
+  "meanings": "cambio, reemplazo, mezcla, asociación, cruzarse, mezclarse, cruzar, mezclar",
+  "words": [
+    {
+      "entryId": "1203540",
+      "spelling": "外交",
+      "reading": "がいこう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "外交【がいこう】",
+      "meaning": "diplomacia"
+    },
+    {
+      "entryId": "1272110",
+      "spelling": "交渉",
+      "reading": "こうしょう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "交渉【こうしょう】",
+      "meaning": "negociar; tratar; negociación"
+    },
+    {
+      "entryId": "1272580",
+      "spelling": "交流",
+      "reading": "こうりゅう",
+      "senseNumbers": [
+        11,
+        12
+      ],
+      "japanese": "交流【こうりゅう】",
+      "meaning": "intercambiar; hacer intercambio; relaciones; intercambio (cultural); corriente alterna; AC"
+    },
+    {
+      "entryId": "1271750",
+      "spelling": "交換",
+      "reading": "こうかん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "交換【こうかん】",
+      "meaning": "cambio; intercambio; reciprocidad; trueque; sustitución; reposición"
+    },
+    {
+      "entryId": "1272280",
+      "spelling": "交通",
+      "reading": "こうつう",
+      "senseNumbers": [
+        21
+      ],
+      "japanese": "交通【こうつう】",
+      "meaning": "comunicación; transportación; tráfico"
+    },
+    {
+      "entryId": "1286380",
+      "spelling": "国交",
+      "reading": "こっこう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "国交【こっこう】",
+      "meaning": "relaciones diplomáticas"
+    },
+    {
+      "entryId": "1592990",
+      "spelling": "交代",
+      "reading": "こうたい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "交代【こうたい】",
+      "meaning": "reemplazar; sustituir; relevar; cambiar; relevo; sustitución; reemplazo"
+    },
+    {
+      "entryId": "1592990",
+      "spelling": "交代",
+      "reading": "こうだい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "交代【こうだい】",
+      "meaning": "reemplazar; sustituir; relevar; cambiar; relevo; sustitución; reemplazo"
+    },
+    {
+      "entryId": "1592990",
+      "spelling": "交替",
+      "reading": "こうたい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "交替【こうたい】",
+      "meaning": "reemplazar; sustituir; relevar; cambiar; relevo; sustitución; reemplazo"
+    },
+    {
+      "entryId": "1272520",
+      "spelling": "交付",
+      "reading": "こうふ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "交付【こうふ】",
+      "meaning": "entrega; distribución"
+    },
+    {
+      "entryId": "1272350",
+      "spelling": "交通事故",
+      "reading": "こうつうじこ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "交通事故【こうつうじこ】",
+      "meaning": "accidente automovilístico"
+    },
+    {
+      "entryId": "1203560",
+      "spelling": "外交官",
+      "reading": "がいこうかん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "外交官【がいこうかん】",
+      "meaning": "diplomático"
+    },
+    {
+      "entryId": "1271930",
+      "spelling": "交響曲",
+      "reading": "こうきょうきょく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "交響曲【こうきょうきょく】",
+      "meaning": "sinfonía"
+    },
+    {
+      "entryId": "1271990",
+      "spelling": "交際",
+      "reading": "こうさい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "交際【こうさい】",
+      "meaning": "compañía"
+    },
+    {
+      "entryId": "1592970",
+      "spelling": "交叉点",
+      "reading": "こうさてん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "交叉点【こうさてん】",
+      "meaning": "cruce"
+    },
+    {
+      "entryId": "1592970",
+      "spelling": "交差点",
+      "reading": "こうさてん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "交差点【こうさてん】",
+      "meaning": "cruce"
+    },
+    {
+      "entryId": "1271940",
+      "spelling": "交互",
+      "reading": "こうご",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "交互【こうご】",
+      "meaning": "mutuo; recíproco; alterno"
+    },
+    {
+      "entryId": "1590750",
+      "spelling": "交す",
+      "reading": "かわす",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "交す【かわす】",
+      "meaning": "intercambiar(mensajes); esquivar; evitar; apartar"
+    },
+    {
+      "entryId": "1590750",
+      "spelling": "交わす",
+      "reading": "かわす",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "交わす【かわす】",
+      "meaning": "intercambiar(mensajes); esquivar; evitar; apartar"
+    },
+    {
+      "entryId": "1271920",
+      "spelling": "交響楽団",
+      "reading": "こうきょうがくだん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "交響楽団【こうきょうがくだん】",
+      "meaning": "sinfónica (orquesta)"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

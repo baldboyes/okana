@@ -1,0 +1,182 @@
+{
+  "character": "捕",
+  "meanings": "atrapar, capturar, coger, ser atrapado, ser capturado",
+  "words": [
+    {
+      "entryId": "1411470",
+      "spelling": "逮捕",
+      "reading": "たいほ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "逮捕【たいほ】",
+      "meaning": "arresto"
+    },
+    {
+      "entryId": "1514260",
+      "spelling": "捕虜",
+      "reading": "ほりょ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "捕虜【ほりょ】",
+      "meaning": "prisionero (de guerra)"
+    },
+    {
+      "entryId": "1514180",
+      "spelling": "捕鯨",
+      "reading": "ほげい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "捕鯨【ほげい】",
+      "meaning": "pesca de ballenas"
+    },
+    {
+      "entryId": "1514160",
+      "spelling": "捕獲",
+      "reading": "ほかく",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "捕獲【ほかく】",
+      "meaning": "captura; caza; botín"
+    },
+    {
+      "entryId": "1514160",
+      "spelling": "捕穫",
+      "reading": "ほかく",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "捕穫【ほかく】",
+      "meaning": "captura; caza; botín"
+    },
+    {
+      "entryId": "1514140",
+      "spelling": "捕る",
+      "reading": "とる",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "捕る【とる】",
+      "meaning": "tomar; atrapar (pescado); capturar"
+    },
+    {
+      "entryId": "1598960",
+      "spelling": "捕える",
+      "reading": "とらえる",
+      "senseNumbers": [
+        18,
+        19
+      ],
+      "japanese": "捕える【とらえる】",
+      "meaning": "atrapar; capturar; arrestar; darse cuenta; comprender"
+    },
+    {
+      "entryId": "1598960",
+      "spelling": "捕らえる",
+      "reading": "とらえる",
+      "senseNumbers": [
+        18,
+        19
+      ],
+      "japanese": "捕らえる【とらえる】",
+      "meaning": "atrapar; capturar; arrestar; darse cuenta; comprender"
+    },
+    {
+      "entryId": "1597780",
+      "spelling": "捕まえる",
+      "reading": "つかまえる",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "捕まえる【つかまえる】",
+      "meaning": "capturar; arrestar; detener"
+    },
+    {
+      "entryId": "1598970",
+      "spelling": "捕らわれる",
+      "reading": "とらわれる",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "捕らわれる【とらわれる】",
+      "meaning": "ser hipnotizado; ser influenciado"
+    },
+    {
+      "entryId": "1598970",
+      "spelling": "捕われる",
+      "reading": "とらわれる",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "捕われる【とらわれる】",
+      "meaning": "ser hipnotizado; ser influenciado"
+    },
+    {
+      "entryId": "1514110",
+      "spelling": "捕まる",
+      "reading": "つかまる",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "捕まる【つかまる】",
+      "meaning": "ser atrapado; ser arrestado; caer en las manos de; agarrase; asirse"
+    },
+    {
+      "entryId": "1821910",
+      "spelling": "乱捕",
+      "reading": "らんどり",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "乱捕【らんどり】",
+      "meaning": "\"randori\": combate de entrenamiento en judo"
+    },
+    {
+      "entryId": "1821910",
+      "spelling": "乱捕り",
+      "reading": "らんどり",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "乱捕り【らんどり】",
+      "meaning": "\"randori\": combate de entrenamiento en judo"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

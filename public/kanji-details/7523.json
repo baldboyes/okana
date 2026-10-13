@@ -1,0 +1,241 @@
+{
+  "character": "産",
+  "meanings": "producto, producir, propiedad, dar a luz, nacer",
+  "words": [
+    {
+      "entryId": "1303770",
+      "spelling": "産業",
+      "reading": "さんぎょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "産業【さんぎょう】",
+      "meaning": "industria"
+    },
+    {
+      "entryId": "1378990",
+      "spelling": "生産",
+      "reading": "せいさん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "生産【せいさん】",
+      "meaning": "producción"
+    },
+    {
+      "entryId": "1234550",
+      "spelling": "共産党",
+      "reading": "きょうさんとう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "共産党【きょうさんとう】",
+      "meaning": "Partido Comunista"
+    },
+    {
+      "entryId": "1312750",
+      "spelling": "資産",
+      "reading": "しさん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "資産【しさん】",
+      "meaning": "bienes"
+    },
+    {
+      "entryId": "1494220",
+      "spelling": "不動産",
+      "reading": "ふどうさん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "不動産【ふどうさん】",
+      "meaning": "inmobiliaria; propiedad inmobiliaria"
+    },
+    {
+      "entryId": "1296820",
+      "spelling": "財産",
+      "reading": "ざいさん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "財産【ざいさん】",
+      "meaning": "riquezas; posesiones; activo"
+    },
+    {
+      "entryId": "1234430",
+      "spelling": "共産",
+      "reading": "きょうさん",
+      "senseNumbers": [
+        10,
+        11
+      ],
+      "japanese": "共産【きょうさん】",
+      "meaning": "comunismo; Partido Comunista"
+    },
+    {
+      "entryId": "1286590",
+      "spelling": "国産",
+      "reading": "こくさん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "国産【こくさん】",
+      "meaning": "productos nacionales"
+    },
+    {
+      "entryId": "1339010",
+      "spelling": "出産",
+      "reading": "しゅっさん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "出産【しゅっさん】",
+      "meaning": "parto; entrega; producción (de mercancías); parir; dar a luz; alumbrar"
+    },
+    {
+      "entryId": "1445890",
+      "spelling": "倒産",
+      "reading": "とうさん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "倒産【とうさん】",
+      "meaning": "quiebra; bancarrota"
+    },
+    {
+      "entryId": "1470710",
+      "spelling": "農産物",
+      "reading": "のうさんぶつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "農産物【のうさんぶつ】",
+      "meaning": "productos agrícolas"
+    },
+    {
+      "entryId": "1658050",
+      "spelling": "産業界",
+      "reading": "さんぎょうかい",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "産業界【さんぎょうかい】",
+      "meaning": "(el) mundo industrial"
+    },
+    {
+      "entryId": "1159260",
+      "spelling": "遺産",
+      "reading": "いさん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "遺産【いさん】",
+      "meaning": "sucesión; herencia; patrimonio; legado"
+    },
+    {
+      "entryId": "1234490",
+      "spelling": "共産主義",
+      "reading": "きょうさんしゅぎ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "共産主義【きょうさんしゅぎ】",
+      "meaning": "el comunismo"
+    },
+    {
+      "entryId": "1303820",
+      "spelling": "産地",
+      "reading": "さんち",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "産地【さんち】",
+      "meaning": "área de producción"
+    },
+    {
+      "entryId": "1609990",
+      "spelling": "水産",
+      "reading": "すいさん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "水産【すいさん】",
+      "meaning": "industria pesquera; recursos de aguas potables"
+    },
+    {
+      "entryId": "1287100",
+      "spelling": "国民総生産",
+      "reading": "こくみんそうせいさん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "国民総生産【こくみんそうせいさん】",
+      "meaning": "producto nacional bruto; PNB"
+    },
+    {
+      "entryId": "1471330",
+      "spelling": "破産",
+      "reading": "はさん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "破産【はさん】",
+      "meaning": "quiebra; insolvencia"
+    },
+    {
+      "entryId": "1445360",
+      "spelling": "土産",
+      "reading": "みやげ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "土産【みやげ】",
+      "meaning": "regalo; souvenir; recuerdo (regalo de viaje)"
+    },
+    {
+      "entryId": "1468710",
+      "spelling": "年産",
+      "reading": "ねんさん",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "年産【ねんさん】",
+      "meaning": "producción anual"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

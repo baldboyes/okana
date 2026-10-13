@@ -1,0 +1,176 @@
+{
+  "character": "宅",
+  "meanings": "hogar, casa, residencia, marido propio",
+  "words": [
+    {
+      "entryId": "1318260",
+      "spelling": "自宅",
+      "reading": "じたく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "自宅【じたく】",
+      "meaning": "la casa propia"
+    },
+    {
+      "entryId": "1334150",
+      "spelling": "住宅",
+      "reading": "じゅうたく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "住宅【じゅうたく】",
+      "meaning": "casa; vivienda"
+    },
+    {
+      "entryId": "1415750",
+      "spelling": "宅",
+      "reading": "たく",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "宅【たく】",
+      "meaning": "casa; hogar; marido; esposo"
+    },
+    {
+      "entryId": "1334170",
+      "spelling": "住宅地",
+      "reading": "じゅうたくち",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "住宅地【じゅうたくち】",
+      "meaning": "zona residencial"
+    },
+    {
+      "entryId": "1415770",
+      "spelling": "宅地",
+      "reading": "たくち",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "宅地【たくち】",
+      "meaning": "lotes residenciales"
+    },
+    {
+      "entryId": "1221430",
+      "spelling": "帰宅",
+      "reading": "きたく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "帰宅【きたく】",
+      "meaning": "regresar al hogar"
+    },
+    {
+      "entryId": "1415780",
+      "spelling": "宅配",
+      "reading": "たくはい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "宅配【たくはい】",
+      "meaning": "entrega a domicilio"
+    },
+    {
+      "entryId": "1334160",
+      "spelling": "住宅街",
+      "reading": "じゅうたくがい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "住宅街【じゅうたくがい】",
+      "meaning": "área residencial"
+    },
+    {
+      "entryId": "1322900",
+      "spelling": "社宅",
+      "reading": "しゃたく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "社宅【しゃたく】",
+      "meaning": "vivienda de la empresa"
+    },
+    {
+      "entryId": "1436820",
+      "spelling": "第宅",
+      "reading": "ていたく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "第宅【ていたく】",
+      "meaning": "mansión; palacete; caserón"
+    },
+    {
+      "entryId": "1436820",
+      "spelling": "邸宅",
+      "reading": "ていたく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "邸宅【ていたく】",
+      "meaning": "mansión; palacete; caserón"
+    },
+    {
+      "entryId": "1002400",
+      "spelling": "お宅",
+      "reading": "おたく",
+      "senseNumbers": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "japanese": "お宅【おたく】",
+      "meaning": "su casa (o vuestra casa); su hogar; su familia; su esposo; su organización; usted; vos"
+    },
+    {
+      "entryId": "1002400",
+      "spelling": "御宅",
+      "reading": "おたく",
+      "senseNumbers": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "japanese": "御宅【おたく】",
+      "meaning": "su casa (o vuestra casa); su hogar; su familia; su esposo; su organización; usted; vos"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

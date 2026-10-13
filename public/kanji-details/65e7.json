@@ -1,0 +1,120 @@
+{
+  "character": "旧",
+  "meanings": "antiguo, viejo, viejos tiempos",
+  "words": [
+    {
+      "entryId": "1500740",
+      "spelling": "復旧",
+      "reading": "ふっきゅう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "復旧【ふっきゅう】",
+      "meaning": "restauración"
+    },
+    {
+      "entryId": "1265070",
+      "spelling": "旧い",
+      "reading": "ふるい",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "旧い【ふるい】",
+      "meaning": "(objetos) viejo; antiguo; anticuado; antigüedad; articulo obsoleto; (objeto) viejo"
+    },
+    {
+      "entryId": "1230790",
+      "spelling": "旧式",
+      "reading": "きゅうしき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "旧式【きゅうしき】",
+      "meaning": "anticuado; pasado de moda; obsoleto"
+    },
+    {
+      "entryId": "1230380",
+      "spelling": "旧",
+      "reading": "きゅう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "旧【きゅう】",
+      "meaning": "ex-"
+    },
+    {
+      "entryId": "1231060",
+      "spelling": "旧知",
+      "reading": "きゅうち",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "旧知【きゅうち】",
+      "meaning": "viejo amigo; vieja amistad"
+    },
+    {
+      "entryId": "1231430",
+      "spelling": "旧暦",
+      "reading": "きゅうれき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "旧暦【きゅうれき】",
+      "meaning": "calendario antiguo"
+    },
+    {
+      "entryId": "1231370",
+      "spelling": "旧友",
+      "reading": "きゅうゆう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "旧友【きゅうゆう】",
+      "meaning": "compinche; viejo amigo"
+    },
+    {
+      "entryId": "1231270",
+      "spelling": "旧法",
+      "reading": "きゅうほう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "旧法【きゅうほう】",
+      "meaning": "norma arcaizada; ley abolida; norma derogada"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

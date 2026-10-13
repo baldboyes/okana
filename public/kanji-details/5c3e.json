@@ -1,0 +1,100 @@
+{
+  "character": "尾",
+  "meanings": "cola, final, parte trasera, contador de peces",
+  "words": [
+    {
+      "entryId": "1485770",
+      "spelling": "尾",
+      "reading": "お",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "尾【お】",
+      "meaning": "cola"
+    },
+    {
+      "entryId": "1358800",
+      "spelling": "尻尾",
+      "reading": "しっぽ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "尻尾【しっぽ】",
+      "meaning": "cola (de un animal)"
+    },
+    {
+      "entryId": "1358800",
+      "spelling": "尻尾",
+      "reading": "しりお",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "尻尾【しりお】",
+      "meaning": "cola (de un animal)"
+    },
+    {
+      "entryId": "1272510",
+      "spelling": "交尾",
+      "reading": "こうび",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "交尾【こうび】",
+      "meaning": "apareamiento; cópula (animales)"
+    },
+    {
+      "entryId": "1271180",
+      "spelling": "語尾",
+      "reading": "ごび",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "語尾【ごび】",
+      "meaning": "final de una frase; final de una palabra"
+    },
+    {
+      "entryId": "1485790",
+      "spelling": "尾行",
+      "reading": "びこう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "尾行【びこう】",
+      "meaning": "seguir la pista; rastrear"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

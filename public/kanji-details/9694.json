@@ -1,0 +1,130 @@
+{
+  "character": "隔",
+  "meanings": "diferencia, distancia, separación, aislamiento, ser excluido, quedarse fuera, estar distante",
+  "words": [
+    {
+      "entryId": "1215380",
+      "spelling": "間隔",
+      "reading": "かんかく",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "間隔【かんかく】",
+      "meaning": "intervalo; separación; distancia"
+    },
+    {
+      "entryId": "1206440",
+      "spelling": "隔離",
+      "reading": "かくり",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "隔離【かくり】",
+      "meaning": "aislamiento; segregación; separación; cuarentena"
+    },
+    {
+      "entryId": "1177950",
+      "spelling": "遠隔",
+      "reading": "えんかく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "遠隔【えんかく】",
+      "meaning": "remoto; lejano; apartado"
+    },
+    {
+      "entryId": "1206360",
+      "spelling": "隔てる",
+      "reading": "へだてる",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "隔てる【へだてる】",
+      "meaning": "transcurrir; separarse; estar separado por"
+    },
+    {
+      "entryId": "1607110",
+      "spelling": "隔週",
+      "reading": "かくしゅう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "隔週【かくしゅう】",
+      "meaning": "una semana sí y otra no; cada dos semanas"
+    },
+    {
+      "entryId": "1206380",
+      "spelling": "隔月",
+      "reading": "かくげつ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "隔月【かくげつ】",
+      "meaning": "bimensual"
+    },
+    {
+      "entryId": "1206340",
+      "spelling": "隔たる",
+      "reading": "へだたる",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "隔たる【へだたる】",
+      "meaning": "estar distante; distar"
+    },
+    {
+      "entryId": "1206400",
+      "spelling": "隔日",
+      "reading": "かくじつ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "隔日【かくじつ】",
+      "meaning": "cada dos días"
+    },
+    {
+      "entryId": "1206400",
+      "spelling": "隔日",
+      "reading": "かくにち",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "隔日【かくにち】",
+      "meaning": "cada dos días"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

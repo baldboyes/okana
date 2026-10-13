@@ -1,0 +1,240 @@
+{
+  "character": "所",
+  "meanings": "lugar",
+  "words": [
+    {
+      "entryId": "1314400",
+      "spelling": "事ム所",
+      "reading": "じむしょ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "事ム所【じむしょ】",
+      "meaning": "oficina"
+    },
+    {
+      "entryId": "1314400",
+      "spelling": "事務所",
+      "reading": "じむしょ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "事務所【じむしょ】",
+      "meaning": "oficina"
+    },
+    {
+      "entryId": "1355850",
+      "spelling": "場所",
+      "reading": "ばしょ",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "場所【ばしょ】",
+      "meaning": "lugar; ubicación"
+    },
+    {
+      "entryId": "1343360",
+      "spelling": "所得",
+      "reading": "しょとく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "所得【しょとく】",
+      "meaning": "ingresos"
+    },
+    {
+      "entryId": "1334080",
+      "spelling": "住所",
+      "reading": "じゅうしょ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "住所【じゅうしょ】",
+      "meaning": "dirección (casa); residencia; domicilio"
+    },
+    {
+      "entryId": "1343340",
+      "spelling": "所長",
+      "reading": "しょちょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "所長【しょちょう】",
+      "meaning": "jefe"
+    },
+    {
+      "entryId": "1343370",
+      "spelling": "所得税",
+      "reading": "しょとくぜい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "所得税【しょとくぜい】",
+      "meaning": "impuesto sobre la renta de las personas físicas; IRPF"
+    },
+    {
+      "entryId": "1296160",
+      "spelling": "裁判所",
+      "reading": "さいばんしょ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "裁判所【さいばんしょ】",
+      "meaning": "tribunal de justicia"
+    },
+    {
+      "entryId": "1343310",
+      "spelling": "所属",
+      "reading": "しょぞく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "所属【しょぞく】",
+      "meaning": "vinculado a; pertenecer a; miembro"
+    },
+    {
+      "entryId": "1672550",
+      "spelling": "無所属",
+      "reading": "むしょぞく",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "無所属【むしょぞく】",
+      "meaning": "independiente"
+    },
+    {
+      "entryId": "1343390",
+      "spelling": "所有",
+      "reading": "しょゆう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "所有【しょゆう】",
+      "meaning": "pertenencias (de uno); propiedad"
+    },
+    {
+      "entryId": "1242350",
+      "spelling": "近所",
+      "reading": "きんじょ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "近所【きんじょ】",
+      "meaning": "vecindario"
+    },
+    {
+      "entryId": "1477770",
+      "spelling": "発電所",
+      "reading": "はつでんしょ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "発電所【はつでんしょ】",
+      "meaning": "planta generadora de energía; estación eléctrica"
+    },
+    {
+      "entryId": "1538020",
+      "spelling": "役所",
+      "reading": "やくしょ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "役所【やくしょ】",
+      "meaning": "oficina de gobierno; oficina pública"
+    },
+    {
+      "entryId": "1412640",
+      "spelling": "台所",
+      "reading": "だいどこ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "台所【だいどこ】",
+      "meaning": "cocina"
+    },
+    {
+      "entryId": "1412640",
+      "spelling": "台所",
+      "reading": "だいどころ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "台所【だいどころ】",
+      "meaning": "cocina"
+    },
+    {
+      "entryId": "1249820",
+      "spelling": "刑務所",
+      "reading": "けいむしょ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "刑務所【けいむしょ】",
+      "meaning": "prisión; cárcel; penitenciaria"
+    },
+    {
+      "entryId": "1346970",
+      "spelling": "商工会議所",
+      "reading": "しょうこうかいぎしょ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "商工会議所【しょうこうかいぎしょ】",
+      "meaning": "Cámara de Comercio e Industria"
+    },
+    {
+      "entryId": "1313740",
+      "spelling": "事業所",
+      "reading": "じぎょうしょ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "事業所【じぎょうしょ】",
+      "meaning": "centro de trabajo"
+    },
+    {
+      "entryId": "1613520",
+      "spelling": "営業所",
+      "reading": "えいぎょうしょ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "営業所【えいぎょうしょ】",
+      "meaning": "oficina; lugar de negocios"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

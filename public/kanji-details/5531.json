@@ -1,0 +1,120 @@
+{
+  "character": "唱",
+  "meanings": "cantar, recitar",
+  "words": [
+    {
+      "entryId": "1284870",
+      "spelling": "合唱",
+      "reading": "がっしょう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "合唱【がっしょう】",
+      "meaning": "coro; estribillo"
+    },
+    {
+      "entryId": "1284910",
+      "spelling": "合唱団",
+      "reading": "がっしょうだん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "合唱団【がっしょうだん】",
+      "meaning": "grupo coral; coro; coral"
+    },
+    {
+      "entryId": "1588120",
+      "spelling": "唱う",
+      "reading": "うたう",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "唱う【うたう】",
+      "meaning": "cantar"
+    },
+    {
+      "entryId": "1193320",
+      "spelling": "歌唱",
+      "reading": "かしょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "歌唱【かしょう】",
+      "meaning": "canto; cante; cantar; canción"
+    },
+    {
+      "entryId": "1347490",
+      "spelling": "唱える",
+      "reading": "となえる",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "唱える【となえる】",
+      "meaning": "recitar; cantar; dirigir una llamada a"
+    },
+    {
+      "entryId": "1154610",
+      "spelling": "暗唱番号",
+      "reading": "あんしょうばんごう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "暗唱番号【あんしょうばんごう】",
+      "meaning": "código personal de identificación; PIN; número de contraseña"
+    },
+    {
+      "entryId": "1150800",
+      "spelling": "愛唱",
+      "reading": "あいしょう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "愛唱【あいしょう】",
+      "meaning": "afición para cantar"
+    },
+    {
+      "entryId": "1841830",
+      "spelling": "夫唱婦随",
+      "reading": "ふしょうふずい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "夫唱婦随【ふしょうふずい】",
+      "meaning": "el hombre ordena y la mujer obedece; la mujer hace siempre lo que dice el marido"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "character": "看",
+  "meanings": "ver, vigilar, cuidar, asistir",
+  "words": [
+    {
+      "entryId": "1213870",
+      "spelling": "看護婦",
+      "reading": "かんごふ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "看護婦【かんごふ】",
+      "meaning": "(mujer) enfermera"
+    },
+    {
+      "entryId": "1213810",
+      "spelling": "看護",
+      "reading": "かんご",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "看護【かんご】",
+      "meaning": "cuidado; atención; enfermería"
+    },
+    {
+      "entryId": "1213990",
+      "spelling": "看板",
+      "reading": "かんばん",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "看板【かんばん】",
+      "meaning": "letrero; cartel; rótulo"
+    },
+    {
+      "entryId": "1214030",
+      "spelling": "看病",
+      "reading": "かんびょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "看病【かんびょう】",
+      "meaning": "cuidado; atención; enfermería"
+    },
+    {
+      "entryId": "1213780",
+      "spelling": "看過",
+      "reading": "かんか",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "看過【かんか】",
+      "meaning": "permisividad; tolerancia; vista gorda; condescendencia"
+    },
+    {
+      "entryId": "1213770",
+      "spelling": "看る",
+      "reading": "みる",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "看る【みる】",
+      "meaning": "cuidar; tener cuidado"
+    },
+    {
+      "entryId": "1604630",
+      "spelling": "看做す",
+      "reading": "みなす",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "看做す【みなす】",
+      "meaning": "tomar por; considerar; suponer; dar por; reputar; juzgar; estimar"
+    },
+    {
+      "entryId": "1213950",
+      "spelling": "看守",
+      "reading": "かんしゅ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "看守【かんしゅ】",
+      "meaning": "carcelero"
+    },
+    {
+      "entryId": "1166740",
+      "spelling": "一枚看板",
+      "reading": "いちまいかんばん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "一枚看板【いちまいかんばん】",
+      "meaning": "un jugador puntero; su mejor domingo único; el mejor artículo que uno tiene (para mostrar)"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

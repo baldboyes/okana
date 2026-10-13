@@ -1,0 +1,130 @@
+{
+  "character": "熟",
+  "meanings": "madurar, adquirir habilidad, pensar bien",
+  "words": [
+    {
+      "entryId": "1375730",
+      "spelling": "成熟",
+      "reading": "せいじゅく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "成熟【せいじゅく】",
+      "meaning": "madurar; madurez"
+    },
+    {
+      "entryId": "1527560",
+      "spelling": "未熟",
+      "reading": "みじゅく",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "未熟【みじゅく】",
+      "meaning": "inmaduro"
+    },
+    {
+      "entryId": "1337930",
+      "spelling": "熟練",
+      "reading": "じゅくれん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "熟練【じゅくれん】",
+      "meaning": "habilidad; destreza; dominio; competencia"
+    },
+    {
+      "entryId": "1527570",
+      "spelling": "未熟児",
+      "reading": "みじゅくじ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "未熟児【みじゅくじ】",
+      "meaning": "bebé prematuro"
+    },
+    {
+      "entryId": "1337830",
+      "spelling": "熟語",
+      "reading": "じゅくご",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "熟語【じゅくご】",
+      "meaning": "modismo"
+    },
+    {
+      "entryId": "1612850",
+      "spelling": "熟す",
+      "reading": "こなす",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "熟す【こなす】",
+      "meaning": "dominar; manejar bien; digerir; asimilar; disponer"
+    },
+    {
+      "entryId": "1400260",
+      "spelling": "早熟",
+      "reading": "そうじゅく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "早熟【そうじゅく】",
+      "meaning": "precoz"
+    },
+    {
+      "entryId": "1175880",
+      "spelling": "円熟",
+      "reading": "えんじゅく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "円熟【えんじゅく】",
+      "meaning": "madurez; perfección; sazón; madurar; perfeccionarse"
+    },
+    {
+      "entryId": "1337860",
+      "spelling": "熟睡",
+      "reading": "じゅくすい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "熟睡【じゅくすい】",
+      "meaning": "sueño profundo"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

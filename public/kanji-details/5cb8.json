@@ -1,0 +1,150 @@
+{
+  "character": "岸",
+  "meanings": "playa, costa, orilla",
+  "words": [
+    {
+      "entryId": "1201280",
+      "spelling": "海岸",
+      "reading": "かいがん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "海岸【かいがん】",
+      "meaning": "costa"
+    },
+    {
+      "entryId": "1176740",
+      "spelling": "沿岸",
+      "reading": "えんがん",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "沿岸【えんがん】",
+      "meaning": "litoral"
+    },
+    {
+      "entryId": "1217040",
+      "spelling": "岸",
+      "reading": "きし",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "岸【きし】",
+      "meaning": "playa; costa; rivera"
+    },
+    {
+      "entryId": "1409940",
+      "spelling": "対岸",
+      "reading": "たいがん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "対岸【たいがん】",
+      "meaning": "la otra orilla; la orilla de enfrente; la orilla opuesta"
+    },
+    {
+      "entryId": "1217050",
+      "spelling": "岸壁",
+      "reading": "がんぺき",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "岸壁【がんぺき】",
+      "meaning": "muelle; embarcadero"
+    },
+    {
+      "entryId": "1390060",
+      "spelling": "川岸",
+      "reading": "かわぎし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "川岸【かわぎし】",
+      "meaning": "ribera de un río; orilla de un río; pescadería; orilla (río); rivera"
+    },
+    {
+      "entryId": "1390060",
+      "spelling": "河岸",
+      "reading": "かがん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "河岸【かがん】",
+      "meaning": "ribera de un río; orilla de un río; pescadería; orilla (río); rivera"
+    },
+    {
+      "entryId": "1390060",
+      "spelling": "河岸",
+      "reading": "かわぎし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "河岸【かわぎし】",
+      "meaning": "ribera de un río; orilla de un río; pescadería; orilla (río); rivera"
+    },
+    {
+      "entryId": "1217060",
+      "spelling": "岸べ",
+      "reading": "きしべ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "岸べ【きしべ】",
+      "meaning": "orilla; costa"
+    },
+    {
+      "entryId": "1217060",
+      "spelling": "岸辺",
+      "reading": "きしべ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "岸辺【きしべ】",
+      "meaning": "orilla; costa"
+    },
+    {
+      "entryId": "1483100",
+      "spelling": "彼岸",
+      "reading": "ひがん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "彼岸【ひがん】",
+      "meaning": "equinoccio"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

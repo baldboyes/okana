@@ -1,0 +1,244 @@
+{
+  "character": "打",
+  "meanings": "golpear, pegar",
+  "words": [
+    {
+      "entryId": "1408870",
+      "spelling": "打撃",
+      "reading": "だげき",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "打撃【だげき】",
+      "meaning": "golpe; impacto"
+    },
+    {
+      "entryId": "1154060",
+      "spelling": "安打",
+      "reading": "あんだ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "安打【あんだ】",
+      "meaning": "hit seguro (béisbol)"
+    },
+    {
+      "entryId": "1408810",
+      "spelling": "打つ",
+      "reading": "うつ",
+      "senseNumbers": [
+        59,
+        60,
+        61,
+        62,
+        63
+      ],
+      "japanese": "打つ【うつ】",
+      "meaning": "golpear; pegar; escribir a máquina; teclear; inyectar; satisfacer en el juego; visitar (en peregrinaje); varear; apalear; vapulear; sacudir con un palo"
+    },
+    {
+      "entryId": "1408850",
+      "spelling": "打開",
+      "reading": "だかい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "打開【だかい】",
+      "meaning": "irrumpir; romper"
+    },
+    {
+      "entryId": "1587430",
+      "spelling": "一騎打",
+      "reading": "いっきうち",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "一騎打【いっきうち】",
+      "meaning": "combate personal; pelea uno a uno"
+    },
+    {
+      "entryId": "1587430",
+      "spelling": "一騎打ち",
+      "reading": "いっきうち",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "一騎打ち【いっきうち】",
+      "meaning": "combate personal; pelea uno a uno"
+    },
+    {
+      "entryId": "1408960",
+      "spelling": "打撲",
+      "reading": "だぼく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "打撲【だぼく】",
+      "meaning": "contusión; golpe; moretón"
+    },
+    {
+      "entryId": "1408720",
+      "spelling": "打ち切る",
+      "reading": "うちきる",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "打ち切る【うちきる】",
+      "meaning": "suspender; cesar; poner fin; cancelar"
+    },
+    {
+      "entryId": "1408720",
+      "spelling": "打切る",
+      "reading": "うちきる",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "打切る【うちきる】",
+      "meaning": "suspender; cesar; poner fin; cancelar"
+    },
+    {
+      "entryId": "1582330",
+      "spelling": "頭打ち",
+      "reading": "あたまうち",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "頭打ち【あたまうち】",
+      "meaning": "llegar al tope; llegar al limite"
+    },
+    {
+      "entryId": "1582330",
+      "spelling": "頭打ち",
+      "reading": "ずうち",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "頭打ち【ずうち】",
+      "meaning": "llegar al tope; llegar al limite"
+    },
+    {
+      "entryId": "1164480",
+      "spelling": "一打",
+      "reading": "いちだ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "一打【いちだ】",
+      "meaning": "trazo; golpe"
+    },
+    {
+      "entryId": "1164480",
+      "spelling": "１打",
+      "reading": "いちだ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "１打【いちだ】",
+      "meaning": "trazo; golpe"
+    },
+    {
+      "entryId": "1581440",
+      "spelling": "打ちこむ",
+      "reading": "うちこむ",
+      "senseNumbers": [
+        25
+      ],
+      "japanese": "打ちこむ【うちこむ】",
+      "meaning": "clavar; incrustar"
+    },
+    {
+      "entryId": "1581440",
+      "spelling": "打ち込む",
+      "reading": "うちこむ",
+      "senseNumbers": [
+        25
+      ],
+      "japanese": "打ち込む【うちこむ】",
+      "meaning": "clavar; incrustar"
+    },
+    {
+      "entryId": "1581440",
+      "spelling": "打込む",
+      "reading": "うちこむ",
+      "senseNumbers": [
+        25
+      ],
+      "japanese": "打込む【うちこむ】",
+      "meaning": "clavar; incrustar"
+    },
+    {
+      "entryId": "1181410",
+      "spelling": "殴打",
+      "reading": "おうだ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "殴打【おうだ】",
+      "meaning": "golpe"
+    },
+    {
+      "entryId": "1420340",
+      "spelling": "値打",
+      "reading": "ねうち",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "値打【ねうち】",
+      "meaning": "valor; precio; dignidad; mérito; valía"
+    },
+    {
+      "entryId": "1420340",
+      "spelling": "値打ち",
+      "reading": "ねうち",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "値打ち【ねうち】",
+      "meaning": "valor; precio; dignidad; mérito; valía"
+    },
+    {
+      "entryId": "1408700",
+      "spelling": "打ち上げる",
+      "reading": "うちあげる",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "打ち上げる【うちあげる】",
+      "meaning": "lanzar; culminar; poner en órbita"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

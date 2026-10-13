@@ -1,0 +1,122 @@
+{
+  "character": "粗",
+  "meanings": "basto, tosco, rudo, palabras de humildad",
+  "words": [
+    {
+      "entryId": "1397100",
+      "spelling": "粗末",
+      "reading": "そまつ",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "粗末【そまつ】",
+      "meaning": "ordinario; áspero; humilde"
+    },
+    {
+      "entryId": "1397020",
+      "spelling": "粗大",
+      "reading": "そだい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "粗大【そだい】",
+      "meaning": "burdo y voluminoso; abultado"
+    },
+    {
+      "entryId": "1281470",
+      "spelling": "粗っぽい",
+      "reading": "あらっぽい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "粗っぽい【あらっぽい】",
+      "meaning": "brusco; rústico; rudo"
+    },
+    {
+      "entryId": "1396910",
+      "spelling": "粗い",
+      "reading": "あらい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "粗い【あらい】",
+      "meaning": "áspero"
+    },
+    {
+      "entryId": "1396970",
+      "spelling": "粗筋",
+      "reading": "あらすじ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "粗筋【あらすじ】",
+      "meaning": "resumen; esbozo"
+    },
+    {
+      "entryId": "1397070",
+      "spelling": "粗品",
+      "reading": "そしな",
+      "senseNumbers": [
+        6,
+        7
+      ],
+      "japanese": "粗品【そしな】",
+      "meaning": "artículos de baja calidad; productos de baja calidad; pequeño regalo; regalo pequeño"
+    },
+    {
+      "entryId": "1397070",
+      "spelling": "粗品",
+      "reading": "そひん",
+      "senseNumbers": [
+        6,
+        7
+      ],
+      "japanese": "粗品【そひん】",
+      "meaning": "artículos de baja calidad; productos de baja calidad; pequeño regalo; regalo pequeño"
+    },
+    {
+      "entryId": "1397120",
+      "spelling": "粗野",
+      "reading": "そや",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "粗野【そや】",
+      "meaning": "rudo; basto; tosco; grosero"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

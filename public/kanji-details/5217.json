@@ -1,0 +1,241 @@
+{
+  "character": "列",
+  "meanings": "fila, línea, hilera",
+  "words": [
+    {
+      "entryId": "1558370",
+      "spelling": "列車",
+      "reading": "れっしゃ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "列車【れっしゃ】",
+      "meaning": "tren"
+    },
+    {
+      "entryId": "1251080",
+      "spelling": "系列",
+      "reading": "けいれつ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "系列【けいれつ】",
+      "meaning": "serie; cadena"
+    },
+    {
+      "entryId": "1558390",
+      "spelling": "列島",
+      "reading": "れっとう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "列島【れっとう】",
+      "meaning": "archipiélago"
+    },
+    {
+      "entryId": "1558330",
+      "spelling": "列",
+      "reading": "れつ",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "列【れつ】",
+      "meaning": "fila; línea; hilera; cola"
+    },
+    {
+      "entryId": "1282220",
+      "spelling": "行列",
+      "reading": "ぎょうれつ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "行列【ぎょうれつ】",
+      "meaning": "fila; hilera; línea; cola"
+    },
+    {
+      "entryId": "1473220",
+      "spelling": "排列",
+      "reading": "はいれつ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "排列【はいれつ】",
+      "meaning": "colocación; matriz"
+    },
+    {
+      "entryId": "1473220",
+      "spelling": "配列",
+      "reading": "はいれつ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "配列【はいれつ】",
+      "meaning": "colocación; matriz"
+    },
+    {
+      "entryId": "1390680",
+      "spelling": "戦列",
+      "reading": "せんれつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "戦列【せんれつ】",
+      "meaning": "línea de batalla"
+    },
+    {
+      "entryId": "1432210",
+      "spelling": "陳列",
+      "reading": "ちんれつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "陳列【ちんれつ】",
+      "meaning": "muestra; exhibición"
+    },
+    {
+      "entryId": "1813070",
+      "spelling": "千島列島",
+      "reading": "ちしまれっとう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "千島列島【ちしまれっとう】",
+      "meaning": "islas Kuriles"
+    },
+    {
+      "entryId": "1559250",
+      "spelling": "列ねる",
+      "reading": "つらねる",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "列ねる【つらねる】",
+      "meaning": "vincular; juntar; asociar"
+    },
+    {
+      "entryId": "1453600",
+      "spelling": "同列",
+      "reading": "どうれつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "同列【どうれつ】",
+      "meaning": "de la misma categoría; del mismo nivel"
+    },
+    {
+      "entryId": "1508530",
+      "spelling": "並列",
+      "reading": "へいれつ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "並列【へいれつ】",
+      "meaning": "alineación; fila; hilera"
+    },
+    {
+      "entryId": "1508380",
+      "spelling": "列ぶ",
+      "reading": "ならぶ",
+      "senseNumbers": [
+        12,
+        13
+      ],
+      "japanese": "列ぶ【ならぶ】",
+      "meaning": "poner en fila; rivalizar; estar a la altura; igualar"
+    },
+    {
+      "entryId": "1376300",
+      "spelling": "整列",
+      "reading": "せいれつ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "整列【せいれつ】",
+      "meaning": "fila; cola; hilera"
+    },
+    {
+      "entryId": "1431610",
+      "spelling": "直列",
+      "reading": "ちょくれつ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "直列【ちょくれつ】",
+      "meaning": "serie; ciclo; sucesión; fila"
+    },
+    {
+      "entryId": "1559240",
+      "spelling": "列なる",
+      "reading": "つらなる",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "列なる【つらなる】",
+      "meaning": "extender; alargarse; estar en una fila"
+    },
+    {
+      "entryId": "1021300",
+      "spelling": "以色列",
+      "reading": "イスラエル",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "以色列【イスラエル】",
+      "meaning": "Israel"
+    },
+    {
+      "entryId": "1167430",
+      "spelling": "一列",
+      "reading": "いちれつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "一列【いちれつ】",
+      "meaning": "un hilera; línea"
+    },
+    {
+      "entryId": "1167430",
+      "spelling": "１列",
+      "reading": "いちれつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "１列【いちれつ】",
+      "meaning": "un hilera; línea"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

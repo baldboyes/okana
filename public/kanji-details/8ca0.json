@@ -1,0 +1,240 @@
+{
+  "character": "負",
+  "meanings": "llevar, tomar a su cargo, deber, ser derrotado, llevarse la victoria",
+  "words": [
+    {
+      "entryId": "1498130",
+      "spelling": "負担",
+      "reading": "ふたん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "負担【ふたん】",
+      "meaning": "carga; peso; costo"
+    },
+    {
+      "entryId": "1346230",
+      "spelling": "勝負",
+      "reading": "しょうぶ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "勝負【しょうぶ】",
+      "meaning": "enfrentarse; competir; rivalizar; echar una partida; disputar un encuentro; victoria o derrota; combate; partido (de algún deporte); competición"
+    },
+    {
+      "entryId": "1497960",
+      "spelling": "負け",
+      "reading": "まけ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "負け【まけ】",
+      "meaning": "derrota"
+    },
+    {
+      "entryId": "1498080",
+      "spelling": "負債",
+      "reading": "ふさい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "負債【ふさい】",
+      "meaning": "deuda"
+    },
+    {
+      "entryId": "1498100",
+      "spelling": "負傷",
+      "reading": "ふしょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "負傷【ふしょう】",
+      "meaning": "herida; lesión"
+    },
+    {
+      "entryId": "1497930",
+      "spelling": "負う",
+      "reading": "おう",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "負う【おう】",
+      "meaning": "sostener; deber"
+    },
+    {
+      "entryId": "1643530",
+      "spelling": "負い目",
+      "reading": "おいめ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "負い目【おいめ】",
+      "meaning": "deuda"
+    },
+    {
+      "entryId": "1643530",
+      "spelling": "負目",
+      "reading": "おいめ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "負目【おいめ】",
+      "meaning": "deuda"
+    },
+    {
+      "entryId": "1318600",
+      "spelling": "自負",
+      "reading": "じふ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "自負【じふ】",
+      "meaning": "creérselo; tenérselo muy creído; estar envanecido; engreírse; vanidad; alarde de la propia capacidad"
+    },
+    {
+      "entryId": "1381300",
+      "spelling": "請け負う",
+      "reading": "うけおう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "請け負う【うけおう】",
+      "meaning": "encargarse; hacerse cargo; asumir la responsabilidad"
+    },
+    {
+      "entryId": "1381300",
+      "spelling": "請負う",
+      "reading": "うけおう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "請負う【うけおう】",
+      "meaning": "encargarse; hacerse cargo; asumir la responsabilidad"
+    },
+    {
+      "entryId": "1751540",
+      "spelling": "請け負い",
+      "reading": "うけおい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "請け負い【うけおい】",
+      "meaning": "arrendamiento de obra; contrata; encargo"
+    },
+    {
+      "entryId": "1751540",
+      "spelling": "請負",
+      "reading": "うけおい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "請負【うけおい】",
+      "meaning": "arrendamiento de obra; contrata; encargo"
+    },
+    {
+      "entryId": "1614370",
+      "spelling": "顔負け",
+      "reading": "かおまけ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "顔負け【かおまけ】",
+      "meaning": "avergonzado"
+    },
+    {
+      "entryId": "1706680",
+      "spelling": "勝ち負け",
+      "reading": "かちまけ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "勝ち負け【かちまけ】",
+      "meaning": "victoria o derrota"
+    },
+    {
+      "entryId": "1497980",
+      "spelling": "負ける",
+      "reading": "まける",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "負ける【まける】",
+      "meaning": "perder; ser derrotado"
+    },
+    {
+      "entryId": "1472860",
+      "spelling": "背負う",
+      "reading": "しょう",
+      "senseNumbers": [
+        23
+      ],
+      "japanese": "背負う【しょう】",
+      "meaning": "cargar; llevar en la espalda u hombro"
+    },
+    {
+      "entryId": "1472860",
+      "spelling": "背負う",
+      "reading": "せおう",
+      "senseNumbers": [
+        23
+      ],
+      "japanese": "背負う【せおう】",
+      "meaning": "cargar; llevar en la espalda u hombro"
+    },
+    {
+      "entryId": "1472860",
+      "spelling": "脊負う",
+      "reading": "せおう",
+      "senseNumbers": [
+        23
+      ],
+      "japanese": "脊負う【せおう】",
+      "meaning": "cargar; llevar en la espalda u hombro"
+    },
+    {
+      "entryId": "1497950",
+      "spelling": "負かす",
+      "reading": "まかす",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "負かす【まかす】",
+      "meaning": "derrotar"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

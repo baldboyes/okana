@@ -1,0 +1,120 @@
+{
+  "character": "届",
+  "meanings": "alcanzar, entregar, enviar, llegar, informar, notificar",
+  "words": [
+    {
+      "entryId": "1598810",
+      "spelling": "届",
+      "reading": "とどけ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "届【とどけ】",
+      "meaning": "reporte; aviso; notificación; denuncia"
+    },
+    {
+      "entryId": "1598810",
+      "spelling": "届け",
+      "reading": "とどけ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "届け【とどけ】",
+      "meaning": "reporte; aviso; notificación; denuncia"
+    },
+    {
+      "entryId": "1604620",
+      "spelling": "見届ける",
+      "reading": "みとどける",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "見届ける【みとどける】",
+      "meaning": "no quitar la vista; seguir con la vista"
+    },
+    {
+      "entryId": "1281750",
+      "spelling": "行き届く",
+      "reading": "いきとどく",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "行き届く【いきとどく】",
+      "meaning": "ser atento; ser considerado"
+    },
+    {
+      "entryId": "1281750",
+      "spelling": "行き届く",
+      "reading": "ゆきとどく",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "行き届く【ゆきとどく】",
+      "meaning": "ser atento; ser considerado"
+    },
+    {
+      "entryId": "1281750",
+      "spelling": "行届く",
+      "reading": "いきとどく",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "行届く【いきとどく】",
+      "meaning": "ser atento; ser considerado"
+    },
+    {
+      "entryId": "1457200",
+      "spelling": "届く",
+      "reading": "とどく",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "届く【とどく】",
+      "meaning": "alcanzar"
+    },
+    {
+      "entryId": "1457210",
+      "spelling": "届ける",
+      "reading": "とどける",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "届ける【とどける】",
+      "meaning": "enviar; llevar y entregar; notificar"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

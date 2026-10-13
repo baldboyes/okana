@@ -1,0 +1,230 @@
+{
+  "character": "樹",
+  "meanings": "árbol, vegetación, establecer",
+  "words": [
+    {
+      "entryId": "1534520",
+      "spelling": "樹",
+      "reading": "き",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "樹【き】",
+      "meaning": "árbol; madera"
+    },
+    {
+      "entryId": "1330410",
+      "spelling": "樹立",
+      "reading": "じゅりつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "樹立【じゅりつ】",
+      "meaning": "instaurar; establecimiento; fundación"
+    },
+    {
+      "entryId": "1330400",
+      "spelling": "樹木",
+      "reading": "じゅもく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "樹木【じゅもく】",
+      "meaning": "árbol; árboles y arbustos"
+    },
+    {
+      "entryId": "1330370",
+      "spelling": "樹脂",
+      "reading": "じゅし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "樹脂【じゅし】",
+      "meaning": "resina; látex; exudado"
+    },
+    {
+      "entryId": "1599640",
+      "spelling": "並樹",
+      "reading": "なみき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "並樹【なみき】",
+      "meaning": "arboleda; alameda"
+    },
+    {
+      "entryId": "1330420",
+      "spelling": "樹齢",
+      "reading": "じゅれい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "樹齢【じゅれい】",
+      "meaning": "edad de un árbol"
+    },
+    {
+      "entryId": "1192970",
+      "spelling": "果樹",
+      "reading": "かじゅ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "果樹【かじゅ】",
+      "meaning": "árbol frutal"
+    },
+    {
+      "entryId": "1631270",
+      "spelling": "広葉樹",
+      "reading": "こうようじゅ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "広葉樹【こうようじゅ】",
+      "meaning": "árbol de hoja caduca; árbol de hojas anchas"
+    },
+    {
+      "entryId": "1768840",
+      "spelling": "針葉樹",
+      "reading": "しんようじゅ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "針葉樹【しんようじゅ】",
+      "meaning": "conífera; árbol con acículas"
+    },
+    {
+      "entryId": "1534570",
+      "spelling": "樹蔭",
+      "reading": "こかげ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "樹蔭【こかげ】",
+      "meaning": "sombra de árbol"
+    },
+    {
+      "entryId": "1534570",
+      "spelling": "樹陰",
+      "reading": "こかげ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "樹陰【こかげ】",
+      "meaning": "sombra de árbol"
+    },
+    {
+      "entryId": "1284990",
+      "spelling": "合成樹脂",
+      "reading": "ごうせいじゅし",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "合成樹脂【ごうせいじゅし】",
+      "meaning": "resina sintética"
+    },
+    {
+      "entryId": "1692500",
+      "spelling": "樹林",
+      "reading": "じゅりん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "樹林【じゅりん】",
+      "meaning": "bosque"
+    },
+    {
+      "entryId": "1728310",
+      "spelling": "一樹",
+      "reading": "いちじゅ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "一樹【いちじゅ】",
+      "meaning": "un árbol"
+    },
+    {
+      "entryId": "1728310",
+      "spelling": "一樹",
+      "reading": "いっき",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "一樹【いっき】",
+      "meaning": "un árbol"
+    },
+    {
+      "entryId": "1330380",
+      "spelling": "樹皮",
+      "reading": "じゅひ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "樹皮【じゅひ】",
+      "meaning": "corteza de un árbol"
+    },
+    {
+      "entryId": "1692520",
+      "spelling": "樹液",
+      "reading": "じゅえき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "樹液【じゅえき】",
+      "meaning": "savia"
+    },
+    {
+      "entryId": "1356190",
+      "spelling": "常緑樹",
+      "reading": "じょうりょくじゅ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "常緑樹【じょうりょくじゅ】",
+      "meaning": "siempreverde (árbol)"
+    },
+    {
+      "entryId": "1775740",
+      "spelling": "落葉樹",
+      "reading": "らくようじゅ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "落葉樹【らくようじゅ】",
+      "meaning": "árbol de hojas caducas"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

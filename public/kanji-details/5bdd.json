@@ -1,0 +1,240 @@
+{
+  "character": "寝",
+  "meanings": "acostarse, dormir",
+  "words": [
+    {
+      "entryId": "1360140",
+      "spelling": "寝室",
+      "reading": "しんしつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "寝室【しんしつ】",
+      "meaning": "dormitorio"
+    },
+    {
+      "entryId": "1360010",
+      "spelling": "寝る",
+      "reading": "ねる",
+      "senseNumbers": [
+        22
+      ],
+      "japanese": "寝る【ねる】",
+      "meaning": "acostarse; dormir"
+    },
+    {
+      "entryId": "1642760",
+      "spelling": "寝",
+      "reading": "い",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "寝【い】",
+      "meaning": "sueño"
+    },
+    {
+      "entryId": "1642760",
+      "spelling": "寝",
+      "reading": "しん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "寝【しん】",
+      "meaning": "sueño"
+    },
+    {
+      "entryId": "1642760",
+      "spelling": "寝",
+      "reading": "ね",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "寝【ね】",
+      "meaning": "sueño"
+    },
+    {
+      "entryId": "1360080",
+      "spelling": "寝具",
+      "reading": "しんぐ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "寝具【しんぐ】",
+      "meaning": "ropa de cama"
+    },
+    {
+      "entryId": "1426370",
+      "spelling": "昼寝",
+      "reading": "ひるね",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "昼寝【ひるね】",
+      "meaning": "siesta"
+    },
+    {
+      "entryId": "1580570",
+      "spelling": "寝台",
+      "reading": "しんだい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "寝台【しんだい】",
+      "meaning": "cama; sofá; canapé"
+    },
+    {
+      "entryId": "1580570",
+      "spelling": "寝台",
+      "reading": "ねだい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "寝台【ねだい】",
+      "meaning": "cama; sofá; canapé"
+    },
+    {
+      "entryId": "1360150",
+      "spelling": "寝どこ",
+      "reading": "ねどこ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "寝どこ【ねどこ】",
+      "meaning": "cama"
+    },
+    {
+      "entryId": "1360150",
+      "spelling": "寝床",
+      "reading": "ねどこ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "寝床【ねどこ】",
+      "meaning": "cama"
+    },
+    {
+      "entryId": "1611080",
+      "spelling": "寝返り",
+      "reading": "ねがえり",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "寝返り【ねがえり】",
+      "meaning": "giros al dormir; descuido"
+    },
+    {
+      "entryId": "1359970",
+      "spelling": "寝かせる",
+      "reading": "ねかせる",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "寝かせる【ねかせる】",
+      "meaning": "poner a reposar; madurar (ideas); dejar dormir"
+    },
+    {
+      "entryId": "1360040",
+      "spelling": "寝まき",
+      "reading": "ねまき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "寝まき【ねまき】",
+      "meaning": "ropa de dormir; pijama; pijamas"
+    },
+    {
+      "entryId": "1360040",
+      "spelling": "寝巻",
+      "reading": "ねまき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "寝巻【ねまき】",
+      "meaning": "ropa de dormir; pijama; pijamas"
+    },
+    {
+      "entryId": "1360040",
+      "spelling": "寝巻き",
+      "reading": "ねまき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "寝巻き【ねまき】",
+      "meaning": "ropa de dormir; pijama; pijamas"
+    },
+    {
+      "entryId": "1360040",
+      "spelling": "寝衣",
+      "reading": "ねまき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "寝衣【ねまき】",
+      "meaning": "ropa de dormir; pijama; pijamas"
+    },
+    {
+      "entryId": "1360040",
+      "spelling": "寝間着",
+      "reading": "ねまき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "寝間着【ねまき】",
+      "meaning": "ropa de dormir; pijama; pijamas"
+    },
+    {
+      "entryId": "1360050",
+      "spelling": "寝顔",
+      "reading": "ねがお",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "寝顔【ねがお】",
+      "meaning": "cara de sueño"
+    },
+    {
+      "entryId": "1600080",
+      "spelling": "寝ころぶ",
+      "reading": "ねころぶ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "寝ころぶ【ねころぶ】",
+      "meaning": "recostarse; tenderse; tumbarse"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

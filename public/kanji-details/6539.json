@@ -1,0 +1,243 @@
+{
+  "character": "改",
+  "meanings": "reforma, cambio, investigación, cambiar, reformar, renovar, revisar, investigar",
+  "words": [
+    {
+      "entryId": "1200780",
+      "spelling": "改革",
+      "reading": "かいかく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "改革【かいかく】",
+      "meaning": "reforma; reformación; innovación"
+    },
+    {
+      "entryId": "1200930",
+      "spelling": "改正",
+      "reading": "かいせい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "改正【かいせい】",
+      "meaning": "revisión; revista; verificación; rectificar; corregir; revisar"
+    },
+    {
+      "entryId": "1200960",
+      "spelling": "改善",
+      "reading": "かいぜん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "改善【かいぜん】",
+      "meaning": "mejoramiento; perfeccionamiento; mejora; mejoría"
+    },
+    {
+      "entryId": "1201000",
+      "spelling": "改造",
+      "reading": "かいぞう",
+      "senseNumbers": [
+        9,
+        10
+      ],
+      "japanese": "改造【かいぞう】",
+      "meaning": "remodelación; reestructuración; modding (modificar estética o funcionalmente algo)"
+    },
+    {
+      "entryId": "1201040",
+      "spelling": "改定",
+      "reading": "かいじょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "改定【かいじょう】",
+      "meaning": "reforma"
+    },
+    {
+      "entryId": "1201040",
+      "spelling": "改定",
+      "reading": "かいてい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "改定【かいてい】",
+      "meaning": "reforma"
+    },
+    {
+      "entryId": "1201140",
+      "spelling": "改良",
+      "reading": "かいりょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "改良【かいりょう】",
+      "meaning": "mejora; reforma"
+    },
+    {
+      "entryId": "1200950",
+      "spelling": "改選",
+      "reading": "かいせん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "改選【かいせん】",
+      "meaning": "reelección"
+    },
+    {
+      "entryId": "1200750",
+      "spelling": "改める",
+      "reading": "あらためる",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "改める【あらためる】",
+      "meaning": "cambiar; alterar; reformar; revisar; renovar; examinar; investigar"
+    },
+    {
+      "entryId": "1200880",
+      "spelling": "改修",
+      "reading": "かいしゅう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "改修【かいしゅう】",
+      "meaning": "restauración; reforma"
+    },
+    {
+      "entryId": "1200840",
+      "spelling": "改札",
+      "reading": "かいさつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "改札【かいさつ】",
+      "meaning": "billete; cupón; entrada; pase; tique; boleta; vale; volante"
+    },
+    {
+      "entryId": "1201020",
+      "spelling": "改築",
+      "reading": "かいちく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "改築【かいちく】",
+      "meaning": "reconstrucción; reparación; reestructuración"
+    },
+    {
+      "entryId": "1200910",
+      "spelling": "改新",
+      "reading": "かいしん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "改新【かいしん】",
+      "meaning": "reforma"
+    },
+    {
+      "entryId": "1201110",
+      "spelling": "改編",
+      "reading": "かいへん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "改編【かいへん】",
+      "meaning": "reorganización"
+    },
+    {
+      "entryId": "1200990",
+      "spelling": "改装",
+      "reading": "かいそう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "改装【かいそう】",
+      "meaning": "reformar; remodelar; renovar; remodelación; reorganización"
+    },
+    {
+      "entryId": "1201060",
+      "spelling": "改訂",
+      "reading": "かいてい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "改訂【かいてい】",
+      "meaning": "revisión"
+    },
+    {
+      "entryId": "1200970",
+      "spelling": "改組",
+      "reading": "かいそ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "改組【かいそ】",
+      "meaning": "reorganización"
+    },
+    {
+      "entryId": "1827010",
+      "spelling": "農地改革",
+      "reading": "のうちかいかく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "農地改革【のうちかいかく】",
+      "meaning": "reforma agraria"
+    },
+    {
+      "entryId": "1200740",
+      "spelling": "改めて",
+      "reading": "あらためて",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "改めて【あらためて】",
+      "meaning": "otra vez; de nuevo"
+    },
+    {
+      "entryId": "1200730",
+      "spelling": "改まる",
+      "reading": "あらたまる",
+      "senseNumbers": [
+        17,
+        18,
+        19
+      ],
+      "japanese": "改まる【あらたまる】",
+      "meaning": "renovarse; quedarse en una ceremonia; empeorarse; empeorar de repente; agravarse de pronto una enfermedad"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

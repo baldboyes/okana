@@ -1,0 +1,200 @@
+{
+  "character": "毛",
+  "meanings": "pelaje, vello, pluma, cultivo, producción",
+  "words": [
+    {
+      "entryId": "1533820",
+      "spelling": "毛",
+      "reading": "け",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "毛【け】",
+      "meaning": "pelo; vello; pelaje"
+    },
+    {
+      "entryId": "1533950",
+      "spelling": "毛布",
+      "reading": "もうふ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "毛布【もうふ】",
+      "meaning": "cobija"
+    },
+    {
+      "entryId": "1533930",
+      "spelling": "毛皮",
+      "reading": "けがわ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "毛皮【けがわ】",
+      "meaning": "peletería; pieles finas"
+    },
+    {
+      "entryId": "1533930",
+      "spelling": "毛皮",
+      "reading": "もうひ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "毛皮【もうひ】",
+      "meaning": "peletería; pieles finas"
+    },
+    {
+      "entryId": "1533930",
+      "spelling": "毛革",
+      "reading": "けがわ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "毛革【けがわ】",
+      "meaning": "peletería; pieles finas"
+    },
+    {
+      "entryId": "1477960",
+      "spelling": "かみの毛",
+      "reading": "かみのけ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "かみの毛【かみのけ】",
+      "meaning": "pelo (de la cabeza); cabello"
+    },
+    {
+      "entryId": "1477960",
+      "spelling": "髪の毛",
+      "reading": "かみのけ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "髪の毛【かみのけ】",
+      "meaning": "pelo (de la cabeza); cabello"
+    },
+    {
+      "entryId": "1495110",
+      "spelling": "不毛",
+      "reading": "ふもう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "不毛【ふもう】",
+      "meaning": "estéril; árido; desértico"
+    },
+    {
+      "entryId": "1533860",
+      "spelling": "毛糸",
+      "reading": "けいと",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "毛糸【けいと】",
+      "meaning": "estambre"
+    },
+    {
+      "entryId": "1546530",
+      "spelling": "羊毛",
+      "reading": "ようもう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "羊毛【ようもう】",
+      "meaning": "lana"
+    },
+    {
+      "entryId": "1486330",
+      "spelling": "まゆ毛",
+      "reading": "まゆげ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "まゆ毛【まゆげ】",
+      "meaning": "ceja"
+    },
+    {
+      "entryId": "1486330",
+      "spelling": "眉毛",
+      "reading": "まゆげ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "眉毛【まゆげ】",
+      "meaning": "ceja"
+    },
+    {
+      "entryId": "1383630",
+      "spelling": "赤毛",
+      "reading": "あかげ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "赤毛【あかげ】",
+      "meaning": "pelo rojo"
+    },
+    {
+      "entryId": "1533880",
+      "spelling": "毛虫",
+      "reading": "けむし",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "毛虫【けむし】",
+      "meaning": "oruga (insecto)"
+    },
+    {
+      "entryId": "1160760",
+      "spelling": "育毛剤",
+      "reading": "いくもうざい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "育毛剤【いくもうざい】",
+      "meaning": "tónico (para el cabello)"
+    },
+    {
+      "entryId": "1642160",
+      "spelling": "毛細血管",
+      "reading": "もうさいけっかん",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "毛細血管【もうさいけっかん】",
+      "meaning": "vaso capilar"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

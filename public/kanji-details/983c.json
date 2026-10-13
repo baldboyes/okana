@@ -1,0 +1,174 @@
+{
+  "character": "頼",
+  "meanings": "solicitud, petición, solicitar, pedir, de confianza, confiar en, depender de",
+  "words": [
+    {
+      "entryId": "1359730",
+      "spelling": "信頼",
+      "reading": "しんらい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "信頼【しんらい】",
+      "meaning": "confianza (en alguien)"
+    },
+    {
+      "entryId": "1155710",
+      "spelling": "依頼",
+      "reading": "いらい",
+      "senseNumbers": [
+        17,
+        18
+      ],
+      "japanese": "依頼【いらい】",
+      "meaning": "solicitud; comisión; despacho; dependencia; confianza"
+    },
+    {
+      "entryId": "1548390",
+      "spelling": "頼り",
+      "reading": "たより",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "頼り【たより】",
+      "meaning": "dependencia"
+    },
+    {
+      "entryId": "1548370",
+      "spelling": "頼む",
+      "reading": "たのむ",
+      "senseNumbers": [
+        18,
+        19,
+        20,
+        21
+      ],
+      "japanese": "頼む【たのむ】",
+      "meaning": "solicitar; pedir; rogar; suplicar; llamar; ordenar; reservar; confiar algo; confiar en alguien"
+    },
+    {
+      "entryId": "1610270",
+      "spelling": "頼み",
+      "reading": "たのみ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "頼み【たのみ】",
+      "meaning": "petición; solicitud"
+    },
+    {
+      "entryId": "1597200",
+      "spelling": "頼る",
+      "reading": "たよる",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "頼る【たよる】",
+      "meaning": "depender de; tener que recurrir a"
+    },
+    {
+      "entryId": "1548380",
+      "spelling": "頼もしい",
+      "reading": "たのもしい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "頼もしい【たのもしい】",
+      "meaning": "fiable; de fiar; de confianza; esperanzador; prometedor"
+    },
+    {
+      "entryId": "1548380",
+      "spelling": "頼母しい",
+      "reading": "たのもしい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "頼母しい【たのもしい】",
+      "meaning": "fiable; de fiar; de confianza; esperanzador; prometedor"
+    },
+    {
+      "entryId": "1077190",
+      "spelling": "達頼喇嘛",
+      "reading": "ダライラマ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "達頼喇嘛【ダライラマ】",
+      "meaning": "dalai lama; Dalai Lama"
+    },
+    {
+      "entryId": "1548400",
+      "spelling": "頼りない",
+      "reading": "たよりない",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "頼りない【たよりない】",
+      "meaning": "incumplidor"
+    },
+    {
+      "entryId": "1548400",
+      "spelling": "頼り無い",
+      "reading": "たよりない",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "頼り無い【たよりない】",
+      "meaning": "incumplidor"
+    },
+    {
+      "entryId": "1155720",
+      "spelling": "依頼者",
+      "reading": "いらいしゃ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "依頼者【いらいしゃ】",
+      "meaning": "cliente"
+    },
+    {
+      "entryId": "1192530",
+      "spelling": "家頼",
+      "reading": "けらい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "家頼【けらい】",
+      "meaning": "súbdito; vasallo; seguidor"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

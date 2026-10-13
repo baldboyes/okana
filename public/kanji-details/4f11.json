@@ -1,0 +1,240 @@
+{
+  "character": "休",
+  "meanings": "descanso, descansar, tomarse un descanso, estar descansado, dar descanso",
+  "words": [
+    {
+      "entryId": "1191420",
+      "spelling": "夏休み",
+      "reading": "なつやすみ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "夏休み【なつやすみ】",
+      "meaning": "vacaciones de verano"
+    },
+    {
+      "entryId": "1227500",
+      "spelling": "休み",
+      "reading": "やすみ",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "休み【やすみ】",
+      "meaning": "descanso"
+    },
+    {
+      "entryId": "1227610",
+      "spelling": "休暇",
+      "reading": "きゅうか",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "休暇【きゅうか】",
+      "meaning": "vacaciones"
+    },
+    {
+      "entryId": "1228040",
+      "spelling": "休日",
+      "reading": "きゅうじつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "休日【きゅうじつ】",
+      "meaning": "día libre"
+    },
+    {
+      "entryId": "1227700",
+      "spelling": "休業",
+      "reading": "きゅうぎょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "休業【きゅうぎょう】",
+      "meaning": "cese de labores; vacaciones; asueto"
+    },
+    {
+      "entryId": "1559380",
+      "spelling": "連休",
+      "reading": "れんきゅう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "連休【れんきゅう】",
+      "meaning": "puente (festivo)"
+    },
+    {
+      "entryId": "1227720",
+      "spelling": "休けい",
+      "reading": "きゅうけい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "休けい【きゅうけい】",
+      "meaning": "descanso; pausa"
+    },
+    {
+      "entryId": "1227720",
+      "spelling": "休憩",
+      "reading": "きゅうけい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "休憩【きゅうけい】",
+      "meaning": "descanso; pausa"
+    },
+    {
+      "entryId": "1609930",
+      "spelling": "週休",
+      "reading": "しゅうきゅう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "週休【しゅうきゅう】",
+      "meaning": "días de descanso a la semana"
+    },
+    {
+      "entryId": "1227890",
+      "spelling": "休戦",
+      "reading": "きゅうせん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "休戦【きゅうせん】",
+      "meaning": "tregua; armisticio"
+    },
+    {
+      "entryId": "1228100",
+      "spelling": "休養",
+      "reading": "きゅうよう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "休養【きゅうよう】",
+      "meaning": "convalecencia; recuperación"
+    },
+    {
+      "entryId": "1426290",
+      "spelling": "昼休み",
+      "reading": "ひるやすみ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "昼休み【ひるやすみ】",
+      "meaning": "descanso de la tarde"
+    },
+    {
+      "entryId": "1227560",
+      "spelling": "休む",
+      "reading": "やすむ",
+      "senseNumbers": [
+        23
+      ],
+      "japanese": "休む【やすむ】",
+      "meaning": "descansar; tener un respiro; tomarse un día; ausentarse; retirarse; dormir"
+    },
+    {
+      "entryId": "1227490",
+      "spelling": "休まる",
+      "reading": "やすまる",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "休まる【やすまる】",
+      "meaning": "descansar; aliviarse; sentirse cómodo"
+    },
+    {
+      "entryId": "1529800",
+      "spelling": "無休",
+      "reading": "むきゅう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "無休【むきゅう】",
+      "meaning": "sin descanso"
+    },
+    {
+      "entryId": "1227940",
+      "spelling": "休息",
+      "reading": "きゅうそく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "休息【きゅうそく】",
+      "meaning": "reposar; descansar; descanso; receso; reposo"
+    },
+    {
+      "entryId": "1227940",
+      "spelling": "休足",
+      "reading": "きゅうそく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "休足【きゅうそく】",
+      "meaning": "reposar; descansar; descanso; receso; reposo"
+    },
+    {
+      "entryId": "1227760",
+      "spelling": "休校",
+      "reading": "きゅうこう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "休校【きゅうこう】",
+      "meaning": "cerrar la escuela (temporalmente); abandonarse los estudios"
+    },
+    {
+      "entryId": "1172730",
+      "spelling": "運休",
+      "reading": "うんきゅう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "運休【うんきゅう】",
+      "meaning": "suspensión de labores; receso; cese"
+    },
+    {
+      "entryId": "1446090",
+      "spelling": "冬休み",
+      "reading": "ふゆやすみ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "冬休み【ふゆやすみ】",
+      "meaning": "vacaciones de invierno"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

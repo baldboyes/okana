@@ -1,0 +1,241 @@
+{
+  "character": "払",
+  "meanings": "pagar, saldar, liquidar, tributar",
+  "words": [
+    {
+      "entryId": "1594480",
+      "spelling": "支払",
+      "reading": "しはらい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "支払【しはらい】",
+      "meaning": "pago"
+    },
+    {
+      "entryId": "1594480",
+      "spelling": "支払い",
+      "reading": "しはらい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "支払い【しはらい】",
+      "meaning": "pago"
+    },
+    {
+      "entryId": "1310300",
+      "spelling": "仕払う",
+      "reading": "しはらう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "仕払う【しはらう】",
+      "meaning": "pagar"
+    },
+    {
+      "entryId": "1310300",
+      "spelling": "支払う",
+      "reading": "しはらう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "支払う【しはらう】",
+      "meaning": "pagar"
+    },
+    {
+      "entryId": "1611280",
+      "spelling": "払い",
+      "reading": "はらい",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "払い【はらい】",
+      "meaning": "pago"
+    },
+    {
+      "entryId": "1501620",
+      "spelling": "払う",
+      "reading": "はらう",
+      "senseNumbers": [
+        26,
+        27
+      ],
+      "japanese": "払う【はらう】",
+      "meaning": "pagar; cepillar; limpiar"
+    },
+    {
+      "entryId": "1603800",
+      "spelling": "前払",
+      "reading": "まえばらい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "前払【まえばらい】",
+      "meaning": "pago por adelantado"
+    },
+    {
+      "entryId": "1603800",
+      "spelling": "前払い",
+      "reading": "まえばらい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "前払い【まえばらい】",
+      "meaning": "pago por adelantado"
+    },
+    {
+      "entryId": "1372670",
+      "spelling": "酔っ払う",
+      "reading": "よっぱらう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "酔っ払う【よっぱらう】",
+      "meaning": "emborracharse"
+    },
+    {
+      "entryId": "1372670",
+      "spelling": "酔払う",
+      "reading": "よっぱらう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "酔払う【よっぱらう】",
+      "meaning": "emborracharse"
+    },
+    {
+      "entryId": "1372660",
+      "spelling": "酔っ払い",
+      "reading": "よっぱらい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "酔っ払い【よっぱらい】",
+      "meaning": "borracho; alcohólico (persona)"
+    },
+    {
+      "entryId": "1372660",
+      "spelling": "酔払い",
+      "reading": "よっぱらい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "酔払い【よっぱらい】",
+      "meaning": "borracho; alcohólico (persona)"
+    },
+    {
+      "entryId": "1501580",
+      "spelling": "払い込む",
+      "reading": "はらいこむ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "払い込む【はらいこむ】",
+      "meaning": "pagar; depositar"
+    },
+    {
+      "entryId": "1501610",
+      "spelling": "払いもどす",
+      "reading": "はらいもどす",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "払いもどす【はらいもどす】",
+      "meaning": "reembolsar; pagar"
+    },
+    {
+      "entryId": "1501610",
+      "spelling": "払い戻す",
+      "reading": "はらいもどす",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "払い戻す【はらいもどす】",
+      "meaning": "reembolsar; pagar"
+    },
+    {
+      "entryId": "1501610",
+      "spelling": "払戻す",
+      "reading": "はらいもどす",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "払戻す【はらいもどす】",
+      "meaning": "reembolsar; pagar"
+    },
+    {
+      "entryId": "1503300",
+      "spelling": "分割払い",
+      "reading": "ぶんかつばらい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "分割払い【ぶんかつばらい】",
+      "meaning": "pago a plazos; pago fraccionado"
+    },
+    {
+      "entryId": "1388530",
+      "spelling": "先払い",
+      "reading": "さきばらい",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "先払い【さきばらい】",
+      "meaning": "pago anticipado; pago por adelantado; portes debidos"
+    },
+    {
+      "entryId": "1270070",
+      "spelling": "あと払い",
+      "reading": "あとばらい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "あと払い【あとばらい】",
+      "meaning": "pago aplazado"
+    },
+    {
+      "entryId": "1270070",
+      "spelling": "後払",
+      "reading": "あとばらい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "後払【あとばらい】",
+      "meaning": "pago aplazado"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

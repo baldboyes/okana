@@ -1,0 +1,140 @@
+{
+  "character": "硬",
+  "meanings": "rígido, duro, firme",
+  "words": [
+    {
+      "entryId": "1236250",
+      "spelling": "強硬",
+      "reading": "きょうこう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "強硬【きょうこう】",
+      "meaning": "firme; inflexible"
+    },
+    {
+      "entryId": "1280610",
+      "spelling": "硬直",
+      "reading": "こうちょく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "硬直【こうちょく】",
+      "meaning": "rigidez; endurecimiento"
+    },
+    {
+      "entryId": "1280530",
+      "spelling": "硬貨",
+      "reading": "こうか",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "硬貨【こうか】",
+      "meaning": "moneda"
+    },
+    {
+      "entryId": "1214650",
+      "spelling": "肝硬変",
+      "reading": "かんこうへん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "肝硬変【かんこうへん】",
+      "meaning": "cirrosis hepática; cirrosis del hígado"
+    },
+    {
+      "entryId": "1610650",
+      "spelling": "硬さ",
+      "reading": "かたさ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "硬さ【かたさ】",
+      "meaning": "dureza; rigidez; firmeza; terquedad"
+    },
+    {
+      "entryId": "1280520",
+      "spelling": "硬化",
+      "reading": "こうか",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "硬化【こうか】",
+      "meaning": "endurecimiento; vulcanización; esclerosis"
+    },
+    {
+      "entryId": "1257110",
+      "spelling": "硬い",
+      "reading": "かたい",
+      "senseNumbers": [
+        36
+      ],
+      "japanese": "硬い【かたい】",
+      "meaning": "duro; sólido; duro (al tacto)"
+    },
+    {
+      "entryId": "1280630",
+      "spelling": "硬軟",
+      "reading": "こうなん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "硬軟【こうなん】",
+      "meaning": "dureza y flexibilidad"
+    },
+    {
+      "entryId": "1280620",
+      "spelling": "硬度",
+      "reading": "こうど",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "硬度【こうど】",
+      "meaning": "dureza; grado de dureza"
+    },
+    {
+      "entryId": "1609790",
+      "spelling": "硬張る",
+      "reading": "こわばる",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "硬張る【こわばる】",
+      "meaning": "endurecerse; atiesarse"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

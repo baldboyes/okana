@@ -1,0 +1,180 @@
+{
+  "character": "級",
+  "meanings": "clase, rango, grado",
+  "words": [
+    {
+      "entryId": "1283400",
+      "spelling": "高級",
+      "reading": "こうきゅう",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "高級【こうきゅう】",
+      "meaning": "clase alta; grado alto"
+    },
+    {
+      "entryId": "1919590",
+      "spelling": "級",
+      "reading": "きゅう",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "級【きゅう】",
+      "meaning": "clase; grado; rango; clase de escuela"
+    },
+    {
+      "entryId": "1203040",
+      "spelling": "階級",
+      "reading": "かいきゅう",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "階級【かいきゅう】",
+      "meaning": "clase; rango; grado"
+    },
+    {
+      "entryId": "1452120",
+      "spelling": "同級生",
+      "reading": "どうきゅうせい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "同級生【どうきゅうせい】",
+      "meaning": "compañero(s) de clase"
+    },
+    {
+      "entryId": "1352930",
+      "spelling": "上級",
+      "reading": "じょうきゅう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "上級【じょうきゅう】",
+      "meaning": "de primer nivel; nivel avanzado"
+    },
+    {
+      "entryId": "1206680",
+      "spelling": "学級",
+      "reading": "がっきゅう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "学級【がっきゅう】",
+      "meaning": "grado escolar"
+    },
+    {
+      "entryId": "1161840",
+      "spelling": "一級",
+      "reading": "いっきゅう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "一級【いっきゅう】",
+      "meaning": "primer grado; primera clase; primario"
+    },
+    {
+      "entryId": "1423870",
+      "spelling": "中級",
+      "reading": "ちゅうきゅう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "中級【ちゅうきゅう】",
+      "meaning": "nivel intermedio"
+    },
+    {
+      "entryId": "1184710",
+      "spelling": "下級",
+      "reading": "かきゅう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "下級【かきゅう】",
+      "meaning": "grado inferior; categoría inferior; clase baja"
+    },
+    {
+      "entryId": "1342710",
+      "spelling": "初級",
+      "reading": "しょきゅう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "初級【しょきゅう】",
+      "meaning": "nivel elemental (lit nivel del principio)"
+    },
+    {
+      "entryId": "1424370",
+      "spelling": "中産階級",
+      "reading": "ちゅうさんかいきゅう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "中産階級【ちゅうさんかいきゅう】",
+      "meaning": "clase media; burguesía"
+    },
+    {
+      "entryId": "1449410",
+      "spelling": "等級",
+      "reading": "とうきゅう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "等級【とうきゅう】",
+      "meaning": "calificación; grado; clase"
+    },
+    {
+      "entryId": "1230160",
+      "spelling": "級友",
+      "reading": "きゅうゆう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "級友【きゅうゆう】",
+      "meaning": "compañero de clase"
+    },
+    {
+      "entryId": "1366030",
+      "spelling": "進級",
+      "reading": "しんきゅう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "進級【しんきゅう】",
+      "meaning": "ascender de grado; subir de grado; pasar al nivel superior; paso de grado; ascenso"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

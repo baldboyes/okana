@@ -1,0 +1,180 @@
+{
+  "character": "冬",
+  "meanings": "invierno",
+  "words": [
+    {
+      "entryId": "1446070",
+      "spelling": "冬",
+      "reading": "ふゆ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "冬【ふゆ】",
+      "meaning": "invierno"
+    },
+    {
+      "entryId": "1446080",
+      "spelling": "冬季",
+      "reading": "とうき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "冬季【とうき】",
+      "meaning": "(temporada de) invierno"
+    },
+    {
+      "entryId": "1698120",
+      "spelling": "冬場",
+      "reading": "ふゆば",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "冬場【ふゆば】",
+      "meaning": "(la) temporada de invierno"
+    },
+    {
+      "entryId": "1175340",
+      "spelling": "越冬",
+      "reading": "えっとう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "越冬【えっとう】",
+      "meaning": "pasar el invierno"
+    },
+    {
+      "entryId": "1446090",
+      "spelling": "冬休み",
+      "reading": "ふゆやすみ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "冬休み【ふゆやすみ】",
+      "meaning": "vacaciones de invierno"
+    },
+    {
+      "entryId": "1446150",
+      "spelling": "冬眠",
+      "reading": "とうみん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "冬眠【とうみん】",
+      "meaning": "hibernación"
+    },
+    {
+      "entryId": "1341040",
+      "spelling": "春夏秋冬",
+      "reading": "しゅんかしゅうとう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "春夏秋冬【しゅんかしゅうとう】",
+      "meaning": "primavera-verano-otoño-invierno"
+    },
+    {
+      "entryId": "1446130",
+      "spelling": "冬至",
+      "reading": "とうじ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "冬至【とうじ】",
+      "meaning": "solsticio de invierno"
+    },
+    {
+      "entryId": "1610480",
+      "spelling": "冬期",
+      "reading": "とうき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "冬期【とうき】",
+      "meaning": "invernal"
+    },
+    {
+      "entryId": "1446140",
+      "spelling": "冬もの",
+      "reading": "ふゆもの",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "冬もの【ふゆもの】",
+      "meaning": "ropa de invierno"
+    },
+    {
+      "entryId": "1446140",
+      "spelling": "冬物",
+      "reading": "ふゆもの",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "冬物【ふゆもの】",
+      "meaning": "ropa de invierno"
+    },
+    {
+      "entryId": "1364210",
+      "spelling": "真冬",
+      "reading": "まふゆ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "真冬【まふゆ】",
+      "meaning": "pleno invierno"
+    },
+    {
+      "entryId": "1342940",
+      "spelling": "初冬",
+      "reading": "しょとう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "初冬【しょとう】",
+      "meaning": "principios del invierno; comienzo del invierno"
+    },
+    {
+      "entryId": "1342940",
+      "spelling": "初冬",
+      "reading": "はつふゆ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "初冬【はつふゆ】",
+      "meaning": "principios del invierno; comienzo del invierno"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "character": "穴",
+  "meanings": "agujero, hueco, cueva, lugar poco conocido, lugar escondido",
+  "words": [
+    {
+      "entryId": "1254480",
+      "spelling": "穴",
+      "reading": "あな",
+      "senseNumbers": [
+        38
+      ],
+      "japanese": "穴【あな】",
+      "meaning": "agujero pequeño; hueco pequeño; agujero; hoyo"
+    },
+    {
+      "entryId": "1254590",
+      "spelling": "穴うめ",
+      "reading": "あなうめ",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "穴うめ【あなうめ】",
+      "meaning": "llenado; cubrimiento; ocupación"
+    },
+    {
+      "entryId": "1254590",
+      "spelling": "穴埋め",
+      "reading": "あなうめ",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "穴埋め【あなうめ】",
+      "meaning": "llenado; cubrimiento; ocupación"
+    },
+    {
+      "entryId": "1548640",
+      "spelling": "おとし穴",
+      "reading": "おとしあな",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "おとし穴【おとしあな】",
+      "meaning": "foso; trampa; hoyo"
+    },
+    {
+      "entryId": "1548640",
+      "spelling": "落し穴",
+      "reading": "おとしあな",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "落し穴【おとしあな】",
+      "meaning": "foso; trampa; hoyo"
+    },
+    {
+      "entryId": "1548640",
+      "spelling": "落とし穴",
+      "reading": "おとしあな",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "落とし穴【おとしあな】",
+      "meaning": "foso; trampa; hoyo"
+    },
+    {
+      "entryId": "1548640",
+      "spelling": "陥し穴",
+      "reading": "おとしあな",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "陥し穴【おとしあな】",
+      "meaning": "foso; trampa; hoyo"
+    },
+    {
+      "entryId": "1548640",
+      "spelling": "陥とし穴",
+      "reading": "おとしあな",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "陥とし穴【おとしあな】",
+      "meaning": "foso; trampa; hoyo"
+    },
+    {
+      "entryId": "1548640",
+      "spelling": "陥穴",
+      "reading": "おとしあな",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "陥穴【おとしあな】",
+      "meaning": "foso; trampa; hoyo"
+    },
+    {
+      "entryId": "1098340",
+      "spelling": "馬穴",
+      "reading": "バケツ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "馬穴【バケツ】",
+      "meaning": "(eng: bucket) cubeta; balde"
+    },
+    {
+      "entryId": "1643400",
+      "spelling": "大穴",
+      "reading": "おおあな",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "大穴【おおあな】",
+      "meaning": "gran agujero; gran laguna; gran vacío; gran daño; grandes pérdidas"
+    },
+    {
+      "entryId": "1453870",
+      "spelling": "ほら穴",
+      "reading": "ほらあな",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "ほら穴【ほらあな】",
+      "meaning": "cueva; caverna; guarida; gruta"
+    },
+    {
+      "entryId": "1453870",
+      "spelling": "洞穴",
+      "reading": "どうけつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "洞穴【どうけつ】",
+      "meaning": "cueva; caverna; guarida; gruta"
+    },
+    {
+      "entryId": "1453870",
+      "spelling": "洞穴",
+      "reading": "ほらあな",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "洞穴【ほらあな】",
+      "meaning": "cueva; caverna; guarida; gruta"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "character": "聴",
+  "meanings": "escuchar",
+  "words": [
+    {
+      "entryId": "1232870",
+      "spelling": "聴す",
+      "reading": "ゆるす",
+      "senseNumbers": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "japanese": "聴す【ゆるす】",
+      "meaning": "permitir; dejar; aprobar; eximir (de bien); disculpar (de); confiar; perdonar; disculpar; poner en libertad; dejar salir; resignarse; ceder"
+    },
+    {
+      "entryId": "1312110",
+      "spelling": "視聴者",
+      "reading": "しちょうしゃ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "視聴者【しちょうしゃ】",
+      "meaning": "telespectador; televidente; audiencia"
+    },
+    {
+      "entryId": "1428910",
+      "spelling": "聴衆",
+      "reading": "ちょうしゅう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "聴衆【ちょうしゅう】",
+      "meaning": "audiencias; espectadores"
+    },
+    {
+      "entryId": "1505810",
+      "spelling": "聴き手",
+      "reading": "ききて",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "聴き手【ききて】",
+      "meaning": "entrevistador; oyente"
+    },
+    {
+      "entryId": "1505810",
+      "spelling": "聴手",
+      "reading": "ききて",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "聴手【ききて】",
+      "meaning": "entrevistador; oyente"
+    },
+    {
+      "entryId": "1518940",
+      "spelling": "傍聴",
+      "reading": "ぼうちょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "傍聴【ぼうちょう】",
+      "meaning": "oyente; público asistente"
+    },
+    {
+      "entryId": "1312070",
+      "spelling": "視聴",
+      "reading": "しちょう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "視聴【しちょう】",
+      "meaning": "espectación"
+    },
+    {
+      "entryId": "1312070",
+      "spelling": "視聴",
+      "reading": "してい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "視聴【してい】",
+      "meaning": "espectación"
+    },
+    {
+      "entryId": "1428880",
+      "spelling": "聴覚",
+      "reading": "ちょうかく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "聴覚【ちょうかく】",
+      "meaning": "escucha; sentido del oido"
+    },
+    {
+      "entryId": "1428890",
+      "spelling": "聴講",
+      "reading": "ちょうこう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "聴講【ちょうこう】",
+      "meaning": "asistencia; concurrencia"
+    },
+    {
+      "entryId": "1505790",
+      "spelling": "聴き取り",
+      "reading": "ききとり",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "聴き取り【ききとり】",
+      "meaning": "comprensión auditiva"
+    },
+    {
+      "entryId": "1505790",
+      "spelling": "聴取り",
+      "reading": "ききとり",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "聴取り【ききとり】",
+      "meaning": "comprensión auditiva"
+    },
+    {
+      "entryId": "1461030",
+      "spelling": "難聴",
+      "reading": "なんちょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "難聴【なんちょう】",
+      "meaning": "sordera"
+    },
+    {
+      "entryId": "1591150",
+      "spelling": "聴える",
+      "reading": "きこえる",
+      "senseNumbers": [
+        15,
+        16
+      ],
+      "japanese": "聴える【きこえる】",
+      "meaning": "escucharse; oírse; decirse para ser; tener reputación de"
+    },
+    {
+      "entryId": "1591150",
+      "spelling": "聴こえる",
+      "reading": "きこえる",
+      "senseNumbers": [
+        15,
+        16
+      ],
+      "japanese": "聴こえる【きこえる】",
+      "meaning": "escucharse; oírse; decirse para ser; tener reputación de"
+    },
+    {
+      "entryId": "1591110",
+      "spelling": "聴く",
+      "reading": "きく",
+      "senseNumbers": [
+        20,
+        21
+      ],
+      "japanese": "聴く【きく】",
+      "meaning": "oír; escuchar; preguntar"
+    },
+    {
+      "entryId": "1312080",
+      "spelling": "視聴覚",
+      "reading": "しちょうかく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "視聴覚【しちょうかく】",
+      "meaning": "audiovisual"
+    },
+    {
+      "entryId": "1428920",
+      "spelling": "聴診器",
+      "reading": "ちょうしんき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "聴診器【ちょうしんき】",
+      "meaning": "fonendoscopio; estetoscopio"
+    },
+    {
+      "entryId": "1851150",
+      "spelling": "聴きながす",
+      "reading": "ききながす",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "聴きながす【ききながす】",
+      "meaning": "ignorar lo dicho; no hacer caso a lo dicho; dejar correr; no prestar atención"
+    },
+    {
+      "entryId": "1851150",
+      "spelling": "聴き流す",
+      "reading": "ききながす",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "聴き流す【ききながす】",
+      "meaning": "ignorar lo dicho; no hacer caso a lo dicho; dejar correr; no prestar atención"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "character": "星",
+  "meanings": "estrella, punto pequeño, resultado de un juego",
+  "words": [
+    {
+      "entryId": "1174760",
+      "spelling": "衛星",
+      "reading": "えいせい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "衛星【えいせい】",
+      "meaning": "satélite"
+    },
+    {
+      "entryId": "1376310",
+      "spelling": "星",
+      "reading": "ほし",
+      "senseNumbers": [
+        32
+      ],
+      "japanese": "星【ほし】",
+      "meaning": "estrella"
+    },
+    {
+      "entryId": "1376310",
+      "spelling": "星",
+      "reading": "ホシ",
+      "senseNumbers": [
+        32
+      ],
+      "japanese": "星【ホシ】",
+      "meaning": "estrella"
+    },
+    {
+      "entryId": "1534680",
+      "spelling": "木星",
+      "reading": "もくせい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "木星【もくせい】",
+      "meaning": "Júpiter (planeta)"
+    },
+    {
+      "entryId": "1562600",
+      "spelling": "惑星",
+      "reading": "わくせい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "惑星【わくせい】",
+      "meaning": "planeta"
+    },
+    {
+      "entryId": "1194060",
+      "spelling": "火星",
+      "reading": "かせい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "火星【かせい】",
+      "meaning": "Marte (planeta)"
+    },
+    {
+      "entryId": "1706700",
+      "spelling": "勝ち星",
+      "reading": "かちぼし",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "勝ち星【かちぼし】",
+      "meaning": "(marca que indica un) ganador"
+    },
+    {
+      "entryId": "1367430",
+      "spelling": "人工衛星",
+      "reading": "じんこうえいせい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "人工衛星【じんこうえいせい】",
+      "meaning": "satélite artificial"
+    },
+    {
+      "entryId": "1376340",
+      "spelling": "星ぞら",
+      "reading": "ほしぞら",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "星ぞら【ほしぞら】",
+      "meaning": "cielo estrellado"
+    },
+    {
+      "entryId": "1376340",
+      "spelling": "星空",
+      "reading": "ほしぞら",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "星空【ほしぞら】",
+      "meaning": "cielo estrellado"
+    },
+    {
+      "entryId": "1348850",
+      "spelling": "小惑星",
+      "reading": "しょうわくせい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "小惑星【しょうわくせい】",
+      "meaning": "asteroide"
+    },
+    {
+      "entryId": "1376360",
+      "spelling": "星座",
+      "reading": "せいざ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "星座【せいざ】",
+      "meaning": "constelación"
+    },
+    {
+      "entryId": "1445400",
+      "spelling": "土星",
+      "reading": "どせい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "土星【どせい】",
+      "meaning": "Saturno (planeta)"
+    },
+    {
+      "entryId": "1063410",
+      "spelling": "星嘉坡",
+      "reading": "シンガポール",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "星嘉坡【シンガポール】",
+      "meaning": "Singapur (eng: Singapore); Singapur"
+    },
+    {
+      "entryId": "1201250",
+      "spelling": "海王星",
+      "reading": "かいおうせい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "海王星【かいおうせい】",
+      "meaning": "Neptuno (planeta)"
+    },
+    {
+      "entryId": "1243010",
+      "spelling": "金星",
+      "reading": "きんせい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "金星【きんせい】",
+      "meaning": "Venus (planeta)"
+    },
+    {
+      "entryId": "1438450",
+      "spelling": "天王星",
+      "reading": "てんおうせい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "天王星【てんおうせい】",
+      "meaning": "Urano (planeta)"
+    },
+    {
+      "entryId": "1438450",
+      "spelling": "天王星",
+      "reading": "てんのうせい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "天王星【てんのうせい】",
+      "meaning": "Urano (planeta)"
+    },
+    {
+      "entryId": "1566680",
+      "spelling": "すい星",
+      "reading": "すいせい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "すい星【すいせい】",
+      "meaning": "cometa"
+    },
+    {
+      "entryId": "1566680",
+      "spelling": "彗星",
+      "reading": "すいせい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "彗星【すいせい】",
+      "meaning": "cometa"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

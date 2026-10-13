@@ -1,0 +1,243 @@
+{
+  "character": "強",
+  "meanings": "fuerte, coacción, poderoso, obligar, forzar, coaccionar",
+  "words": [
+    {
+      "entryId": "1236200",
+      "spelling": "強化",
+      "reading": "きょうか",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "強化【きょうか】",
+      "meaning": "refuerzo; fortalecimiento"
+    },
+    {
+      "entryId": "1236350",
+      "spelling": "強制",
+      "reading": "きょうせい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "強制【きょうせい】",
+      "meaning": "obligación; coerción; coacción; a la fuerza; forzar; constreñir; compeler; obligar; coaccionar"
+    },
+    {
+      "entryId": "1512670",
+      "spelling": "勉強",
+      "reading": "べんきょう",
+      "senseNumbers": [
+        20,
+        21,
+        22
+      ],
+      "japanese": "勉強【べんきょう】",
+      "meaning": "estudio; diligencia; descuento; reducción"
+    },
+    {
+      "entryId": "1236120",
+      "spelling": "強さ",
+      "reading": "つよさ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "強さ【つよさ】",
+      "meaning": "fuerza; poder"
+    },
+    {
+      "entryId": "1236600",
+      "spelling": "強力",
+      "reading": "きょうりょく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "強力【きょうりょく】",
+      "meaning": "poderoso; fuerte"
+    },
+    {
+      "entryId": "1236250",
+      "spelling": "強硬",
+      "reading": "きょうこう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "強硬【きょうこう】",
+      "meaning": "firme; inflexible"
+    },
+    {
+      "entryId": "1236500",
+      "spelling": "強盗",
+      "reading": "ごうとう",
+      "senseNumbers": [
+        11,
+        12
+      ],
+      "japanese": "強盗【ごうとう】",
+      "meaning": "ladrón; atracador; robo; atraco"
+    },
+    {
+      "entryId": "1236230",
+      "spelling": "強き",
+      "reading": "つよき",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "強き【つよき】",
+      "meaning": "firme; fuerte"
+    },
+    {
+      "entryId": "1236230",
+      "spelling": "強気",
+      "reading": "つよき",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "強気【つよき】",
+      "meaning": "firme; fuerte"
+    },
+    {
+      "entryId": "1236620",
+      "spelling": "強烈",
+      "reading": "きょうれつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "強烈【きょうれつ】",
+      "meaning": "fuerte; intenso; grave"
+    },
+    {
+      "entryId": "1236170",
+      "spelling": "強引",
+      "reading": "ごういん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "強引【ごういん】",
+      "meaning": "a la fuerza; por la fuerza; forzado"
+    },
+    {
+      "entryId": "1236150",
+      "spelling": "強める",
+      "reading": "つよめる",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "強める【つよめる】",
+      "meaning": "fortalecer; enfatizar"
+    },
+    {
+      "entryId": "1403190",
+      "spelling": "増強",
+      "reading": "ぞうきょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "増強【ぞうきょう】",
+      "meaning": "refuerzo; reforzamiento"
+    },
+    {
+      "entryId": "1608600",
+      "spelling": "強剛",
+      "reading": "きょうごう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "強剛【きょうごう】",
+      "meaning": "terco; persistente; porfiado"
+    },
+    {
+      "entryId": "1608600",
+      "spelling": "強豪",
+      "reading": "きょうごう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "強豪【きょうごう】",
+      "meaning": "terco; persistente; porfiado"
+    },
+    {
+      "entryId": "1236530",
+      "spelling": "強風",
+      "reading": "きょうふう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "強風【きょうふう】",
+      "meaning": "viento fuerte"
+    },
+    {
+      "entryId": "1514530",
+      "spelling": "補強",
+      "reading": "ほきょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "補強【ほきょう】",
+      "meaning": "refuerzo"
+    },
+    {
+      "entryId": "1293770",
+      "spelling": "最強",
+      "reading": "さいきょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "最強【さいきょう】",
+      "meaning": "más fuerte"
+    },
+    {
+      "entryId": "1236140",
+      "spelling": "強み",
+      "reading": "つよみ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "強み【つよみ】",
+      "meaning": "fuerte"
+    },
+    {
+      "entryId": "1236140",
+      "spelling": "強味",
+      "reading": "つよみ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "強味【つよみ】",
+      "meaning": "fuerte"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

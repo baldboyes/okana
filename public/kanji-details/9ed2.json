@@ -1,0 +1,243 @@
+{
+  "character": "黒",
+  "meanings": "negro, maldad",
+  "words": [
+    {
+      "entryId": "1287710",
+      "spelling": "黒字",
+      "reading": "くろじ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "黒字【くろじ】",
+      "meaning": "excedente; ganancias"
+    },
+    {
+      "entryId": "1287410",
+      "spelling": "黒",
+      "reading": "くろ",
+      "senseNumbers": [
+        19,
+        20,
+        21
+      ],
+      "japanese": "黒【くろ】",
+      "meaning": "negro; oscuro; obscuro; chico malo; sospechoso; culpable"
+    },
+    {
+      "entryId": "1287830",
+      "spelling": "黒人",
+      "reading": "こくじん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "黒人【こくじん】",
+      "meaning": "negro (persona)"
+    },
+    {
+      "entryId": "1287570",
+      "spelling": "黒海",
+      "reading": "こっかい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "黒海【こっかい】",
+      "meaning": "(El) Mar Negro"
+    },
+    {
+      "entryId": "1287420",
+      "spelling": "黒い",
+      "reading": "くろい",
+      "senseNumbers": [
+        20,
+        21
+      ],
+      "japanese": "黒い【くろい】",
+      "meaning": "negro; oscuro; obscuro"
+    },
+    {
+      "entryId": "1475160",
+      "spelling": "白黒",
+      "reading": "しろくろ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "白黒【しろくろ】",
+      "meaning": "blanco y negro; en blanco y negro"
+    },
+    {
+      "entryId": "1287560",
+      "spelling": "黒鉛",
+      "reading": "こくえん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "黒鉛【こくえん】",
+      "meaning": "grafito"
+    },
+    {
+      "entryId": "1579000",
+      "spelling": "黒煙",
+      "reading": "くろけむり",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "黒煙【くろけむり】",
+      "meaning": "humo negro"
+    },
+    {
+      "entryId": "1579000",
+      "spelling": "黒煙",
+      "reading": "こくえん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "黒煙【こくえん】",
+      "meaning": "humo negro"
+    },
+    {
+      "entryId": "1288080",
+      "spelling": "黒板",
+      "reading": "こくばん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "黒板【こくばん】",
+      "meaning": "pizarra; (am) pizarrón; encerado"
+    },
+    {
+      "entryId": "1586920",
+      "spelling": "暗黒",
+      "reading": "あんこく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "暗黒【あんこく】",
+      "meaning": "oscuridad"
+    },
+    {
+      "entryId": "1586920",
+      "spelling": "闇黒",
+      "reading": "あんこく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "闇黒【あんこく】",
+      "meaning": "oscuridad"
+    },
+    {
+      "entryId": "1287460",
+      "spelling": "黒っぽい",
+      "reading": "くろっぽい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "黒っぽい【くろっぽい】",
+      "meaning": "oscuro; obscuro; negruzco"
+    },
+    {
+      "entryId": "1287790",
+      "spelling": "黒色",
+      "reading": "くろいろ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "黒色【くろいろ】",
+      "meaning": "negro (color)"
+    },
+    {
+      "entryId": "1287790",
+      "spelling": "黒色",
+      "reading": "こくしょく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "黒色【こくしょく】",
+      "meaning": "negro (color)"
+    },
+    {
+      "entryId": "1578980",
+      "spelling": "黒衣",
+      "reading": "くろぎぬ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "黒衣【くろぎぬ】",
+      "meaning": "ropa negra"
+    },
+    {
+      "entryId": "1578980",
+      "spelling": "黒衣",
+      "reading": "こくい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "黒衣【こくい】",
+      "meaning": "ropa negra"
+    },
+    {
+      "entryId": "1578980",
+      "spelling": "黒衣",
+      "reading": "こくえ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "黒衣【こくえ】",
+      "meaning": "ropa negra"
+    },
+    {
+      "entryId": "1263430",
+      "spelling": "黒人",
+      "reading": "くろうと",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "黒人【くろうと】",
+      "meaning": "experto; especialista"
+    },
+    {
+      "entryId": "1604050",
+      "spelling": "まっ黒",
+      "reading": "まっくろ",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "まっ黒【まっくろ】",
+      "meaning": "negro intenso"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": "り",
+  "script": "hiragana",
+  "viewBox": "0 0 1024 1024",
+  "coordinates": "svg-native-y-down",
+  "strokes": [
+    {
+      "ordinal": 1,
+      "parts": [
+        {
+          "id": "z12426d1",
+          "clipId": "z12426c1",
+          "outline": "M345 79C335 80 331 92 335 99C341 112 342 126 340 139C337 159 334 179 330 199C318 264 295 327 291 393C289 436 295 479 309 520C315 535 322 552 338 558C349 563 363 559 368 548C377 532 375 514 380 498C395 431 427 368 451 303C453 296 448 288 440 288C429 288 423 300 418 308C397 342 378 378 361 414C359 416 357 422 356 422C355 394 355 364 358 336C364 289 377 245 391 200C399 179 409 156 403 133C397 107 374 88 350 80C348 79 346 80 345 79Z",
+          "median": "M 344,93 368,143 326,483 350,531 441,302"
+        }
+      ]
+    },
+    {
+      "ordinal": 2,
+      "parts": [
+        {
+          "id": "z12426d2",
+          "clipId": "z12426c2",
+          "outline": "M604 181C593 181 579 183 574 194C571 204 580 214 589 218C611 230 623 256 627 280C639 342 637 407 632 469C624 555 605 640 576 722C552 785 517 845 477 899C471 905 466 916 473 923C482 930 494 924 500 917C526 893 548 864 569 836C647 727 690 595 699 462C702 409 702 356 694 303C689 265 676 226 646 200C634 189 620 181 604 181Z",
+          "median": "M 583,199 656,236 652,613 556,836 487,911"
+        }
+      ]
+    }
+  ],
+  "provenance": {
+    "commit": "ec5e17cca76c87587790bcbce5ea0b4d4fb753d6",
+    "modifiedAt": "2026-10-02",
+    "license": "LGPL-3.0-or-later",
+    "sourceFilename": "12426.svg",
+    "sourceUrl": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12426.svg",
+    "sourceSha256": "a860a803d6db86c0882e69165d29b20bf9fcb3aefa6791f29b213ed0fb3db0d7",
+    "gitBlobSha1": "d0814c152611aa4585e82ed2b751ac6806ed1d46",
+    "sourceHeader": "\nAnimCJK 2016-2026 Copyright FM-SH, https://github.com/parsimonhi/animCJK\nYou can redistribute and/or modify these files under the terms of the GNU\nLesser General Public License as published by the Free Software Foundation,\neither version 3 of the license, or (at your option) any later version. You\nshould have received a copy of this license (the file \"LGPL.txt\") along with\nthese files; if not, see https://www.gnu.org/licenses/.\n",
+    "notice": "Converted SVG outlines and median paths to grouped JSON without geometry changes by Okana on 2026-10-02, from AnimCJK ec5e17cca76c87587790bcbce5ea0b4d4fb753d6. Graphics remain LGPL-3.0-or-later; original copyright and notices are retained in sourceHeader and corresponding source SVG files."
+  }
+}

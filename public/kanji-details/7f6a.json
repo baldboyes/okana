@@ -1,0 +1,190 @@
+{
+  "character": "罪",
+  "meanings": "culpabilidad, pecado, delito, crimen, defecto, culpa",
+  "words": [
+    {
+      "entryId": "1481590",
+      "spelling": "犯罪",
+      "reading": "はんざい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "犯罪【はんざい】",
+      "meaning": "crimen"
+    },
+    {
+      "entryId": "1296680",
+      "spelling": "罪",
+      "reading": "つみ",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "罪【つみ】",
+      "meaning": "pecado; crimen"
+    },
+    {
+      "entryId": "1529980",
+      "spelling": "無罪",
+      "reading": "むざい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "無罪【むざい】",
+      "meaning": "inocencia"
+    },
+    {
+      "entryId": "1323030",
+      "spelling": "謝罪",
+      "reading": "しゃざい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "謝罪【しゃざい】",
+      "meaning": "disculpa"
+    },
+    {
+      "entryId": "1541350",
+      "spelling": "有罪",
+      "reading": "ゆうざい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "有罪【ゆうざい】",
+      "meaning": "culpa; culpabilidad"
+    },
+    {
+      "entryId": "1481610",
+      "spelling": "犯罪者",
+      "reading": "はんざいしゃ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "犯罪者【はんざいしゃ】",
+      "meaning": "criminal; delincuente"
+    },
+    {
+      "entryId": "1564270",
+      "spelling": "えん罪",
+      "reading": "えんざい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "えん罪【えんざい】",
+      "meaning": "falsa acusación; falsos cargos; calumnia; infundio; difamación; cargo falso; misrepresentation"
+    },
+    {
+      "entryId": "1564270",
+      "spelling": "冤罪",
+      "reading": "えんざい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "冤罪【えんざい】",
+      "meaning": "falsa acusación; falsos cargos; calumnia; infundio; difamación; cargo falso; misrepresentation"
+    },
+    {
+      "entryId": "1564270",
+      "spelling": "寃罪",
+      "reading": "えんざい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "寃罪【えんざい】",
+      "meaning": "falsa acusación; falsos cargos; calumnia; infundio; difamación; cargo falso; misrepresentation"
+    },
+    {
+      "entryId": "1252840",
+      "spelling": "軽犯罪",
+      "reading": "けいはんざい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "軽犯罪【けいはんざい】",
+      "meaning": "falta (por oposición a delito)"
+    },
+    {
+      "entryId": "1801780",
+      "spelling": "戦争犯罪人",
+      "reading": "せんそうはんざいにん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "戦争犯罪人【せんそうはんざいにん】",
+      "meaning": "criminal de guerra"
+    },
+    {
+      "entryId": "1296750",
+      "spelling": "罪人",
+      "reading": "ざいにん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "罪人【ざいにん】",
+      "meaning": "criminal; pecador"
+    },
+    {
+      "entryId": "1700700",
+      "spelling": "罪ほろぼし",
+      "reading": "つみほろぼし",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "罪ほろぼし【つみほろぼし】",
+      "meaning": "expiación de los pecados; expiación de la culpa; redención de la pena"
+    },
+    {
+      "entryId": "1700700",
+      "spelling": "罪滅し",
+      "reading": "つみほろぼし",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "罪滅し【つみほろぼし】",
+      "meaning": "expiación de los pecados; expiación de la culpa; redención de la pena"
+    },
+    {
+      "entryId": "1700700",
+      "spelling": "罪滅ぼし",
+      "reading": "つみほろぼし",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "罪滅ぼし【つみほろぼし】",
+      "meaning": "expiación de los pecados; expiación de la culpa; redención de la pena"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

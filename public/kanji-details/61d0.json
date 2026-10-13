@@ -1,0 +1,121 @@
+{
+  "character": "懐",
+  "meanings": "añoranza, nostalgia, bolsillo propio, añorar, echar de menos, pensar",
+  "words": [
+    {
+      "entryId": "1589350",
+      "spelling": "懐う",
+      "reading": "おもう",
+      "senseNumbers": [
+        42
+      ],
+      "japanese": "懐う【おもう】",
+      "meaning": "pensar; sentir; creer"
+    },
+    {
+      "entryId": "1200480",
+      "spelling": "懐",
+      "reading": "ふところ",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "懐【ふところ】",
+      "meaning": "seno; entraña; alcance; bolsillo"
+    },
+    {
+      "entryId": "1200530",
+      "spelling": "懐疑",
+      "reading": "かいぎ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "懐疑【かいぎ】",
+      "meaning": "duda; escepticismo; incertidumbre; sospecha"
+    },
+    {
+      "entryId": "1200490",
+      "spelling": "懐かしい",
+      "reading": "なつかしい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "懐かしい【なつかしい】",
+      "meaning": "extrañar; echar de menos"
+    },
+    {
+      "entryId": "1584090",
+      "spelling": "懐く",
+      "reading": "いだく",
+      "senseNumbers": [
+        15,
+        16
+      ],
+      "japanese": "懐く【いだく】",
+      "meaning": "abrazar; sostener en los brazos (e.g. un bebé); albergar (e.g. rencor, sospechas)"
+    },
+    {
+      "entryId": "1200560",
+      "spelling": "懐柔",
+      "reading": "かいじゅう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "懐柔【かいじゅう】",
+      "meaning": "conciliación"
+    },
+    {
+      "entryId": "1200630",
+      "spelling": "懐妊",
+      "reading": "かいにん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "懐妊【かいにん】",
+      "meaning": "embarazo; preñez"
+    },
+    {
+      "entryId": "1200630",
+      "spelling": "懐姙",
+      "reading": "かいにん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "懐姙【かいにん】",
+      "meaning": "embarazo; preñez"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "character": "験",
+  "meanings": "prueba, intento, efecto",
+  "words": [
+    {
+      "entryId": "1251270",
+      "spelling": "経験",
+      "reading": "けいけん",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "経験【けいけん】",
+      "meaning": "experimentar; pasar por la experiencia de; experiencia"
+    },
+    {
+      "entryId": "1312350",
+      "spelling": "試験",
+      "reading": "しけん",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "試験【しけん】",
+      "meaning": "examen; prueba; estudio"
+    },
+    {
+      "entryId": "1320970",
+      "spelling": "実験",
+      "reading": "じっけん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "実験【じっけん】",
+      "meaning": "experimentar; probar; ensayar; someter a prueba; experimento"
+    },
+    {
+      "entryId": "1329740",
+      "spelling": "受験",
+      "reading": "じゅけん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "受験【じゅけん】",
+      "meaning": "tener un examen"
+    },
+    {
+      "entryId": "1409420",
+      "spelling": "体験",
+      "reading": "たいけん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "体験【たいけん】",
+      "meaning": "experiencia personal"
+    },
+    {
+      "entryId": "1205580",
+      "spelling": "核実験",
+      "reading": "かくじっけん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "核実験【かくじっけん】",
+      "meaning": "prueba nuclear (bomba)"
+    },
+    {
+      "entryId": "1312260",
+      "spelling": "験す",
+      "reading": "ためす",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "験す【ためす】",
+      "meaning": "intentar; examinar"
+    },
+    {
+      "entryId": "1320990",
+      "spelling": "実験室",
+      "reading": "じっけんしつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "実験室【じっけんしつ】",
+      "meaning": "laboratorio"
+    },
+    {
+      "entryId": "1320990",
+      "spelling": "實験室",
+      "reading": "じっけんしつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "實験室【じっけんしつ】",
+      "meaning": "laboratorio"
+    },
+    {
+      "entryId": "1658490",
+      "spelling": "治験",
+      "reading": "ちけん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "治験【ちけん】",
+      "meaning": "ensayo clínico"
+    },
+    {
+      "entryId": "1312250",
+      "spelling": "験",
+      "reading": "ためし",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "験【ためし】",
+      "meaning": "prueba; intento; ensayo"
+    },
+    {
+      "entryId": "1312250",
+      "spelling": "験し",
+      "reading": "ためし",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "験し【ためし】",
+      "meaning": "prueba; intento; ensayo"
+    },
+    {
+      "entryId": "1465900",
+      "spelling": "入学試験",
+      "reading": "にゅうがくしけん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "入学試験【にゅうがくしけん】",
+      "meaning": "examen de acceso; examen de ingreso"
+    },
+    {
+      "entryId": "1487810",
+      "spelling": "筆記試験",
+      "reading": "ひっきしけん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "筆記試験【ひっきしけん】",
+      "meaning": "examen escrito"
+    },
+    {
+      "entryId": "1533640",
+      "spelling": "模擬試験",
+      "reading": "もぎしけん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "模擬試験【もぎしけん】",
+      "meaning": "experimental; de práctica; de simulacro"
+    },
+    {
+      "entryId": "2251760",
+      "spelling": "経験値",
+      "reading": "けいけんち",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "経験値【けいけんち】",
+      "meaning": "puntos de experiencia (en un juego de rol, etc.)"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "character": "両",
+  "meanings": "ambos, contador de vehículos",
+  "words": [
+    {
+      "entryId": "1602710",
+      "spelling": "両親",
+      "reading": "ふたおや",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "両親【ふたおや】",
+      "meaning": "padres (los propios); ambos padres"
+    },
+    {
+      "entryId": "1602710",
+      "spelling": "両親",
+      "reading": "りょうしん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "両親【りょうしん】",
+      "meaning": "padres (los propios); ambos padres"
+    },
+    {
+      "entryId": "1323250",
+      "spelling": "車両",
+      "reading": "しゃりょう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "車両【しゃりょう】",
+      "meaning": "vehículo; carro; vagón"
+    },
+    {
+      "entryId": "1553630",
+      "spelling": "両氏",
+      "reading": "りょうし",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "両氏【りょうし】",
+      "meaning": "ambas personas"
+    },
+    {
+      "entryId": "1553650",
+      "spelling": "両者",
+      "reading": "りょうしゃ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "両者【りょうしゃ】",
+      "meaning": "par; los dos; ambas personas; ambas cosas"
+    },
+    {
+      "entryId": "1554010",
+      "spelling": "両方",
+      "reading": "りょうほう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "両方【りょうほう】",
+      "meaning": "ambos lados; ambos grupos"
+    },
+    {
+      "entryId": "1554030",
+      "spelling": "両面",
+      "reading": "りょうめん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "両面【りょうめん】",
+      "meaning": "ambos caras; cara y reverso"
+    },
+    {
+      "entryId": "1553660",
+      "spelling": "両手",
+      "reading": "りょうて",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "両手【りょうて】",
+      "meaning": "ambas manos"
+    },
+    {
+      "entryId": "1585140",
+      "spelling": "両側",
+      "reading": "りょうがわ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "両側【りょうがわ】",
+      "meaning": "ambos lados"
+    },
+    {
+      "entryId": "1585140",
+      "spelling": "両側",
+      "reading": "りょうそく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "両側【りょうそく】",
+      "meaning": "ambos lados"
+    },
+    {
+      "entryId": "1585150",
+      "spelling": "両足",
+      "reading": "りょうあし",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "両足【りょうあし】",
+      "meaning": "ambos pies; pies (ambos)"
+    },
+    {
+      "entryId": "1585150",
+      "spelling": "両足",
+      "reading": "りょうそく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "両足【りょうそく】",
+      "meaning": "ambos pies; pies (ambos)"
+    },
+    {
+      "entryId": "1554110",
+      "spelling": "両立",
+      "reading": "りょうりつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "両立【りょうりつ】",
+      "meaning": "compatibilizar; cohonestar; hacer compatible; compatibilidad; consistencia; coherencia"
+    },
+    {
+      "entryId": "1553820",
+      "spelling": "両替",
+      "reading": "りょうがえ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "両替【りょうがえ】",
+      "meaning": "cambio de moneda"
+    },
+    {
+      "entryId": "1167320",
+      "spelling": "一両",
+      "reading": "いちりょう",
+      "senseNumbers": [
+        7,
+        8,
+        9
+      ],
+      "japanese": "一両【いちりょう】",
+      "meaning": "un vehículo; un ryou (moneda antigua)"
+    },
+    {
+      "entryId": "1554160",
+      "spelling": "両腕",
+      "reading": "もろうで",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "両腕【もろうで】",
+      "meaning": "ambos brazos"
+    },
+    {
+      "entryId": "1554160",
+      "spelling": "両腕",
+      "reading": "りょううで",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "両腕【りょううで】",
+      "meaning": "ambos brazos"
+    },
+    {
+      "entryId": "1585170",
+      "spelling": "両はし",
+      "reading": "りょうたん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "両はし【りょうたん】",
+      "meaning": "ambos extremos"
+    },
+    {
+      "entryId": "1585170",
+      "spelling": "両端",
+      "reading": "りょうたん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "両端【りょうたん】",
+      "meaning": "ambos extremos"
+    },
+    {
+      "entryId": "1585170",
+      "spelling": "両端",
+      "reading": "りょうはし",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "両端【りょうはし】",
+      "meaning": "ambos extremos"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

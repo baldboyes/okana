@@ -1,0 +1,202 @@
+{
+  "character": "微",
+  "meanings": "insignificante, diminuto, pequeño, secreto",
+  "words": [
+    {
+      "entryId": "1486170",
+      "spelling": "微妙",
+      "reading": "びみょう",
+      "senseNumbers": [
+        22,
+        23,
+        24
+      ],
+      "japanese": "微妙【びみょう】",
+      "meaning": "delicado; sutil; difícil; (situación) delicada; complicado; dudoso; cuestionable; discutible; incierto"
+    },
+    {
+      "entryId": "1597620",
+      "spelling": "微候",
+      "reading": "ちょうこう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "微候【ちょうこう】",
+      "meaning": "señal"
+    },
+    {
+      "entryId": "1486090",
+      "spelling": "微生物",
+      "reading": "びせいぶつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "微生物【びせいぶつ】",
+      "meaning": "microbio; germen"
+    },
+    {
+      "entryId": "1485970",
+      "spelling": "微小",
+      "reading": "びしょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "微小【びしょう】",
+      "meaning": "microscópico"
+    },
+    {
+      "entryId": "1260660",
+      "spelling": "顕微鏡",
+      "reading": "けんびきょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "顕微鏡【けんびきょう】",
+      "meaning": "microscopio"
+    },
+    {
+      "entryId": "1485990",
+      "spelling": "微笑",
+      "reading": "びしょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "微笑【びしょう】",
+      "meaning": "sonrisa"
+    },
+    {
+      "entryId": "1486200",
+      "spelling": "微量",
+      "reading": "びりょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "微量【びりょう】",
+      "meaning": "pizca; migaja"
+    },
+    {
+      "entryId": "1006960",
+      "spelling": "微風",
+      "reading": "そよかぜ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "微風【そよかぜ】",
+      "meaning": "brisa"
+    },
+    {
+      "entryId": "1183300",
+      "spelling": "微温い",
+      "reading": "ぬるい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "微温い【ぬるい】",
+      "meaning": "tibio; templado; cálido"
+    },
+    {
+      "entryId": "1486030",
+      "spelling": "微笑む",
+      "reading": "ほおえむ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "微笑む【ほおえむ】",
+      "meaning": "sonreír"
+    },
+    {
+      "entryId": "1486030",
+      "spelling": "微笑む",
+      "reading": "ほほえむ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "微笑む【ほほえむ】",
+      "meaning": "sonreír"
+    },
+    {
+      "entryId": "1486050",
+      "spelling": "微塵",
+      "reading": "びじん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "微塵【びじん】",
+      "meaning": "partícula; átomo"
+    },
+    {
+      "entryId": "1486050",
+      "spelling": "微塵",
+      "reading": "みじん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "微塵【みじん】",
+      "meaning": "partícula; átomo"
+    },
+    {
+      "entryId": "1590290",
+      "spelling": "微か",
+      "reading": "かすか",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "微か【かすか】",
+      "meaning": "débil; discretito"
+    },
+    {
+      "entryId": "1615650",
+      "spelling": "軽微",
+      "reading": "けいび",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "軽微【けいび】",
+      "meaning": "nimio; insignificante; muy leve"
+    },
+    {
+      "entryId": "1006960",
+      "spelling": "微風",
+      "reading": "びふう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "微風【びふう】",
+      "meaning": "brisa"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

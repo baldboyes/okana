@@ -1,0 +1,30 @@
+{
+  "character": "フ",
+  "script": "katakana",
+  "viewBox": "0 0 1024 1024",
+  "coordinates": "svg-native-y-down",
+  "strokes": [
+    {
+      "ordinal": 1,
+      "parts": [
+        {
+          "id": "z12501d1",
+          "clipId": "z12501c1",
+          "outline": "M 730,178 C 696,175 701,191 606,216 457,254 311,278 168,295 161,295 153,299 156,308 160,319 171,327 182,335 199,345 219,353 241,351 267,348 288,337 320,327 366,313 545,272 658,253 686,248 702,258 693,286 621,492 456,650 305,778 282,796 261,814 242,835 229,849 237,856 254,851 288,839 316,817 347,798 477,711 582,611 669,495 715,432 737,365 780,300 786,289 797,281 808,275 820,266 831,249 826,235 821,221 809,213 799,207 774,190 753,179 730,178 Z",
+          "median": "M163 306L241 318L691 218L774 252L566 568L246 847"
+        }
+      ]
+    }
+  ],
+  "provenance": {
+    "commit": "ec5e17cca76c87587790bcbce5ea0b4d4fb753d6",
+    "modifiedAt": "2026-10-02",
+    "license": "LGPL-3.0-or-later",
+    "sourceFilename": "12501.svg",
+    "sourceUrl": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12501.svg",
+    "sourceSha256": "5218b6a379a712bc87aadc6b811af45dcd4d04de618ae16acd6bdb130e82d7e5",
+    "gitBlobSha1": "8b8563af28b23817355bb24a441bba2df86fb77c",
+    "sourceHeader": "\nAnimCJK 2016-2026 Copyright FM-SH, https://github.com/parsimonhi/animCJK\nYou can redistribute and/or modify these files under the terms of the GNU\nLesser General Public License as published by the Free Software Foundation,\neither version 3 of the license, or (at your option) any later version. You\nshould have received a copy of this license (the file \"LGPL.txt\") along with\nthese files; if not, see https://www.gnu.org/licenses/.\n",
+    "notice": "Converted SVG outlines and median paths to grouped JSON without geometry changes by Okana on 2026-10-02, from AnimCJK ec5e17cca76c87587790bcbce5ea0b4d4fb753d6. Graphics remain LGPL-3.0-or-later; original copyright and notices are retained in sourceHeader and corresponding source SVG files."
+  }
+}

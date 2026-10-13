@@ -1,0 +1,242 @@
+{
+  "character": "室",
+  "meanings": "habitación, cuarto, caverna, guarida, gruta",
+  "words": [
+    {
+      "entryId": "1237150",
+      "spelling": "教室",
+      "reading": "きょうしつ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "教室【きょうしつ】",
+      "meaning": "aula; clase"
+    },
+    {
+      "entryId": "1320350",
+      "spelling": "室内",
+      "reading": "しつない",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "室内【しつない】",
+      "meaning": "interior de un edificio"
+    },
+    {
+      "entryId": "1258570",
+      "spelling": "研究室",
+      "reading": "けんきゅうしつ",
+      "senseNumbers": [
+        14,
+        15,
+        16
+      ],
+      "japanese": "研究室【けんきゅうしつ】",
+      "meaning": "laboratorio; cuarto de seminario; oficina del profesor"
+    },
+    {
+      "entryId": "1163110",
+      "spelling": "一室",
+      "reading": "いっしつ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "一室【いっしつ】",
+      "meaning": "una habitación; un cuarto"
+    },
+    {
+      "entryId": "1183390",
+      "spelling": "温室",
+      "reading": "おんしつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "温室【おんしつ】",
+      "meaning": "invernadero"
+    },
+    {
+      "entryId": "1490310",
+      "spelling": "病室",
+      "reading": "びょうしつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "病室【びょうしつ】",
+      "meaning": "habitación de hospital"
+    },
+    {
+      "entryId": "1601430",
+      "spelling": "控え室",
+      "reading": "ひかえしつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "控え室【ひかえしつ】",
+      "meaning": "sala de espera"
+    },
+    {
+      "entryId": "1601430",
+      "spelling": "控室",
+      "reading": "ひかえしつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "控室【ひかえしつ】",
+      "meaning": "sala de espera"
+    },
+    {
+      "entryId": "1181530",
+      "spelling": "王室",
+      "reading": "おうしつ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "王室【おうしつ】",
+      "meaning": "familia gobernante"
+    },
+    {
+      "entryId": "1226730",
+      "spelling": "客室",
+      "reading": "きゃくしつ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "客室【きゃくしつ】",
+      "meaning": "cuarto de huéspedes; cámara"
+    },
+    {
+      "entryId": "1360140",
+      "spelling": "寝室",
+      "reading": "しんしつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "寝室【しんしつ】",
+      "meaning": "dormitorio"
+    },
+    {
+      "entryId": "1264750",
+      "spelling": "個室",
+      "reading": "こしつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "個室【こしつ】",
+      "meaning": "cuarto privado; habitación privada"
+    },
+    {
+      "entryId": "1658570",
+      "spelling": "自室",
+      "reading": "じしつ",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "自室【じしつ】",
+      "meaning": "(la) habitación (de uno)"
+    },
+    {
+      "entryId": "1547460",
+      "spelling": "浴室",
+      "reading": "よくしつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "浴室【よくしつ】",
+      "meaning": "cuarto de baño (para bañarse)"
+    },
+    {
+      "entryId": "1314380",
+      "spelling": "事務室",
+      "reading": "じむしつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "事務室【じむしつ】",
+      "meaning": "despacho"
+    },
+    {
+      "entryId": "1320360",
+      "spelling": "室内楽",
+      "reading": "しつないがく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "室内楽【しつないがく】",
+      "meaning": "música de cámara"
+    },
+    {
+      "entryId": "1320990",
+      "spelling": "実験室",
+      "reading": "じっけんしつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "実験室【じっけんしつ】",
+      "meaning": "laboratorio"
+    },
+    {
+      "entryId": "1320990",
+      "spelling": "實験室",
+      "reading": "じっけんしつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "實験室【じっけんしつ】",
+      "meaning": "laboratorio"
+    },
+    {
+      "entryId": "1562110",
+      "spelling": "和室",
+      "reading": "わしつ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "和室【わしつ】",
+      "meaning": "habitación estilo japonés"
+    },
+    {
+      "entryId": "1452540",
+      "spelling": "同室",
+      "reading": "どうしつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "同室【どうしつ】",
+      "meaning": "(la) misma habitación"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

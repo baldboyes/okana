@@ -1,0 +1,240 @@
+{
+  "character": "振",
+  "meanings": "sacudir, ondear, agitar, vibrar, balancear",
+  "words": [
+    {
+      "entryId": "1361380",
+      "spelling": "振興",
+      "reading": "しんこう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "振興【しんこう】",
+      "meaning": "promoción; fomento"
+    },
+    {
+      "entryId": "1493150",
+      "spelling": "不振",
+      "reading": "ふしん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "不振【ふしん】",
+      "meaning": "depresión económica"
+    },
+    {
+      "entryId": "1227370",
+      "spelling": "久し振り",
+      "reading": "ひさしぶり",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "久し振り【ひさしぶり】",
+      "meaning": "mucho tiempo (desde la última vez); ha pasado mucho tiempo (desde la última vez que te vi, escribí, etc.,)"
+    },
+    {
+      "entryId": "1361420",
+      "spelling": "振動",
+      "reading": "しんどう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "振動【しんどう】",
+      "meaning": "oscilación; vibración"
+    },
+    {
+      "entryId": "1361130",
+      "spelling": "振り",
+      "reading": "ふり",
+      "senseNumbers": [
+        22
+      ],
+      "japanese": "振り【ふり】",
+      "meaning": "comportamiento; apariencia"
+    },
+    {
+      "entryId": "1361130",
+      "spelling": "振り",
+      "reading": "フリ",
+      "senseNumbers": [
+        22
+      ],
+      "japanese": "振り【フリ】",
+      "meaning": "comportamiento; apariencia"
+    },
+    {
+      "entryId": "1361290",
+      "spelling": "振りかえる",
+      "reading": "ふりかえる",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "振りかえる【ふりかえる】",
+      "meaning": "mirar hacia atrás"
+    },
+    {
+      "entryId": "1361290",
+      "spelling": "振り返る",
+      "reading": "ふりかえる",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "振り返る【ふりかえる】",
+      "meaning": "mirar hacia atrás"
+    },
+    {
+      "entryId": "1361290",
+      "spelling": "振返る",
+      "reading": "ふりかえる",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "振返る【ふりかえる】",
+      "meaning": "mirar hacia atrás"
+    },
+    {
+      "entryId": "1602920",
+      "spelling": "振り替",
+      "reading": "ふりかえ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "振り替【ふりかえ】",
+      "meaning": "transferencia (moneda); cambio"
+    },
+    {
+      "entryId": "1602920",
+      "spelling": "振り替え",
+      "reading": "ふりかえ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "振り替え【ふりかえ】",
+      "meaning": "transferencia (moneda); cambio"
+    },
+    {
+      "entryId": "1602920",
+      "spelling": "振替",
+      "reading": "ふりかえ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "振替【ふりかえ】",
+      "meaning": "transferencia (moneda); cambio"
+    },
+    {
+      "entryId": "1602920",
+      "spelling": "振替え",
+      "reading": "ふりかえ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "振替え【ふりかえ】",
+      "meaning": "transferencia (moneda); cambio"
+    },
+    {
+      "entryId": "1602960",
+      "spelling": "振り込み",
+      "reading": "ふりこみ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "振り込み【ふりこみ】",
+      "meaning": "pago realizado a través de transferencia bancaria"
+    },
+    {
+      "entryId": "1602960",
+      "spelling": "振込",
+      "reading": "ふりこみ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "振込【ふりこみ】",
+      "meaning": "pago realizado a través de transferencia bancaria"
+    },
+    {
+      "entryId": "1602960",
+      "spelling": "振込み",
+      "reading": "ふりこみ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "振込み【ふりこみ】",
+      "meaning": "pago realizado a través de transferencia bancaria"
+    },
+    {
+      "entryId": "1602990",
+      "spelling": "振り出",
+      "reading": "ふりだし",
+      "senseNumbers": [
+        21
+      ],
+      "japanese": "振り出【ふりだし】",
+      "meaning": "punto de partida"
+    },
+    {
+      "entryId": "1602990",
+      "spelling": "振り出し",
+      "reading": "ふりだし",
+      "senseNumbers": [
+        21
+      ],
+      "japanese": "振り出し【ふりだし】",
+      "meaning": "punto de partida"
+    },
+    {
+      "entryId": "1602990",
+      "spelling": "振出",
+      "reading": "ふりだし",
+      "senseNumbers": [
+        21
+      ],
+      "japanese": "振出【ふりだし】",
+      "meaning": "punto de partida"
+    },
+    {
+      "entryId": "1602990",
+      "spelling": "振出し",
+      "reading": "ふりだし",
+      "senseNumbers": [
+        21
+      ],
+      "japanese": "振出し【ふりだし】",
+      "meaning": "punto de partida"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

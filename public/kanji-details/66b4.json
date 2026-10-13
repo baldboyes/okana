@@ -1,0 +1,240 @@
+{
+  "character": "暴",
+  "meanings": "violento, salvaje, exponer, divulgar, alborotar, encolerizarse, revelar",
+  "words": [
+    {
+      "entryId": "1519590",
+      "spelling": "暴力",
+      "reading": "ぼうりょく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "暴力【ぼうりょく】",
+      "meaning": "violencia; caos"
+    },
+    {
+      "entryId": "1519520",
+      "spelling": "暴動",
+      "reading": "ぼうどう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "暴動【ぼうどう】",
+      "meaning": "disturbio; motín; insurrección"
+    },
+    {
+      "entryId": "1519460",
+      "spelling": "暴行",
+      "reading": "ぼうこう",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "暴行【ぼうこう】",
+      "meaning": "ataque; asalto; atrocidad; acto de violencia"
+    },
+    {
+      "entryId": "1519570",
+      "spelling": "暴落",
+      "reading": "ぼうらく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "暴落【ぼうらく】",
+      "meaning": "caída repentina"
+    },
+    {
+      "entryId": "1519480",
+      "spelling": "暴走",
+      "reading": "ぼうそう",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "暴走【ぼうそう】",
+      "meaning": "ir fuera de control"
+    },
+    {
+      "entryId": "1519540",
+      "spelling": "暴風",
+      "reading": "あらし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "暴風【あらし】",
+      "meaning": "vendaval; huracán; temporal"
+    },
+    {
+      "entryId": "1519540",
+      "spelling": "暴風",
+      "reading": "ぼうふう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "暴風【ぼうふう】",
+      "meaning": "vendaval; huracán; temporal"
+    },
+    {
+      "entryId": "1549100",
+      "spelling": "乱暴",
+      "reading": "らんぼう",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "乱暴【らんぼう】",
+      "meaning": "maleducado; grosero; violento; rudo; desobediente; irracional; temerario"
+    },
+    {
+      "entryId": "1549100",
+      "spelling": "亂暴",
+      "reading": "らんぼう",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "亂暴【らんぼう】",
+      "meaning": "maleducado; grosero; violento; rudo; desobediente; irracional; temerario"
+    },
+    {
+      "entryId": "2000350",
+      "spelling": "婦女暴行",
+      "reading": "ふじょぼうこう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "婦女暴行【ふじょぼうこう】",
+      "meaning": "violación"
+    },
+    {
+      "entryId": "1530880",
+      "spelling": "無暴",
+      "reading": "むぼう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "無暴【むぼう】",
+      "meaning": "imprudente; alocado"
+    },
+    {
+      "entryId": "1601280",
+      "spelling": "暴露",
+      "reading": "ばくろ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "暴露【ばくろ】",
+      "meaning": "denuncia"
+    },
+    {
+      "entryId": "1519340",
+      "spelling": "暴れる",
+      "reading": "あばれる",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "暴れる【あばれる】",
+      "meaning": "actuar violentamente; rabiar; forcejear; estar descontrolado"
+    },
+    {
+      "entryId": "1519500",
+      "spelling": "暴徒",
+      "reading": "ぼうと",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "暴徒【ぼうと】",
+      "meaning": "insurgente"
+    },
+    {
+      "entryId": "1519510",
+      "spelling": "暴騰",
+      "reading": "ぼうとう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "暴騰【ぼうとう】",
+      "meaning": "brinco; alza repentina"
+    },
+    {
+      "entryId": "1519550",
+      "spelling": "暴風雨",
+      "reading": "あらし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "暴風雨【あらし】",
+      "meaning": "tormenta"
+    },
+    {
+      "entryId": "1519550",
+      "spelling": "暴風雨",
+      "reading": "ぼうふうう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "暴風雨【ぼうふうう】",
+      "meaning": "tormenta"
+    },
+    {
+      "entryId": "1591680",
+      "spelling": "兇暴",
+      "reading": "きょうぼう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "兇暴【きょうぼう】",
+      "meaning": "brutal; atroz; bestial; salvaje; sanguinario; bárbaro; inhumano; monstruoso"
+    },
+    {
+      "entryId": "1591680",
+      "spelling": "凶暴",
+      "reading": "きょうぼう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "凶暴【きょうぼう】",
+      "meaning": "brutal; atroz; bestial; salvaje; sanguinario; bárbaro; inhumano; monstruoso"
+    },
+    {
+      "entryId": "1637600",
+      "spelling": "暴れんぼう",
+      "reading": "あばれんぼう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "暴れんぼう【あばれんぼう】",
+      "meaning": "chulo; que hace lo que le viene en gana"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

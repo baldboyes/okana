@@ -1,0 +1,180 @@
+{
+  "character": "激",
+  "meanings": "violento, furioso",
+  "words": [
+    {
+      "entryId": "1228680",
+      "spelling": "急激",
+      "reading": "きゅうげき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "急激【きゅうげき】",
+      "meaning": "abrupto; súbito; fulminante"
+    },
+    {
+      "entryId": "1594190",
+      "spelling": "刺激",
+      "reading": "しげき",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "刺激【しげき】",
+      "meaning": "estimular; incentivar; excitar; estimulo; ímpetu; incentivo; irritación; ánimo; aliento; motivación; estímulo; acicate; aliciente"
+    },
+    {
+      "entryId": "1196060",
+      "spelling": "過激",
+      "reading": "かげき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "過激【かげき】",
+      "meaning": "extremo; radical"
+    },
+    {
+      "entryId": "1253490",
+      "spelling": "激的",
+      "reading": "げきてき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "激的【げきてき】",
+      "meaning": "dramático"
+    },
+    {
+      "entryId": "1253720",
+      "spelling": "激動",
+      "reading": "げきどう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "激動【げきどう】",
+      "meaning": "agitación; convulsión; disturbio; turbulencia"
+    },
+    {
+      "entryId": "1253640",
+      "spelling": "激化",
+      "reading": "げきか",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "激化【げきか】",
+      "meaning": "intensificación; endurecimiento"
+    },
+    {
+      "entryId": "1253640",
+      "spelling": "激化",
+      "reading": "げっか",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "激化【げっか】",
+      "meaning": "intensificación; endurecimiento"
+    },
+    {
+      "entryId": "1212360",
+      "spelling": "感激",
+      "reading": "かんげき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "感激【かんげき】",
+      "meaning": "profunda emoción; impresión; inspiración"
+    },
+    {
+      "entryId": "1253760",
+      "spelling": "激励",
+      "reading": "げきれい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "激励【げきれい】",
+      "meaning": "ánimo; aliento"
+    },
+    {
+      "entryId": "1600720",
+      "spelling": "激しい",
+      "reading": "はげしい",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "激しい【はげしい】",
+      "meaning": "violento; fuerte (carácter); furioso; tempestuoso"
+    },
+    {
+      "entryId": "1253700",
+      "spelling": "激怒",
+      "reading": "げきど",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "激怒【げきど】",
+      "meaning": "furia"
+    },
+    {
+      "entryId": "1592760",
+      "spelling": "激痛",
+      "reading": "げきつう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "激痛【げきつう】",
+      "meaning": "dolor intenso"
+    },
+    {
+      "entryId": "1253690",
+      "spelling": "激増",
+      "reading": "げきぞう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "激増【げきぞう】",
+      "meaning": "aumento repentino"
+    },
+    {
+      "entryId": "1253670",
+      "spelling": "激情",
+      "reading": "げきじょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "激情【げきじょう】",
+      "meaning": "emoción violenta; pasión; furia"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "character": "万",
+  "meanings": "diez mil, muchos",
+  "words": [
+    {
+      "entryId": "1335140",
+      "spelling": "十万",
+      "reading": "じゅうまん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "十万【じゅうまん】",
+      "meaning": "cien mil; 100,000"
+    },
+    {
+      "entryId": "1335140",
+      "spelling": "拾万",
+      "reading": "じゅうまん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "拾万【じゅうまん】",
+      "meaning": "cien mil; 100,000"
+    },
+    {
+      "entryId": "1335140",
+      "spelling": "１０万",
+      "reading": "じゅうまん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "１０万【じゅうまん】",
+      "meaning": "cien mil; 100,000"
+    },
+    {
+      "entryId": "1488500",
+      "spelling": "百万",
+      "reading": "ひゃくまん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "百万【ひゃくまん】",
+      "meaning": "un millón; 1,000,000"
+    },
+    {
+      "entryId": "1488500",
+      "spelling": "１００万",
+      "reading": "ひゃくまん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "１００万【ひゃくまん】",
+      "meaning": "un millón; 1,000,000"
+    },
+    {
+      "entryId": "1709230",
+      "spelling": "数万",
+      "reading": "すうまん",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "数万【すうまん】",
+      "meaning": "decenas de miles"
+    },
+    {
+      "entryId": "1584530",
+      "spelling": "万能",
+      "reading": "ばんのう",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "万能【ばんのう】",
+      "meaning": "omnipotente"
+    },
+    {
+      "entryId": "1584530",
+      "spelling": "万能",
+      "reading": "まんのう",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "万能【まんのう】",
+      "meaning": "omnipotente"
+    },
+    {
+      "entryId": "1525780",
+      "spelling": "万一",
+      "reading": "ばんいち",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "万一【ばんいち】",
+      "meaning": "por si acaso; en caso de emergencia"
+    },
+    {
+      "entryId": "1525780",
+      "spelling": "万一",
+      "reading": "ばんいつ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "万一【ばんいつ】",
+      "meaning": "por si acaso; en caso de emergencia"
+    },
+    {
+      "entryId": "1525780",
+      "spelling": "万一",
+      "reading": "まんいち",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "万一【まんいち】",
+      "meaning": "por si acaso; en caso de emergencia"
+    },
+    {
+      "entryId": "1525780",
+      "spelling": "万一",
+      "reading": "まんいつ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "万一【まんいつ】",
+      "meaning": "por si acaso; en caso de emergencia"
+    },
+    {
+      "entryId": "1604310",
+      "spelling": "万才",
+      "reading": "まんざい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "万才【まんざい】",
+      "meaning": "comedia; diálogo cómico"
+    },
+    {
+      "entryId": "1601350",
+      "spelling": "万才",
+      "reading": "ばんざい",
+      "senseNumbers": [
+        22
+      ],
+      "japanese": "万才【ばんざい】",
+      "meaning": "¡viva!; ¡bravo!; hurra; larga vida; felicitaciones"
+    },
+    {
+      "entryId": "1601350",
+      "spelling": "万歳",
+      "reading": "ばんざい",
+      "senseNumbers": [
+        22
+      ],
+      "japanese": "万歳【ばんざい】",
+      "meaning": "¡viva!; ¡bravo!; hurra; larga vida; felicitaciones"
+    },
+    {
+      "entryId": "1526360",
+      "spelling": "万年筆",
+      "reading": "まんねんひつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "万年筆【まんねんひつ】",
+      "meaning": "pluma estilográfica"
+    },
+    {
+      "entryId": "1526360",
+      "spelling": "万年筆",
+      "reading": "まんねんぴつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "万年筆【まんねんぴつ】",
+      "meaning": "pluma estilográfica"
+    },
+    {
+      "entryId": "1526360",
+      "spelling": "万年筆",
+      "reading": "まんねんふで",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "万年筆【まんねんふで】",
+      "meaning": "pluma estilográfica"
+    },
+    {
+      "entryId": "1526830",
+      "spelling": "万場一致",
+      "reading": "まんじょういっち",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "万場一致【まんじょういっち】",
+      "meaning": "unánime"
+    },
+    {
+      "entryId": "1526080",
+      "spelling": "万事",
+      "reading": "ばんじ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "万事【ばんじ】",
+      "meaning": "todas las cosas; todo"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

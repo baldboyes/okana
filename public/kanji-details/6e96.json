@@ -1,0 +1,180 @@
+{
+  "character": "準",
+  "meanings": "semi, asociado, norma, asemejar",
+  "words": [
+    {
+      "entryId": "1591210",
+      "spelling": "基準",
+      "reading": "きじゅん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "基準【きじゅん】",
+      "meaning": "normas; estándares"
+    },
+    {
+      "entryId": "1591210",
+      "spelling": "規準",
+      "reading": "きじゅん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "規準【きじゅん】",
+      "meaning": "normas; estándares"
+    },
+    {
+      "entryId": "1341670",
+      "spelling": "準備",
+      "reading": "じゅんび",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "準備【じゅんび】",
+      "meaning": "preparación; preparativo; provisión; reserva"
+    },
+    {
+      "entryId": "1371610",
+      "spelling": "水準",
+      "reading": "すいじゅん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "水準【すいじゅん】",
+      "meaning": "nivel; medida estándar"
+    },
+    {
+      "entryId": "1488710",
+      "spelling": "標準",
+      "reading": "ひょうじゅん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "標準【ひょうじゅん】",
+      "meaning": "normas; estándares; promedio"
+    },
+    {
+      "entryId": "1341580",
+      "spelling": "準決勝",
+      "reading": "じゅんけっしょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "準決勝【じゅんけっしょう】",
+      "meaning": "semifinal (en deportes)"
+    },
+    {
+      "entryId": "1283640",
+      "spelling": "高水準",
+      "reading": "こうすいじゅん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "高水準【こうすいじゅん】",
+      "meaning": "nivel alto"
+    },
+    {
+      "entryId": "1350960",
+      "spelling": "照準",
+      "reading": "しょうじゅん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "照準【しょうじゅん】",
+      "meaning": "alineación"
+    },
+    {
+      "entryId": "1341510",
+      "spelling": "準じる",
+      "reading": "じゅんじる",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "準じる【じゅんじる】",
+      "meaning": "conformar"
+    },
+    {
+      "entryId": "1341500",
+      "spelling": "準える",
+      "reading": "なずらえる",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "準える【なずらえる】",
+      "meaning": "hablar en sentido figurado; hacer alegoría a"
+    },
+    {
+      "entryId": "1341500",
+      "spelling": "準える",
+      "reading": "なぞらえる",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "準える【なぞらえる】",
+      "meaning": "hablar en sentido figurado; hacer alegoría a"
+    },
+    {
+      "entryId": "1341540",
+      "spelling": "準急",
+      "reading": "じゅんきゅう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "準急【じゅんきゅう】",
+      "meaning": "semiexpreso"
+    },
+    {
+      "entryId": "1488730",
+      "spelling": "標準語",
+      "reading": "ひょうじゅんご",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "標準語【ひょうじゅんご】",
+      "meaning": "lengua común; lenguaje estándar; lenguaje unificado"
+    },
+    {
+      "entryId": "1341490",
+      "spelling": "準",
+      "reading": "じゅん",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "準【じゅん】",
+      "meaning": "prefijo: sub-, vice-, segundo, cuasi-"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

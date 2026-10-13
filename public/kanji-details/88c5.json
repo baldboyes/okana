@@ -1,0 +1,240 @@
+{
+  "character": "装",
+  "meanings": "decoración, adorno, vestido, equipar, proporcionar, decorar, vestirse",
+  "words": [
+    {
+      "entryId": "1402360",
+      "spelling": "装置",
+      "reading": "そうち",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "装置【そうち】",
+      "meaning": "dispositivo; aparato; instrumento; equipo"
+    },
+    {
+      "entryId": "1498740",
+      "spelling": "武装",
+      "reading": "ぶそう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "武装【ぶそう】",
+      "meaning": "armamento"
+    },
+    {
+      "entryId": "1402400",
+      "spelling": "装備",
+      "reading": "そうび",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "装備【そうび】",
+      "meaning": "equipamiento"
+    },
+    {
+      "entryId": "1158760",
+      "spelling": "衣装",
+      "reading": "いしょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "衣装【いしょう】",
+      "meaning": "ropa; indumentaria; traje; conjunto; prenda; vestido"
+    },
+    {
+      "entryId": "1500970",
+      "spelling": "服装",
+      "reading": "ふくそう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "服装【ふくそう】",
+      "meaning": "indumentaria; ropa"
+    },
+    {
+      "entryId": "1402340",
+      "spelling": "装飾",
+      "reading": "そうしょく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "装飾【そうしょく】",
+      "meaning": "adorno; ornamento"
+    },
+    {
+      "entryId": "1515510",
+      "spelling": "包装",
+      "reading": "ほうそう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "包装【ほうそう】",
+      "meaning": "envoltura; embalaje; empaquetado"
+    },
+    {
+      "entryId": "1402300",
+      "spelling": "装甲",
+      "reading": "そうこう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "装甲【そうこう】",
+      "meaning": "blindado; acorazado"
+    },
+    {
+      "entryId": "1444290",
+      "spelling": "塗装",
+      "reading": "とそう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "塗装【とそう】",
+      "meaning": "capa (ej. de pintura)"
+    },
+    {
+      "entryId": "1200990",
+      "spelling": "改装",
+      "reading": "かいそう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "改装【かいそう】",
+      "meaning": "reformar; remodelar; renovar; remodelación; reorganización"
+    },
+    {
+      "entryId": "1205680",
+      "spelling": "核武装",
+      "reading": "かくぶそう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "核武装【かくぶそう】",
+      "meaning": "armas nucleares"
+    },
+    {
+      "entryId": "1592060",
+      "spelling": "偽装",
+      "reading": "ぎそう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "偽装【ぎそう】",
+      "meaning": "camuflaje; disfraz"
+    },
+    {
+      "entryId": "1592060",
+      "spelling": "擬装",
+      "reading": "ぎそう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "擬装【ぎそう】",
+      "meaning": "camuflaje; disfraz"
+    },
+    {
+      "entryId": "1402280",
+      "spelling": "装う",
+      "reading": "よそおう",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "装う【よそおう】",
+      "meaning": "vestirse; servir; fingir; presumir; pretender"
+    },
+    {
+      "entryId": "1514070",
+      "spelling": "舗装",
+      "reading": "ほそう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "舗装【ほそう】",
+      "meaning": "asfalto; acera"
+    },
+    {
+      "entryId": "1514070",
+      "spelling": "鋪装",
+      "reading": "ほそう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "鋪装【ほそう】",
+      "meaning": "asfalto; acera"
+    },
+    {
+      "entryId": "1377480",
+      "spelling": "正装",
+      "reading": "せいそう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "正装【せいそう】",
+      "meaning": "uniforme; vestido; prenda"
+    },
+    {
+      "entryId": "1187790",
+      "spelling": "仮装",
+      "reading": "かそう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "仮装【かそう】",
+      "meaning": "disfraz; atavío"
+    },
+    {
+      "entryId": "1757210",
+      "spelling": "安全装置",
+      "reading": "あんぜんそうち",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "安全装置【あんぜんそうち】",
+      "meaning": "dispositivo de seguridad"
+    },
+    {
+      "entryId": "1345340",
+      "spelling": "女装",
+      "reading": "じょそう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "女装【じょそう】",
+      "meaning": "ropa de mujer; llevar puesto ropa de mujer"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

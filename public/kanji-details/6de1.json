@@ -1,0 +1,130 @@
+{
+  "character": "淡",
+  "meanings": "claro, pálido, fugaz, efímero",
+  "words": [
+    {
+      "entryId": "1597270",
+      "spelling": "淡々",
+      "reading": "たんたん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "淡々【たんたん】",
+      "meaning": "desinteresado; despreocupado; indiferente; franco"
+    },
+    {
+      "entryId": "1597270",
+      "spelling": "淡淡",
+      "reading": "たんたん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "淡淡【たんたん】",
+      "meaning": "desinteresado; despreocupado; indiferente; franco"
+    },
+    {
+      "entryId": "1418460",
+      "spelling": "淡水",
+      "reading": "たんすい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "淡水【たんすい】",
+      "meaning": "agua dulce; agua potable"
+    },
+    {
+      "entryId": "1597290",
+      "spelling": "淡泊",
+      "reading": "たんぱく",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "淡泊【たんぱく】",
+      "meaning": "suave; ligero; sencillo; poco cargado"
+    },
+    {
+      "entryId": "1597290",
+      "spelling": "淡白",
+      "reading": "たんぱく",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "淡白【たんぱく】",
+      "meaning": "suave; ligero; sencillo; poco cargado"
+    },
+    {
+      "entryId": "1597290",
+      "spelling": "淡薄",
+      "reading": "たんぱく",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "淡薄【たんぱく】",
+      "meaning": "suave; ligero; sencillo; poco cargado"
+    },
+    {
+      "entryId": "1557150",
+      "spelling": "冷淡",
+      "reading": "れいたん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "冷淡【れいたん】",
+      "meaning": "frialdad; indiferencia"
+    },
+    {
+      "entryId": "1690410",
+      "spelling": "淡口",
+      "reading": "うすくち",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "淡口【うすくち】",
+      "meaning": "sabor suave"
+    },
+    {
+      "entryId": "1418420",
+      "spelling": "淡い",
+      "reading": "あわい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "淡い【あわい】",
+      "meaning": "tenue; suave; ligero; claro"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

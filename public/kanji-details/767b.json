@@ -1,0 +1,183 @@
+{
+  "character": "登",
+  "meanings": "ascensión, escalada, subir, ascender, escalar",
+  "words": [
+    {
+      "entryId": "1444810",
+      "spelling": "登錄",
+      "reading": "とうろく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "登錄【とうろく】",
+      "meaning": "inscripción; registro"
+    },
+    {
+      "entryId": "1444810",
+      "spelling": "登録",
+      "reading": "とうろく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "登録【とうろく】",
+      "meaning": "inscripción; registro"
+    },
+    {
+      "entryId": "1444800",
+      "spelling": "登場",
+      "reading": "とうじょう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "登場【とうじょう】",
+      "meaning": "entrada en escena; aparición; entrar en escena; hacer su aparición"
+    },
+    {
+      "entryId": "1444760",
+      "spelling": "登校",
+      "reading": "とうこう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "登校【とうこう】",
+      "meaning": "asistencia (a la escuela); ir a la escuela; asistir a la escuela"
+    },
+    {
+      "entryId": "1444780",
+      "spelling": "登山",
+      "reading": "とざん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "登山【とざん】",
+      "meaning": "alpinismo (de montaña)"
+    },
+    {
+      "entryId": "1352510",
+      "spelling": "登り",
+      "reading": "のぼり",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "登り【のぼり】",
+      "meaning": "escalada; ascenso; subida; alza (de precios, etc)"
+    },
+    {
+      "entryId": "1444750",
+      "spelling": "登記",
+      "reading": "とうき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "登記【とうき】",
+      "meaning": "registro; inscripción"
+    },
+    {
+      "entryId": "1352570",
+      "spelling": "登る",
+      "reading": "のぼる",
+      "senseNumbers": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "japanese": "登る【のぼる】",
+      "meaning": "elevar; ascender; subir; escalar; trepar; ir arriba; ir (a la capital); ser promovido; sumar a; avanzar (en precios); zarpar; ser mencionado (en la agenda); crecer"
+    },
+    {
+      "entryId": "1303070",
+      "spelling": "山登り",
+      "reading": "やまのぼり",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "山登り【やまのぼり】",
+      "meaning": "alpinismo; montañismo"
+    },
+    {
+      "entryId": "1444820",
+      "spelling": "登録商標",
+      "reading": "とうろくしょうひょう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "登録商標【とうろくしょうひょう】",
+      "meaning": "marca registrada (tm)"
+    },
+    {
+      "entryId": "1638880",
+      "spelling": "登場人物",
+      "reading": "とうじょうじんぶつ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "登場人物【とうじょうじんぶつ】",
+      "meaning": "(los) personajes (en una obra de teatro o una novela)"
+    },
+    {
+      "entryId": "1943650",
+      "spelling": "登録番号",
+      "reading": "とうろくばんごう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "登録番号【とうろくばんごう】",
+      "meaning": "número de registro"
+    },
+    {
+      "entryId": "1352540",
+      "spelling": "登り坂",
+      "reading": "のぼりざか",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "登り坂【のぼりざか】",
+      "meaning": "cuesta arriba"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

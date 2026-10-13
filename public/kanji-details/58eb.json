@@ -1,0 +1,240 @@
+{
+  "character": "士",
+  "meanings": "caballero, samurai, hombre",
+  "words": [
+    {
+      "entryId": "1512850",
+      "spelling": "弁護士",
+      "reading": "べんごし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "弁護士【べんごし】",
+      "meaning": "abogado"
+    },
+    {
+      "entryId": "1452400",
+      "spelling": "同士",
+      "reading": "どうし",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "同士【どうし】",
+      "meaning": "compañero; camarada"
+    },
+    {
+      "entryId": "1452400",
+      "spelling": "同士",
+      "reading": "どし",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "同士【どし】",
+      "meaning": "compañero; camarada"
+    },
+    {
+      "entryId": "1506420",
+      "spelling": "兵士",
+      "reading": "へいし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "兵士【へいし】",
+      "meaning": "soldado"
+    },
+    {
+      "entryId": "1474620",
+      "spelling": "博士",
+      "reading": "はかせ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "博士【はかせ】",
+      "meaning": "doctor; persona que se ha doctorado"
+    },
+    {
+      "entryId": "1364950",
+      "spelling": "紳士",
+      "reading": "しんし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "紳士【しんし】",
+      "meaning": "caballero"
+    },
+    {
+      "entryId": "1496800",
+      "spelling": "富士山",
+      "reading": "ふじさん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "富士山【ふじさん】",
+      "meaning": "monte Fuji"
+    },
+    {
+      "entryId": "1496800",
+      "spelling": "富士山",
+      "reading": "ふじやま",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "富士山【ふじやま】",
+      "meaning": "monte Fuji"
+    },
+    {
+      "entryId": "1411740",
+      "spelling": "代議士",
+      "reading": "だいぎし",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "代議士【だいぎし】",
+      "meaning": "miembro de la Cámara de Representantes"
+    },
+    {
+      "entryId": "1171400",
+      "spelling": "宇宙飛行士",
+      "reading": "うちゅうひこうし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "宇宙飛行士【うちゅうひこうし】",
+      "meaning": "astronauta"
+    },
+    {
+      "entryId": "1220640",
+      "spelling": "棋士",
+      "reading": "きし",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "棋士【きし】",
+      "meaning": "jugador de shogi o go"
+    },
+    {
+      "entryId": "1583680",
+      "spelling": "武士",
+      "reading": "さむらい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "武士【さむらい】",
+      "meaning": "guerrero; samurai"
+    },
+    {
+      "entryId": "1583680",
+      "spelling": "武士",
+      "reading": "ぶし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "武士【ぶし】",
+      "meaning": "guerrero; samurai"
+    },
+    {
+      "entryId": "1307450",
+      "spelling": "士気",
+      "reading": "しき",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "士気【しき】",
+      "meaning": "moral (de tropas, equipo, etc.)"
+    },
+    {
+      "entryId": "1174020",
+      "spelling": "栄養士",
+      "reading": "えいようし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "栄養士【えいようし】",
+      "meaning": "nutricionista"
+    },
+    {
+      "entryId": "1307430",
+      "spelling": "士官",
+      "reading": "しかん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "士官【しかん】",
+      "meaning": "oficial (del ejército o de la policía)"
+    },
+    {
+      "entryId": "1390240",
+      "spelling": "戦士",
+      "reading": "せんし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "戦士【せんし】",
+      "meaning": "soldado; combatiente; guerrero"
+    },
+    {
+      "entryId": "1286620",
+      "spelling": "国士",
+      "reading": "こくし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "国士【こくし】",
+      "meaning": "ciudadano ilustre; patriota"
+    },
+    {
+      "entryId": "1485500",
+      "spelling": "飛行士",
+      "reading": "ひこうし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "飛行士【ひこうし】",
+      "meaning": "piloto (espacial)"
+    },
+    {
+      "entryId": "1314780",
+      "spelling": "士",
+      "reading": "さむらい",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "士【さむらい】",
+      "meaning": "guerrero; samurai"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

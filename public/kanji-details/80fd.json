@@ -1,0 +1,240 @@
+{
+  "character": "能",
+  "meanings": "habilidad, talento, capacidad, aptitud, teatro japonés",
+  "words": [
+    {
+      "entryId": "1191060",
+      "spelling": "可能",
+      "reading": "かのう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "可能【かのう】",
+      "meaning": "posibilidad; factible"
+    },
+    {
+      "entryId": "1221130",
+      "spelling": "機能",
+      "reading": "きのう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "機能【きのう】",
+      "meaning": "función; facultad"
+    },
+    {
+      "entryId": "1470370",
+      "spelling": "能力",
+      "reading": "のうりょく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "能力【のうりょく】",
+      "meaning": "habilidad; facultad"
+    },
+    {
+      "entryId": "1253130",
+      "spelling": "芸能",
+      "reading": "げいのう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "芸能【げいのう】",
+      "meaning": "entretenimiento público; habilidades; logros"
+    },
+    {
+      "entryId": "1470120",
+      "spelling": "能",
+      "reading": "のう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "能【のう】",
+      "meaning": "habilidad; teatro noo"
+    },
+    {
+      "entryId": "1491520",
+      "spelling": "不可能",
+      "reading": "ふかのう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "不可能【ふかのう】",
+      "meaning": "imposible"
+    },
+    {
+      "entryId": "1516690",
+      "spelling": "放射能",
+      "reading": "ほうしゃのう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "放射能【ほうしゃのう】",
+      "meaning": "radiactividad"
+    },
+    {
+      "entryId": "1294630",
+      "spelling": "才能",
+      "reading": "さいのう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "才能【さいのう】",
+      "meaning": "talento; capacidad"
+    },
+    {
+      "entryId": "1375470",
+      "spelling": "性能",
+      "reading": "せいのう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "性能【せいのう】",
+      "meaning": "rendimiento; eficiencia"
+    },
+    {
+      "entryId": "1225230",
+      "spelling": "伎能",
+      "reading": "ぎのう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "伎能【ぎのう】",
+      "meaning": "habilidad"
+    },
+    {
+      "entryId": "1225230",
+      "spelling": "技能",
+      "reading": "ぎのう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "技能【ぎのう】",
+      "meaning": "habilidad"
+    },
+    {
+      "entryId": "1470140",
+      "spelling": "能楽",
+      "reading": "のうがく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "能楽【のうがく】",
+      "meaning": "obra de (teatro) noh"
+    },
+    {
+      "entryId": "1494540",
+      "spelling": "不能",
+      "reading": "ふのう",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "不能【ふのう】",
+      "meaning": "incapacidad; incompetencia"
+    },
+    {
+      "entryId": "1584530",
+      "spelling": "万能",
+      "reading": "ばんのう",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "万能【ばんのう】",
+      "meaning": "omnipotente"
+    },
+    {
+      "entryId": "1584530",
+      "spelling": "万能",
+      "reading": "まんのう",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "万能【まんのう】",
+      "meaning": "omnipotente"
+    },
+    {
+      "entryId": "1523130",
+      "spelling": "本能",
+      "reading": "ほんのう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "本能【ほんのう】",
+      "meaning": "instinto"
+    },
+    {
+      "entryId": "1470330",
+      "spelling": "能率",
+      "reading": "のうりつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "能率【のうりつ】",
+      "meaning": "eficiencia; rendimiento"
+    },
+    {
+      "entryId": "1420680",
+      "spelling": "智能",
+      "reading": "ちのう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "智能【ちのう】",
+      "meaning": "inteligencia; facultades mentales"
+    },
+    {
+      "entryId": "1420680",
+      "spelling": "知能",
+      "reading": "ちのう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "知能【ちのう】",
+      "meaning": "inteligencia; facultades mentales"
+    },
+    {
+      "entryId": "1541570",
+      "spelling": "有能",
+      "reading": "ゆうのう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "有能【ゆうのう】",
+      "meaning": "capaz"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

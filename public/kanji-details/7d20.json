@@ -1,0 +1,242 @@
+{
+  "character": "素",
+  "meanings": "materia prima, elemental, normal, usual",
+  "words": [
+    {
+      "entryId": "1397220",
+      "spelling": "素材",
+      "reading": "そざい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "素材【そざい】",
+      "meaning": "material; materiales"
+    },
+    {
+      "entryId": "1546800",
+      "spelling": "要素",
+      "reading": "ようそ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "要素【ようそ】",
+      "meaning": "elemento"
+    },
+    {
+      "entryId": "1397340",
+      "spelling": "素直",
+      "reading": "すなお",
+      "senseNumbers": [
+        20,
+        21
+      ],
+      "japanese": "素直【すなお】",
+      "meaning": "obediente; manso; dócil; honesto; franco"
+    },
+    {
+      "entryId": "1418570",
+      "spelling": "炭素",
+      "reading": "たんそ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "炭素【たんそ】",
+      "meaning": "carbono (C)"
+    },
+    {
+      "entryId": "1304350",
+      "spelling": "酸素",
+      "reading": "さんそ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "酸素【さんそ】",
+      "meaning": "oxígeno"
+    },
+    {
+      "entryId": "1397270",
+      "spelling": "素人",
+      "reading": "しらびと",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "素人【しらびと】",
+      "meaning": "amateur; aficionado; novato; principiante"
+    },
+    {
+      "entryId": "1397270",
+      "spelling": "素人",
+      "reading": "しろうと",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "素人【しろうと】",
+      "meaning": "amateur; aficionado; novato; principiante"
+    },
+    {
+      "entryId": "1397270",
+      "spelling": "素人",
+      "reading": "しろと",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "素人【しろと】",
+      "meaning": "amateur; aficionado; novato; principiante"
+    },
+    {
+      "entryId": "1214300",
+      "spelling": "簡素",
+      "reading": "かんそ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "簡素【かんそ】",
+      "meaning": "simple; sencillo"
+    },
+    {
+      "entryId": "1422530",
+      "spelling": "窒素",
+      "reading": "ちっそ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "窒素【ちっそ】",
+      "meaning": "nitrógeno (N)"
+    },
+    {
+      "entryId": "1371780",
+      "spelling": "水素",
+      "reading": "すいそ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "水素【すいそ】",
+      "meaning": "hidrógeno"
+    },
+    {
+      "entryId": "1397390",
+      "spelling": "素朴",
+      "reading": "そぼく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "素朴【そぼく】",
+      "meaning": "simple; sencillo"
+    },
+    {
+      "entryId": "1397390",
+      "spelling": "素樸",
+      "reading": "そぼく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "素樸【そぼく】",
+      "meaning": "simple; sencillo"
+    },
+    {
+      "entryId": "1379330",
+      "spelling": "素地",
+      "reading": "きじ",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "素地【きじ】",
+      "meaning": "esencia original; tela; masa"
+    },
+    {
+      "entryId": "1397190",
+      "spelling": "素顔",
+      "reading": "すがお",
+      "senseNumbers": [
+        14,
+        15
+      ],
+      "japanese": "素顔【すがお】",
+      "meaning": "rostro sin maquillaje; cara sin pintar; sinceridad; franqueza"
+    },
+    {
+      "entryId": "1397310",
+      "spelling": "素ばやい",
+      "reading": "すばやい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "素ばやい【すばやい】",
+      "meaning": "rápido; veloz; ligero; presto; pronto; listo; ágil"
+    },
+    {
+      "entryId": "1397310",
+      "spelling": "素早い",
+      "reading": "すばやい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "素早い【すばやい】",
+      "meaning": "rápido; veloz; ligero; presto; pronto; listo; ágil"
+    },
+    {
+      "entryId": "1397310",
+      "spelling": "素速い",
+      "reading": "すばやい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "素速い【すばやい】",
+      "meaning": "rápido; veloz; ligero; presto; pronto; listo; ágil"
+    },
+    {
+      "entryId": "1178750",
+      "spelling": "塩素",
+      "reading": "えんそ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "塩素【えんそ】",
+      "meaning": "cloro (Cl)"
+    },
+    {
+      "entryId": "1282510",
+      "spelling": "酵素",
+      "reading": "こうそ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "酵素【こうそ】",
+      "meaning": "enzima"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

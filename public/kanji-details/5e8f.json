@@ -1,0 +1,160 @@
+{
+  "character": "序",
+  "meanings": "inicio, comienzo, orden, precedencia, prefacio",
+  "words": [
+    {
+      "entryId": "1422520",
+      "spelling": "秩序",
+      "reading": "ちつじょ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "秩序【ちつじょ】",
+      "meaning": "orden; armonía"
+    },
+    {
+      "entryId": "1345470",
+      "spelling": "序",
+      "reading": "ついで",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "序【ついで】",
+      "meaning": "a continuación; después de"
+    },
+    {
+      "entryId": "1345470",
+      "spelling": "序で",
+      "reading": "ついで",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "序で【ついで】",
+      "meaning": "a continuación; después de"
+    },
+    {
+      "entryId": "1342340",
+      "spelling": "順序",
+      "reading": "じゅんじょ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "順序【じゅんじょ】",
+      "meaning": "orden; secuencia; procedimiento"
+    },
+    {
+      "entryId": "1530660",
+      "spelling": "無秩序",
+      "reading": "むちつじょ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "無秩序【むちつじょ】",
+      "meaning": "caos; desorden; anarquía"
+    },
+    {
+      "entryId": "1008050",
+      "spelling": "序でに",
+      "reading": "ついでに",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "序でに【ついでに】",
+      "meaning": "(hacer algo) de paso"
+    },
+    {
+      "entryId": "1008050",
+      "spelling": "序に",
+      "reading": "ついでに",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "序に【ついでに】",
+      "meaning": "(hacer algo) de paso"
+    },
+    {
+      "entryId": "1677050",
+      "spelling": "公序良俗",
+      "reading": "こうじょりょうぞく",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "公序良俗【こうじょりょうぞく】",
+      "meaning": "moral y orden público; orden público y buenas costumbres"
+    },
+    {
+      "entryId": "1345530",
+      "spelling": "序文",
+      "reading": "じょぶん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "序文【じょぶん】",
+      "meaning": "prefacio; prólogo"
+    },
+    {
+      "entryId": "1345490",
+      "spelling": "序曲",
+      "reading": "じょきょく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "序曲【じょきょく】",
+      "meaning": "obertura; preludio"
+    },
+    {
+      "entryId": "1677040",
+      "spelling": "公序",
+      "reading": "こうじょ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "公序【こうじょ】",
+      "meaning": "orden público"
+    },
+    {
+      "entryId": "1345500",
+      "spelling": "序章",
+      "reading": "じょしょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "序章【じょしょう】",
+      "meaning": "prólogo; prefacio"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

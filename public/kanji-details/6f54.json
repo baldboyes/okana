@@ -1,0 +1,130 @@
+{
+  "character": "潔",
+  "meanings": "claro, puro, limpio, honrado, varonil",
+  "words": [
+    {
+      "entryId": "1378200",
+      "spelling": "清潔",
+      "reading": "せいけつ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "清潔【せいけつ】",
+      "meaning": "limpieza; pulcritud; pureza; limpio; pulcro; puro"
+    },
+    {
+      "entryId": "1214290",
+      "spelling": "簡潔",
+      "reading": "かんけつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "簡潔【かんけつ】",
+      "meaning": "brevedad; concisión; breve; conciso; sucinto"
+    },
+    {
+      "entryId": "1254460",
+      "spelling": "潔白",
+      "reading": "けっぱく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "潔白【けっぱく】",
+      "meaning": "pureza; inocencia"
+    },
+    {
+      "entryId": "1254440",
+      "spelling": "潔い",
+      "reading": "いさぎよい",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "潔い【いさぎよい】",
+      "meaning": "varonil; masculino; justo; leal; caballeroso; puro; inmaculado; inocente; recto; sincero; franco; valiente; intrépido; osado; audaz; animoso; sin vacilar"
+    },
+    {
+      "entryId": "1254440",
+      "spelling": "潔よい",
+      "reading": "いさぎよい",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "潔よい【いさぎよい】",
+      "meaning": "varonil; masculino; justo; leal; caballeroso; puro; inmaculado; inocente; recto; sincero; franco; valiente; intrépido; osado; audaz; animoso; sin vacilar"
+    },
+    {
+      "entryId": "1254440",
+      "spelling": "潔良い",
+      "reading": "いさぎよい",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "潔良い【いさぎよい】",
+      "meaning": "varonil; masculino; justo; leal; caballeroso; puro; inmaculado; inocente; recto; sincero; franco; valiente; intrépido; osado; audaz; animoso; sin vacilar"
+    },
+    {
+      "entryId": "1492160",
+      "spelling": "不潔",
+      "reading": "ふけつ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "不潔【ふけつ】",
+      "meaning": "suciedad; inmundicia; asqueroso; sucio; mugroso"
+    },
+    {
+      "entryId": "1254470",
+      "spelling": "潔癖",
+      "reading": "けっぺき",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "潔癖【けっぺき】",
+      "meaning": "fastidio; amor por la limpieza"
+    },
+    {
+      "entryId": "1283440",
+      "spelling": "高潔",
+      "reading": "こうけつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "高潔【こうけつ】",
+      "meaning": "pureza; nobleza"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

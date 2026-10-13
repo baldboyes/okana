@@ -1,0 +1,41 @@
+{
+  "character": "ハ",
+  "script": "katakana",
+  "viewBox": "0 0 1024 1024",
+  "coordinates": "svg-native-y-down",
+  "strokes": [
+    {
+      "ordinal": 1,
+      "parts": [
+        {
+          "id": "z12495d1",
+          "clipId": "z12495c1",
+          "outline": "M 328,340 C 317,353 320,382 302,425 275,484 225,559 131,657 79,709 112,704 150,679 291,580 372,479 415,445 460,407 428,375 409,359 387,341 352,306 328,340 Z",
+          "median": "M 348,340 376,415 253,581 128,678"
+        }
+      ]
+    },
+    {
+      "ordinal": 2,
+      "parts": [
+        {
+          "id": "z12495d2",
+          "clipId": "z12495c2",
+          "outline": "M 613,373 C 689,449 751,526 794,625 810,662 848,707 889,678 931,646 886,577 859,541 789,450 714,397 620,334 572,302 562,322 613,373 Z",
+          "median": "M 591,326 815,548 875,674"
+        }
+      ]
+    }
+  ],
+  "provenance": {
+    "commit": "ec5e17cca76c87587790bcbce5ea0b4d4fb753d6",
+    "modifiedAt": "2026-10-02",
+    "license": "LGPL-3.0-or-later",
+    "sourceFilename": "12495.svg",
+    "sourceUrl": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12495.svg",
+    "sourceSha256": "7f33d71b51c6e2ce162f828dabc6cc32e1cd85df32510b43a971ae3108ac6445",
+    "gitBlobSha1": "57ad9326a89e5934ddef4c37da70debbf7cefd88",
+    "sourceHeader": "\nAnimCJK 2016-2026 Copyright FM-SH, https://github.com/parsimonhi/animCJK\nYou can redistribute and/or modify these files under the terms of the GNU\nLesser General Public License as published by the Free Software Foundation,\neither version 3 of the license, or (at your option) any later version. You\nshould have received a copy of this license (the file \"LGPL.txt\") along with\nthese files; if not, see https://www.gnu.org/licenses/.\n",
+    "notice": "Converted SVG outlines and median paths to grouped JSON without geometry changes by Okana on 2026-10-02, from AnimCJK ec5e17cca76c87587790bcbce5ea0b4d4fb753d6. Graphics remain LGPL-3.0-or-later; original copyright and notices are retained in sourceHeader and corresponding source SVG files."
+  }
+}

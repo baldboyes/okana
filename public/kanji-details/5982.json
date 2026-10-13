@@ -1,0 +1,180 @@
+{
+  "character": "如",
+  "meanings": "análogo, parecido, tal como, igual a, obedecer",
+  "words": [
+    {
+      "entryId": "1254060",
+      "spelling": "欠如",
+      "reading": "けつじょ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "欠如【けつじょ】",
+      "meaning": "carencia; escasez; insuficiencia; déficit"
+    },
+    {
+      "entryId": "1467020",
+      "spelling": "如実",
+      "reading": "にょじつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "如実【にょじつ】",
+      "meaning": "realidad"
+    },
+    {
+      "entryId": "1457090",
+      "spelling": "突如",
+      "reading": "とつじょ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "突如【とつじょ】",
+      "meaning": "de repente"
+    },
+    {
+      "entryId": "1000660",
+      "spelling": "如何にも",
+      "reading": "いかにも",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "如何にも【いかにも】",
+      "meaning": "definitivamente"
+    },
+    {
+      "entryId": "1008910",
+      "spelling": "如何",
+      "reading": "どう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "如何【どう】",
+      "meaning": "como; en que forma; qué acerca de"
+    },
+    {
+      "entryId": "1008920",
+      "spelling": "如何いう",
+      "reading": "どういう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "如何いう【どういう】",
+      "meaning": "de alguna manera; cómo; de que forma; por qué; que tipo de"
+    },
+    {
+      "entryId": "1008920",
+      "spelling": "如何言う",
+      "reading": "どういう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "如何言う【どういう】",
+      "meaning": "de alguna manera; cómo; de que forma; por qué; que tipo de"
+    },
+    {
+      "entryId": "1009030",
+      "spelling": "如何致しまして",
+      "reading": "どういたしまして",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "如何致しまして【どういたしまして】",
+      "meaning": "De nada; eres bienvenido; ni lo menciones"
+    },
+    {
+      "entryId": "1466940",
+      "spelling": "如何して",
+      "reading": "どうして",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "如何して【どうして】",
+      "meaning": "¿por qué?; por qué razón; cómo; en que manera; para qué propósito; para qué"
+    },
+    {
+      "entryId": "1466950",
+      "spelling": "如何しても",
+      "reading": "どうしても",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "如何しても【どうしても】",
+      "meaning": "sin duda; por supuesto; no importa que; cueste lo que cueste; al fin y al cabo; a la larga; anhelamente; antojadamente; en cualquier"
+    },
+    {
+      "entryId": "1466970",
+      "spelling": "如何に",
+      "reading": "いかに",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "如何に【いかに】",
+      "meaning": "de qué manera; cómo; como quiera qué"
+    },
+    {
+      "entryId": "2845606",
+      "spelling": "如何",
+      "reading": "いかが",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "如何【いかが】",
+      "meaning": "como; en que forma; qué acerca de"
+    },
+    {
+      "entryId": "1629910",
+      "spelling": "如月",
+      "reading": "きさらぎ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "如月【きさらぎ】",
+      "meaning": "segundo mes del calendario lunar"
+    },
+    {
+      "entryId": "1629910",
+      "spelling": "如月",
+      "reading": "じょげつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "如月【じょげつ】",
+      "meaning": "segundo mes del calendario lunar"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

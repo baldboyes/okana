@@ -1,0 +1,180 @@
+{
+  "character": "岩",
+  "meanings": "roca",
+  "words": [
+    {
+      "entryId": "1217270",
+      "spelling": "岩",
+      "reading": "いわ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "岩【いわ】",
+      "meaning": "roca; peña; risco; despeñadero; peñasco"
+    },
+    {
+      "entryId": "1546120",
+      "spelling": "溶岩",
+      "reading": "ようがん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "溶岩【ようがん】",
+      "meaning": "lava"
+    },
+    {
+      "entryId": "1546120",
+      "spelling": "熔岩",
+      "reading": "ようがん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "熔岩【ようがん】",
+      "meaning": "lava"
+    },
+    {
+      "entryId": "1166750",
+      "spelling": "一枚岩",
+      "reading": "いちまいいわ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "一枚岩【いちまいいわ】",
+      "meaning": "monolítico"
+    },
+    {
+      "entryId": "1217360",
+      "spelling": "岩石",
+      "reading": "がんせき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "岩石【がんせき】",
+      "meaning": "rocas; piedras"
+    },
+    {
+      "entryId": "1217320",
+      "spelling": "岩山",
+      "reading": "いわやま",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "岩山【いわやま】",
+      "meaning": "montaña rocosa"
+    },
+    {
+      "entryId": "1217400",
+      "spelling": "岩盤",
+      "reading": "がんばん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "岩盤【がんばん】",
+      "meaning": "lecho rocoso"
+    },
+    {
+      "entryId": "1217690",
+      "spelling": "岩乗",
+      "reading": "がんじょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "岩乗【がんじょう】",
+      "meaning": "fuerte; resistente; robusto"
+    },
+    {
+      "entryId": "1217290",
+      "spelling": "岩屋",
+      "reading": "いわや",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "岩屋【いわや】",
+      "meaning": "caverna; gruta"
+    },
+    {
+      "entryId": "1839010",
+      "spelling": "岩戸",
+      "reading": "いわと",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "岩戸【いわと】",
+      "meaning": "puerta de piedra, losa de cierre"
+    },
+    {
+      "entryId": "1217350",
+      "spelling": "岩礁",
+      "reading": "がんしょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "岩礁【がんしょう】",
+      "meaning": "arrecife"
+    },
+    {
+      "entryId": "1703040",
+      "spelling": "石灰岩",
+      "reading": "せっかいがん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "石灰岩【せっかいがん】",
+      "meaning": "limolita"
+    },
+    {
+      "entryId": "1217280",
+      "spelling": "岩塩",
+      "reading": "いわしお",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "岩塩【いわしお】",
+      "meaning": "sal de roca; sal gema; halita"
+    },
+    {
+      "entryId": "1217280",
+      "spelling": "岩塩",
+      "reading": "がんえん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "岩塩【がんえん】",
+      "meaning": "sal de roca; sal gema; halita"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

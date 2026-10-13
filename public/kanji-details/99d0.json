@@ -1,0 +1,109 @@
+{
+  "character": "駐",
+  "meanings": "parar en, permanecer en, aparcar",
+  "words": [
+    {
+      "entryId": "1426920",
+      "spelling": "駐車場",
+      "reading": "ちゅうしゃじょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "駐車場【ちゅうしゃじょう】",
+      "meaning": "estacionamiento; aparcamiento"
+    },
+    {
+      "entryId": "1426970",
+      "spelling": "駐日",
+      "reading": "ちゅうにち",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "駐日【ちゅうにち】",
+      "meaning": "residente en Japón"
+    },
+    {
+      "entryId": "1426910",
+      "spelling": "駐車",
+      "reading": "ちゅうしゃ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "駐車【ちゅうしゃ】",
+      "meaning": "estacionar; aparcar; estacionamiento; aparcamiento (de un vehículo)"
+    },
+    {
+      "entryId": "1310620",
+      "spelling": "駐まる",
+      "reading": "とまる",
+      "senseNumbers": [
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "japanese": "駐まる【とまる】",
+      "meaning": "detenerse; permanecer; quedarse; limitarse; detener; parar; detener(se)"
+    },
+    {
+      "entryId": "1426940",
+      "spelling": "駐屯",
+      "reading": "ちゅうとん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "駐屯【ちゅうとん】",
+      "meaning": "campamento; acantonamiento; guarnición"
+    },
+    {
+      "entryId": "2657130",
+      "spelling": "駐まる",
+      "reading": "とどまる",
+      "senseNumbers": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "japanese": "駐まる【とどまる】",
+      "meaning": "detenerse; permanecer; quedarse; limitarse; detener; parar; detener(se)"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

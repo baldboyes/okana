@@ -1,0 +1,240 @@
+{
+  "character": "申",
+  "meanings": "decir, tener el honor de",
+  "words": [
+    {
+      "entryId": "1363130",
+      "spelling": "申請",
+      "reading": "しんせい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "申請【しんせい】",
+      "meaning": "solicitud"
+    },
+    {
+      "entryId": "1449560",
+      "spelling": "答申",
+      "reading": "とうしん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "答申【とうしん】",
+      "meaning": "informe; reporte"
+    },
+    {
+      "entryId": "1605140",
+      "spelling": "申し込み",
+      "reading": "もうしこみ",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "申し込み【もうしこみ】",
+      "meaning": "solicitud; inscripción; suscripción"
+    },
+    {
+      "entryId": "1605140",
+      "spelling": "申込",
+      "reading": "もうしこみ",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "申込【もうしこみ】",
+      "meaning": "solicitud; inscripción; suscripción"
+    },
+    {
+      "entryId": "1605140",
+      "spelling": "申込み",
+      "reading": "もうしこみ",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "申込み【もうしこみ】",
+      "meaning": "solicitud; inscripción; suscripción"
+    },
+    {
+      "entryId": "1363100",
+      "spelling": "申告",
+      "reading": "しんこく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "申告【しんこく】",
+      "meaning": "reporte; informe; declaración"
+    },
+    {
+      "entryId": "1605130",
+      "spelling": "申し入れ",
+      "reading": "もうしいれ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "申し入れ【もうしいれ】",
+      "meaning": "ofrecimiento; propuesta"
+    },
+    {
+      "entryId": "1605130",
+      "spelling": "申入",
+      "reading": "もうしいれ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "申入【もうしいれ】",
+      "meaning": "ofrecimiento; propuesta"
+    },
+    {
+      "entryId": "1605160",
+      "spelling": "申し立て",
+      "reading": "もうしたて",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "申し立て【もうしたて】",
+      "meaning": "instancia; solicitud"
+    },
+    {
+      "entryId": "1605160",
+      "spelling": "申立",
+      "reading": "もうしたて",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "申立【もうしたて】",
+      "meaning": "instancia; solicitud"
+    },
+    {
+      "entryId": "1605160",
+      "spelling": "申立て",
+      "reading": "もうしたて",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "申立て【もうしたて】",
+      "meaning": "instancia; solicitud"
+    },
+    {
+      "entryId": "1362920",
+      "spelling": "申し出",
+      "reading": "もうしで",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "申し出【もうしで】",
+      "meaning": "oferta"
+    },
+    {
+      "entryId": "1362920",
+      "spelling": "申出",
+      "reading": "もうしで",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "申出【もうしで】",
+      "meaning": "oferta"
+    },
+    {
+      "entryId": "1362950",
+      "spelling": "申しあげる",
+      "reading": "もうしあげる",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "申しあげる【もうしあげる】",
+      "meaning": "decir a alguien (lenguaje humilde)"
+    },
+    {
+      "entryId": "1362950",
+      "spelling": "申し上げる",
+      "reading": "もうしあげる",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "申し上げる【もうしあげる】",
+      "meaning": "decir a alguien (lenguaje humilde)"
+    },
+    {
+      "entryId": "1362950",
+      "spelling": "申上げる",
+      "reading": "もうしあげる",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "申上げる【もうしあげる】",
+      "meaning": "decir a alguien (lenguaje humilde)"
+    },
+    {
+      "entryId": "1363050",
+      "spelling": "申しわけ",
+      "reading": "もうしわけ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "申しわけ【もうしわけ】",
+      "meaning": "excusa; disculpa; guarda de las apariencias; guarda de las formas; compromiso"
+    },
+    {
+      "entryId": "1363050",
+      "spelling": "申し分け",
+      "reading": "もうしわけ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "申し分け【もうしわけ】",
+      "meaning": "excusa; disculpa; guarda de las apariencias; guarda de las formas; compromiso"
+    },
+    {
+      "entryId": "1363050",
+      "spelling": "申し訳",
+      "reading": "もうしわけ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "申し訳【もうしわけ】",
+      "meaning": "excusa; disculpa; guarda de las apariencias; guarda de las formas; compromiso"
+    },
+    {
+      "entryId": "1363050",
+      "spelling": "申し訳け",
+      "reading": "もうしわけ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "申し訳け【もうしわけ】",
+      "meaning": "excusa; disculpa; guarda de las apariencias; guarda de las formas; compromiso"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

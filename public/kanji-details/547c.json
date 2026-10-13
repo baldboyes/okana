@@ -1,0 +1,243 @@
+{
+  "character": "呼",
+  "meanings": "llamar, aspirar",
+  "words": [
+    {
+      "entryId": "1266440",
+      "spelling": "呼ぶ",
+      "reading": "よぶ",
+      "senseNumbers": [
+        24
+      ],
+      "japanese": "呼ぶ【よぶ】",
+      "meaning": "llamar; llamársele; vocear; llamar a gritos; vociferar"
+    },
+    {
+      "entryId": "1266470",
+      "spelling": "呼吸",
+      "reading": "こきゅう",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "呼吸【こきゅう】",
+      "meaning": "respiración; respirar"
+    },
+    {
+      "entryId": "1266280",
+      "spelling": "呼びかける",
+      "reading": "よびかける",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "呼びかける【よびかける】",
+      "meaning": "llamar; hacer un llamado"
+    },
+    {
+      "entryId": "1266280",
+      "spelling": "呼び掛ける",
+      "reading": "よびかける",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "呼び掛ける【よびかける】",
+      "meaning": "llamar; hacer un llamado"
+    },
+    {
+      "entryId": "1266280",
+      "spelling": "呼掛ける",
+      "reading": "よびかける",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "呼掛ける【よびかける】",
+      "meaning": "llamar; hacer un llamado"
+    },
+    {
+      "entryId": "1266480",
+      "spelling": "呼吸器",
+      "reading": "こきゅうき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "呼吸器【こきゅうき】",
+      "meaning": "aparato respiratorio"
+    },
+    {
+      "entryId": "1266510",
+      "spelling": "呼称",
+      "reading": "こしょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "呼称【こしょう】",
+      "meaning": "exclamar; gritar; llamar por nombre"
+    },
+    {
+      "entryId": "1612600",
+      "spelling": "呼び名",
+      "reading": "よびな",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "呼び名【よびな】",
+      "meaning": "apelativo; sobrenombre"
+    },
+    {
+      "entryId": "1612600",
+      "spelling": "呼名",
+      "reading": "よびな",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "呼名【よびな】",
+      "meaning": "apelativo; sobrenombre"
+    },
+    {
+      "entryId": "1266350",
+      "spelling": "呼びだす",
+      "reading": "よびだす",
+      "senseNumbers": [
+        12,
+        13
+      ],
+      "japanese": "呼びだす【よびだす】",
+      "meaning": "convocar; llamar (e.g. teléfono); invocar"
+    },
+    {
+      "entryId": "1266350",
+      "spelling": "呼び出す",
+      "reading": "よびだす",
+      "senseNumbers": [
+        12,
+        13
+      ],
+      "japanese": "呼び出す【よびだす】",
+      "meaning": "convocar; llamar (e.g. teléfono); invocar"
+    },
+    {
+      "entryId": "1266350",
+      "spelling": "呼出す",
+      "reading": "よびだす",
+      "senseNumbers": [
+        12,
+        13
+      ],
+      "japanese": "呼出す【よびだす】",
+      "meaning": "convocar; llamar (e.g. teléfono); invocar"
+    },
+    {
+      "entryId": "1266290",
+      "spelling": "呼びよせる",
+      "reading": "よびよせる",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "呼びよせる【よびよせる】",
+      "meaning": "llamar"
+    },
+    {
+      "entryId": "1266290",
+      "spelling": "呼び寄せる",
+      "reading": "よびよせる",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "呼び寄せる【よびよせる】",
+      "meaning": "llamar"
+    },
+    {
+      "entryId": "1266290",
+      "spelling": "呼寄せる",
+      "reading": "よびよせる",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "呼寄せる【よびよせる】",
+      "meaning": "llamar"
+    },
+    {
+      "entryId": "1266330",
+      "spelling": "呼びとめる",
+      "reading": "よびとめる",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "呼びとめる【よびとめる】",
+      "meaning": "pedir que se detenga; parar (un taxi)"
+    },
+    {
+      "entryId": "1266330",
+      "spelling": "呼び止める",
+      "reading": "よびとめる",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "呼び止める【よびとめる】",
+      "meaning": "pedir que se detenga; parar (un taxi)"
+    },
+    {
+      "entryId": "1266330",
+      "spelling": "呼び留める",
+      "reading": "よびとめる",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "呼び留める【よびとめる】",
+      "meaning": "pedir que se detenga; parar (un taxi)"
+    },
+    {
+      "entryId": "1266330",
+      "spelling": "呼止める",
+      "reading": "よびとめる",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "呼止める【よびとめる】",
+      "meaning": "pedir que se detenga; parar (un taxi)"
+    },
+    {
+      "entryId": "1266330",
+      "spelling": "呼留める",
+      "reading": "よびとめる",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "呼留める【よびとめる】",
+      "meaning": "pedir que se detenga; parar (un taxi)"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

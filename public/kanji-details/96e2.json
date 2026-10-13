@@ -1,0 +1,220 @@
+{
+  "character": "離",
+  "meanings": "separarse, apartarse, separar, apartar",
+  "words": [
+    {
+      "entryId": "1232920",
+      "spelling": "距離",
+      "reading": "きょり",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "距離【きょり】",
+      "meaning": "distancia; alcance"
+    },
+    {
+      "entryId": "1504370",
+      "spelling": "分離",
+      "reading": "ぶんり",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "分離【ぶんり】",
+      "meaning": "aislamiento; separación; segregación"
+    },
+    {
+      "entryId": "1550840",
+      "spelling": "離れる",
+      "reading": "はなれる",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "離れる【はなれる】",
+      "meaning": "separarse de; dejar; irse; marcharse"
+    },
+    {
+      "entryId": "1550880",
+      "spelling": "離婚",
+      "reading": "りこん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "離婚【りこん】",
+      "meaning": "divorcio"
+    },
+    {
+      "entryId": "1429930",
+      "spelling": "長距離",
+      "reading": "ちょうきょり",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "長距離【ちょうきょり】",
+      "meaning": "larga distancia"
+    },
+    {
+      "entryId": "1206440",
+      "spelling": "隔離",
+      "reading": "かくり",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "隔離【かくり】",
+      "meaning": "aislamiento; segregación; separación; cuarentena"
+    },
+    {
+      "entryId": "1550970",
+      "spelling": "離陸",
+      "reading": "りりく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "離陸【りりく】",
+      "meaning": "despegue"
+    },
+    {
+      "entryId": "1608010",
+      "spelling": "見離す",
+      "reading": "みはなす",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "見離す【みはなす】",
+      "meaning": "olvidar; dar por perdido"
+    },
+    {
+      "entryId": "1242250",
+      "spelling": "近距離",
+      "reading": "きんきょり",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "近距離【きんきょり】",
+      "meaning": "corta distancia"
+    },
+    {
+      "entryId": "1178050",
+      "spelling": "遠距離",
+      "reading": "えんきょり",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "遠距離【えんきょり】",
+      "meaning": "distancia larga"
+    },
+    {
+      "entryId": "1550830",
+      "spelling": "離す",
+      "reading": "はなす",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "離す【はなす】",
+      "meaning": "dividir; separar; liberar"
+    },
+    {
+      "entryId": "1169190",
+      "spelling": "引き離す",
+      "reading": "ひきはなす",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "引き離す【ひきはなす】",
+      "meaning": "separar; desgarrar; rasgar"
+    },
+    {
+      "entryId": "1169190",
+      "spelling": "引離す",
+      "reading": "ひきはなす",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "引離す【ひきはなす】",
+      "meaning": "separar; desgarrar; rasgar"
+    },
+    {
+      "entryId": "1384760",
+      "spelling": "切り離す",
+      "reading": "きりはなす",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "切り離す【きりはなす】",
+      "meaning": "separar; escindir; apartar; disociar"
+    },
+    {
+      "entryId": "1384760",
+      "spelling": "切離す",
+      "reading": "きりはなす",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "切離す【きりはなす】",
+      "meaning": "separar; escindir; apartar; disociar"
+    },
+    {
+      "entryId": "1821580",
+      "spelling": "離乳食",
+      "reading": "りにゅうしょく",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "離乳食【りにゅうしょく】",
+      "meaning": "comida para bebés"
+    },
+    {
+      "entryId": "1550940",
+      "spelling": "離乳",
+      "reading": "りにゅう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "離乳【りにゅう】",
+      "meaning": "destete"
+    },
+    {
+      "entryId": "1618620",
+      "spelling": "離縁",
+      "reading": "りえん",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "離縁【りえん】",
+      "meaning": "ruptura de relaciones; extinción de una adopción; separación; divorcio"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

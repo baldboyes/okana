@@ -1,0 +1,240 @@
+{
+  "character": "金",
+  "meanings": "oro, dinero, metal",
+  "words": [
+    {
+      "entryId": "1243290",
+      "spelling": "金融",
+      "reading": "きんゆう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "金融【きんゆう】",
+      "meaning": "finanzas; dinero; préstamo financiero"
+    },
+    {
+      "entryId": "1243330",
+      "spelling": "金利",
+      "reading": "きんり",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "金利【きんり】",
+      "meaning": "tipos de interés"
+    },
+    {
+      "entryId": "1312700",
+      "spelling": "資金",
+      "reading": "しきん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "資金【しきん】",
+      "meaning": "fondos; capital"
+    },
+    {
+      "entryId": "1258420",
+      "spelling": "献金",
+      "reading": "けんきん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "献金【けんきん】",
+      "meaning": "aportación económica; donativo"
+    },
+    {
+      "entryId": "1554280",
+      "spelling": "料金",
+      "reading": "りょうきん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "料金【りょうきん】",
+      "meaning": "cargo (tarifa; precio)"
+    },
+    {
+      "entryId": "1219020",
+      "spelling": "基金",
+      "reading": "ききん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "基金【ききん】",
+      "meaning": "fondo; fundación"
+    },
+    {
+      "entryId": "1468540",
+      "spelling": "年金",
+      "reading": "ねんきん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "年金【ねんきん】",
+      "meaning": "pago anual; pensión (lit dinero del año)"
+    },
+    {
+      "entryId": "1242700",
+      "spelling": "金額",
+      "reading": "きんがく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "金額【きんがく】",
+      "meaning": "cantidad de dinero"
+    },
+    {
+      "entryId": "1263550",
+      "spelling": "現金",
+      "reading": "げんきん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "現金【げんきん】",
+      "meaning": "efectivo (dinero)"
+    },
+    {
+      "entryId": "1545020",
+      "spelling": "預金",
+      "reading": "よきん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "預金【よきん】",
+      "meaning": "cuenta bancaria; ahorros; depósito Bancario"
+    },
+    {
+      "entryId": "1243300",
+      "spelling": "金融機関",
+      "reading": "きんゆうきかん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "金融機関【きんゆうきかん】",
+      "meaning": "instituciones financieras"
+    },
+    {
+      "entryId": "1001820",
+      "spelling": "お金",
+      "reading": "おかね",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "お金【おかね】",
+      "meaning": "dinero"
+    },
+    {
+      "entryId": "1001820",
+      "spelling": "御金",
+      "reading": "おかね",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "御金【おかね】",
+      "meaning": "dinero"
+    },
+    {
+      "entryId": "1243040",
+      "spelling": "金ぞく",
+      "reading": "きんぞく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "金ぞく【きんぞく】",
+      "meaning": "metal precioso"
+    },
+    {
+      "entryId": "1243040",
+      "spelling": "金属",
+      "reading": "きんぞく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "金属【きんぞく】",
+      "meaning": "metal precioso"
+    },
+    {
+      "entryId": "1351930",
+      "spelling": "賞金",
+      "reading": "しょうきん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "賞金【しょうきん】",
+      "meaning": "premio; premio en metálico"
+    },
+    {
+      "entryId": "1427170",
+      "spelling": "貯金",
+      "reading": "ちょきん",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "貯金【ちょきん】",
+      "meaning": "ahorros (banco)"
+    },
+    {
+      "entryId": "1431990",
+      "spelling": "賃金",
+      "reading": "ちんきん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "賃金【ちんきん】",
+      "meaning": "paga; salario"
+    },
+    {
+      "entryId": "1431990",
+      "spelling": "賃金",
+      "reading": "ちんぎん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "賃金【ちんぎん】",
+      "meaning": "paga; salario"
+    },
+    {
+      "entryId": "1323940",
+      "spelling": "借金",
+      "reading": "しゃっきん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "借金【しゃっきん】",
+      "meaning": "deuda"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

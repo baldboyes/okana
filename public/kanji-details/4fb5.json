@@ -1,0 +1,130 @@
+{
+  "character": "侵",
+  "meanings": "invadir, asaltar, violar, traspasar",
+  "words": [
+    {
+      "entryId": "1595200",
+      "spelling": "侵掠",
+      "reading": "しんりゃく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "侵掠【しんりゃく】",
+      "meaning": "agresión; invasión; asalto"
+    },
+    {
+      "entryId": "1595200",
+      "spelling": "侵略",
+      "reading": "しんりゃく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "侵略【しんりゃく】",
+      "meaning": "agresión; invasión; asalto"
+    },
+    {
+      "entryId": "1359810",
+      "spelling": "侵害",
+      "reading": "しんがい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "侵害【しんがい】",
+      "meaning": "invasión; violación; vulneración"
+    },
+    {
+      "entryId": "1595140",
+      "spelling": "侵冦",
+      "reading": "しんこう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "侵冦【しんこう】",
+      "meaning": "invasión"
+    },
+    {
+      "entryId": "1595140",
+      "spelling": "侵攻",
+      "reading": "しんこう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "侵攻【しんこう】",
+      "meaning": "invasión"
+    },
+    {
+      "entryId": "1359850",
+      "spelling": "侵入",
+      "reading": "しんにゅう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "侵入【しんにゅう】",
+      "meaning": "invasión; intrusión; penetración"
+    },
+    {
+      "entryId": "1359800",
+      "spelling": "侵す",
+      "reading": "おかす",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "侵す【おかす】",
+      "meaning": "invadir; incursionar; entrar sin permiso; violar; meter por la fuerza"
+    },
+    {
+      "entryId": "1359880",
+      "spelling": "侵犯",
+      "reading": "しんぱん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "侵犯【しんぱん】",
+      "meaning": "invasión"
+    },
+    {
+      "entryId": "1362610",
+      "spelling": "侵水",
+      "reading": "しんすい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "侵水【しんすい】",
+      "meaning": "inundación"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

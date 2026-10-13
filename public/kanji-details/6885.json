@@ -1,0 +1,212 @@
+{
+  "character": "梅",
+  "meanings": "ciruela, ciruelo",
+  "words": [
+    {
+      "entryId": "1473460",
+      "spelling": "梅",
+      "reading": "うめ",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "梅【うめ】",
+      "meaning": "ciruela; ciruelo"
+    },
+    {
+      "entryId": "1473460",
+      "spelling": "梅",
+      "reading": "むめ",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "梅【むめ】",
+      "meaning": "ciruela; ciruelo"
+    },
+    {
+      "entryId": "1582960",
+      "spelling": "梅雨",
+      "reading": "つゆ",
+      "senseNumbers": [
+        9,
+        10
+      ],
+      "japanese": "梅雨【つゆ】",
+      "meaning": "estación lluviosa; temporada de lluvias; lluvia durante la temporada de lluvias"
+    },
+    {
+      "entryId": "1582960",
+      "spelling": "梅雨",
+      "reading": "ばいう",
+      "senseNumbers": [
+        9,
+        10
+      ],
+      "japanese": "梅雨【ばいう】",
+      "meaning": "estación lluviosa; temporada de lluvias; lluvia durante la temporada de lluvias"
+    },
+    {
+      "entryId": "1610440",
+      "spelling": "出梅",
+      "reading": "つゆあけ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "出梅【つゆあけ】",
+      "meaning": "fin de la estación de las lluvias"
+    },
+    {
+      "entryId": "1610440",
+      "spelling": "梅雨明け",
+      "reading": "つゆあけ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "梅雨明け【つゆあけ】",
+      "meaning": "fin de la estación de las lluvias"
+    },
+    {
+      "entryId": "1750210",
+      "spelling": "青梅",
+      "reading": "あおうめ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "青梅【あおうめ】",
+      "meaning": "ciruela verde"
+    },
+    {
+      "entryId": "1466690",
+      "spelling": "入梅",
+      "reading": "つゆいり",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "入梅【つゆいり】",
+      "meaning": "inicio de la estación de lluvias; comienzo de la estación de lluvias"
+    },
+    {
+      "entryId": "1466690",
+      "spelling": "梅雨入り",
+      "reading": "ついり",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "梅雨入り【ついり】",
+      "meaning": "inicio de la estación de lluvias; comienzo de la estación de lluvias"
+    },
+    {
+      "entryId": "1466690",
+      "spelling": "梅雨入り",
+      "reading": "つゆいり",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "梅雨入り【つゆいり】",
+      "meaning": "inicio de la estación de lluvias; comienzo de la estación de lluvias"
+    },
+    {
+      "entryId": "1473500",
+      "spelling": "梅干",
+      "reading": "うめぼし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "梅干【うめぼし】",
+      "meaning": "ciruela seca"
+    },
+    {
+      "entryId": "1473500",
+      "spelling": "梅干し",
+      "reading": "うめぼし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "梅干し【うめぼし】",
+      "meaning": "ciruela seca"
+    },
+    {
+      "entryId": "1466690",
+      "spelling": "入梅",
+      "reading": "ついり",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "入梅【ついり】",
+      "meaning": "inicio de la estación de lluvias; comienzo de la estación de lluvias"
+    },
+    {
+      "entryId": "1466690",
+      "spelling": "入梅",
+      "reading": "にゅうばい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "入梅【にゅうばい】",
+      "meaning": "inicio de la estación de lluvias; comienzo de la estación de lluvias"
+    },
+    {
+      "entryId": "1586960",
+      "spelling": "塩梅",
+      "reading": "あんばい",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "塩梅【あんばい】",
+      "meaning": "arreglo; asignación; ajuste; estado; condición; sazón; orden sucesivo"
+    },
+    {
+      "entryId": "1473520",
+      "spelling": "梅酒",
+      "reading": "うめしゅ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "梅酒【うめしゅ】",
+      "meaning": "licor de ciruela"
+    },
+    {
+      "entryId": "1601250",
+      "spelling": "梅毒",
+      "reading": "ばいどく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "梅毒【ばいどく】",
+      "meaning": "sífilis"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

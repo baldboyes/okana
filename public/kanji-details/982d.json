@@ -1,0 +1,241 @@
+{
+  "character": "頭",
+  "meanings": "cabeza, principio, delantera",
+  "words": [
+    {
+      "entryId": "1519860",
+      "spelling": "冒頭",
+      "reading": "ぼうとう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "冒頭【ぼうとう】",
+      "meaning": "comienzo; inicio"
+    },
+    {
+      "entryId": "1596210",
+      "spelling": "先頭",
+      "reading": "せんとう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "先頭【せんとう】",
+      "meaning": "(ir a) la cabeza; parte delantera; vanguardia"
+    },
+    {
+      "entryId": "1450860",
+      "spelling": "頭取",
+      "reading": "とうどり",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "頭取【とうどり】",
+      "meaning": "presidente (de banco)"
+    },
+    {
+      "entryId": "1204640",
+      "spelling": "街頭",
+      "reading": "がいとう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "街頭【がいとう】",
+      "meaning": "en la calle"
+    },
+    {
+      "entryId": "1469440",
+      "spelling": "念頭",
+      "reading": "ねんとう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "念頭【ねんとう】",
+      "meaning": "mente"
+    },
+    {
+      "entryId": "1450890",
+      "spelling": "頭痛",
+      "reading": "ずつう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "頭痛【ずつう】",
+      "meaning": "dolor de cabeza"
+    },
+    {
+      "entryId": "1450930",
+      "spelling": "頭部",
+      "reading": "とうぶ",
+      "senseNumbers": [
+        6,
+        7
+      ],
+      "japanese": "頭部【とうぶ】",
+      "meaning": "cabeza; cráneo; cefálico"
+    },
+    {
+      "entryId": "1205620",
+      "spelling": "核弾頭",
+      "reading": "かくだんとう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "核弾頭【かくだんとう】",
+      "meaning": "ojiva nuclear"
+    },
+    {
+      "entryId": "1276710",
+      "spelling": "口頭",
+      "reading": "こうとう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "口頭【こうとう】",
+      "meaning": "oral"
+    },
+    {
+      "entryId": "1419470",
+      "spelling": "弾頭",
+      "reading": "だんとう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "弾頭【だんとう】",
+      "meaning": "ojiva (arma)"
+    },
+    {
+      "entryId": "1450900",
+      "spelling": "頭脳",
+      "reading": "ずのう",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "頭脳【ずのう】",
+      "meaning": "cabeza; cerebro; intelecto"
+    },
+    {
+      "entryId": "1183980",
+      "spelling": "音頭",
+      "reading": "おんど",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "音頭【おんど】",
+      "meaning": "canciones de trabajadores; canción de marcha"
+    },
+    {
+      "entryId": "1631210",
+      "spelling": "口頭弁論",
+      "reading": "こうとうべんろん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "口頭弁論【こうとうべんろん】",
+      "meaning": "alegato oral; informe oral; exposición oral"
+    },
+    {
+      "entryId": "1582330",
+      "spelling": "頭打ち",
+      "reading": "あたまうち",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "頭打ち【あたまうち】",
+      "meaning": "llegar al tope; llegar al limite"
+    },
+    {
+      "entryId": "1582330",
+      "spelling": "頭打ち",
+      "reading": "ずうち",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "頭打ち【ずうち】",
+      "meaning": "llegar al tope; llegar al limite"
+    },
+    {
+      "entryId": "1582880",
+      "spelling": "年頭",
+      "reading": "としがしら",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "年頭【としがしら】",
+      "meaning": "de inicio de año"
+    },
+    {
+      "entryId": "1582880",
+      "spelling": "年頭",
+      "reading": "ねんとう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "年頭【ねんとう】",
+      "meaning": "de inicio de año"
+    },
+    {
+      "entryId": "1393770",
+      "spelling": "前頭",
+      "reading": "まえがしら",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "前頭【まえがしら】",
+      "meaning": "\"maegashira\" (categoría de sumo inferior a komusubi)"
+    },
+    {
+      "entryId": "1522010",
+      "spelling": "没頭",
+      "reading": "ぼっとう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "没頭【ぼっとう】",
+      "meaning": "inmerso; sumergido"
+    },
+    {
+      "entryId": "1450910",
+      "spelling": "頭髪",
+      "reading": "とうはつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "頭髪【とうはつ】",
+      "meaning": "pelo (de la cabeza); cabello"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

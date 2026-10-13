@@ -1,0 +1,160 @@
+{
+  "character": "燃",
+  "meanings": "quemar, quemarse, arder",
+  "words": [
+    {
+      "entryId": "1469660",
+      "spelling": "燃料",
+      "reading": "ねんりょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "燃料【ねんりょう】",
+      "meaning": "combustible"
+    },
+    {
+      "entryId": "1205630",
+      "spelling": "核燃料",
+      "reading": "かくねんりょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "核燃料【かくねんりょう】",
+      "meaning": "combustible nuclear"
+    },
+    {
+      "entryId": "1469640",
+      "spelling": "燃焼",
+      "reading": "ねんしょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "燃焼【ねんしょう】",
+      "meaning": "quema; consumo (de combustible); combustión"
+    },
+    {
+      "entryId": "1469650",
+      "spelling": "燃費",
+      "reading": "ねんぴ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "燃費【ねんぴ】",
+      "meaning": "consumo de combustible"
+    },
+    {
+      "entryId": "1469570",
+      "spelling": "燃える",
+      "reading": "もえる",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "燃える【もえる】",
+      "meaning": "quemar; prender fuego"
+    },
+    {
+      "entryId": "1582900",
+      "spelling": "燃す",
+      "reading": "もやす",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "燃す【もやす】",
+      "meaning": "quemar; arder"
+    },
+    {
+      "entryId": "1191050",
+      "spelling": "可燃物",
+      "reading": "かねんぶつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "可燃物【かねんぶつ】",
+      "meaning": "combustible"
+    },
+    {
+      "entryId": "1582900",
+      "spelling": "燃やす",
+      "reading": "もやす",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "燃やす【もやす】",
+      "meaning": "quemar; arder"
+    },
+    {
+      "entryId": "1611430",
+      "spelling": "不燃物",
+      "reading": "ふねんぶつ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "不燃物【ふねんぶつ】",
+      "meaning": "materiales incombustibles"
+    },
+    {
+      "entryId": "1494510",
+      "spelling": "不燃",
+      "reading": "ふねん",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "不燃【ふねん】",
+      "meaning": "ignífugo; ininflamable; incombustible"
+    },
+    {
+      "entryId": "1832220",
+      "spelling": "難燃加工",
+      "reading": "なんねんかこう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "難燃加工【なんねんかこう】",
+      "meaning": "a prueba de fuego"
+    },
+    {
+      "entryId": "1582900",
+      "spelling": "燃す",
+      "reading": "もす",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "燃す【もす】",
+      "meaning": "quemar; arder"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

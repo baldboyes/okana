@@ -1,0 +1,200 @@
+{
+  "character": "頂",
+  "meanings": "cima, cumbre, colocar sobre, recibir, comer, beber (humilde)",
+  "words": [
+    {
+      "entryId": "1430240",
+      "spelling": "頂点",
+      "reading": "ちょうてん",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "頂点【ちょうてん】",
+      "meaning": "cima; pico; cumbre"
+    },
+    {
+      "entryId": "1546750",
+      "spelling": "要頂",
+      "reading": "ようこう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "要頂【ようこう】",
+      "meaning": "puntos importantes"
+    },
+    {
+      "entryId": "1430220",
+      "spelling": "頂上",
+      "reading": "ちょうじょう",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "頂上【ちょうじょう】",
+      "meaning": "cima"
+    },
+    {
+      "entryId": "1430200",
+      "spelling": "頂",
+      "reading": "いただき",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "頂【いただき】",
+      "meaning": "me lo quedo; cumbre; cima; culmen; cúspide"
+    },
+    {
+      "entryId": "1430200",
+      "spelling": "頂き",
+      "reading": "いただき",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "頂き【いただき】",
+      "meaning": "me lo quedo; cumbre; cima; culmen; cúspide"
+    },
+    {
+      "entryId": "1386930",
+      "spelling": "絶頂",
+      "reading": "ぜっちょう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "絶頂【ぜっちょう】",
+      "meaning": "cima; cumbre; pico; clímax"
+    },
+    {
+      "entryId": "1541540",
+      "spelling": "宇頂天",
+      "reading": "うちょうてん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "宇頂天【うちょうてん】",
+      "meaning": "éxtasis"
+    },
+    {
+      "entryId": "1541540",
+      "spelling": "有頂天",
+      "reading": "うちょうてん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "有頂天【うちょうてん】",
+      "meaning": "éxtasis"
+    },
+    {
+      "entryId": "1541540",
+      "spelling": "有頂点",
+      "reading": "うちょうてん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "有頂点【うちょうてん】",
+      "meaning": "éxtasis"
+    },
+    {
+      "entryId": "1430230",
+      "spelling": "頂だい",
+      "reading": "ちょうだい",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "頂だい【ちょうだい】",
+      "meaning": "por favor"
+    },
+    {
+      "entryId": "1430230",
+      "spelling": "頂戴",
+      "reading": "ちょうだい",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "頂戴【ちょうだい】",
+      "meaning": "por favor"
+    },
+    {
+      "entryId": "1430230",
+      "spelling": "頂戴",
+      "reading": "ちょーだい",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "頂戴【ちょーだい】",
+      "meaning": "por favor"
+    },
+    {
+      "entryId": "1430230",
+      "spelling": "頂載",
+      "reading": "ちょうだい",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "頂載【ちょうだい】",
+      "meaning": "por favor"
+    },
+    {
+      "entryId": "1410800",
+      "spelling": "頂きます",
+      "reading": "いただきます",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "頂きます【いただきます】",
+      "meaning": "Buen provecho (antes de comer)"
+    },
+    {
+      "entryId": "1440340",
+      "spelling": "頂辺",
+      "reading": "てっぺん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "頂辺【てっぺん】",
+      "meaning": "cima; cumbre; cresta"
+    },
+    {
+      "entryId": "1587290",
+      "spelling": "頂く",
+      "reading": "いただく",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "頂く【いただく】",
+      "meaning": "recibir; comer; beber; vivir bajo (un gobernante); ser coronado con; instalar (un presidente); aceptar; comprar; tomar; coger; recibir (humilde); recibir de alguien superior; comer o beber; adquirir"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "character": "率",
+  "meanings": "proporción, tasa, dirigir, mandar, verdad, franqueza, indiscreción, liderar, encabezar",
+  "words": [
+    {
+      "entryId": "1483680",
+      "spelling": "比率",
+      "reading": "ひりつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "比率【ひりつ】",
+      "meaning": "razón; proporción; porcentaje"
+    },
+    {
+      "entryId": "1275210",
+      "spelling": "効率",
+      "reading": "こうりつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "効率【こうりつ】",
+      "meaning": "eficiencia"
+    },
+    {
+      "entryId": "1596570",
+      "spelling": "率直",
+      "reading": "そっちょく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "率直【そっちょく】",
+      "meaning": "la franqueza"
+    },
+    {
+      "entryId": "1167250",
+      "spelling": "一率",
+      "reading": "いちりつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "一率【いちりつ】",
+      "meaning": "igualdad; uniformidad; monotonía"
+    },
+    {
+      "entryId": "1205950",
+      "spelling": "確率",
+      "reading": "かくりつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "確率【かくりつ】",
+      "meaning": "probabilidad"
+    },
+    {
+      "entryId": "1473340",
+      "spelling": "倍率",
+      "reading": "ばいりつ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "倍率【ばいりつ】",
+      "meaning": "aumento"
+    },
+    {
+      "entryId": "1549680",
+      "spelling": "利率",
+      "reading": "りりつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "利率【りりつ】",
+      "meaning": "tipo de interés"
+    },
+    {
+      "entryId": "1275240",
+      "spelling": "効率的",
+      "reading": "こうりつてき",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "効率的【こうりつてき】",
+      "meaning": "eficaz; eficiente"
+    },
+    {
+      "entryId": "1310990",
+      "spelling": "死亡率",
+      "reading": "しぼうりつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "死亡率【しぼうりつ】",
+      "meaning": "índice de mortalidad; tasa de mortalidad; mortalidad"
+    },
+    {
+      "entryId": "1657240",
+      "spelling": "高率",
+      "reading": "こうりつ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "高率【こうりつ】",
+      "meaning": "alto interés"
+    },
+    {
+      "entryId": "1706730",
+      "spelling": "勝率",
+      "reading": "しょうりつ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "勝率【しょうりつ】",
+      "meaning": "porcentaje de ganancia"
+    },
+    {
+      "entryId": "1470330",
+      "spelling": "能率",
+      "reading": "のうりつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "能率【のうりつ】",
+      "meaning": "eficiencia; rendimiento"
+    },
+    {
+      "entryId": "1252910",
+      "spelling": "軽率",
+      "reading": "けいそつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "軽率【けいそつ】",
+      "meaning": "abrupto; áspero"
+    },
+    {
+      "entryId": "1551210",
+      "spelling": "率いる",
+      "reading": "ひきいる",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "率いる【ひきいる】",
+      "meaning": "guiar; conducir; dirigir; encabezar"
+    },
+    {
+      "entryId": "1596560",
+      "spelling": "率先",
+      "reading": "そっせん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "率先【そっせん】",
+      "meaning": "tomar la iniciativa"
+    },
+    {
+      "entryId": "1551200",
+      "spelling": "率",
+      "reading": "りつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "率【りつ】",
+      "meaning": "proporción; tasa; escala"
+    },
+    {
+      "entryId": "1169710",
+      "spelling": "引率",
+      "reading": "いんそつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "引率【いんそつ】",
+      "meaning": "a la cabeza; que está al mando"
+    },
+    {
+      "entryId": "1449840",
+      "spelling": "統率",
+      "reading": "とうそつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "統率【とうそつ】",
+      "meaning": "mando; dirección; liderazgo"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

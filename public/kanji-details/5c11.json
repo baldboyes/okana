@@ -1,0 +1,242 @@
+{
+  "character": "少",
+  "meanings": "poco, pequeño, un poco, apenas",
+  "words": [
+    {
+      "entryId": "1348870",
+      "spelling": "少し",
+      "reading": "すこし",
+      "senseNumbers": [
+        17,
+        18,
+        19
+      ],
+      "japanese": "少し【すこし】",
+      "meaning": "pequeña cantidad; poco; pocos; algo; ratito; breve tiempo; distancia corta"
+    },
+    {
+      "entryId": "1349170",
+      "spelling": "少年",
+      "reading": "しょうねん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "少年【しょうねん】",
+      "meaning": "muchacho; chico; jovencito"
+    },
+    {
+      "entryId": "1595610",
+      "spelling": "少くとも",
+      "reading": "すくなくとも",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "少くとも【すくなくとも】",
+      "meaning": "al menos"
+    },
+    {
+      "entryId": "1595610",
+      "spelling": "少なくとも",
+      "reading": "すくなくとも",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "少なくとも【すくなくとも】",
+      "meaning": "al menos"
+    },
+    {
+      "entryId": "1263210",
+      "spelling": "減少",
+      "reading": "げんしょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "減少【げんしょう】",
+      "meaning": "disminución; aminoración; baja"
+    },
+    {
+      "entryId": "1349070",
+      "spelling": "少数",
+      "reading": "しょうすう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "少数【しょうすう】",
+      "meaning": "minoría"
+    },
+    {
+      "entryId": "1580290",
+      "spelling": "少女",
+      "reading": "しょうじょ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "少女【しょうじょ】",
+      "meaning": "muchacha; jovencita; virgen; chica; doncella; niñita"
+    },
+    {
+      "entryId": "1337630",
+      "spelling": "縮少",
+      "reading": "しゅくしょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "縮少【しゅくしょう】",
+      "meaning": "reducción; encogimiento"
+    },
+    {
+      "entryId": "1407810",
+      "spelling": "多少",
+      "reading": "たしょう",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "多少【たしょう】",
+      "meaning": "cantidad; hasta cierto grado; algo"
+    },
+    {
+      "entryId": "1381570",
+      "spelling": "青少年",
+      "reading": "せいしょうねん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "青少年【せいしょうねん】",
+      "meaning": "(sp) la juventud (los jóvenes)"
+    },
+    {
+      "entryId": "1294020",
+      "spelling": "最少限",
+      "reading": "さいしょうげん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "最少限【さいしょうげん】",
+      "meaning": "más pequeño; al mínimo"
+    },
+    {
+      "entryId": "1844500",
+      "spelling": "早少女",
+      "reading": "さおとめ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "早少女【さおとめ】",
+      "meaning": "mujer joven plantadora de arroz; jovencita"
+    },
+    {
+      "entryId": "1595030",
+      "spelling": "少量",
+      "reading": "しょうりょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "少量【しょうりょう】",
+      "meaning": "cantidad pequeña; poco"
+    },
+    {
+      "entryId": "2006790",
+      "spelling": "最年少",
+      "reading": "さいねんしょう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "最年少【さいねんしょう】",
+      "meaning": "(el) más joven"
+    },
+    {
+      "entryId": "1594930",
+      "spelling": "少々",
+      "reading": "しょうしょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "少々【しょうしょう】",
+      "meaning": "un poco; una pizca; escasa cantidad; normal y corriente; (exp,n-adv,n) sólo un minuto; pequeña cantidad"
+    },
+    {
+      "entryId": "1594930",
+      "spelling": "少少",
+      "reading": "しょうしょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "少少【しょうしょう】",
+      "meaning": "un poco; una pizca; escasa cantidad; normal y corriente; (exp,n-adv,n) sólo un minuto; pequeña cantidad"
+    },
+    {
+      "entryId": "1348910",
+      "spelling": "少い",
+      "reading": "すくない",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "少い【すくない】",
+      "meaning": "poco; un poco; escaso; insuficiente; raramente"
+    },
+    {
+      "entryId": "1348910",
+      "spelling": "少ない",
+      "reading": "すくない",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "少ない【すくない】",
+      "meaning": "poco; un poco; escaso; insuficiente; raramente"
+    },
+    {
+      "entryId": "1595600",
+      "spelling": "少なからず",
+      "reading": "すくなからず",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "少なからず【すくなからず】",
+      "meaning": "no poco(s); mucho; en gran medida"
+    },
+    {
+      "entryId": "1222880",
+      "spelling": "希少",
+      "reading": "きしょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "希少【きしょう】",
+      "meaning": "escaso; poco común; raro"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

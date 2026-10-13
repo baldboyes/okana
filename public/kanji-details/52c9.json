@@ -1,0 +1,92 @@
+{
+  "character": "勉",
+  "meanings": "esforzarse, ejercitarse",
+  "words": [
+    {
+      "entryId": "1512670",
+      "spelling": "勉強",
+      "reading": "べんきょう",
+      "senseNumbers": [
+        20,
+        21,
+        22
+      ],
+      "japanese": "勉強【べんきょう】",
+      "meaning": "estudio; diligencia; descuento; reducción"
+    },
+    {
+      "entryId": "1240820",
+      "spelling": "勉める",
+      "reading": "つとめる",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "勉める【つとめる】",
+      "meaning": "servir; estar empleado; esforzarse por; tratar de; procurar; intentar denodadamente que"
+    },
+    {
+      "entryId": "1241060",
+      "spelling": "勤勉",
+      "reading": "きんべん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "勤勉【きんべん】",
+      "meaning": "diligencia; esmero; dedicación"
+    },
+    {
+      "entryId": "1512660",
+      "spelling": "勉学",
+      "reading": "べんがく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "勉学【べんがく】",
+      "meaning": "estudio; aprendizaje"
+    },
+    {
+      "entryId": "1445110",
+      "spelling": "勉めて",
+      "reading": "つとめて",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "勉めて【つとめて】",
+      "meaning": "todo lo posible; en la medida de lo posible"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

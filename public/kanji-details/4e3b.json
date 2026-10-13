@@ -1,0 +1,240 @@
+{
+  "character": "主",
+  "meanings": "señor, jefe, dueño, patrón",
+  "words": [
+    {
+      "entryId": "1329360",
+      "spelling": "主脳",
+      "reading": "しゅのう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "主脳【しゅのう】",
+      "meaning": "cabeza; jefe; líder"
+    },
+    {
+      "entryId": "1528790",
+      "spelling": "民主",
+      "reading": "みんしゅ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "民主【みんしゅ】",
+      "meaning": "democrático"
+    },
+    {
+      "entryId": "1325260",
+      "spelling": "主義",
+      "reading": "しゅぎ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "主義【しゅぎ】",
+      "meaning": "doctrina (sistema de pensamiento); -ísmo (doctrina de ~)"
+    },
+    {
+      "entryId": "1325450",
+      "spelling": "主催",
+      "reading": "しゅさい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "主催【しゅさい】",
+      "meaning": "organizar; promover; organización; promoción; patrocinio"
+    },
+    {
+      "entryId": "1325740",
+      "spelling": "主席",
+      "reading": "しゅせき",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "主席【しゅせき】",
+      "meaning": "jefe"
+    },
+    {
+      "entryId": "1325910",
+      "spelling": "主張",
+      "reading": "しゅちょう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "主張【しゅちょう】",
+      "meaning": "insistir; reclamar; exigir; insistencia; opinión (propia)"
+    },
+    {
+      "entryId": "1326160",
+      "spelling": "主婦",
+      "reading": "しゅふ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "主婦【しゅふ】",
+      "meaning": "ama de casa; señora"
+    },
+    {
+      "entryId": "1326320",
+      "spelling": "主要",
+      "reading": "しゅよう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "主要【しゅよう】",
+      "meaning": "importante"
+    },
+    {
+      "entryId": "1528880",
+      "spelling": "民主党",
+      "reading": "みんしゅとう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "民主党【みんしゅとう】",
+      "meaning": "partido demócrata"
+    },
+    {
+      "entryId": "1209010",
+      "spelling": "株主",
+      "reading": "かぶぬし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "株主【かぶぬし】",
+      "meaning": "accionista"
+    },
+    {
+      "entryId": "1317860",
+      "spelling": "自主",
+      "reading": "じしゅ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "自主【じしゅ】",
+      "meaning": "independencia; autonomía"
+    },
+    {
+      "entryId": "1322740",
+      "spelling": "社会主義",
+      "reading": "しゃかいしゅぎ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "社会主義【しゃかいしゅぎ】",
+      "meaning": "socialismo"
+    },
+    {
+      "entryId": "1528840",
+      "spelling": "民主主義",
+      "reading": "みんしゅしゅぎ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "民主主義【みんしゅしゅぎ】",
+      "meaning": "democracia"
+    },
+    {
+      "entryId": "1594690",
+      "spelling": "主位",
+      "reading": "しゅい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "主位【しゅい】",
+      "meaning": "primera posición; primer puesto"
+    },
+    {
+      "entryId": "1325360",
+      "spelling": "主権",
+      "reading": "しゅけん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "主権【しゅけん】",
+      "meaning": "soberanía; supremacía; dominio"
+    },
+    {
+      "entryId": "1325360",
+      "spelling": "主權",
+      "reading": "しゅけん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "主權【しゅけん】",
+      "meaning": "soberanía; supremacía; dominio"
+    },
+    {
+      "entryId": "1325840",
+      "spelling": "主体",
+      "reading": "しゅたい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "主体【しゅたい】",
+      "meaning": "sujeto; objeto; individuo"
+    },
+    {
+      "entryId": "1328990",
+      "spelling": "主旨",
+      "reading": "しゅし",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "主旨【しゅし】",
+      "meaning": "propósito; intención"
+    },
+    {
+      "entryId": "1326040",
+      "spelling": "主任",
+      "reading": "しゅにん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "主任【しゅにん】",
+      "meaning": "jefe; director; superior"
+    },
+    {
+      "entryId": "1326290",
+      "spelling": "主役",
+      "reading": "しゅやく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "主役【しゅやく】",
+      "meaning": "protagonista"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

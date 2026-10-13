@@ -1,0 +1,154 @@
+{
+  "character": "枚",
+  "meanings": "contar, contador para objetos delgados y planos, antiguamente dinero",
+  "words": [
+    {
+      "entryId": "1166710",
+      "spelling": "一枚",
+      "reading": "いちまい",
+      "senseNumbers": [
+        9,
+        10
+      ],
+      "japanese": "一枚【いちまい】",
+      "meaning": "un objeto delgado; una hoja"
+    },
+    {
+      "entryId": "1166710",
+      "spelling": "１枚",
+      "reading": "いちまい",
+      "senseNumbers": [
+        9,
+        10
+      ],
+      "japanese": "１枚【いちまい】",
+      "meaning": "un objeto delgado; una hoja"
+    },
+    {
+      "entryId": "1954200",
+      "spelling": "二枚",
+      "reading": "にまい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "二枚【にまい】",
+      "meaning": "dos hojas (trozos) (de papel)"
+    },
+    {
+      "entryId": "1954200",
+      "spelling": "２枚",
+      "reading": "にまい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "２枚【にまい】",
+      "meaning": "dos hojas (trozos) (de papel)"
+    },
+    {
+      "entryId": "1166750",
+      "spelling": "一枚岩",
+      "reading": "いちまいいわ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "一枚岩【いちまいいわ】",
+      "meaning": "monolítico"
+    },
+    {
+      "entryId": "1301680",
+      "spelling": "三枚",
+      "reading": "さんまい",
+      "senseNumbers": [
+        6,
+        7
+      ],
+      "japanese": "三枚【さんまい】",
+      "meaning": "tres objetos planos (ej. boletos, trozos de tela, etc.); fileteando (un pescado)"
+    },
+    {
+      "entryId": "1301680",
+      "spelling": "３枚",
+      "reading": "さんまい",
+      "senseNumbers": [
+        6,
+        7
+      ],
+      "japanese": "３枚【さんまい】",
+      "meaning": "tres objetos planos (ej. boletos, trozos de tela, etc.); fileteando (un pescado)"
+    },
+    {
+      "entryId": "1463210",
+      "spelling": "二枚目",
+      "reading": "にまいめ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "二枚目【にまいめ】",
+      "meaning": "guapo; galán; guaperas"
+    },
+    {
+      "entryId": "1524610",
+      "spelling": "枚",
+      "reading": "まい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "枚【まい】",
+      "meaning": "contador para objetos delgados (papeles, billetes)"
+    },
+    {
+      "entryId": "1524620",
+      "spelling": "枚挙",
+      "reading": "まいきょ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "枚挙【まいきょ】",
+      "meaning": "enumeración"
+    },
+    {
+      "entryId": "1166740",
+      "spelling": "一枚看板",
+      "reading": "いちまいかんばん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "一枚看板【いちまいかんばん】",
+      "meaning": "un jugador puntero; su mejor domingo único; el mejor artículo que uno tiene (para mostrar)"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

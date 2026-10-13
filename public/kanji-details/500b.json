@@ -1,0 +1,226 @@
+{
+  "character": "個",
+  "meanings": "individuo, individual, contador para objetos pequeños",
+  "words": [
+    {
+      "entryId": "1264770",
+      "spelling": "個人",
+      "reading": "こじん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "個人【こじん】",
+      "meaning": "personal"
+    },
+    {
+      "entryId": "1265000",
+      "spelling": "個別",
+      "reading": "こべつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "個別【こべつ】",
+      "meaning": "separado; aparte"
+    },
+    {
+      "entryId": "1264960",
+      "spelling": "個性",
+      "reading": "こせい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "個性【こせい】",
+      "meaning": "yo en lo personal; (mi opinión personal es que); individualidad personal"
+    },
+    {
+      "entryId": "1593190",
+      "spelling": "個々",
+      "reading": "ここ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "個々【ここ】",
+      "meaning": "individual; uno por uno; separado"
+    },
+    {
+      "entryId": "1593190",
+      "spelling": "個個",
+      "reading": "ここ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "個個【ここ】",
+      "meaning": "individual; uno por uno; separado"
+    },
+    {
+      "entryId": "1162290",
+      "spelling": "一個",
+      "reading": "いっこ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "一個【いっこ】",
+      "meaning": "pieza; fragmento; un objeto; un (objecto)"
+    },
+    {
+      "entryId": "1162290",
+      "spelling": "１個",
+      "reading": "いっこ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "１個【いっこ】",
+      "meaning": "pieza; fragmento; un objeto; un (objecto)"
+    },
+    {
+      "entryId": "1509710",
+      "spelling": "別個",
+      "reading": "べっこ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "別個【べっこ】",
+      "meaning": "aparte; por separado"
+    },
+    {
+      "entryId": "1264750",
+      "spelling": "個室",
+      "reading": "こしつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "個室【こしつ】",
+      "meaning": "cuarto privado; habitación privada"
+    },
+    {
+      "entryId": "1264980",
+      "spelling": "個体",
+      "reading": "こたい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "個体【こたい】",
+      "meaning": "cuerpo sólido"
+    },
+    {
+      "entryId": "1194480",
+      "spelling": "個月",
+      "reading": "かげつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "個月【かげつ】",
+      "meaning": "(número de) meses"
+    },
+    {
+      "entryId": "1264740",
+      "spelling": "個",
+      "reading": "こ",
+      "senseNumbers": [
+        14,
+        15,
+        16
+      ],
+      "japanese": "個【こ】",
+      "meaning": "(contador para huevos; etc); contador para artículos; contador para unidades militares; individual"
+    },
+    {
+      "entryId": "1264740",
+      "spelling": "個",
+      "reading": "ケ",
+      "senseNumbers": [
+        14,
+        15,
+        16
+      ],
+      "japanese": "個【ケ】",
+      "meaning": "(contador para huevos; etc); contador para artículos; contador para unidades militares; individual"
+    },
+    {
+      "entryId": "1264740",
+      "spelling": "個",
+      "reading": "ヶ",
+      "senseNumbers": [
+        14,
+        15,
+        16
+      ],
+      "japanese": "個【ヶ】",
+      "meaning": "(contador para huevos; etc); contador para artículos; contador para unidades militares; individual"
+    },
+    {
+      "entryId": "1264970",
+      "spelling": "個性的",
+      "reading": "こせいてき",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "個性的【こせいてき】",
+      "meaning": "individual (personal)"
+    },
+    {
+      "entryId": "1576010",
+      "spelling": "一個人",
+      "reading": "いちこじん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "一個人【いちこじん】",
+      "meaning": "soldado raso; individual"
+    },
+    {
+      "entryId": "1576010",
+      "spelling": "一個人",
+      "reading": "いっこじん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "一個人【いっこじん】",
+      "meaning": "soldado raso; individual"
+    },
+    {
+      "entryId": "1593250",
+      "spelling": "個数",
+      "reading": "こすう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "個数【こすう】",
+      "meaning": "número de cosas; número de personas"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "character": "板",
+  "meanings": "tabla, tablero, placa",
+  "words": [
+    {
+      "entryId": "1340030",
+      "spelling": "出板",
+      "reading": "しゅっぱん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "出板【しゅっぱん】",
+      "meaning": "publicar; editar; publicación"
+    },
+    {
+      "entryId": "1213990",
+      "spelling": "看板",
+      "reading": "かんばん",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "看板【かんばん】",
+      "meaning": "letrero; cartel; rótulo"
+    },
+    {
+      "entryId": "1481350",
+      "spelling": "板",
+      "reading": "いた",
+      "senseNumbers": [
+        28
+      ],
+      "japanese": "板【いた】",
+      "meaning": "tablero"
+    },
+    {
+      "entryId": "1481510",
+      "spelling": "板画",
+      "reading": "はんが",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "板画【はんが】",
+      "meaning": "gravado de madera"
+    },
+    {
+      "entryId": "1732690",
+      "spelling": "板門店",
+      "reading": "はんもんてん",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "板門店【はんもんてん】",
+      "meaning": "Panmunjon"
+    },
+    {
+      "entryId": "1732690",
+      "spelling": "板門店",
+      "reading": "パンムンジョム",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "板門店【パンムンジョム】",
+      "meaning": "Panmunjon"
+    },
+    {
+      "entryId": "1288080",
+      "spelling": "黒板",
+      "reading": "こくばん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "黒板【こくばん】",
+      "meaning": "pizarra; (am) pizarrón; encerado"
+    },
+    {
+      "entryId": "1578750",
+      "spelling": "甲板",
+      "reading": "かんぱん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "甲板【かんぱん】",
+      "meaning": "cubierta de un buque"
+    },
+    {
+      "entryId": "1578750",
+      "spelling": "甲板",
+      "reading": "こうはん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "甲板【こうはん】",
+      "meaning": "cubierta de un buque"
+    },
+    {
+      "entryId": "1119780",
+      "spelling": "ベニヤ板",
+      "reading": "ベニヤいた",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "ベニヤ板【ベニヤいた】",
+      "meaning": "contrachapado (eng: plywood); madera contrachapada"
+    },
+    {
+      "entryId": "1250630",
+      "spelling": "掲示板",
+      "reading": "けいじばん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "掲示板【けいじばん】",
+      "meaning": "cartelera; tablero; anuncio"
+    },
+    {
+      "entryId": "1590710",
+      "spelling": "軽板",
+      "reading": "カルタ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "軽板【カルタ】",
+      "meaning": "juego de cartas japonesas"
+    },
+    {
+      "entryId": "1604140",
+      "spelling": "まな板",
+      "reading": "まないた",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "まな板【まないた】",
+      "meaning": "tabla para cortar; tabla de cocina"
+    },
+    {
+      "entryId": "1604140",
+      "spelling": "俎板",
+      "reading": "まないた",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "俎板【まないた】",
+      "meaning": "tabla para cortar; tabla de cocina"
+    },
+    {
+      "entryId": "1604140",
+      "spelling": "真魚板",
+      "reading": "まないた",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "真魚板【まないた】",
+      "meaning": "tabla para cortar; tabla de cocina"
+    },
+    {
+      "entryId": "1481390",
+      "spelling": "板前",
+      "reading": "いたまえ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "板前【いたまえ】",
+      "meaning": "chef; cocinero"
+    },
+    {
+      "entryId": "1362320",
+      "spelling": "志ん板",
+      "reading": "しんぱん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "志ん板【しんぱん】",
+      "meaning": "nuevo; flamante"
+    },
+    {
+      "entryId": "1362320",
+      "spelling": "新板",
+      "reading": "しんぱん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "新板【しんぱん】",
+      "meaning": "nuevo; flamante"
+    },
+    {
+      "entryId": "1475640",
+      "spelling": "薄板",
+      "reading": "うすいた",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "薄板【うすいた】",
+      "meaning": "panel; tablero; plancha"
+    },
+    {
+      "entryId": "1507770",
+      "spelling": "平板",
+      "reading": "へいばん",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "平板【へいばん】",
+      "meaning": "llano (sin relieves; fig sin ninguna cosa de interés buena o mala)"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

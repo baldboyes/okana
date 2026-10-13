@@ -1,0 +1,196 @@
+{
+  "character": "札",
+  "meanings": "etiqueta, papel moneda, billete, tarjeta señal",
+  "words": [
+    {
+      "entryId": "1466180",
+      "spelling": "入札",
+      "reading": "にゅうさつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "入札【にゅうさつ】",
+      "meaning": "licitación; oferta"
+    },
+    {
+      "entryId": "1298970",
+      "spelling": "札",
+      "reading": "ふだ",
+      "senseNumbers": [
+        28,
+        29,
+        30
+      ],
+      "japanese": "札【ふだ】",
+      "meaning": "ficha; etiqueta; boleto; ticket; tarjeta; amuleto; talisman"
+    },
+    {
+      "entryId": "1298970",
+      "spelling": "札",
+      "reading": "ふみた",
+      "senseNumbers": [
+        28,
+        29,
+        30
+      ],
+      "japanese": "札【ふみた】",
+      "meaning": "ficha; etiqueta; boleto; ticket; tarjeta; amuleto; talisman"
+    },
+    {
+      "entryId": "1298970",
+      "spelling": "札",
+      "reading": "ふんだ",
+      "senseNumbers": [
+        28,
+        29,
+        30
+      ],
+      "japanese": "札【ふんだ】",
+      "meaning": "ficha; etiqueta; boleto; ticket; tarjeta; amuleto; talisman"
+    },
+    {
+      "entryId": "1548750",
+      "spelling": "落札",
+      "reading": "らくさつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "落札【らくさつ】",
+      "meaning": "oferta; puja"
+    },
+    {
+      "entryId": "1200840",
+      "spelling": "改札",
+      "reading": "かいさつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "改札【かいさつ】",
+      "meaning": "billete; cupón; entrada; pase; tique; boleta; vale; volante"
+    },
+    {
+      "entryId": "1955870",
+      "spelling": "応札",
+      "reading": "おうさつ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "応札【おうさつ】",
+      "meaning": "puja; oferta"
+    },
+    {
+      "entryId": "1531510",
+      "spelling": "名札",
+      "reading": "なふだ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "名札【なふだ】",
+      "meaning": "etiqueta (de identificación)"
+    },
+    {
+      "entryId": "1610730",
+      "spelling": "立て札",
+      "reading": "たてふだ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "立て札【たてふだ】",
+      "meaning": "letrero; rótulo"
+    },
+    {
+      "entryId": "1610730",
+      "spelling": "立札",
+      "reading": "たてふだ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "立札【たてふだ】",
+      "meaning": "letrero; rótulo"
+    },
+    {
+      "entryId": "1195280",
+      "spelling": "荷札",
+      "reading": "にふだ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "荷札【にふだ】",
+      "meaning": "etiqueta"
+    },
+    {
+      "entryId": "1200850",
+      "spelling": "改札口",
+      "reading": "かいさつぐち",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "改札口【かいさつぐち】",
+      "meaning": "garita"
+    },
+    {
+      "entryId": "1298960",
+      "spelling": "札",
+      "reading": "さつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "札【さつ】",
+      "meaning": "billete (papel moneda)"
+    },
+    {
+      "entryId": "1388790",
+      "spelling": "千円札",
+      "reading": "せんえんさつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "千円札【せんえんさつ】",
+      "meaning": "billete de 1000 yenes"
+    },
+    {
+      "entryId": "1388790",
+      "spelling": "１０００円札",
+      "reading": "せんえんさつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "１０００円札【せんえんさつ】",
+      "meaning": "billete de 1000 yenes"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

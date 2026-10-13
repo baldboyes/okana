@@ -1,0 +1,240 @@
+{
+  "character": "品",
+  "meanings": "producto, artículo, bienes",
+  "words": [
+    {
+      "entryId": "1297910",
+      "spelling": "作品",
+      "reading": "さくひん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "作品【さくひん】",
+      "meaning": "obra (creación o trabajo de un artista, obra de arte)"
+    },
+    {
+      "entryId": "1347310",
+      "spelling": "商品",
+      "reading": "しょうひん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "商品【しょうひん】",
+      "meaning": "artículo; producto; mercancía"
+    },
+    {
+      "entryId": "1380760",
+      "spelling": "製品",
+      "reading": "せいひん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "製品【せいひん】",
+      "meaning": "producto"
+    },
+    {
+      "entryId": "1358600",
+      "spelling": "食品",
+      "reading": "しょくひん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "食品【しょくひん】",
+      "meaning": "mercancía; mercadería; comida; alimentos; víveres"
+    },
+    {
+      "entryId": "1499480",
+      "spelling": "部品",
+      "reading": "ぶひん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "部品【ぶひん】",
+      "meaning": "partes; refacciones; piezas"
+    },
+    {
+      "entryId": "1160110",
+      "spelling": "医薬品",
+      "reading": "いやくひん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "医薬品【いやくひん】",
+      "meaning": "suministros médicos"
+    },
+    {
+      "entryId": "1490580",
+      "spelling": "品質",
+      "reading": "ひんしつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "品質【ひんしつ】",
+      "meaning": "calidad (material)"
+    },
+    {
+      "entryId": "1546400",
+      "spelling": "用品",
+      "reading": "ようひん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "用品【ようひん】",
+      "meaning": "útiles; utensilios; instrumentos"
+    },
+    {
+      "entryId": "1490620",
+      "spelling": "品種",
+      "reading": "ひんしゅ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "品種【ひんしゅ】",
+      "meaning": "forma; raza (taxonomía); f. (abreviatura del latín \"forma\"); marca; tipo; clase"
+    },
+    {
+      "entryId": "1490700",
+      "spelling": "品目",
+      "reading": "しなめ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "品目【しなめ】",
+      "meaning": "lista de artículos"
+    },
+    {
+      "entryId": "1490700",
+      "spelling": "品目",
+      "reading": "ひんもく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "品目【ひんもく】",
+      "meaning": "lista de artículos"
+    },
+    {
+      "entryId": "1358680",
+      "spelling": "食料品",
+      "reading": "しょくりょうひん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "食料品【しょくりょうひん】",
+      "meaning": "comestibles; víveres"
+    },
+    {
+      "entryId": "1538280",
+      "spelling": "薬品",
+      "reading": "やくひん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "薬品【やくひん】",
+      "meaning": "medicinas; fármacos"
+    },
+    {
+      "entryId": "1340190",
+      "spelling": "出品",
+      "reading": "しゅっぴん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "出品【しゅっぴん】",
+      "meaning": "muestra; exposición; exhibición"
+    },
+    {
+      "entryId": "1490670",
+      "spelling": "品もの",
+      "reading": "しなもの",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "品もの【しなもの】",
+      "meaning": "artículo"
+    },
+    {
+      "entryId": "1490670",
+      "spelling": "品物",
+      "reading": "しなもの",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "品物【しなもの】",
+      "meaning": "artículo"
+    },
+    {
+      "entryId": "1658060",
+      "spelling": "産品",
+      "reading": "さんぴん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "産品【さんぴん】",
+      "meaning": "productos"
+    },
+    {
+      "entryId": "1351960",
+      "spelling": "賞品",
+      "reading": "しょうひん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "賞品【しょうひん】",
+      "meaning": "premio; trofeo"
+    },
+    {
+      "entryId": "1159590",
+      "spelling": "遺品",
+      "reading": "いひん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "遺品【いひん】",
+      "meaning": "artículos del difunto"
+    },
+    {
+      "entryId": "1630700",
+      "spelling": "健康食品",
+      "reading": "けんこうしょくひん",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "健康食品【けんこうしょくひん】",
+      "meaning": "alimentos funcionales"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

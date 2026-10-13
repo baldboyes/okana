@@ -1,0 +1,120 @@
+{
+  "character": "垣",
+  "meanings": "cerco, valla, muro, seto",
+  "words": [
+    {
+      "entryId": "1382540",
+      "spelling": "石垣",
+      "reading": "いしがき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "石垣【いしがき】",
+      "meaning": "muro de piedra"
+    },
+    {
+      "entryId": "1382540",
+      "spelling": "石垣",
+      "reading": "いしがけ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "石垣【いしがけ】",
+      "meaning": "muro de piedra"
+    },
+    {
+      "entryId": "1204800",
+      "spelling": "垣根",
+      "reading": "かきね",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "垣根【かきね】",
+      "meaning": "seto"
+    },
+    {
+      "entryId": "1204780",
+      "spelling": "垣",
+      "reading": "かき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "垣【かき】",
+      "meaning": "cerca; valla; empalizada"
+    },
+    {
+      "entryId": "1366720",
+      "spelling": "人垣",
+      "reading": "ひとがき",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "人垣【ひとがき】",
+      "meaning": "multitud; muchedumbre"
+    },
+    {
+      "entryId": "1204790",
+      "spelling": "垣間見る",
+      "reading": "かいまみる",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "垣間見る【かいまみる】",
+      "meaning": "echar un vistazo; echar una ojeada"
+    },
+    {
+      "entryId": "1587170",
+      "spelling": "生け垣",
+      "reading": "いけがき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "生け垣【いけがき】",
+      "meaning": "seto"
+    },
+    {
+      "entryId": "1587170",
+      "spelling": "生垣",
+      "reading": "いけがき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "生垣【いけがき】",
+      "meaning": "seto"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

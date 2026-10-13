@@ -1,0 +1,180 @@
+{
+  "character": "納",
+  "meanings": "pagar, proveer, suministrar, entregar, finalizar, concluir",
+  "words": [
+    {
+      "entryId": "1470060",
+      "spelling": "納税",
+      "reading": "のうぜい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "納税【のうぜい】",
+      "meaning": "pago de impuestos"
+    },
+    {
+      "entryId": "1470080",
+      "spelling": "納得",
+      "reading": "なっとく",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "納得【なっとく】",
+      "meaning": "consentimiento; asentimiento; comprensión; acuerdo"
+    },
+    {
+      "entryId": "1470090",
+      "spelling": "納入",
+      "reading": "のうにゅう",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "納入【のうにゅう】",
+      "meaning": "pago; entrega; suministro"
+    },
+    {
+      "entryId": "1470070",
+      "spelling": "納豆",
+      "reading": "なっとう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "納豆【なっとう】",
+      "meaning": "Natto"
+    },
+    {
+      "entryId": "1330830",
+      "spelling": "収納",
+      "reading": "しゅうのう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "収納【しゅうのう】",
+      "meaning": "cobrar; recaudar; cobro; recaudación"
+    },
+    {
+      "entryId": "1410940",
+      "spelling": "怠納",
+      "reading": "たいのう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "怠納【たいのう】",
+      "meaning": "retraso; adeudo; déficit"
+    },
+    {
+      "entryId": "1410940",
+      "spelling": "滞納",
+      "reading": "たいのう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "滞納【たいのう】",
+      "meaning": "retraso; adeudo; déficit"
+    },
+    {
+      "entryId": "1589090",
+      "spelling": "納める",
+      "reading": "おさめる",
+      "senseNumbers": [
+        45
+      ],
+      "japanese": "納める【おさめる】",
+      "meaning": "tomar; apoderarse de; lograr; guardar; suprimir; finalizar; concluir"
+    },
+    {
+      "entryId": "1330490",
+      "spelling": "納まる",
+      "reading": "おさまる",
+      "senseNumbers": [
+        21
+      ],
+      "japanese": "納まる【おさまる】",
+      "meaning": "caber en; alojarse; finalizarse"
+    },
+    {
+      "entryId": "1792190",
+      "spelling": "納金",
+      "reading": "のうきん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "納金【のうきん】",
+      "meaning": "pago"
+    },
+    {
+      "entryId": "1339950",
+      "spelling": "出納",
+      "reading": "すいとう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "出納【すいとう】",
+      "meaning": "contabilidad; balance"
+    },
+    {
+      "entryId": "1527910",
+      "spelling": "未納",
+      "reading": "みのう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "未納【みのう】",
+      "meaning": "adeudo; entrega pendiente"
+    },
+    {
+      "entryId": "1470020",
+      "spelling": "納屋",
+      "reading": "なや",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "納屋【なや】",
+      "meaning": "trastero; buhardilla; desván"
+    },
+    {
+      "entryId": "1176530",
+      "spelling": "延納",
+      "reading": "えんのう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "延納【えんのう】",
+      "meaning": "pago aplazado"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

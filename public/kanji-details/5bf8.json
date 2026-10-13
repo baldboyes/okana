@@ -1,0 +1,83 @@
+{
+  "character": "寸",
+  "meanings": "longitud, medida, un poco, sólo, antigua unidad de medida",
+  "words": [
+    {
+      "entryId": "1373750",
+      "spelling": "寸前",
+      "reading": "すんぜん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "寸前【すんぜん】",
+      "meaning": "al borde; justo en frente de"
+    },
+    {
+      "entryId": "1373810",
+      "spelling": "寸法",
+      "reading": "すんぽう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "寸法【すんぽう】",
+      "meaning": "medida; tamaño; dimensión"
+    },
+    {
+      "entryId": "1163940",
+      "spelling": "一寸",
+      "reading": "ちょっと",
+      "senseNumbers": [
+        23,
+        24,
+        25
+      ],
+      "japanese": "一寸【ちょっと】",
+      "meaning": "un momento; algo; fácilmente; de buena gana; un poco; (antes de un verbo negativo) (no será) fácil; ¡oye!"
+    },
+    {
+      "entryId": "1163930",
+      "spelling": "一寸",
+      "reading": "いっすん",
+      "senseNumbers": [
+        8,
+        9
+      ],
+      "japanese": "一寸【いっすん】",
+      "meaning": "un sun (aprox. 3.03cm); un poco más (en tiempo, distancia, etc)"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

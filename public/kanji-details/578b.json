@@ -1,0 +1,252 @@
+{
+  "character": "型",
+  "meanings": "tipo, modelo, patrón",
+  "words": [
+    {
+      "entryId": "1413530",
+      "spelling": "大型",
+      "reading": "おおがた",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "大型【おおがた】",
+      "meaning": "modelo a gran escala"
+    },
+    {
+      "entryId": "1250090",
+      "spelling": "型",
+      "reading": "かた",
+      "senseNumbers": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "japanese": "型【かた】",
+      "meaning": "modelo; tipo; estilo; patrón; molde; kata (forma estandar de un movimiento, postura en deportes, artes marciales, etc); forma; tamaño (ropa, calzado, etc); (taxonomía) forma"
+    },
+    {
+      "entryId": "1250090",
+      "spelling": "型",
+      "reading": "がた",
+      "senseNumbers": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "japanese": "型【がた】",
+      "meaning": "modelo; tipo; estilo; patrón; molde; kata (forma estandar de un movimiento, postura en deportes, artes marciales, etc); forma; tamaño (ropa, calzado, etc); (taxonomía) forma"
+    },
+    {
+      "entryId": "1620810",
+      "spelling": "小型",
+      "reading": "こがた",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "小型【こがた】",
+      "meaning": "mini-"
+    },
+    {
+      "entryId": "1361770",
+      "spelling": "新型",
+      "reading": "しんがた",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "新型【しんがた】",
+      "meaning": "nuevo estilo; nuevo modelo"
+    },
+    {
+      "entryId": "1438080",
+      "spelling": "典型",
+      "reading": "てんけい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "典型【てんけい】",
+      "meaning": "clásico; típico"
+    },
+    {
+      "entryId": "1533650",
+      "spelling": "模型",
+      "reading": "もけい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "模型【もけい】",
+      "meaning": "modelo (a escala); maniquí; maqueta"
+    },
+    {
+      "entryId": "1658620",
+      "spelling": "自由型",
+      "reading": "じゆうがた",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "自由型【じゆうがた】",
+      "meaning": "estilo libre (natación)"
+    },
+    {
+      "entryId": "1438090",
+      "spelling": "典型的",
+      "reading": "てんけいてき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "典型的【てんけいてき】",
+      "meaning": "típico"
+    },
+    {
+      "entryId": "1424010",
+      "spelling": "中型",
+      "reading": "ちゅうがた",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "中型【ちゅうがた】",
+      "meaning": "tamaño mediano"
+    },
+    {
+      "entryId": "1261300",
+      "spelling": "原型",
+      "reading": "げんけい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "原型【げんけい】",
+      "meaning": "modelo original; prototipo"
+    },
+    {
+      "entryId": "1255150",
+      "spelling": "血液型",
+      "reading": "けつえきがた",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "血液型【けつえきがた】",
+      "meaning": "grupo sanguíneo"
+    },
+    {
+      "entryId": "1409370",
+      "spelling": "体型",
+      "reading": "たいけい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "体型【たいけい】",
+      "meaning": "figura (cuerpo); forma; figura"
+    },
+    {
+      "entryId": "1954390",
+      "spelling": "髪型",
+      "reading": "かみがた",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "髪型【かみがた】",
+      "meaning": "peinado; estilo de pelo"
+    },
+    {
+      "entryId": "1598250",
+      "spelling": "定型",
+      "reading": "ていけい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "定型【ていけい】",
+      "meaning": "tamaño estándar; estándar"
+    },
+    {
+      "entryId": "1266590",
+      "spelling": "固型",
+      "reading": "こけい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "固型【こけい】",
+      "meaning": "sólido"
+    },
+    {
+      "entryId": "1037560",
+      "spelling": "型録",
+      "reading": "カタログ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "型録【カタログ】",
+      "meaning": "catálogo"
+    },
+    {
+      "entryId": "1606370",
+      "spelling": "類型",
+      "reading": "るいけい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "類型【るいけい】",
+      "meaning": "categoría; clase; estereotipo"
+    },
+    {
+      "entryId": "1219330",
+      "spelling": "奇型",
+      "reading": "きけい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "奇型【きけい】",
+      "meaning": "deformación; deformidad"
+    },
+    {
+      "entryId": "1219330",
+      "spelling": "畸型",
+      "reading": "きけい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "畸型【きけい】",
+      "meaning": "deformación; deformidad"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

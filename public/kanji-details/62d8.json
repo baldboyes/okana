@@ -1,0 +1,100 @@
+{
+  "character": "拘",
+  "meanings": "arrestar, agarrar, coger, adherir, afectar",
+  "words": [
+    {
+      "entryId": "1279000",
+      "spelling": "拘束",
+      "reading": "こうそく",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "拘束【こうそく】",
+      "meaning": "restricción; limitación"
+    },
+    {
+      "entryId": "1612900",
+      "spelling": "にも拘らず",
+      "reading": "にもかかわらず",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "にも拘らず【にもかかわらず】",
+      "meaning": "a pesar de; no obstante; sin embargo"
+    },
+    {
+      "entryId": "1612900",
+      "spelling": "にも拘わらず",
+      "reading": "にもかかわらず",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "にも拘わらず【にもかかわらず】",
+      "meaning": "a pesar de; no obstante; sin embargo"
+    },
+    {
+      "entryId": "1589880",
+      "spelling": "拘る",
+      "reading": "かかわる",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "拘る【かかわる】",
+      "meaning": "tener que ver; incumbir; afectar; atañer; guardar relación; tener relación; concernir; ocuparse de; interesarse en (algo); influenciar; tener que ver con; afectarse; influenciarse; involucrar"
+    },
+    {
+      "entryId": "1589880",
+      "spelling": "拘わる",
+      "reading": "かかわる",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "拘わる【かかわる】",
+      "meaning": "tener que ver; incumbir; afectar; atañer; guardar relación; tener relación; concernir; ocuparse de; interesarse en (algo); influenciar; tener que ver con; afectarse; influenciarse; involucrar"
+    },
+    {
+      "entryId": "1279040",
+      "spelling": "拘留",
+      "reading": "こうりゅう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "拘留【こうりゅう】",
+      "meaning": "arresto menor (pena privativa de libertad inferior a 30 días)"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

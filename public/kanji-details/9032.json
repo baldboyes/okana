@@ -1,0 +1,240 @@
+{
+  "character": "進",
+  "meanings": "avanzar, progresar, adelantar, ascender",
+  "words": [
+    {
+      "entryId": "1371140",
+      "spelling": "推進",
+      "reading": "すいしん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "推進【すいしん】",
+      "meaning": "promoción; impulso; fomento"
+    },
+    {
+      "entryId": "1366080",
+      "spelling": "進出",
+      "reading": "しんしゅつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "進出【しんしゅつ】",
+      "meaning": "avance"
+    },
+    {
+      "entryId": "1387940",
+      "spelling": "先進国",
+      "reading": "せんしんこく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "先進国【せんしんこく】",
+      "meaning": "países desarrollados; países avanzados"
+    },
+    {
+      "entryId": "1403780",
+      "spelling": "促進",
+      "reading": "そくしん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "促進【そくしん】",
+      "meaning": "promoción; fomento"
+    },
+    {
+      "entryId": "1366160",
+      "spelling": "進展",
+      "reading": "しんてん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "進展【しんてん】",
+      "meaning": "progreso; desarrollo"
+    },
+    {
+      "entryId": "1366010",
+      "spelling": "進学",
+      "reading": "しんがく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "進学【しんがく】",
+      "meaning": "avance a una escuela superior"
+    },
+    {
+      "entryId": "1366200",
+      "spelling": "進路",
+      "reading": "しんろ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "進路【しんろ】",
+      "meaning": "curso"
+    },
+    {
+      "entryId": "1393350",
+      "spelling": "前進",
+      "reading": "ぜんしん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "前進【ぜんしん】",
+      "meaning": "avance"
+    },
+    {
+      "entryId": "1349780",
+      "spelling": "昇進",
+      "reading": "しょうしん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "昇進【しょうしん】",
+      "meaning": "ascenso; promoción"
+    },
+    {
+      "entryId": "1349780",
+      "spelling": "昇進",
+      "reading": "しょうじん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "昇進【しょうじん】",
+      "meaning": "ascenso; promoción"
+    },
+    {
+      "entryId": "1349780",
+      "spelling": "陞進",
+      "reading": "しょうしん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "陞進【しょうしん】",
+      "meaning": "ascenso; promoción"
+    },
+    {
+      "entryId": "1366060",
+      "spelling": "進行",
+      "reading": "しんこう",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "進行【しんこう】",
+      "meaning": "avance; progreso"
+    },
+    {
+      "entryId": "1366190",
+      "spelling": "進歩",
+      "reading": "しんぽ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "進歩【しんぽ】",
+      "meaning": "avanzar; progresar; progreso; desarrollo"
+    },
+    {
+      "entryId": "1281980",
+      "spelling": "行進",
+      "reading": "こうしん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "行進【こうしん】",
+      "meaning": "adelanto; progreso; desarrollo"
+    },
+    {
+      "entryId": "1813320",
+      "spelling": "進攻",
+      "reading": "しんこう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "進攻【しんこう】",
+      "meaning": "ataque"
+    },
+    {
+      "entryId": "1366000",
+      "spelling": "進化",
+      "reading": "しんか",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "進化【しんか】",
+      "meaning": "evolucionar; evolución; progreso"
+    },
+    {
+      "entryId": "1403270",
+      "spelling": "増進",
+      "reading": "ぞうしん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "増進【ぞうしん】",
+      "meaning": "fomentar; promover; incrementar"
+    },
+    {
+      "entryId": "1720500",
+      "spelling": "新進",
+      "reading": "しんしん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "新進【しんしん】",
+      "meaning": "nuevo (o joven) y prometedor ~ (que además de ser nuevo o joven es bueno)"
+    },
+    {
+      "entryId": "1365960",
+      "spelling": "進み",
+      "reading": "すすみ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "進み【すすみ】",
+      "meaning": "avance; progreso"
+    },
+    {
+      "entryId": "1366180",
+      "spelling": "進入",
+      "reading": "しんにゅう",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "進入【しんにゅう】",
+      "meaning": "acceso; aproximación; entrada"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

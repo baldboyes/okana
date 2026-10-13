@@ -1,0 +1,248 @@
+{
+  "character": "本",
+  "meanings": "libro, origen, base, contador de cosas alargadas",
+  "words": [
+    {
+      "entryId": "1219190",
+      "spelling": "基本",
+      "reading": "きほん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "基本【きほん】",
+      "meaning": "bases; cimientos; fundamentos"
+    },
+    {
+      "entryId": "1522630",
+      "spelling": "本社",
+      "reading": "ほんしゃ",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "本社【ほんしゃ】",
+      "meaning": "oficina matriz; oficina principal"
+    },
+    {
+      "entryId": "1522630",
+      "spelling": "本社",
+      "reading": "ほんじゃ",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "本社【ほんじゃ】",
+      "meaning": "oficina matriz; oficina principal"
+    },
+    {
+      "entryId": "1523170",
+      "spelling": "本部",
+      "reading": "ほんぶ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "本部【ほんぶ】",
+      "meaning": "cuartel general"
+    },
+    {
+      "entryId": "1464700",
+      "spelling": "日本人",
+      "reading": "にっぽんじん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "日本人【にっぽんじん】",
+      "meaning": "persona japonesa; el pueblo japonés; Japonés; Japonesa"
+    },
+    {
+      "entryId": "1464700",
+      "spelling": "日本人",
+      "reading": "にほんじん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "日本人【にほんじん】",
+      "meaning": "persona japonesa; el pueblo japonés; Japonés; Japonesa"
+    },
+    {
+      "entryId": "1522750",
+      "spelling": "本人",
+      "reading": "ほんにん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "本人【ほんにん】",
+      "meaning": "la propia persona"
+    },
+    {
+      "entryId": "1523060",
+      "spelling": "本当",
+      "reading": "ほんと",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "本当【ほんと】",
+      "meaning": "real; verdadero; cierto; verdad; realidad"
+    },
+    {
+      "entryId": "1523060",
+      "spelling": "本当",
+      "reading": "ほんとう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "本当【ほんとう】",
+      "meaning": "real; verdadero; cierto; verdad; realidad"
+    },
+    {
+      "entryId": "1523060",
+      "spelling": "本当",
+      "reading": "ホント",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "本当【ホント】",
+      "meaning": "real; verdadero; cierto; verdad; realidad"
+    },
+    {
+      "entryId": "1523060",
+      "spelling": "本当",
+      "reading": "ホントウ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "本当【ホントウ】",
+      "meaning": "real; verdadero; cierto; verdad; realidad"
+    },
+    {
+      "entryId": "1523060",
+      "spelling": "本当",
+      "reading": "ホントー",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "本当【ホントー】",
+      "meaning": "real; verdadero; cierto; verdad; realidad"
+    },
+    {
+      "entryId": "1523060",
+      "spelling": "本當",
+      "reading": "ほんとう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "本當【ほんとう】",
+      "meaning": "real; verdadero; cierto; verdad; realidad"
+    },
+    {
+      "entryId": "1464530",
+      "spelling": "日本語",
+      "reading": "にっぽんご",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "日本語【にっぽんご】",
+      "meaning": "japonés (idioma)"
+    },
+    {
+      "entryId": "1464530",
+      "spelling": "日本語",
+      "reading": "にほんご",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "日本語【にほんご】",
+      "meaning": "japonés (idioma)"
+    },
+    {
+      "entryId": "1312780",
+      "spelling": "資本",
+      "reading": "しほん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "資本【しほん】",
+      "meaning": "fondos; capital"
+    },
+    {
+      "entryId": "1522330",
+      "spelling": "本格的",
+      "reading": "ほんかくてき",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "本格的【ほんかくてき】",
+      "meaning": "auténtico; genuino"
+    },
+    {
+      "entryId": "1523270",
+      "spelling": "本来",
+      "reading": "ほんらい",
+      "senseNumbers": [
+        23
+      ],
+      "japanese": "本来【ほんらい】",
+      "meaning": "originalmente"
+    },
+    {
+      "entryId": "1166600",
+      "spelling": "一本",
+      "reading": "いっぽん",
+      "senseNumbers": [
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "japanese": "一本【いっぽん】",
+      "meaning": "cilindro largo; una versión; cierto libro; un golpe; geisha experimentada"
+    },
+    {
+      "entryId": "1166600",
+      "spelling": "１本",
+      "reading": "いっぽん",
+      "senseNumbers": [
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "japanese": "１本【いっぽん】",
+      "meaning": "cilindro largo; una versión; cierto libro; un golpe; geisha experimentada"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

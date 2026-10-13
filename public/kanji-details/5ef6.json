@@ -1,0 +1,257 @@
+{
+  "character": "延",
+  "meanings": "prolongar, alargar, aplazar, posponer, total, alargado, estirado, ensanchar, estirar",
+  "words": [
+    {
+      "entryId": "1176510",
+      "spelling": "延長",
+      "reading": "えんちょう",
+      "senseNumbers": [
+        18,
+        19
+      ],
+      "japanese": "延長【えんちょう】",
+      "meaning": "prolongación; ampliación; extensión; prorroga; era Enchou (923.4.11-931.4.26)"
+    },
+    {
+      "entryId": "1600300",
+      "spelling": "延び",
+      "reading": "のび",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "延び【のび】",
+      "meaning": "crecimiento; desarrollo"
+    },
+    {
+      "entryId": "1176430",
+      "spelling": "延期",
+      "reading": "えんき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "延期【えんき】",
+      "meaning": "aplazamiento; prorrogación; prorroga; aplazar; prorrogar; posponer"
+    },
+    {
+      "entryId": "1176540",
+      "spelling": "延命",
+      "reading": "えんみょう",
+      "senseNumbers": [
+        11,
+        12
+      ],
+      "japanese": "延命【えんみょう】",
+      "meaning": "prolongación (alargamiento) de la vida; macrobiótico"
+    },
+    {
+      "entryId": "1176540",
+      "spelling": "延命",
+      "reading": "えんめい",
+      "senseNumbers": [
+        11,
+        12
+      ],
+      "japanese": "延命【えんめい】",
+      "meaning": "prolongación (alargamiento) de la vida; macrobiótico"
+    },
+    {
+      "entryId": "1246920",
+      "spelling": "繰り延べ",
+      "reading": "くりのべ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "繰り延べ【くりのべ】",
+      "meaning": "aplazamiento"
+    },
+    {
+      "entryId": "1246920",
+      "spelling": "繰延べ",
+      "reading": "くりのべ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "繰延べ【くりのべ】",
+      "meaning": "aplazamiento"
+    },
+    {
+      "entryId": "1422030",
+      "spelling": "遅延",
+      "reading": "ちえん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "遅延【ちえん】",
+      "meaning": "demora; retraso"
+    },
+    {
+      "entryId": "1950190",
+      "spelling": "引き延し",
+      "reading": "ひきのばし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "引き延し【ひきのばし】",
+      "meaning": "extensión; prolongación"
+    },
+    {
+      "entryId": "1950190",
+      "spelling": "引き延ばし",
+      "reading": "ひきのばし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "引き延ばし【ひきのばし】",
+      "meaning": "extensión; prolongación"
+    },
+    {
+      "entryId": "1950190",
+      "spelling": "引延ばし",
+      "reading": "ひきのばし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "引延ばし【ひきのばし】",
+      "meaning": "extensión; prolongación"
+    },
+    {
+      "entryId": "1176490",
+      "spelling": "延滞",
+      "reading": "えんたい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "延滞【えんたい】",
+      "meaning": "atraso retardo (e.g., en pagos); retrasarse"
+    },
+    {
+      "entryId": "1358870",
+      "spelling": "延びる",
+      "reading": "のびる",
+      "senseNumbers": [
+        34
+      ],
+      "japanese": "延びる【のびる】",
+      "meaning": "desarrollarse; progresar; extenderse; crecer; alargarse"
+    },
+    {
+      "entryId": "1176380",
+      "spelling": "延べ",
+      "reading": "のべ",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "延べ【のべ】",
+      "meaning": "extensión Total"
+    },
+    {
+      "entryId": "1588770",
+      "spelling": "延々",
+      "reading": "えんえん",
+      "senseNumbers": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "japanese": "延々【えんえん】",
+      "meaning": "para siempre; interminablemente; serpenteante; sinuoso; tortuoso; larguísimo; interminable; sin interrupción"
+    },
+    {
+      "entryId": "1588770",
+      "spelling": "延延",
+      "reading": "えんえん",
+      "senseNumbers": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "japanese": "延延【えんえん】",
+      "meaning": "para siempre; interminablemente; serpenteante; sinuoso; tortuoso; larguísimo; interminable; sin interrupción"
+    },
+    {
+      "entryId": "1291280",
+      "spelling": "差し延べる",
+      "reading": "さしのべる",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "差し延べる【さしのべる】",
+      "meaning": "extender; presentar; ofrecer"
+    },
+    {
+      "entryId": "1291280",
+      "spelling": "差延べる",
+      "reading": "さしのべる",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "差延べる【さしのべる】",
+      "meaning": "extender; presentar; ofrecer"
+    },
+    {
+      "entryId": "1600290",
+      "spelling": "延ばす",
+      "reading": "のばす",
+      "senseNumbers": [
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43
+      ],
+      "japanese": "延ばす【のばす】",
+      "meaning": "crecer (barba, cabello, etc); alargar(se); estirar(se); extender; enderezar; untar (masa, crema); diluir; aguar; posponer; prolongar; fortalecer; desarrollar; expandir; estirar"
+    },
+    {
+      "entryId": "1601770",
+      "spelling": "引き延す",
+      "reading": "ひきのばす",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "引き延す【ひきのばす】",
+      "meaning": "retrasar; ampliar; postergar; agrandar; aumentar"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

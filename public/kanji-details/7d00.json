@@ -1,0 +1,171 @@
+{
+  "character": "紀",
+  "meanings": "crónica, normas, era",
+  "words": [
+    {
+      "entryId": "1223340",
+      "spelling": "紀念",
+      "reading": "きねん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "紀念【きねん】",
+      "meaning": "conmemoración; recuerdo; conmemorar; rememorar; celebrar"
+    },
+    {
+      "entryId": "1373990",
+      "spelling": "世紀",
+      "reading": "せいき",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "世紀【せいき】",
+      "meaning": "era; época; siglo"
+    },
+    {
+      "entryId": "1223120",
+      "spelling": "紀律",
+      "reading": "きりつ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "紀律【きりつ】",
+      "meaning": "reglas; reglamentos; normas"
+    },
+    {
+      "entryId": "1462040",
+      "spelling": "二十世紀",
+      "reading": "にじっせいき",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "二十世紀【にじっせいき】",
+      "meaning": "siglo veinte; siglo XX"
+    },
+    {
+      "entryId": "1462040",
+      "spelling": "二十世紀",
+      "reading": "にじゅっせいき",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "二十世紀【にじゅっせいき】",
+      "meaning": "siglo veinte; siglo XX"
+    },
+    {
+      "entryId": "1462040",
+      "spelling": "２０世紀",
+      "reading": "にじっせいき",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "２０世紀【にじっせいき】",
+      "meaning": "siglo veinte; siglo XX"
+    },
+    {
+      "entryId": "1222940",
+      "spelling": "紀行",
+      "reading": "きこう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "紀行【きこう】",
+      "meaning": "crónica de un viaje"
+    },
+    {
+      "entryId": "1222930",
+      "spelling": "紀元前",
+      "reading": "きげんぜん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "紀元前【きげんぜん】",
+      "meaning": "antes de Cristo (A.C.)"
+    },
+    {
+      "entryId": "1222910",
+      "spelling": "紀元",
+      "reading": "きげん",
+      "senseNumbers": [
+        12,
+        13
+      ],
+      "japanese": "紀元【きげん】",
+      "meaning": "era; D.C. (era cristiana)"
+    },
+    {
+      "entryId": "1623810",
+      "spelling": "デボン紀",
+      "reading": "デボンき",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "デボン紀【デボンき】",
+      "meaning": "devónico"
+    },
+    {
+      "entryId": "1499800",
+      "spelling": "風紀",
+      "reading": "ふうき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "風紀【ふうき】",
+      "meaning": "moral pública"
+    },
+    {
+      "entryId": "1474970",
+      "spelling": "白亜紀",
+      "reading": "はくあき",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "白亜紀【はくあき】",
+      "meaning": "cretácico"
+    },
+    {
+      "entryId": "1474970",
+      "spelling": "白堊紀",
+      "reading": "はくあき",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "白堊紀【はくあき】",
+      "meaning": "cretácico"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

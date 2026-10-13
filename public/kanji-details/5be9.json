@@ -1,0 +1,120 @@
+{
+  "character": "審",
+  "meanings": "claro, detallado, completo, juicio, abreviatura de árbitro",
+  "words": [
+    {
+      "entryId": "1360360",
+      "spelling": "審議",
+      "reading": "しんぎ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "審議【しんぎ】",
+      "meaning": "discusión; consideración; deliberación"
+    },
+    {
+      "entryId": "1360380",
+      "spelling": "審査",
+      "reading": "しんさ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "審査【しんさ】",
+      "meaning": "inspección; chequeo; juicio; selección"
+    },
+    {
+      "entryId": "1360410",
+      "spelling": "審判",
+      "reading": "しんばん",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "審判【しんばん】",
+      "meaning": "árbitro; juez; arbitrar; juzgar"
+    },
+    {
+      "entryId": "1360410",
+      "spelling": "審判",
+      "reading": "しんぱん",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "審判【しんぱん】",
+      "meaning": "árbitro; juez; arbitrar; juzgar"
+    },
+    {
+      "entryId": "1163570",
+      "spelling": "一審",
+      "reading": "いっしん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "一審【いっしん】",
+      "meaning": "primer ejemplo; primer juicio"
+    },
+    {
+      "entryId": "1360470",
+      "spelling": "審理",
+      "reading": "しんり",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "審理【しんり】",
+      "meaning": "enjuiciamiento; juicio; acto del juicio"
+    },
+    {
+      "entryId": "1493120",
+      "spelling": "不審",
+      "reading": "ふしん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "不審【ふしん】",
+      "meaning": "duda; sospecha; desconfianza"
+    },
+    {
+      "entryId": "1543080",
+      "spelling": "予審",
+      "reading": "よしん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "予審【よしん】",
+      "meaning": "juicio preliminar; juicio preparatorio; instrucción de una causa penal"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

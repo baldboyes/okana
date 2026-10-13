@@ -1,0 +1,240 @@
+{
+  "character": "説",
+  "meanings": "opinión, teoría, explicar, expresar",
+  "words": [
+    {
+      "entryId": "1176960",
+      "spelling": "演説",
+      "reading": "えんぜつ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "演説【えんぜつ】",
+      "meaning": "discurso; oración; dar un discurso"
+    },
+    {
+      "entryId": "1386460",
+      "spelling": "説明",
+      "reading": "せつめい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "説明【せつめい】",
+      "meaning": "explicar; aclarar; comentar; explicación; exposición"
+    },
+    {
+      "entryId": "1348430",
+      "spelling": "小説",
+      "reading": "しょうせつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "小説【しょうせつ】",
+      "meaning": "novela"
+    },
+    {
+      "entryId": "1199080",
+      "spelling": "解説",
+      "reading": "かいせつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "解説【かいせつ】",
+      "meaning": "explicación; aclaración; descripción; exposición; instrucción"
+    },
+    {
+      "entryId": "1386440",
+      "spelling": "説得",
+      "reading": "せっとく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "説得【せっとく】",
+      "meaning": "convencer; persuadir; persuasión"
+    },
+    {
+      "entryId": "1442100",
+      "spelling": "伝説",
+      "reading": "でんせつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "伝説【でんせつ】",
+      "meaning": "tradición; leyenda; folklore"
+    },
+    {
+      "entryId": "1322890",
+      "spelling": "社説",
+      "reading": "しゃせつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "社説【しゃせつ】",
+      "meaning": "editorial; artículo de cabecera"
+    },
+    {
+      "entryId": "1561740",
+      "spelling": "論説",
+      "reading": "ろんせつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "論説【ろんせつ】",
+      "meaning": "editorial; redacción; disertación"
+    },
+    {
+      "entryId": "1348440",
+      "spelling": "小説家",
+      "reading": "しょうせつか",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "小説家【しょうせつか】",
+      "meaning": "novelista; escritor de ficción"
+    },
+    {
+      "entryId": "1206950",
+      "spelling": "学説",
+      "reading": "がくせつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "学説【がくせつ】",
+      "meaning": "teoría"
+    },
+    {
+      "entryId": "1713000",
+      "spelling": "推理小説",
+      "reading": "すいりしょうせつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "推理小説【すいりしょうせつ】",
+      "meaning": "novela de misterio; novela detectivesca; novela policíaca"
+    },
+    {
+      "entryId": "1386430",
+      "spelling": "説教",
+      "reading": "せっきょう",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "説教【せっきょう】",
+      "meaning": "propuesta; sermón"
+    },
+    {
+      "entryId": "1386370",
+      "spelling": "説",
+      "reading": "せつ",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "説【せつ】",
+      "meaning": "teoría"
+    },
+    {
+      "entryId": "1386420",
+      "spelling": "説く",
+      "reading": "とく",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "説く【とく】",
+      "meaning": "explicar; abogar; prediar; persuadir"
+    },
+    {
+      "entryId": "1386450",
+      "spelling": "説得力",
+      "reading": "せっとくりょく",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "説得力【せっとくりょく】",
+      "meaning": "poder de persuasión"
+    },
+    {
+      "entryId": "1590320",
+      "spelling": "仮説",
+      "reading": "かせつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "仮説【かせつ】",
+      "meaning": "hipótesis"
+    },
+    {
+      "entryId": "1164240",
+      "spelling": "一説",
+      "reading": "いっせつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "一説【いっせつ】",
+      "meaning": "una teoría (opinión); otra teoría (opinión)"
+    },
+    {
+      "entryId": "1227140",
+      "spelling": "逆説",
+      "reading": "ぎゃくせつ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "逆説【ぎゃくせつ】",
+      "meaning": "paradoja"
+    },
+    {
+      "entryId": "1157890",
+      "spelling": "異説",
+      "reading": "いせつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "異説【いせつ】",
+      "meaning": "opinión diferente"
+    },
+    {
+      "entryId": "1204470",
+      "spelling": "概説",
+      "reading": "がいせつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "概説【がいせつ】",
+      "meaning": "resumen; sumario"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

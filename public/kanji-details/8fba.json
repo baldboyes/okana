@@ -1,0 +1,240 @@
+{
+  "character": "辺",
+  "meanings": "alrededores, límites, vecindad",
+  "words": [
+    {
+      "entryId": "1331300",
+      "spelling": "周辺",
+      "reading": "しゅうへん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "周辺【しゅうへん】",
+      "meaning": "en los alrededores"
+    },
+    {
+      "entryId": "1512070",
+      "spelling": "辺",
+      "reading": "へん",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "辺【へん】",
+      "meaning": "área; alrededores"
+    },
+    {
+      "entryId": "1602820",
+      "spelling": "普辺",
+      "reading": "ふへん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "普辺【ふへん】",
+      "meaning": "universalmente"
+    },
+    {
+      "entryId": "1166440",
+      "spelling": "一辺倒",
+      "reading": "いっぺんとう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "一辺倒【いっぺんとう】",
+      "meaning": "devoción completa a un lado"
+    },
+    {
+      "entryId": "1201750",
+      "spelling": "海辺",
+      "reading": "うみべ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "海辺【うみべ】",
+      "meaning": "playa; costa"
+    },
+    {
+      "entryId": "1201750",
+      "spelling": "海辺",
+      "reading": "かいへん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "海辺【かいへん】",
+      "meaning": "playa; costa"
+    },
+    {
+      "entryId": "1512080",
+      "spelling": "辺り",
+      "reading": "あたり",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "辺り【あたり】",
+      "meaning": "(en las) cercanías; proximidad"
+    },
+    {
+      "entryId": "1490720",
+      "spelling": "浜辺",
+      "reading": "はまべ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "浜辺【はまべ】",
+      "meaning": "playa"
+    },
+    {
+      "entryId": "1217060",
+      "spelling": "岸辺",
+      "reading": "きしべ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "岸辺【きしべ】",
+      "meaning": "orilla; costa"
+    },
+    {
+      "entryId": "1242530",
+      "spelling": "近辺",
+      "reading": "きんぺん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "近辺【きんぺん】",
+      "meaning": "vecindad; alrededores; inmediaciones; aledaños"
+    },
+    {
+      "entryId": "1360890",
+      "spelling": "心辺り",
+      "reading": "こころあたり",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "心辺り【こころあたり】",
+      "meaning": "idea; ocurrencia; noción"
+    },
+    {
+      "entryId": "1004750",
+      "spelling": "この辺",
+      "reading": "このへん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "この辺【このへん】",
+      "meaning": "Esta área; este vecindario; alrededor"
+    },
+    {
+      "entryId": "1004750",
+      "spelling": "此の辺",
+      "reading": "このへん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "此の辺【このへん】",
+      "meaning": "Esta área; este vecindario; alrededor"
+    },
+    {
+      "entryId": "1440340",
+      "spelling": "天辺",
+      "reading": "てっぺい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "天辺【てっぺい】",
+      "meaning": "cima; cumbre; cresta"
+    },
+    {
+      "entryId": "1440340",
+      "spelling": "天辺",
+      "reading": "てっぺん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "天辺【てっぺん】",
+      "meaning": "cima; cumbre; cresta"
+    },
+    {
+      "entryId": "1440340",
+      "spelling": "天辺",
+      "reading": "てへん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "天辺【てへん】",
+      "meaning": "cima; cumbre; cresta"
+    },
+    {
+      "entryId": "1440340",
+      "spelling": "頂辺",
+      "reading": "てっぺん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "頂辺【てっぺん】",
+      "meaning": "cima; cumbre; cresta"
+    },
+    {
+      "entryId": "1520630",
+      "spelling": "頬っ辺",
+      "reading": "ほっぺた",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "頬っ辺【ほっぺた】",
+      "meaning": "mejilla; cachete"
+    },
+    {
+      "entryId": "1520630",
+      "spelling": "頰っ辺",
+      "reading": "ほっぺた",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "頰っ辺【ほっぺた】",
+      "meaning": "mejilla; cachete"
+    },
+    {
+      "entryId": "1610880",
+      "spelling": "どの辺",
+      "reading": "どのへん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "どの辺【どのへん】",
+      "meaning": "paradero"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

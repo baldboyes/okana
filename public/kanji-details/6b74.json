@@ -1,0 +1,150 @@
+{
+  "character": "歴",
+  "meanings": "pasar, paso del tiempo",
+  "words": [
+    {
+      "entryId": "1558050",
+      "spelling": "歴史",
+      "reading": "れきし",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "歴史【れきし】",
+      "meaning": "historia"
+    },
+    {
+      "entryId": "1558160",
+      "spelling": "歴史的",
+      "reading": "れきしてき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "歴史的【れきしてき】",
+      "meaning": "histórico"
+    },
+    {
+      "entryId": "1558220",
+      "spelling": "歴代",
+      "reading": "れきだい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "歴代【れきだい】",
+      "meaning": "generaciones sucesivas; emperadores sucesivos"
+    },
+    {
+      "entryId": "1207200",
+      "spelling": "学歴",
+      "reading": "がくれき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "学歴【がくれき】",
+      "meaning": "estudios académicos; educación; formación escolar"
+    },
+    {
+      "entryId": "1251690",
+      "spelling": "経歴",
+      "reading": "けいれき",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "経歴【けいれき】",
+      "meaning": "formación (escolar); carrera"
+    },
+    {
+      "entryId": "1251110",
+      "spelling": "歴る",
+      "reading": "へる",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "歴る【へる】",
+      "meaning": "pasar; transcurrir"
+    },
+    {
+      "entryId": "1549820",
+      "spelling": "履歴書",
+      "reading": "りれきしょ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "履歴書【りれきしょ】",
+      "meaning": "currículum vitae"
+    },
+    {
+      "entryId": "1612300",
+      "spelling": "歴然",
+      "reading": "れきぜん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "歴然【れきぜん】",
+      "meaning": "irrefutable; evidente; concluyente; muy claro; evidentemente; obviamente; indiscutiblemente"
+    },
+    {
+      "entryId": "1549810",
+      "spelling": "履歴",
+      "reading": "りれき",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "履歴【りれき】",
+      "meaning": "historia personal; trayectoria; currículo"
+    },
+    {
+      "entryId": "1357590",
+      "spelling": "職歴",
+      "reading": "しょくれき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "職歴【しょくれき】",
+      "meaning": "experiencia laboral; historial de trabajo"
+    },
+    {
+      "entryId": "1483480",
+      "spelling": "披歴",
+      "reading": "ひれき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "披歴【ひれき】",
+      "meaning": "expresar la opinión de uno; harcerlo saber; revelar; hacerlo saber"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

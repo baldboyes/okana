@@ -1,0 +1,200 @@
+{
+  "character": "虫",
+  "meanings": "insecto, bicho",
+  "words": [
+    {
+      "entryId": "1426680",
+      "spelling": "虫",
+      "reading": "むし",
+      "senseNumbers": [
+        25
+      ],
+      "japanese": "虫【むし】",
+      "meaning": "insecto"
+    },
+    {
+      "entryId": "1289980",
+      "spelling": "昆虫",
+      "reading": "こんちゅう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "昆虫【こんちゅう】",
+      "meaning": "insecto; bicho"
+    },
+    {
+      "entryId": "1299180",
+      "spelling": "殺虫剤",
+      "reading": "さっちゅうざい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "殺虫剤【さっちゅうざい】",
+      "meaning": "insecticida; pesticida"
+    },
+    {
+      "entryId": "1604850",
+      "spelling": "虫歯",
+      "reading": "むしば",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "虫歯【むしば】",
+      "meaning": "caries dental"
+    },
+    {
+      "entryId": "1204350",
+      "spelling": "害虫",
+      "reading": "がいちゅう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "害虫【がいちゅう】",
+      "meaning": "insectos nocivos; plagas"
+    },
+    {
+      "entryId": "1219770",
+      "spelling": "寄生虫",
+      "reading": "きせいちゅう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "寄生虫【きせいちゅう】",
+      "meaning": "parásito"
+    },
+    {
+      "entryId": "1545270",
+      "spelling": "幼虫",
+      "reading": "ようちゅう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "幼虫【ようちゅう】",
+      "meaning": "larva; crisálida"
+    },
+    {
+      "entryId": "1324840",
+      "spelling": "弱虫",
+      "reading": "よわむし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "弱虫【よわむし】",
+      "meaning": "cobarde; debilucho"
+    },
+    {
+      "entryId": "1358730",
+      "spelling": "虫食む",
+      "reading": "むしばむ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "虫食む【むしばむ】",
+      "meaning": "corroer; carcomer; minar"
+    },
+    {
+      "entryId": "1569220",
+      "spelling": "は虫類",
+      "reading": "はちゅうるい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "は虫類【はちゅうるい】",
+      "meaning": "reptiles"
+    },
+    {
+      "entryId": "1569220",
+      "spelling": "爬虫類",
+      "reading": "はちゅうるい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "爬虫類【はちゅうるい】",
+      "meaning": "reptiles"
+    },
+    {
+      "entryId": "1771200",
+      "spelling": "虫よけ",
+      "reading": "むしよけ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "虫よけ【むしよけ】",
+      "meaning": "insecticida; repelente contra insectos"
+    },
+    {
+      "entryId": "1771200",
+      "spelling": "虫除け",
+      "reading": "むしよけ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "虫除け【むしよけ】",
+      "meaning": "insecticida; repelente contra insectos"
+    },
+    {
+      "entryId": "1371870",
+      "spelling": "水虫",
+      "reading": "みずむし",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "水虫【みずむし】",
+      "meaning": "eczema"
+    },
+    {
+      "entryId": "1645350",
+      "spelling": "成虫",
+      "reading": "せいちゅう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "成虫【せいちゅう】",
+      "meaning": "imago"
+    },
+    {
+      "entryId": "1533880",
+      "spelling": "毛虫",
+      "reading": "けむし",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "毛虫【けむし】",
+      "meaning": "oruga (insecto)"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

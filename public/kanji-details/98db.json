@@ -1,0 +1,245 @@
+{
+  "character": "飛",
+  "meanings": "volar, omitir",
+  "words": [
+    {
+      "entryId": "1485450",
+      "spelling": "飛行",
+      "reading": "ひこう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "飛行【ひこう】",
+      "meaning": "aviación"
+    },
+    {
+      "entryId": "1485470",
+      "spelling": "飛行機",
+      "reading": "ひこうき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "飛行機【ひこうき】",
+      "meaning": "avión; aeroplano"
+    },
+    {
+      "entryId": "1485560",
+      "spelling": "飛躍",
+      "reading": "ひやく",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "飛躍【ひやく】",
+      "meaning": "salto"
+    },
+    {
+      "entryId": "1171400",
+      "spelling": "宇宙飛行士",
+      "reading": "うちゅうひこうし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "宇宙飛行士【うちゅうひこうし】",
+      "meaning": "astronauta"
+    },
+    {
+      "entryId": "1485350",
+      "spelling": "飛びだす",
+      "reading": "とびだす",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "飛びだす【とびだす】",
+      "meaning": "salir volando; salir corriendo"
+    },
+    {
+      "entryId": "1485350",
+      "spelling": "飛び出す",
+      "reading": "とびだす",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "飛び出す【とびだす】",
+      "meaning": "salir volando; salir corriendo"
+    },
+    {
+      "entryId": "1485350",
+      "spelling": "飛出す",
+      "reading": "とびだす",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "飛出す【とびだす】",
+      "meaning": "salir volando; salir corriendo"
+    },
+    {
+      "entryId": "1485520",
+      "spelling": "飛行場",
+      "reading": "ひこうじょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "飛行場【ひこうじょう】",
+      "meaning": "aeropuerto"
+    },
+    {
+      "entryId": "1485500",
+      "spelling": "飛行士",
+      "reading": "ひこうし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "飛行士【ひこうし】",
+      "meaning": "piloto (espacial)"
+    },
+    {
+      "entryId": "1429700",
+      "spelling": "飛ぶ",
+      "reading": "とぶ",
+      "senseNumbers": [
+        31
+      ],
+      "japanese": "飛ぶ【とぶ】",
+      "meaning": "volar; saltar; rebotar"
+    },
+    {
+      "entryId": "1402450",
+      "spelling": "走り高飛び",
+      "reading": "はしりたかとび",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "走り高飛び【はしりたかとび】",
+      "meaning": "salto de altura"
+    },
+    {
+      "entryId": "1485530",
+      "spelling": "飛行船",
+      "reading": "ひこうせん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "飛行船【ひこうせん】",
+      "meaning": "dirigible (aeronave)"
+    },
+    {
+      "entryId": "1485230",
+      "spelling": "飛ばす",
+      "reading": "とばす",
+      "senseNumbers": [
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "japanese": "飛ばす【とばす】",
+      "meaning": "volar; disparar; lanzar; pasar por alto; omitir; galopar; esparcir un rumor; contar una historia; remover; transferir; atacar; mofarse"
+    },
+    {
+      "entryId": "1598860",
+      "spelling": "飛びおりる",
+      "reading": "とびおりる",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "飛びおりる【とびおりる】",
+      "meaning": "descender volando o de un brinco; arrojarse a; saltar a"
+    },
+    {
+      "entryId": "1598860",
+      "spelling": "飛び下りる",
+      "reading": "とびおりる",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "飛び下りる【とびおりる】",
+      "meaning": "descender volando o de un brinco; arrojarse a; saltar a"
+    },
+    {
+      "entryId": "1598860",
+      "spelling": "飛び降りる",
+      "reading": "とびおりる",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "飛び降りる【とびおりる】",
+      "meaning": "descender volando o de un brinco; arrojarse a; saltar a"
+    },
+    {
+      "entryId": "1598860",
+      "spelling": "飛下りる",
+      "reading": "とびおりる",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "飛下りる【とびおりる】",
+      "meaning": "descender volando o de un brinco; arrojarse a; saltar a"
+    },
+    {
+      "entryId": "1598860",
+      "spelling": "飛降りる",
+      "reading": "とびおりる",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "飛降りる【とびおりる】",
+      "meaning": "descender volando o de un brinco; arrojarse a; saltar a"
+    },
+    {
+      "entryId": "1429690",
+      "spelling": "飛びあがる",
+      "reading": "とびあがる",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "飛びあがる【とびあがる】",
+      "meaning": "alzarse en vuelo; despegar; brincar"
+    },
+    {
+      "entryId": "1429690",
+      "spelling": "飛び上がる",
+      "reading": "とびあがる",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "飛び上がる【とびあがる】",
+      "meaning": "alzarse en vuelo; despegar; brincar"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

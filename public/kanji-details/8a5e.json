@@ -1,0 +1,230 @@
+{
+  "character": "詞",
+  "meanings": "parte de oración, palabras, poesía",
+  "words": [
+    {
+      "entryId": "1264540",
+      "spelling": "詞",
+      "reading": "ことば",
+      "senseNumbers": [
+        24
+      ],
+      "japanese": "詞【ことば】",
+      "meaning": "palabra; idioma; lengua; lenguaje; expresión; frase"
+    },
+    {
+      "entryId": "1193280",
+      "spelling": "歌詞",
+      "reading": "かし",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "歌詞【かし】",
+      "meaning": "letra de canción"
+    },
+    {
+      "entryId": "1297680",
+      "spelling": "作詞",
+      "reading": "さくし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "作詞【さくし】",
+      "meaning": "(escribir) letra de canción"
+    },
+    {
+      "entryId": "1586060",
+      "spelling": "合い詞",
+      "reading": "あいことば",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "合い詞【あいことば】",
+      "meaning": "contraseña"
+    },
+    {
+      "entryId": "1412340",
+      "spelling": "代名詞",
+      "reading": "だいめいし",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "代名詞【だいめいし】",
+      "meaning": "pronombre"
+    },
+    {
+      "entryId": "1250430",
+      "spelling": "形容詞",
+      "reading": "けいようし",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "形容詞【けいようし】",
+      "meaning": "adjetivo (verdadero); adjetivo i"
+    },
+    {
+      "entryId": "1451380",
+      "spelling": "動詞",
+      "reading": "どうし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "動詞【どうし】",
+      "meaning": "verbo"
+    },
+    {
+      "entryId": "1531570",
+      "spelling": "名詞",
+      "reading": "なことば",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "名詞【なことば】",
+      "meaning": "sustantivo; nombre"
+    },
+    {
+      "entryId": "1531570",
+      "spelling": "名詞",
+      "reading": "めいし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "名詞【めいし】",
+      "meaning": "sustantivo; nombre"
+    },
+    {
+      "entryId": "1344630",
+      "spelling": "助詞",
+      "reading": "じょし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "助詞【じょし】",
+      "meaning": "partícula; postposición"
+    },
+    {
+      "entryId": "1490570",
+      "spelling": "品詞",
+      "reading": "ひんし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "品詞【ひんし】",
+      "meaning": "elemento de la oración"
+    },
+    {
+      "entryId": "1500440",
+      "spelling": "副詞",
+      "reading": "ふくし",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "副詞【ふくし】",
+      "meaning": "adverbio"
+    },
+    {
+      "entryId": "1266750",
+      "spelling": "固有名詞",
+      "reading": "こゆうめいし",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "固有名詞【こゆうめいし】",
+      "meaning": "nombre propio"
+    },
+    {
+      "entryId": "1577270",
+      "spelling": "台詞",
+      "reading": "せりふ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "台詞【せりふ】",
+      "meaning": "serifa (eng: serif) (adorno tipográfico); palabras; comentarios; observaciones; línea(s) (en un diálogo)"
+    },
+    {
+      "entryId": "1577270",
+      "spelling": "台詞",
+      "reading": "だいし",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "台詞【だいし】",
+      "meaning": "serifa (eng: serif) (adorno tipográfico); palabras; comentarios; observaciones; línea(s) (en un diálogo)"
+    },
+    {
+      "entryId": "1337450",
+      "spelling": "祝詞",
+      "reading": "しゅくし",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "祝詞【しゅくし】",
+      "meaning": "felicitación; enhorabuena; congratulación; alabanza; parabién"
+    },
+    {
+      "entryId": "1337450",
+      "spelling": "祝詞",
+      "reading": "のっと",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "祝詞【のっと】",
+      "meaning": "felicitación; enhorabuena; congratulación; alabanza; parabién"
+    },
+    {
+      "entryId": "1337450",
+      "spelling": "祝詞",
+      "reading": "のと",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "祝詞【のと】",
+      "meaning": "felicitación; enhorabuena; congratulación; alabanza; parabién"
+    },
+    {
+      "entryId": "1337450",
+      "spelling": "祝詞",
+      "reading": "のりと",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "祝詞【のりと】",
+      "meaning": "felicitación; enhorabuena; congratulación; alabanza; parabién"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

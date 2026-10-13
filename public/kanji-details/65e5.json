@@ -1,0 +1,241 @@
+{
+  "character": "日",
+  "meanings": "día, solar, Japón, sol, rayo de sol",
+  "words": [
+    {
+      "entryId": "1464380",
+      "spelling": "日米",
+      "reading": "にちべい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "日米【にちべい】",
+      "meaning": "(relaciones entre) Japón y Estados Unidos"
+    },
+    {
+      "entryId": "1524720",
+      "spelling": "毎日",
+      "reading": "まいにち",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "毎日【まいにち】",
+      "meaning": "todos los días"
+    },
+    {
+      "entryId": "1453210",
+      "spelling": "同日",
+      "reading": "どうじつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "同日【どうじつ】",
+      "meaning": "(el) mismo día"
+    },
+    {
+      "entryId": "1464700",
+      "spelling": "日本人",
+      "reading": "にっぽんじん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "日本人【にっぽんじん】",
+      "meaning": "persona japonesa; el pueblo japonés; Japonés; Japonesa"
+    },
+    {
+      "entryId": "1464700",
+      "spelling": "日本人",
+      "reading": "にほんじん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "日本人【にほんじん】",
+      "meaning": "persona japonesa; el pueblo japonés; Japonés; Japonesa"
+    },
+    {
+      "entryId": "1464300",
+      "spelling": "日程",
+      "reading": "にってい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "日程【にってい】",
+      "meaning": "programa; itinerario (de un día)"
+    },
+    {
+      "entryId": "1579110",
+      "spelling": "今日",
+      "reading": "きょう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "今日【きょう】",
+      "meaning": "hoy; este día"
+    },
+    {
+      "entryId": "1579110",
+      "spelling": "今日",
+      "reading": "こんじつ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "今日【こんじつ】",
+      "meaning": "hoy; este día"
+    },
+    {
+      "entryId": "1579110",
+      "spelling": "今日",
+      "reading": "こんち",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "今日【こんち】",
+      "meaning": "hoy; este día"
+    },
+    {
+      "entryId": "1579110",
+      "spelling": "今日",
+      "reading": "こんにち",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "今日【こんにち】",
+      "meaning": "hoy; este día"
+    },
+    {
+      "entryId": "1395890",
+      "spelling": "全日",
+      "reading": "ぜんじつ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "全日【ぜんじつ】",
+      "meaning": "todos los días"
+    },
+    {
+      "entryId": "1464530",
+      "spelling": "日本語",
+      "reading": "にっぽんご",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "日本語【にっぽんご】",
+      "meaning": "japonés (idioma)"
+    },
+    {
+      "entryId": "1464530",
+      "spelling": "日本語",
+      "reading": "にほんご",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "日本語【にほんご】",
+      "meaning": "japonés (idioma)"
+    },
+    {
+      "entryId": "1463770",
+      "spelling": "日",
+      "reading": "ひ",
+      "senseNumbers": [
+        21,
+        22
+      ],
+      "japanese": "日【ひ】",
+      "meaning": "día; sol"
+    },
+    {
+      "entryId": "1464180",
+      "spelling": "日常",
+      "reading": "にちじょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "日常【にちじょう】",
+      "meaning": "ordinario; regular; de cada día; usual"
+    },
+    {
+      "entryId": "1548200",
+      "spelling": "来日",
+      "reading": "らいにち",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "来日【らいにち】",
+      "meaning": "visita a Japón"
+    },
+    {
+      "entryId": "1596760",
+      "spelling": "対日",
+      "reading": "たいにち",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "対日【たいにち】",
+      "meaning": "con (hacia) Japón"
+    },
+    {
+      "entryId": "1464870",
+      "spelling": "日夜",
+      "reading": "にちや",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "日夜【にちや】",
+      "meaning": "día y noche; siempre"
+    },
+    {
+      "entryId": "1518100",
+      "spelling": "訪日",
+      "reading": "ほうにち",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "訪日【ほうにち】",
+      "meaning": "visita a Japón"
+    },
+    {
+      "entryId": "1604510",
+      "spelling": "三十日",
+      "reading": "みそか",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "三十日【みそか】",
+      "meaning": "último día del mes"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

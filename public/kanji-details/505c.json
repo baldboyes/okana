@@ -1,0 +1,209 @@
+{
+  "character": "停",
+  "meanings": "parada, interrupción",
+  "words": [
+    {
+      "entryId": "1434920",
+      "spelling": "停止",
+      "reading": "ちょうじ",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "停止【ちょうじ】",
+      "meaning": "suspención; interrupción; parada; detención; prohibir; proscribir; estancamiento; suspenso"
+    },
+    {
+      "entryId": "1434920",
+      "spelling": "停止",
+      "reading": "ていし",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "停止【ていし】",
+      "meaning": "suspención; interrupción; parada; detención; prohibir; proscribir; estancamiento; suspenso"
+    },
+    {
+      "entryId": "1434980",
+      "spelling": "停戦",
+      "reading": "ていせん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "停戦【ていせん】",
+      "meaning": "armisticio; alto el fuego; cese de las hostilidades"
+    },
+    {
+      "entryId": "1435740",
+      "spelling": "停年",
+      "reading": "ていねん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "停年【ていねん】",
+      "meaning": "edad establecida de jubilación"
+    },
+    {
+      "entryId": "1429260",
+      "spelling": "調停",
+      "reading": "ちょうてい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "調停【ちょうてい】",
+      "meaning": "mediación; arbitraje"
+    },
+    {
+      "entryId": "1435010",
+      "spelling": "停滞",
+      "reading": "ていたい",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "停滞【ていたい】",
+      "meaning": "estancamiento"
+    },
+    {
+      "entryId": "1435020",
+      "spelling": "停電",
+      "reading": "ていでん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "停電【ていでん】",
+      "meaning": "corte de energía (electricidad, luz); apagón; falla del suministro electrico"
+    },
+    {
+      "entryId": "1310620",
+      "spelling": "停まる",
+      "reading": "とまる",
+      "senseNumbers": [
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "japanese": "停まる【とまる】",
+      "meaning": "detenerse; permanecer; quedarse; limitarse; detener; parar; detener(se)"
+    },
+    {
+      "entryId": "1434960",
+      "spelling": "停車",
+      "reading": "ていしゃ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "停車【ていしゃ】",
+      "meaning": "parada; alto de un vehículo"
+    },
+    {
+      "entryId": "1434910",
+      "spelling": "停学",
+      "reading": "ていがく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "停学【ていがく】",
+      "meaning": "suspensión escolar (temporal o permanente)"
+    },
+    {
+      "entryId": "1435080",
+      "spelling": "停留所",
+      "reading": "ていりゅうしょ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "停留所【ていりゅうしょ】",
+      "meaning": "parada; estación"
+    },
+    {
+      "entryId": "1435080",
+      "spelling": "停留所",
+      "reading": "ていりゅうじょ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "停留所【ていりゅうじょ】",
+      "meaning": "parada; estación"
+    },
+    {
+      "entryId": "1598820",
+      "spelling": "停める",
+      "reading": "とどめる",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "停める【とどめる】",
+      "meaning": "parar; detener; frenar; moderar; aplacar; mitigar; detener (algo); cesar; renunciar; ponerle fin a"
+    },
+    {
+      "entryId": "1098580",
+      "spelling": "バス停",
+      "reading": "バスてい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "バス停【バスてい】",
+      "meaning": "parada de autobús"
+    },
+    {
+      "entryId": "1310670",
+      "spelling": "停める",
+      "reading": "とめる",
+      "senseNumbers": [
+        30
+      ],
+      "japanese": "停める【とめる】",
+      "meaning": "parar; detener; detener (algo); cesar; renunciar; ponerle fin a"
+    },
+    {
+      "entryId": "2657130",
+      "spelling": "停まる",
+      "reading": "とどまる",
+      "senseNumbers": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "japanese": "停まる【とどまる】",
+      "meaning": "detenerse; permanecer; quedarse; limitarse; detener; parar; detener(se)"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

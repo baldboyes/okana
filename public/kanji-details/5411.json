@@ -1,0 +1,240 @@
+{
+  "character": "向",
+  "meanings": "mirar hacia, volverse, hacer frente, oponerse",
+  "words": [
+    {
+      "entryId": "1516990",
+      "spelling": "方向",
+      "reading": "ほうこう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "方向【ほうこう】",
+      "meaning": "dirección; camino"
+    },
+    {
+      "entryId": "1587200",
+      "spelling": "意向",
+      "reading": "いこう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "意向【いこう】",
+      "meaning": "intención; idea; inclinación"
+    },
+    {
+      "entryId": "1249470",
+      "spelling": "傾向",
+      "reading": "けいこう",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "傾向【けいこう】",
+      "meaning": "tendencia; inclinación"
+    },
+    {
+      "entryId": "1277250",
+      "spelling": "向上",
+      "reading": "こうじょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "向上【こうじょう】",
+      "meaning": "mejora; mejoría; progreso"
+    },
+    {
+      "entryId": "1451330",
+      "spelling": "動向",
+      "reading": "どうこう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "動向【どうこう】",
+      "meaning": "tendencias"
+    },
+    {
+      "entryId": "1309110",
+      "spelling": "志向",
+      "reading": "しこう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "志向【しこう】",
+      "meaning": "inclinación; vocación"
+    },
+    {
+      "entryId": "1392970",
+      "spelling": "前向き",
+      "reading": "まえむき",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "前向き【まえむき】",
+      "meaning": "optimista; positivo"
+    },
+    {
+      "entryId": "1277040",
+      "spelling": "向き",
+      "reading": "むき",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "向き【むき】",
+      "meaning": "orientación; dirección"
+    },
+    {
+      "entryId": "1604750",
+      "spelling": "向い",
+      "reading": "むかい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "向い【むかい】",
+      "meaning": "opuesto; contrario"
+    },
+    {
+      "entryId": "1604750",
+      "spelling": "向かい",
+      "reading": "むかい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "向かい【むかい】",
+      "meaning": "opuesto; contrario"
+    },
+    {
+      "entryId": "1609230",
+      "spelling": "一向に",
+      "reading": "いっこうに",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "一向に【いっこうに】",
+      "meaning": "(no) en absoluto"
+    },
+    {
+      "entryId": "1489540",
+      "spelling": "表向き",
+      "reading": "おもてむき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "表向き【おもてむき】",
+      "meaning": "apariencia exterior; aparente; público; oficial"
+    },
+    {
+      "entryId": "1277140",
+      "spelling": "向う",
+      "reading": "むこう",
+      "senseNumbers": [
+        23
+      ],
+      "japanese": "向う【むこう】",
+      "meaning": "más allá; por allí; dirección opuesta; el otro grupo"
+    },
+    {
+      "entryId": "1277140",
+      "spelling": "向こう",
+      "reading": "むこう",
+      "senseNumbers": [
+        23
+      ],
+      "japanese": "向こう【むこう】",
+      "meaning": "más allá; por allí; dirección opuesta; el otro grupo"
+    },
+    {
+      "entryId": "1464050",
+      "spelling": "日向",
+      "reading": "ひなた",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "日向【ひなた】",
+      "meaning": "lugar soleado"
+    },
+    {
+      "entryId": "1499850",
+      "spelling": "風向き",
+      "reading": "かざむき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "風向き【かざむき】",
+      "meaning": "dirección del viento"
+    },
+    {
+      "entryId": "1499850",
+      "spelling": "風向き",
+      "reading": "かぜむき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "風向き【かぜむき】",
+      "meaning": "dirección del viento"
+    },
+    {
+      "entryId": "1580370",
+      "spelling": "上向き",
+      "reading": "うえむき",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "上向き【うえむき】",
+      "meaning": "ascenso; subida; tendencia al alza; tendencia alcista"
+    },
+    {
+      "entryId": "1580370",
+      "spelling": "上向き",
+      "reading": "うわむき",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "上向き【うわむき】",
+      "meaning": "ascenso; subida; tendencia al alza; tendencia alcista"
+    },
+    {
+      "entryId": "1269640",
+      "spelling": "後ろ向き",
+      "reading": "うしろむき",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "後ろ向き【うしろむき】",
+      "meaning": "hacia atrás; retrógrado"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

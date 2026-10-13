@@ -1,0 +1,252 @@
+{
+  "character": "附",
+  "meanings": "pegar, adjuntar, anexar, adherir",
+  "words": [
+    {
+      "entryId": "1496240",
+      "spelling": "附近",
+      "reading": "ふきん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "附近【ふきん】",
+      "meaning": "alrededores; cercanías; inmediaciones"
+    },
+    {
+      "entryId": "1591400",
+      "spelling": "寄附",
+      "reading": "きふ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "寄附【きふ】",
+      "meaning": "contribución; donación"
+    },
+    {
+      "entryId": "1602700",
+      "spelling": "附属",
+      "reading": "ふぞく",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "附属【ふぞく】",
+      "meaning": "anexo; pertenecer; estar ligado a; depender de; accesorios"
+    },
+    {
+      "entryId": "1464340",
+      "spelling": "日附",
+      "reading": "ひづけ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "日附【ひづけ】",
+      "meaning": "fecha"
+    },
+    {
+      "entryId": "1588060",
+      "spelling": "受附",
+      "reading": "うけつけ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "受附【うけつけ】",
+      "meaning": "recepción; información; portería"
+    },
+    {
+      "entryId": "1496170",
+      "spelling": "附加",
+      "reading": "ふか",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "附加【ふか】",
+      "meaning": "extra; anexo; agregado"
+    },
+    {
+      "entryId": "1496430",
+      "spelling": "附与",
+      "reading": "ふよ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "附与【ふよ】",
+      "meaning": "concesión; otorgamiento; dación"
+    },
+    {
+      "entryId": "1402840",
+      "spelling": "送附",
+      "reading": "そうふ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "送附【そうふ】",
+      "meaning": "remesa; envío"
+    },
+    {
+      "entryId": "1603100",
+      "spelling": "附録",
+      "reading": "ふろく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "附録【ふろく】",
+      "meaning": "apéndice (de un libro)"
+    },
+    {
+      "entryId": "1440880",
+      "spelling": "添附",
+      "reading": "てんぷ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "添附【てんぷ】",
+      "meaning": "adjunto"
+    },
+    {
+      "entryId": "1591330",
+      "spelling": "気附く",
+      "reading": "きづく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "気附く【きづく】",
+      "meaning": "percibir; notar; advertir"
+    },
+    {
+      "entryId": "1496400",
+      "spelling": "附着",
+      "reading": "ふちゃく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "附着【ふちゃく】",
+      "meaning": "adhesión"
+    },
+    {
+      "entryId": "1604570",
+      "spelling": "見附ける",
+      "reading": "みつける",
+      "senseNumbers": [
+        14,
+        15,
+        16
+      ],
+      "japanese": "見附ける【みつける】",
+      "meaning": "descubrir; encontrar (e.g. un error en un libro); dar con; detectar; localizar; encontrar (e.g. algo perdido); estar acostumbrado a ver; estar familiarizado con; encontrar; hallar"
+    },
+    {
+      "entryId": "1495790",
+      "spelling": "附け加える",
+      "reading": "つけくわえる",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "附け加える【つけくわえる】",
+      "meaning": "añadir; sumar; agregar"
+    },
+    {
+      "entryId": "1495790",
+      "spelling": "附加える",
+      "reading": "つけくわえる",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "附加える【つけくわえる】",
+      "meaning": "añadir; sumar; agregar"
+    },
+    {
+      "entryId": "1495740",
+      "spelling": "附く",
+      "reading": "つく",
+      "senseNumbers": [
+        32
+      ],
+      "japanese": "附く【つく】",
+      "meaning": "ponerse; adjuntarse; adherirse; conectarse con; teñirse; mancharse; asustarse; grabarse; comenzar (fuegos); seguir; volverse aliado de; acompañarse; estudiar con; incrementarse; aumentarse a"
+    },
+    {
+      "entryId": "1495750",
+      "spelling": "附け",
+      "reading": "つけ",
+      "senseNumbers": [
+        25
+      ],
+      "japanese": "附け【つけ】",
+      "meaning": "cuenta; crédito"
+    },
+    {
+      "entryId": "1495770",
+      "spelling": "附ける",
+      "reading": "つける",
+      "senseNumbers": [
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      "japanese": "附ける【つける】",
+      "meaning": "adherir; pegar; añadir; aplicar; untar; poner; fijar; ponerse; llevar puesto; encender; activar; poner en marcha; llegar; vestir; ligar; sujetar; unir; agregar; coser; amueblar; mantener un diario; hacer una entrada; ajustar (precio); traer a lo largo; colocar (bajo guardia o un doctor); seguir; cargar; dar (coraje a); mantenerse alerta; establecer"
+    },
+    {
+      "entryId": "2059630",
+      "spelling": "附いて来る",
+      "reading": "ついてくる",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "附いて来る【ついてくる】",
+      "meaning": "seguir; venir con alguien; acompañar"
+    },
+    {
+      "entryId": "1778210",
+      "spelling": "寄附行為",
+      "reading": "きふこうい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "寄附行為【きふこうい】",
+      "meaning": "suscripción de acciones o participaciones sociales"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

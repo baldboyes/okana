@@ -1,0 +1,240 @@
+{
+  "character": "得",
+  "meanings": "ventaja, beneficio, provecho, conseguir, obtener",
+  "words": [
+    {
+      "entryId": "1343360",
+      "spelling": "所得",
+      "reading": "しょとく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "所得【しょとく】",
+      "meaning": "ingresos"
+    },
+    {
+      "entryId": "1343370",
+      "spelling": "所得税",
+      "reading": "しょとくぜい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "所得税【しょとくぜい】",
+      "meaning": "impuesto sobre la renta de las personas físicas; IRPF"
+    },
+    {
+      "entryId": "1205750",
+      "spelling": "獲得",
+      "reading": "かくとく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "獲得【かくとく】",
+      "meaning": "obetención; consecución; ganancia"
+    },
+    {
+      "entryId": "1386440",
+      "spelling": "説得",
+      "reading": "せっとく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "説得【せっとく】",
+      "meaning": "convencer; persuadir; persuasión"
+    },
+    {
+      "entryId": "1456010",
+      "spelling": "独得",
+      "reading": "どくとく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "独得【どくとく】",
+      "meaning": "peculiaridad; singularidad; característico"
+    },
+    {
+      "entryId": "1327070",
+      "spelling": "取得",
+      "reading": "しゅとく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "取得【しゅとく】",
+      "meaning": "adquisición"
+    },
+    {
+      "entryId": "1454510",
+      "spelling": "得意",
+      "reading": "とくい",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "得意【とくい】",
+      "meaning": "fuerte; especialidad"
+    },
+    {
+      "entryId": "1470080",
+      "spelling": "納得",
+      "reading": "なっとく",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "納得【なっとく】",
+      "meaning": "consentimiento; asentimiento; comprensión; acuerdo"
+    },
+    {
+      "entryId": "1454490",
+      "spelling": "得",
+      "reading": "とく",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "得【とく】",
+      "meaning": "ganancia; provecho; beneficio"
+    },
+    {
+      "entryId": "1360920",
+      "spelling": "心得る",
+      "reading": "こころえる",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "心得る【こころえる】",
+      "meaning": "entender; reconocer"
+    },
+    {
+      "entryId": "1578350",
+      "spelling": "見得",
+      "reading": "みえ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "見得【みえ】",
+      "meaning": "apariencia; vista"
+    },
+    {
+      "entryId": "1594750",
+      "spelling": "修得",
+      "reading": "しゅうとく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "修得【しゅうとく】",
+      "meaning": "aprendizaje; adquisición"
+    },
+    {
+      "entryId": "1594750",
+      "spelling": "習得",
+      "reading": "しゅうとく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "習得【しゅうとく】",
+      "meaning": "aprendizaje; adquisición"
+    },
+    {
+      "entryId": "1360910",
+      "spelling": "心得",
+      "reading": "こころえ",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "心得【こころえ】",
+      "meaning": "conocimiento; información"
+    },
+    {
+      "entryId": "1454500",
+      "spelling": "得る",
+      "reading": "うる",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "得る【うる】",
+      "meaning": "conseguir"
+    },
+    {
+      "entryId": "1406770",
+      "spelling": "損得",
+      "reading": "そんとく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "損得【そんとく】",
+      "meaning": "perdidas y ganancias; interés económico"
+    },
+    {
+      "entryId": "1409630",
+      "spelling": "体得",
+      "reading": "たいとく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "体得【たいとく】",
+      "meaning": "maestría; dominio"
+    },
+    {
+      "entryId": "1494340",
+      "spelling": "不得意",
+      "reading": "ふとくい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "不得意【ふとくい】",
+      "meaning": "punto débil; inhabilidad; defecto"
+    },
+    {
+      "entryId": "1332580",
+      "spelling": "拾得",
+      "reading": "しゅうとく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "拾得【しゅうとく】",
+      "meaning": "hallazgo"
+    },
+    {
+      "entryId": "1612100",
+      "spelling": "やむを得ない",
+      "reading": "やむをえない",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "やむを得ない【やむをえない】",
+      "meaning": "inevitable; ineludible; irremediable; no haber manera; no haber más remedio; no haber otra opción; ineluctable"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

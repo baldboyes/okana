@@ -1,0 +1,241 @@
+{
+  "character": "族",
+  "meanings": "tribu, familia",
+  "words": [
+    {
+      "entryId": "1192150",
+      "spelling": "家族",
+      "reading": "かぞく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "家族【かぞく】",
+      "meaning": "familia; miembros de la familia"
+    },
+    {
+      "entryId": "1604740",
+      "spelling": "民族",
+      "reading": "みんぞく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "民族【みんぞく】",
+      "meaning": "raza; grupo étnico"
+    },
+    {
+      "entryId": "1159420",
+      "spelling": "遺族",
+      "reading": "いぞく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "遺族【いぞく】",
+      "meaning": "familia afligida por la muerte"
+    },
+    {
+      "entryId": "1529110",
+      "spelling": "民族主義",
+      "reading": "みんぞくしゅぎ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "民族主義【みんぞくしゅぎ】",
+      "meaning": "nacionalismo"
+    },
+    {
+      "entryId": "1365270",
+      "spelling": "親族",
+      "reading": "しんぞく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "親族【しんぞく】",
+      "meaning": "familiares"
+    },
+    {
+      "entryId": "1164440",
+      "spelling": "一族",
+      "reading": "いちぞく",
+      "senseNumbers": [
+        9,
+        10
+      ],
+      "japanese": "一族【いちぞく】",
+      "meaning": "familia; parientes; persona a cargo de otra; hogar"
+    },
+    {
+      "entryId": "1405770",
+      "spelling": "族",
+      "reading": "ぞく",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "族【ぞく】",
+      "meaning": "tribu (taxonomía); grupo de la tabla periódica; raza; grupo; pueblo"
+    },
+    {
+      "entryId": "1499420",
+      "spelling": "部族",
+      "reading": "ぶぞく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "部族【ぶぞく】",
+      "meaning": "tribu; clan; casa (linaje con un mismo apellido y origen)"
+    },
+    {
+      "entryId": "1223550",
+      "spelling": "貴族",
+      "reading": "きぞく",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "貴族【きぞく】",
+      "meaning": "noble; aristócrata"
+    },
+    {
+      "entryId": "1192160",
+      "spelling": "家族計画",
+      "reading": "かぞくけいかく",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "家族計画【かぞくけいかく】",
+      "meaning": "planificación familiar"
+    },
+    {
+      "entryId": "1371820",
+      "spelling": "水族館",
+      "reading": "すいぞくかん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "水族館【すいぞくかん】",
+      "meaning": "acuario"
+    },
+    {
+      "entryId": "1371820",
+      "spelling": "水族館",
+      "reading": "すいぞっかん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "水族館【すいぞっかん】",
+      "meaning": "acuario"
+    },
+    {
+      "entryId": "1205530",
+      "spelling": "核家族",
+      "reading": "かくかぞく",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "核家族【かくかぞく】",
+      "meaning": "familia nuclear"
+    },
+    {
+      "entryId": "1280440",
+      "spelling": "皇族",
+      "reading": "こうぞく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "皇族【こうぞく】",
+      "meaning": "familia imperial; realeza"
+    },
+    {
+      "entryId": "1647350",
+      "spelling": "氏族",
+      "reading": "しぞく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "氏族【しぞく】",
+      "meaning": "clan"
+    },
+    {
+      "entryId": "1181620",
+      "spelling": "王族",
+      "reading": "おうぞく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "王族【おうぞく】",
+      "meaning": "realeza"
+    },
+    {
+      "entryId": "1328840",
+      "spelling": "種族",
+      "reading": "しゅぞく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "種族【しゅぞく】",
+      "meaning": "raza; tribu; familia; especie"
+    },
+    {
+      "entryId": "1453020",
+      "spelling": "同族",
+      "reading": "どうぞく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "同族【どうぞく】",
+      "meaning": "de la misma familia; clan; etnia o grupo"
+    },
+    {
+      "entryId": "1718510",
+      "spelling": "家族制度",
+      "reading": "かぞくせいど",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "家族制度【かぞくせいど】",
+      "meaning": "sistema familiar"
+    },
+    {
+      "entryId": "1255320",
+      "spelling": "血族",
+      "reading": "けつぞく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "血族【けつぞく】",
+      "meaning": "pariente sanguíneo"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

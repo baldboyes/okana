@@ -1,0 +1,214 @@
+{
+  "character": "済",
+  "meanings": "ayudar, rescatar, terminar, finalizar, acabar, concluir, reembolsar, devolver",
+  "words": [
+    {
+      "entryId": "1251320",
+      "spelling": "経済",
+      "reading": "けいざい",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "経済【けいざい】",
+      "meaning": "economía; negocios; finanzas"
+    },
+    {
+      "entryId": "1229150",
+      "spelling": "救済",
+      "reading": "きゅうさい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "救済【きゅうさい】",
+      "meaning": "socorro"
+    },
+    {
+      "entryId": "1512210",
+      "spelling": "返済",
+      "reading": "へんさい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "返済【へんさい】",
+      "meaning": "reembolso; devolución (de dinero)"
+    },
+    {
+      "entryId": "1609740",
+      "spelling": "経済的",
+      "reading": "けいざいてき",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "経済的【けいざいてき】",
+      "meaning": "económico"
+    },
+    {
+      "entryId": "1234410",
+      "spelling": "共済",
+      "reading": "きょうさい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "共済【きょうさい】",
+      "meaning": "ayuda mutua"
+    },
+    {
+      "entryId": "1229060",
+      "spelling": "済う",
+      "reading": "すくう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "済う【すくう】",
+      "meaning": "rescatar de; prestar ayuda; rescatar; salvar; socorrer; auxiliar; remediar"
+    },
+    {
+      "entryId": "1658630",
+      "spelling": "自由経済",
+      "reading": "じゆうけいざい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "自由経済【じゆうけいざい】",
+      "meaning": "economía de mercado"
+    },
+    {
+      "entryId": "1295030",
+      "spelling": "済す",
+      "reading": "すます",
+      "senseNumbers": [
+        17,
+        18,
+        19
+      ],
+      "japanese": "済す【すます】",
+      "meaning": "terminar; acabar de una vez; concluir; pagar; devolver (dinero); arreglárselas (sin algo); apañárselas"
+    },
+    {
+      "entryId": "1295030",
+      "spelling": "済ます",
+      "reading": "すます",
+      "senseNumbers": [
+        17,
+        18,
+        19
+      ],
+      "japanese": "済ます【すます】",
+      "meaning": "terminar; acabar de una vez; concluir; pagar; devolver (dinero); arreglárselas (sin algo); apañárselas"
+    },
+    {
+      "entryId": "1512940",
+      "spelling": "弁済",
+      "reading": "べんさい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "弁済【べんさい】",
+      "meaning": "pago; saldo; liquidación"
+    },
+    {
+      "entryId": "1512940",
+      "spelling": "辨済",
+      "reading": "べんさい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "辨済【べんさい】",
+      "meaning": "pago; saldo; liquidación"
+    },
+    {
+      "entryId": "1295070",
+      "spelling": "済む",
+      "reading": "すむ",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "済む【すむ】",
+      "meaning": "terminar de hacer (acabar)"
+    },
+    {
+      "entryId": "1295040",
+      "spelling": "済ませる",
+      "reading": "すませる",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "済ませる【すませる】",
+      "meaning": "acabar; terminar; completar; bastar"
+    },
+    {
+      "entryId": "1295060",
+      "spelling": "済みません",
+      "reading": "すみません",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "済みません【すみません】",
+      "meaning": "perdón; disculpe; gracias"
+    },
+    {
+      "entryId": "1295060",
+      "spelling": "済みません",
+      "reading": "スミマセン",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "済みません【スミマセン】",
+      "meaning": "perdón; disculpe; gracias"
+    },
+    {
+      "entryId": "1999500",
+      "spelling": "日本経済",
+      "reading": "にほんけいざい",
+      "senseNumbers": [
+        2
+      ],
+      "japanese": "日本経済【にほんけいざい】",
+      "meaning": "economía japonesa"
+    },
+    {
+      "entryId": "1211460",
+      "spelling": "完済",
+      "reading": "かんさい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "完済【かんさい】",
+      "meaning": "pago completo; reembolso íntegro"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

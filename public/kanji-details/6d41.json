@@ -1,0 +1,243 @@
+{
+  "character": "流",
+  "meanings": "corriente, derramar, verter",
+  "words": [
+    {
+      "entryId": "1272580",
+      "spelling": "交流",
+      "reading": "こうりゅう",
+      "senseNumbers": [
+        11,
+        12
+      ],
+      "japanese": "交流【こうりゅう】",
+      "meaning": "intercambiar; hacer intercambio; relaciones; intercambio (cultural); corriente alterna; AC"
+    },
+    {
+      "entryId": "1552130",
+      "spelling": "流れ",
+      "reading": "ながれ",
+      "senseNumbers": [
+        24
+      ],
+      "japanese": "流れ【ながれ】",
+      "meaning": "flujo; corriente; vigor"
+    },
+    {
+      "entryId": "1552440",
+      "spelling": "流通",
+      "reading": "りゅうつう",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "流通【りゅうつう】",
+      "meaning": "corriente; flujo"
+    },
+    {
+      "entryId": "1585110",
+      "spelling": "流行",
+      "reading": "りゅうこう",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "流行【りゅうこう】",
+      "meaning": "moda"
+    },
+    {
+      "entryId": "1167270",
+      "spelling": "一流",
+      "reading": "いちりゅう",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "一流【いちりゅう】",
+      "meaning": "primera clase; alto grado; escuela (de arte); primero; delantero; único"
+    },
+    {
+      "entryId": "1552460",
+      "spelling": "流動",
+      "reading": "りゅうどう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "流動【りゅうどう】",
+      "meaning": "flujo; corriente"
+    },
+    {
+      "entryId": "1552120",
+      "spelling": "流す",
+      "reading": "ながす",
+      "senseNumbers": [
+        41,
+        42,
+        43
+      ],
+      "japanese": "流す【ながす】",
+      "meaning": "drenar; flotar; verter(lágrimas; sangre); distribuir (electricidad sobre cables, música en un sistema PA, etc); circular (ej. un taxi); transmitir; ir a la deriva"
+    },
+    {
+      "entryId": "1552290",
+      "spelling": "流血",
+      "reading": "りゅうけつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "流血【りゅうけつ】",
+      "meaning": "derramamiento de sangre"
+    },
+    {
+      "entryId": "1428720",
+      "spelling": "潮流",
+      "reading": "ちょうりゅう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "潮流【ちょうりゅう】",
+      "meaning": "corriente marina"
+    },
+    {
+      "entryId": "1552230",
+      "spelling": "流域",
+      "reading": "りゅういき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "流域【りゅういき】",
+      "meaning": "cañada; valle"
+    },
+    {
+      "entryId": "1354510",
+      "spelling": "上流",
+      "reading": "じょうりゅう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "上流【じょうりゅう】",
+      "meaning": "río arriba"
+    },
+    {
+      "entryId": "1345440",
+      "spelling": "女流",
+      "reading": "じょりゅう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "女流【じょりゅう】",
+      "meaning": "escritora"
+    },
+    {
+      "entryId": "1186560",
+      "spelling": "下流",
+      "reading": "かりゅう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "下流【かりゅう】",
+      "meaning": "rio abajo, corriente abajo"
+    },
+    {
+      "entryId": "1552100",
+      "spelling": "流し",
+      "reading": "ながし",
+      "senseNumbers": [
+        22
+      ],
+      "japanese": "流し【ながし】",
+      "meaning": "lavabo; fregadero; ambulante"
+    },
+    {
+      "entryId": "1443790",
+      "spelling": "電流",
+      "reading": "でんりゅう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "電流【でんりゅう】",
+      "meaning": "corriente eléctrica"
+    },
+    {
+      "entryId": "1425600",
+      "spelling": "中流",
+      "reading": "ちゅうりゅう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "中流【ちゅうりゅう】",
+      "meaning": "de clase media; a media corriente"
+    },
+    {
+      "entryId": "1552520",
+      "spelling": "流派",
+      "reading": "りゅうは",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "流派【りゅうは】",
+      "meaning": "escuela (ej. de ikebana)"
+    },
+    {
+      "entryId": "1310330",
+      "spelling": "支流",
+      "reading": "しりゅう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "支流【しりゅう】",
+      "meaning": "afluente"
+    },
+    {
+      "entryId": "1301840",
+      "spelling": "三流",
+      "reading": "さんりゅう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "三流【さんりゅう】",
+      "meaning": "de tercera"
+    },
+    {
+      "entryId": "1285390",
+      "spelling": "合流",
+      "reading": "ごうりゅう",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "合流【ごうりゅう】",
+      "meaning": "confluencia; reunión"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "character": "点",
+  "meanings": "punto, marca",
+  "words": [
+    {
+      "entryId": "1350810",
+      "spelling": "焦点",
+      "reading": "しょうてん",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "焦点【しょうてん】",
+      "meaning": "foco; centro; punto de concentración"
+    },
+    {
+      "entryId": "1227170",
+      "spelling": "逆点",
+      "reading": "ぎゃくてん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "逆点【ぎゃくてん】",
+      "meaning": "voltereta; reversión; volverse las tornas; dar un vuelco; dar un giro; invertirse; darse la vuelta; revertir"
+    },
+    {
+      "entryId": "1316340",
+      "spelling": "時点",
+      "reading": "じてん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "時点【じてん】",
+      "meaning": "punto en el tiempo; ocasión"
+    },
+    {
+      "entryId": "1312130",
+      "spelling": "視点",
+      "reading": "してん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "視点【してん】",
+      "meaning": "opinión; punto de vista"
+    },
+    {
+      "entryId": "1336570",
+      "spelling": "重点",
+      "reading": "じゅうてん",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "重点【じゅうてん】",
+      "meaning": "orientación; enfoque"
+    },
+    {
+      "entryId": "1262160",
+      "spelling": "原点",
+      "reading": "げんてん",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "原点【げんてん】",
+      "meaning": "origen; inicio; punto de partida"
+    },
+    {
+      "entryId": "1421380",
+      "spelling": "地点",
+      "reading": "ちてん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "地点【ちてん】",
+      "meaning": "lugar; sitio; punto geográfico"
+    },
+    {
+      "entryId": "1441390",
+      "spelling": "点",
+      "reading": "てん",
+      "senseNumbers": [
+        34,
+        35,
+        36,
+        37
+      ],
+      "japanese": "点【てん】",
+      "meaning": "mancha; marca; punto; calificación; puntaje; puntos; contador para mercancías o artículos"
+    },
+    {
+      "entryId": "1215000",
+      "spelling": "観点",
+      "reading": "かんてん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "観点【かんてん】",
+      "meaning": "punto de vista"
+    },
+    {
+      "entryId": "1441540",
+      "spelling": "点検",
+      "reading": "てんけん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "点検【てんけん】",
+      "meaning": "inspección; comprobación; revisión"
+    },
+    {
+      "entryId": "1430240",
+      "spelling": "頂点",
+      "reading": "ちょうてん",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "頂点【ちょうてん】",
+      "meaning": "cima; pico; cumbre"
+    },
+    {
+      "entryId": "1263690",
+      "spelling": "現時点",
+      "reading": "げんじてん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "現時点【げんじてん】",
+      "meaning": "este momento actual (lit punto del presente)"
+    },
+    {
+      "entryId": "1441660",
+      "spelling": "点数",
+      "reading": "てんすう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "点数【てんすう】",
+      "meaning": "puntuación; marcador; calificación"
+    },
+    {
+      "entryId": "1165090",
+      "spelling": "一点",
+      "reading": "いってん",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "一点【いってん】",
+      "meaning": "mancha; mota; punto; sólo un poco; partícula; sólo uno"
+    },
+    {
+      "entryId": "1165090",
+      "spelling": "１点",
+      "reading": "いってん",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "１点【いってん】",
+      "meaning": "mancha; mota; punto; sólo un poco; partícula; sólo uno"
+    },
+    {
+      "entryId": "1441590",
+      "spelling": "点字",
+      "reading": "てんじ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "点字【てんじ】",
+      "meaning": "braille (método de lectura táctil)"
+    },
+    {
+      "entryId": "1324870",
+      "spelling": "弱点",
+      "reading": "じゃくてん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "弱点【じゃくてん】",
+      "meaning": "punto débil; debilidad"
+    },
+    {
+      "entryId": "1592970",
+      "spelling": "交叉点",
+      "reading": "こうさてん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "交叉点【こうさてん】",
+      "meaning": "cruce"
+    },
+    {
+      "entryId": "1592970",
+      "spelling": "交差点",
+      "reading": "こうさてん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "交差点【こうさてん】",
+      "meaning": "cruce"
+    },
+    {
+      "entryId": "1604340",
+      "spelling": "満点",
+      "reading": "まんてん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "満点【まんてん】",
+      "meaning": "puntuación perfecta"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

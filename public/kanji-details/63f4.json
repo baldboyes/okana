@@ -1,0 +1,161 @@
+{
+  "character": "援",
+  "meanings": "ayudar, auxiliar, citar, mencionar",
+  "words": [
+    {
+      "entryId": "1176660",
+      "spelling": "援助",
+      "reading": "えんじょ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "援助【えんじょ】",
+      "meaning": "ayudar; asistir; auxiliar; socorrer; ayuda; asistencia; auxilio; socorro; amparo; amaparar"
+    },
+    {
+      "entryId": "1310100",
+      "spelling": "支援",
+      "reading": "しえん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "支援【しえん】",
+      "meaning": "apoyo; asistencia; sostén"
+    },
+    {
+      "entryId": "1179840",
+      "spelling": "応援",
+      "reading": "おうえん",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "応援【おうえん】",
+      "meaning": "apoyo"
+    },
+    {
+      "entryId": "1229070",
+      "spelling": "救援",
+      "reading": "きゅうえん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "救援【きゅうえん】",
+      "meaning": "ayuda; amparo; auxilio; apoyo; socorrer; auxiliar; ayudar; asistir"
+    },
+    {
+      "entryId": "1269470",
+      "spelling": "後援",
+      "reading": "こうえん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "後援【こうえん】",
+      "meaning": "patrocinio; apoyo"
+    },
+    {
+      "entryId": "1588790",
+      "spelling": "援護",
+      "reading": "えんご",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "援護【えんご】",
+      "meaning": "protección; cubrimiento; proteger; cubrir"
+    },
+    {
+      "entryId": "1380460",
+      "spelling": "声援",
+      "reading": "せいえん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "声援【せいえん】",
+      "meaning": "ánimo; vítores; animar; vitorear"
+    },
+    {
+      "entryId": "1344410",
+      "spelling": "援ける",
+      "reading": "たすける",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "援ける【たすける】",
+      "meaning": "salvar; socorrer; auxiliar; prestar auxilio; asistir; apoyar; ayudar; atender; rescatar; promover"
+    },
+    {
+      "entryId": "1225730",
+      "spelling": "義援金",
+      "reading": "ぎえんきん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "義援金【ぎえんきん】",
+      "meaning": "donación de dinero (contribución económica)"
+    },
+    {
+      "entryId": "1628360",
+      "spelling": "援助交際",
+      "reading": "えんじょこうさい",
+      "senseNumbers": [
+        4,
+        5
+      ],
+      "japanese": "援助交際【えんじょこうさい】",
+      "meaning": "salir a cambio de una compensación (pagos, ayuda financiera, etc.); prostitución de colegialas"
+    },
+    {
+      "entryId": "1176650",
+      "spelling": "援軍",
+      "reading": "えんぐん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "援軍【えんぐん】",
+      "meaning": "refuerzos; socorro"
+    },
+    {
+      "entryId": "1176690",
+      "spelling": "援用",
+      "reading": "えんよう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "援用【えんよう】",
+      "meaning": "alusión; cita; referencia; invocación"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

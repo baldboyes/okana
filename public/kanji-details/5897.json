@@ -1,0 +1,240 @@
+{
+  "character": "増",
+  "meanings": "incremento, aumento, aumentar, incrementar, agregar, añadir",
+  "words": [
+    {
+      "entryId": "1403160",
+      "spelling": "増加",
+      "reading": "ぞうか",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "増加【ぞうか】",
+      "meaning": "aumentar; incrementarse; crecer; aumento"
+    },
+    {
+      "entryId": "1403160",
+      "spelling": "増化",
+      "reading": "ぞうか",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "増化【ぞうか】",
+      "meaning": "aumentar; incrementarse; crecer; aumento"
+    },
+    {
+      "entryId": "1403280",
+      "spelling": "増税",
+      "reading": "ぞうぜい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "増税【ぞうぜい】",
+      "meaning": "subida de impuestos"
+    },
+    {
+      "entryId": "1228870",
+      "spelling": "急増",
+      "reading": "きゅうぞう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "急増【きゅうぞう】",
+      "meaning": "incremento repentino"
+    },
+    {
+      "entryId": "1403310",
+      "spelling": "増大",
+      "reading": "ぞうだい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "増大【ぞうだい】",
+      "meaning": "aumento; crecimiento"
+    },
+    {
+      "entryId": "1403190",
+      "spelling": "増強",
+      "reading": "ぞうきょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "増強【ぞうきょう】",
+      "meaning": "refuerzo; reforzamiento"
+    },
+    {
+      "entryId": "1403230",
+      "spelling": "増資",
+      "reading": "ぞうし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "増資【ぞうし】",
+      "meaning": "ampliación de capital"
+    },
+    {
+      "entryId": "1611600",
+      "spelling": "増し",
+      "reading": "まし",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "増し【まし】",
+      "meaning": "plus; incremento; más; extra"
+    },
+    {
+      "entryId": "1403270",
+      "spelling": "増進",
+      "reading": "ぞうしん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "増進【ぞうしん】",
+      "meaning": "fomentar; promover; incrementar"
+    },
+    {
+      "entryId": "1371810",
+      "spelling": "水増し",
+      "reading": "みずまし",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "水増し【みずまし】",
+      "meaning": "aumentar; inflar; diluir"
+    },
+    {
+      "entryId": "1473310",
+      "spelling": "倍増",
+      "reading": "ばいぞう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "倍増【ばいぞう】",
+      "meaning": "doble"
+    },
+    {
+      "entryId": "1403200",
+      "spelling": "増減",
+      "reading": "ぞうげん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "増減【ぞうげん】",
+      "meaning": "fluctuación"
+    },
+    {
+      "entryId": "1611390",
+      "spelling": "日増しに",
+      "reading": "ひましに",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "日増しに【ひましに】",
+      "meaning": "día tras día"
+    },
+    {
+      "entryId": "1602440",
+      "spelling": "増える",
+      "reading": "ふえる",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "増える【ふえる】",
+      "meaning": "aumentar; multiplicar"
+    },
+    {
+      "entryId": "1602880",
+      "spelling": "増やす",
+      "reading": "ふやす",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "増やす【ふやす】",
+      "meaning": "aumentar"
+    },
+    {
+      "entryId": "1403120",
+      "spelling": "増す",
+      "reading": "ます",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "増す【ます】",
+      "meaning": "incrementar; aumentar; sumar; añadir; multiplicar; crecer; incrementarse; acrecentar"
+    },
+    {
+      "entryId": "1237470",
+      "spelling": "増して",
+      "reading": "まして",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "増して【まして】",
+      "meaning": "aun más (menos)"
+    },
+    {
+      "entryId": "1603950",
+      "spelling": "増々",
+      "reading": "ますます",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "増々【ますます】",
+      "meaning": "cada vez más; más y más"
+    },
+    {
+      "entryId": "1603950",
+      "spelling": "増す増す",
+      "reading": "ますます",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "増す増す【ますます】",
+      "meaning": "cada vez más; más y más"
+    },
+    {
+      "entryId": "1603950",
+      "spelling": "増増",
+      "reading": "ますます",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "増増【ますます】",
+      "meaning": "cada vez más; más y más"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

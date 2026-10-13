@@ -1,0 +1,121 @@
+{
+  "character": "携",
+  "meanings": "portátil, llevar en mano",
+  "words": [
+    {
+      "entryId": "1559400",
+      "spelling": "連携",
+      "reading": "れんけい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "連携【れんけい】",
+      "meaning": "cooperación"
+    },
+    {
+      "entryId": "1250680",
+      "spelling": "携帯",
+      "reading": "けいたい",
+      "senseNumbers": [
+        14,
+        15
+      ],
+      "japanese": "携帯【けいたい】",
+      "meaning": "algo que se lleva (en la mano); de mano; teléfono móvil; celular"
+    },
+    {
+      "entryId": "1436380",
+      "spelling": "提携",
+      "reading": "ていけい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "提携【ていけい】",
+      "meaning": "cooperación"
+    },
+    {
+      "entryId": "1250660",
+      "spelling": "携る",
+      "reading": "たずさわる",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "携る【たずさわる】",
+      "meaning": "meterse en; participar; tomar parte en"
+    },
+    {
+      "entryId": "1250660",
+      "spelling": "携わる",
+      "reading": "たずさわる",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "携わる【たずさわる】",
+      "meaning": "meterse en; participar; tomar parte en"
+    },
+    {
+      "entryId": "1250650",
+      "spelling": "携える",
+      "reading": "たずさえる",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "携える【たずさえる】",
+      "meaning": "llevar; portar"
+    },
+    {
+      "entryId": "1250690",
+      "spelling": "携帯電話",
+      "reading": "けいたいでんわ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "携帯電話【けいたいでんわ】",
+      "meaning": "teléfono móvil; teléfono celular"
+    },
+    {
+      "entryId": "1250670",
+      "spelling": "携行",
+      "reading": "けいこう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "携行【けいこう】",
+      "meaning": "porte; llevanza; acarreo"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

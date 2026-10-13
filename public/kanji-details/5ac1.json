@@ -1,0 +1,95 @@
+{
+  "character": "嫁",
+  "meanings": "novia, nuera, casarse, dar responsabilidad",
+  "words": [
+    {
+      "entryId": "1191680",
+      "spelling": "嫁",
+      "reading": "よめ",
+      "senseNumbers": [
+        13,
+        14
+      ],
+      "japanese": "嫁【よめ】",
+      "meaning": "nuera; esposa; novia (desposada); (propia) nuera"
+    },
+    {
+      "entryId": "1194570",
+      "spelling": "花嫁",
+      "reading": "はなよめ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "花嫁【はなよめ】",
+      "meaning": "novia (casamiento)"
+    },
+    {
+      "entryId": "1441060",
+      "spelling": "転嫁",
+      "reading": "てんか",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "転嫁【てんか】",
+      "meaning": "pasar a otros la responsabilidad"
+    },
+    {
+      "entryId": "1511790",
+      "spelling": "嫁ける",
+      "reading": "かたづける",
+      "senseNumbers": [
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "japanese": "嫁ける【かたづける】",
+      "meaning": "ordenar; poner en orden; guardar; arreglar (problema); aclarar (disputa); terminar; llevar algo hasta el fin; casar (ej. una hija); matar a alguien"
+    },
+    {
+      "entryId": "1191690",
+      "spelling": "嫁ぐ",
+      "reading": "とつぐ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "嫁ぐ【とつぐ】",
+      "meaning": "casarse"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "character": "補",
+  "meanings": "suplir, resarcir, compensar",
+  "words": [
+    {
+      "entryId": "1272730",
+      "spelling": "侯補",
+      "reading": "こうほ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "侯補【こうほ】",
+      "meaning": "candidatura"
+    },
+    {
+      "entryId": "1272730",
+      "spelling": "候補",
+      "reading": "こうほ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "候補【こうほ】",
+      "meaning": "candidatura"
+    },
+    {
+      "entryId": "1514590",
+      "spelling": "補助",
+      "reading": "ほじょ",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "補助【ほじょ】",
+      "meaning": "auxiliar"
+    },
+    {
+      "entryId": "1514650",
+      "spelling": "補償",
+      "reading": "ほしょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "補償【ほしょう】",
+      "meaning": "indemnización"
+    },
+    {
+      "entryId": "1551650",
+      "spelling": "立候補",
+      "reading": "りっこうほ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "立候補【りっこうほ】",
+      "meaning": "candidatura"
+    },
+    {
+      "entryId": "1603460",
+      "spelling": "補佐",
+      "reading": "ほさ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "補佐【ほさ】",
+      "meaning": "asistente"
+    },
+    {
+      "entryId": "1514510",
+      "spelling": "補給",
+      "reading": "ほきゅう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "補給【ほきゅう】",
+      "meaning": "abastecimiento; suministro; abasto"
+    },
+    {
+      "entryId": "1514530",
+      "spelling": "補強",
+      "reading": "ほきょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "補強【ほきょう】",
+      "meaning": "refuerzo"
+    },
+    {
+      "entryId": "1514680",
+      "spelling": "補正",
+      "reading": "ほせい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "補正【ほせい】",
+      "meaning": "rectificación; corrección"
+    },
+    {
+      "entryId": "1514540",
+      "spelling": "補欠",
+      "reading": "ほけつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "補欠【ほけつ】",
+      "meaning": "protésico"
+    },
+    {
+      "entryId": "1514540",
+      "spelling": "補闕",
+      "reading": "ほけつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "補闕【ほけつ】",
+      "meaning": "protésico"
+    },
+    {
+      "entryId": "1514580",
+      "spelling": "補充",
+      "reading": "ほじゅう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "補充【ほじゅう】",
+      "meaning": "suplemento; complemento; accesorio"
+    },
+    {
+      "entryId": "1344410",
+      "spelling": "補ける",
+      "reading": "たすける",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "補ける【たすける】",
+      "meaning": "salvar; socorrer; auxiliar; prestar auxilio; asistir; apoyar; ayudar; atender; rescatar; promover"
+    },
+    {
+      "entryId": "1514700",
+      "spelling": "補足",
+      "reading": "ほそく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "補足【ほそく】",
+      "meaning": "suplemento"
+    },
+    {
+      "entryId": "1514460",
+      "spelling": "補う",
+      "reading": "おぎなう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "補う【おぎなう】",
+      "meaning": "compensar; cubrir; complementar"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "character": "送",
+  "meanings": "enviar, remitir, expedir",
+  "words": [
+    {
+      "entryId": "1516750",
+      "spelling": "放送",
+      "reading": "ほうそう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "放送【ほうそう】",
+      "meaning": "emitir; transmitir; retransmitir; difundir; emisión; retransmisión"
+    },
+    {
+      "entryId": "1538850",
+      "spelling": "輸送",
+      "reading": "ゆそう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "輸送【ゆそう】",
+      "meaning": "envío; expedición"
+    },
+    {
+      "entryId": "1402730",
+      "spelling": "送る",
+      "reading": "おくる",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "送る【おくる】",
+      "meaning": "enviar (cosas); despachar; escoltar; acompañar; despedirse; pasar un periodo de tiempo; vivir una vida"
+    },
+    {
+      "entryId": "1259820",
+      "spelling": "見送り",
+      "reading": "みおくり",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "見送り【みおくり】",
+      "meaning": "despedida"
+    },
+    {
+      "entryId": "1259830",
+      "spelling": "見送る",
+      "reading": "みおくる",
+      "senseNumbers": [
+        21
+      ],
+      "japanese": "見送る【みおくる】",
+      "meaning": "acompañar y despedir a alguien"
+    },
+    {
+      "entryId": "1588620",
+      "spelling": "運送",
+      "reading": "うんそう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "運送【うんそう】",
+      "meaning": "flete; carga; envío; transporte; remesa"
+    },
+    {
+      "entryId": "1402630",
+      "spelling": "送り",
+      "reading": "おくり",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "送り【おくり】",
+      "meaning": "envío; despedida; funeral"
+    },
+    {
+      "entryId": "1402750",
+      "spelling": "送金",
+      "reading": "そうきん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "送金【そうきん】",
+      "meaning": "envío (monetario)"
+    },
+    {
+      "entryId": "1542380",
+      "spelling": "郵送",
+      "reading": "ゆうそう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "郵送【ゆうそう】",
+      "meaning": "envío postal; flete"
+    },
+    {
+      "entryId": "1158350",
+      "spelling": "移送",
+      "reading": "いそう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "移送【いそう】",
+      "meaning": "transferencia; transporte; eliminación"
+    },
+    {
+      "entryId": "1473120",
+      "spelling": "配送",
+      "reading": "はいそう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "配送【はいそう】",
+      "meaning": "reparto; entrega"
+    },
+    {
+      "entryId": "1402820",
+      "spelling": "送信",
+      "reading": "そうしん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "送信【そうしん】",
+      "meaning": "envío; emisión; transmisión; transmitir"
+    },
+    {
+      "entryId": "1402830",
+      "spelling": "送電",
+      "reading": "そうでん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "送電【そうでん】",
+      "meaning": "suministro eléctrico"
+    },
+    {
+      "entryId": "1402840",
+      "spelling": "送付",
+      "reading": "そうふ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "送付【そうふ】",
+      "meaning": "remesa; envío"
+    },
+    {
+      "entryId": "1402840",
+      "spelling": "送附",
+      "reading": "そうふ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "送附【そうふ】",
+      "meaning": "remesa; envío"
+    },
+    {
+      "entryId": "1402670",
+      "spelling": "送りこむ",
+      "reading": "おくりこむ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "送りこむ【おくりこむ】",
+      "meaning": "enviar; mandar"
+    },
+    {
+      "entryId": "1402670",
+      "spelling": "送り込む",
+      "reading": "おくりこむ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "送り込む【おくりこむ】",
+      "meaning": "enviar; mandar"
+    },
+    {
+      "entryId": "1305220",
+      "spelling": "仕送り",
+      "reading": "しおくり",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "仕送り【しおくり】",
+      "meaning": "asignación; mensualidad"
+    },
+    {
+      "entryId": "1305220",
+      "spelling": "為送り",
+      "reading": "しおくり",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "為送り【しおくり】",
+      "meaning": "asignación; mensualidad"
+    },
+    {
+      "entryId": "1477670",
+      "spelling": "発送",
+      "reading": "はっそう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "発送【はっそう】",
+      "meaning": "envío"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

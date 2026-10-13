@@ -1,0 +1,246 @@
+{
+  "character": "滅",
+  "meanings": "extinguirse, apagarse, estropearse, ser destruido, ser devastado, estropear, destruir, devastar, demoler",
+  "words": [
+    {
+      "entryId": "1386990",
+      "spelling": "絶滅",
+      "reading": "ぜつめつ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "絶滅【ぜつめつ】",
+      "meaning": "destrucción; extinción"
+    },
+    {
+      "entryId": "1350380",
+      "spelling": "消滅",
+      "reading": "しょうめつ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "消滅【しょうめつ】",
+      "meaning": "extinción; desaparición; apagamiento"
+    },
+    {
+      "entryId": "1521720",
+      "spelling": "撲滅",
+      "reading": "ぼくめつ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "撲滅【ぼくめつ】",
+      "meaning": "exterminio"
+    },
+    {
+      "entryId": "1471430",
+      "spelling": "破滅",
+      "reading": "はめつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "破滅【はめつ】",
+      "meaning": "destrucción"
+    },
+    {
+      "entryId": "1170900",
+      "spelling": "堙滅",
+      "reading": "いんめつ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "堙滅【いんめつ】",
+      "meaning": "desaparición"
+    },
+    {
+      "entryId": "1170900",
+      "spelling": "湮滅",
+      "reading": "いんめつ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "湮滅【いんめつ】",
+      "meaning": "desaparición"
+    },
+    {
+      "entryId": "1170900",
+      "spelling": "隠滅",
+      "reading": "いんめつ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "隠滅【いんめつ】",
+      "meaning": "desaparición"
+    },
+    {
+      "entryId": "1318710",
+      "spelling": "自滅",
+      "reading": "じめつ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "自滅【じめつ】",
+      "meaning": "autodestrucción"
+    },
+    {
+      "entryId": "1533030",
+      "spelling": "滅亡",
+      "reading": "めつぼう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "滅亡【めつぼう】",
+      "meaning": "ruina; caída; colapso"
+    },
+    {
+      "entryId": "1603610",
+      "spelling": "滅びる",
+      "reading": "ほろびる",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "滅びる【ほろびる】",
+      "meaning": "fenecer; morir; acabarse; extinguirse; caer; desplomarse; desmoronarse"
+    },
+    {
+      "entryId": "1441790",
+      "spelling": "点滅",
+      "reading": "てんめつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "点滅【てんめつ】",
+      "meaning": "intermitente"
+    },
+    {
+      "entryId": "1396240",
+      "spelling": "全滅",
+      "reading": "ぜんめつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "全滅【ぜんめつ】",
+      "meaning": "aniquilación"
+    },
+    {
+      "entryId": "1532980",
+      "spelling": "滅多",
+      "reading": "めった",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "滅多【めった】",
+      "meaning": "raramente"
+    },
+    {
+      "entryId": "1533000",
+      "spelling": "滅茶苦茶",
+      "reading": "めちゃくちゃ",
+      "senseNumbers": [
+        15,
+        16,
+        17
+      ],
+      "japanese": "滅茶苦茶【めちゃくちゃ】",
+      "meaning": "absurdo; ridículo; irrazonable; poco razonable; incoherente; extremo; sin sentido; descabellado; desorden; confusión; ruina"
+    },
+    {
+      "entryId": "1533000",
+      "spelling": "滅茶苦茶",
+      "reading": "めっちゃくちゃ",
+      "senseNumbers": [
+        15,
+        16,
+        17
+      ],
+      "japanese": "滅茶苦茶【めっちゃくちゃ】",
+      "meaning": "absurdo; ridículo; irrazonable; poco razonable; incoherente; extremo; sin sentido; descabellado; desorden; confusión; ruina"
+    },
+    {
+      "entryId": "1533000",
+      "spelling": "滅茶苦茶",
+      "reading": "メチャクチャ",
+      "senseNumbers": [
+        15,
+        16,
+        17
+      ],
+      "japanese": "滅茶苦茶【メチャクチャ】",
+      "meaning": "absurdo; ridículo; irrazonable; poco razonable; incoherente; extremo; sin sentido; descabellado; desorden; confusión; ruina"
+    },
+    {
+      "entryId": "1604980",
+      "spelling": "滅茶滅茶",
+      "reading": "めちゃめちゃ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "滅茶滅茶【めちゃめちゃ】",
+      "meaning": "desmadre; caos; desorden"
+    },
+    {
+      "entryId": "1612000",
+      "spelling": "滅多に",
+      "reading": "めったに",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "滅多に【めったに】",
+      "meaning": "comúnmente (no)"
+    },
+    {
+      "entryId": "1263010",
+      "spelling": "幻滅",
+      "reading": "げんめつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "幻滅【げんめつ】",
+      "meaning": "desilusión"
+    },
+    {
+      "entryId": "1603620",
+      "spelling": "滅す",
+      "reading": "ほろぼす",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "滅す【ほろぼす】",
+      "meaning": "destruir; derrocar; hundir; arruinar"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

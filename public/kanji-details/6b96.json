@@ -1,0 +1,160 @@
+{
+  "character": "殖",
+  "meanings": "aumentar, incrementar, crecer",
+  "words": [
+    {
+      "entryId": "1158310",
+      "spelling": "移殖",
+      "reading": "いしょく",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "移殖【いしょく】",
+      "meaning": "trasplante; implantación; injerto"
+    },
+    {
+      "entryId": "1357350",
+      "spelling": "殖民地",
+      "reading": "しょくみんち",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "殖民地【しょくみんち】",
+      "meaning": "colonia"
+    },
+    {
+      "entryId": "1481700",
+      "spelling": "繁殖",
+      "reading": "はんしょく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "繁殖【はんしょく】",
+      "meaning": "proliferar; expandirse; propagarse; cundir; reproducción; propagación"
+    },
+    {
+      "entryId": "1481700",
+      "spelling": "蕃殖",
+      "reading": "はんしょく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "蕃殖【はんしょく】",
+      "meaning": "proliferar; expandirse; propagarse; cundir; reproducción; propagación"
+    },
+    {
+      "entryId": "1547180",
+      "spelling": "養殖",
+      "reading": "ようしょく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "養殖【ようしょく】",
+      "meaning": "acuicultura"
+    },
+    {
+      "entryId": "1379120",
+      "spelling": "生殖",
+      "reading": "せいしょく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "生殖【せいしょく】",
+      "meaning": "reproducirse; procrear; multiplicarse; proliferar; reproducción"
+    },
+    {
+      "entryId": "1602440",
+      "spelling": "殖える",
+      "reading": "ふえる",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "殖える【ふえる】",
+      "meaning": "aumentar; multiplicar"
+    },
+    {
+      "entryId": "1602880",
+      "spelling": "殖やす",
+      "reading": "ふやす",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "殖やす【ふやす】",
+      "meaning": "aumentar"
+    },
+    {
+      "entryId": "1357340",
+      "spelling": "殖民",
+      "reading": "しょくみん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "殖民【しょくみん】",
+      "meaning": "colonización"
+    },
+    {
+      "entryId": "1549590",
+      "spelling": "利殖",
+      "reading": "りしょく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "利殖【りしょく】",
+      "meaning": "hacer dinero"
+    },
+    {
+      "entryId": "1379130",
+      "spelling": "生殖器",
+      "reading": "せいしょくき",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "生殖器【せいしょくき】",
+      "meaning": "órgano genital; genitales; órgano sexual; órgano reproductivo"
+    },
+    {
+      "entryId": "1379130",
+      "spelling": "生殖器",
+      "reading": "せいしょっき",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "生殖器【せいしょっき】",
+      "meaning": "órgano genital; genitales; órgano sexual; órgano reproductivo"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "character": "埋",
+  "meanings": "enterrado, relleno, incrustado, ser enterrado, ser rellenado, enterrar, rellenar, incrustar",
+  "words": [
+    {
+      "entryId": "1524500",
+      "spelling": "埋める",
+      "reading": "うめる",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "埋める【うめる】",
+      "meaning": "enterrar; soterrar; rellenar; cubrir; paliar"
+    },
+    {
+      "entryId": "1524560",
+      "spelling": "埋蔵",
+      "reading": "まいぞう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "埋蔵【まいぞう】",
+      "meaning": "depósito subterráneo; yacimiento"
+    },
+    {
+      "entryId": "1524550",
+      "spelling": "埋葬",
+      "reading": "まいそう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "埋葬【まいそう】",
+      "meaning": "entierro"
+    },
+    {
+      "entryId": "1254590",
+      "spelling": "穴埋め",
+      "reading": "あなうめ",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "穴埋め【あなうめ】",
+      "meaning": "llenado; cubrimiento; ocupación"
+    },
+    {
+      "entryId": "1610610",
+      "spelling": "埋め立て",
+      "reading": "うめたて",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "埋め立て【うめたて】",
+      "meaning": "recuperación de tierras"
+    },
+    {
+      "entryId": "1610610",
+      "spelling": "埋立",
+      "reading": "うめたて",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "埋立【うめたて】",
+      "meaning": "recuperación de tierras"
+    },
+    {
+      "entryId": "1610610",
+      "spelling": "埋立て",
+      "reading": "うめたて",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "埋立て【うめたて】",
+      "meaning": "recuperación de tierras"
+    },
+    {
+      "entryId": "1830270",
+      "spelling": "生き埋め",
+      "reading": "いきうめ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "生き埋め【いきうめ】",
+      "meaning": "enterrar vivo"
+    },
+    {
+      "entryId": "1830270",
+      "spelling": "生埋め",
+      "reading": "いきうめ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "生埋め【いきうめ】",
+      "meaning": "enterrar vivo"
+    },
+    {
+      "entryId": "1584340",
+      "spelling": "埋まる",
+      "reading": "うずまる",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "埋まる【うずまる】",
+      "meaning": "enterrarse, sepultarse; estar enterrado en; estar cubierto en"
+    },
+    {
+      "entryId": "1584340",
+      "spelling": "埋まる",
+      "reading": "うまる",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "埋まる【うまる】",
+      "meaning": "enterrarse, sepultarse; estar enterrado en; estar cubierto en"
+    },
+    {
+      "entryId": "1524490",
+      "spelling": "埋める",
+      "reading": "うずめる",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "埋める【うずめる】",
+      "meaning": "llenar (un hueco; etc.); taparse; enterrar; ocupar"
+    },
+    {
+      "entryId": "1524530",
+      "spelling": "埋め立てる",
+      "reading": "うめたてる",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "埋め立てる【うめたてる】",
+      "meaning": "rellenar con tierra"
+    },
+    {
+      "entryId": "1834660",
+      "spelling": "埋めあわせ",
+      "reading": "うめあわせ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "埋めあわせ【うめあわせ】",
+      "meaning": "compensación; resarcimiento; indemnización"
+    },
+    {
+      "entryId": "1834660",
+      "spelling": "埋め合せ",
+      "reading": "うめあわせ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "埋め合せ【うめあわせ】",
+      "meaning": "compensación; resarcimiento; indemnización"
+    },
+    {
+      "entryId": "1834660",
+      "spelling": "埋め合わせ",
+      "reading": "うめあわせ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "埋め合わせ【うめあわせ】",
+      "meaning": "compensación; resarcimiento; indemnización"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

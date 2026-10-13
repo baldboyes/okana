@@ -1,0 +1,240 @@
+{
+  "character": "事",
+  "meanings": "cosa, hecho, asunto, acción",
+  "words": [
+    {
+      "entryId": "1212110",
+      "spelling": "幹事",
+      "reading": "かんじ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "幹事【かんじ】",
+      "meaning": "secretario; encargado"
+    },
+    {
+      "entryId": "1223240",
+      "spelling": "記事",
+      "reading": "きじ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "記事【きじ】",
+      "meaning": "artículo (nota periodística)"
+    },
+    {
+      "entryId": "1248080",
+      "spelling": "軍事",
+      "reading": "ぐんじ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "軍事【ぐんじ】",
+      "meaning": "asuntos militares"
+    },
+    {
+      "entryId": "1304970",
+      "spelling": "仕事",
+      "reading": "しごと",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "仕事【しごと】",
+      "meaning": "trabajo; empleo; ocupación"
+    },
+    {
+      "entryId": "1313670",
+      "spelling": "事業",
+      "reading": "じぎょう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "事業【じぎょう】",
+      "meaning": "empresa; negocio; industria"
+    },
+    {
+      "entryId": "1313830",
+      "spelling": "事件",
+      "reading": "じけん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "事件【じけん】",
+      "meaning": "incidente; evento; caso; problema; escándalo"
+    },
+    {
+      "entryId": "1313850",
+      "spelling": "事故",
+      "reading": "ことゆえ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "事故【ことゆえ】",
+      "meaning": "accidente; incidente; problema; circunstancias; razones"
+    },
+    {
+      "entryId": "1313850",
+      "spelling": "事故",
+      "reading": "じこ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "事故【じこ】",
+      "meaning": "accidente; incidente; problema; circunstancias; razones"
+    },
+    {
+      "entryId": "1313960",
+      "spelling": "事実",
+      "reading": "じじつ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "事実【じじつ】",
+      "meaning": "hecho; verdad; realidad"
+    },
+    {
+      "entryId": "1314010",
+      "spelling": "事情",
+      "reading": "じじょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "事情【じじょう】",
+      "meaning": "circunstancias; consideración; condiciones; situación; razones"
+    },
+    {
+      "entryId": "1314270",
+      "spelling": "事務",
+      "reading": "じむ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "事務【じむ】",
+      "meaning": "trabajo de oficina"
+    },
+    {
+      "entryId": "1314400",
+      "spelling": "事ム所",
+      "reading": "じむしょ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "事ム所【じむしょ】",
+      "meaning": "oficina"
+    },
+    {
+      "entryId": "1314400",
+      "spelling": "事務処",
+      "reading": "じむしょ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "事務処【じむしょ】",
+      "meaning": "oficina"
+    },
+    {
+      "entryId": "1314400",
+      "spelling": "事務所",
+      "reading": "じむしょ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "事務所【じむしょ】",
+      "meaning": "oficina"
+    },
+    {
+      "entryId": "1420580",
+      "spelling": "知事",
+      "reading": "ちじ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "知事【ちじ】",
+      "meaning": "gobernador de la prefectura"
+    },
+    {
+      "entryId": "1549980",
+      "spelling": "理事",
+      "reading": "りじ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "理事【りじ】",
+      "meaning": "director; consejero"
+    },
+    {
+      "entryId": "1595240",
+      "spelling": "事体",
+      "reading": "じたい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "事体【じたい】",
+      "meaning": "circunstancias; estado"
+    },
+    {
+      "entryId": "1595240",
+      "spelling": "事態",
+      "reading": "じたい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "事態【じたい】",
+      "meaning": "circunstancias; estado"
+    },
+    {
+      "entryId": "1634950",
+      "spelling": "時事",
+      "reading": "じじ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "時事【じじ】",
+      "meaning": "actualidad; hechos de actualidad"
+    },
+    {
+      "entryId": "1278130",
+      "spelling": "工事",
+      "reading": "こうじ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "工事【こうじ】",
+      "meaning": "construcción; remodelación"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

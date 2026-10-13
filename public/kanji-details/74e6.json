@@ -1,0 +1,100 @@
+{
+  "character": "瓦",
+  "meanings": "teja",
+  "words": [
+    {
+      "entryId": "1209580",
+      "spelling": "瓦",
+      "reading": "かわら",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "瓦【かわら】",
+      "meaning": "teja"
+    },
+    {
+      "entryId": "1040060",
+      "spelling": "瓦斯",
+      "reading": "ガス",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "瓦斯【ガス】",
+      "meaning": "(eng: gas) gas; gasolina; gas"
+    },
+    {
+      "entryId": "1046810",
+      "spelling": "瓦",
+      "reading": "グラム",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "瓦【グラム】",
+      "meaning": "gramo"
+    },
+    {
+      "entryId": "1046160",
+      "spelling": "瓦無",
+      "reading": "グアム",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "瓦無【グアム】",
+      "meaning": "Guam"
+    },
+    {
+      "entryId": "1091080",
+      "spelling": "尼加拉瓦",
+      "reading": "ニカラグア",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "尼加拉瓦【ニカラグア】",
+      "meaning": "Nicaragua"
+    },
+    {
+      "entryId": "1559090",
+      "spelling": "煉瓦",
+      "reading": "れんが",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "煉瓦【れんが】",
+      "meaning": "ladrillo"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

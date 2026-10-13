@@ -1,0 +1,121 @@
+{
+  "character": "訪",
+  "meanings": "visitar, hacer una visita",
+  "words": [
+    {
+      "entryId": "1518120",
+      "spelling": "訪問",
+      "reading": "ほうもん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "訪問【ほうもん】",
+      "meaning": "visitar; visita"
+    },
+    {
+      "entryId": "1536000",
+      "spelling": "訪う",
+      "reading": "とう",
+      "senseNumbers": [
+        15,
+        16
+      ],
+      "japanese": "訪う【とう】",
+      "meaning": "preguntar; cuestionar; acusar(de un crimen); culpar"
+    },
+    {
+      "entryId": "1518100",
+      "spelling": "訪日",
+      "reading": "ほうにち",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "訪日【ほうにち】",
+      "meaning": "visita a Japón"
+    },
+    {
+      "entryId": "1907970",
+      "spelling": "訪中",
+      "reading": "ほうちゅう",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "訪中【ほうちゅう】",
+      "meaning": "visita a China"
+    },
+    {
+      "entryId": "1518070",
+      "spelling": "訪ねる",
+      "reading": "たずねる",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "訪ねる【たずねる】",
+      "meaning": "visitar"
+    },
+    {
+      "entryId": "1518110",
+      "spelling": "訪米",
+      "reading": "ほうべい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "訪米【ほうべい】",
+      "meaning": "visita a América"
+    },
+    {
+      "entryId": "1710710",
+      "spelling": "訪欧",
+      "reading": "ほうおう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "訪欧【ほうおう】",
+      "meaning": "visita a Europa"
+    },
+    {
+      "entryId": "1518080",
+      "spelling": "訪れる",
+      "reading": "おとずれる",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "訪れる【おとずれる】",
+      "meaning": "visitar"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

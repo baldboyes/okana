@@ -1,0 +1,100 @@
+{
+  "character": "副",
+  "meanings": "vice-, duplicado, copia",
+  "words": [
+    {
+      "entryId": "1500400",
+      "spelling": "副作用",
+      "reading": "ふくさよう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "副作用【ふくさよう】",
+      "meaning": "efectos secundarios"
+    },
+    {
+      "entryId": "1500540",
+      "spelling": "副賞",
+      "reading": "ふくしょう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "副賞【ふくしょう】",
+      "meaning": "premio extra"
+    },
+    {
+      "entryId": "1440810",
+      "spelling": "副う",
+      "reading": "そう",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "副う【そう】",
+      "meaning": "acoplarse; ajustarse; satisfacer"
+    },
+    {
+      "entryId": "1500330",
+      "spelling": "副",
+      "reading": "ふく",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "副【ふく】",
+      "meaning": "prefijo: vice-, sub-"
+    },
+    {
+      "entryId": "1500440",
+      "spelling": "副詞",
+      "reading": "ふくし",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "副詞【ふくし】",
+      "meaning": "adverbio"
+    },
+    {
+      "entryId": "1596490",
+      "spelling": "副える",
+      "reading": "そえる",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "副える【そえる】",
+      "meaning": "adjuntar; adherir; acompañar; unir"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

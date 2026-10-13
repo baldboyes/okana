@@ -1,0 +1,240 @@
+{
+  "character": "反",
+  "meanings": "anti-, opuesto, devolver, reflejar, curvarse",
+  "words": [
+    {
+      "entryId": "1158950",
+      "spelling": "違反",
+      "reading": "いはん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "違反【いはん】",
+      "meaning": "infringir; contravenir; transgredir; violación (de ley); trasgresión; infracción; incumplimiento"
+    },
+    {
+      "entryId": "1480670",
+      "spelling": "反対",
+      "reading": "はんたい",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "反対【はんたい】",
+      "meaning": "opuesto; contrario"
+    },
+    {
+      "entryId": "1480890",
+      "spelling": "反撥",
+      "reading": "はんぱつ",
+      "senseNumbers": [
+        21
+      ],
+      "japanese": "反撥【はんぱつ】",
+      "meaning": "oposición; rechazar; reacción"
+    },
+    {
+      "entryId": "1480890",
+      "spelling": "反発",
+      "reading": "はんぱつ",
+      "senseNumbers": [
+        21
+      ],
+      "japanese": "反発【はんぱつ】",
+      "meaning": "oposición; rechazar; reacción"
+    },
+    {
+      "entryId": "1480210",
+      "spelling": "反応",
+      "reading": "はんおう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "反応【はんおう】",
+      "meaning": "reacción; respuesta"
+    },
+    {
+      "entryId": "1480210",
+      "spelling": "反応",
+      "reading": "はんのう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "反応【はんのう】",
+      "meaning": "reacción; respuesta"
+    },
+    {
+      "entryId": "1480540",
+      "spelling": "反省",
+      "reading": "はんせい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "反省【はんせい】",
+      "meaning": "reflexionar; hacer examen de conciencia; introspección; reflexión"
+    },
+    {
+      "entryId": "1480310",
+      "spelling": "反響",
+      "reading": "はんきょう",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "反響【はんきょう】",
+      "meaning": "resonancia; repercusión"
+    },
+    {
+      "entryId": "1480340",
+      "spelling": "反撃",
+      "reading": "はんげき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "反撃【はんげき】",
+      "meaning": "contraataque; contraofensiva; contragolpe"
+    },
+    {
+      "entryId": "1480620",
+      "spelling": "反戦",
+      "reading": "はんせん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "反戦【はんせん】",
+      "meaning": "antiguerra; pacifista"
+    },
+    {
+      "entryId": "1481090",
+      "spelling": "反乱",
+      "reading": "はんらん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "反乱【はんらん】",
+      "meaning": "rebelión"
+    },
+    {
+      "entryId": "1818590",
+      "spelling": "造反",
+      "reading": "ぞうはん",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "造反【ぞうはん】",
+      "meaning": "rebelión"
+    },
+    {
+      "entryId": "1481130",
+      "spelling": "反論",
+      "reading": "はんろん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "反論【はんろん】",
+      "meaning": "refutación; objeción"
+    },
+    {
+      "entryId": "1480800",
+      "spelling": "反動",
+      "reading": "はんどう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "反動【はんどう】",
+      "meaning": "reacción; culatazo; patada; contragolpe"
+    },
+    {
+      "entryId": "1601160",
+      "spelling": "反影",
+      "reading": "はんえい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "反影【はんえい】",
+      "meaning": "reflejo; influencia"
+    },
+    {
+      "entryId": "1601160",
+      "spelling": "反映",
+      "reading": "はんえい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "反映【はんえい】",
+      "meaning": "reflejo; influencia"
+    },
+    {
+      "entryId": "1480960",
+      "spelling": "反米",
+      "reading": "はんべい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "反米【はんべい】",
+      "meaning": "antiestadounidense"
+    },
+    {
+      "entryId": "1480650",
+      "spelling": "反則",
+      "reading": "はんそく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "反則【はんそく】",
+      "meaning": "falta; violación"
+    },
+    {
+      "entryId": "1480260",
+      "spelling": "反感",
+      "reading": "はんかん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "反感【はんかん】",
+      "meaning": "antipatía; enemistad; animosidad; antagonismo"
+    },
+    {
+      "entryId": "1480420",
+      "spelling": "反射",
+      "reading": "はんしゃ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "反射【はんしゃ】",
+      "meaning": "reflexión; reflejo"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

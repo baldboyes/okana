@@ -1,0 +1,241 @@
+{
+  "character": "任",
+  "meanings": "responsabilidad, deber, confiar a, dejar a cargo de",
+  "words": [
+    {
+      "entryId": "1383180",
+      "spelling": "責任",
+      "reading": "せきにん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "責任【せきにん】",
+      "meaning": "responsabilidad; cargo; deber"
+    },
+    {
+      "entryId": "1319000",
+      "spelling": "辞任",
+      "reading": "じにん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "辞任【じにん】",
+      "meaning": "dimisión; renuncia; dimitir; despedirse; dejar el cargo"
+    },
+    {
+      "entryId": "1331780",
+      "spelling": "就任",
+      "reading": "しゅうにん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "就任【しゅうにん】",
+      "meaning": "toma de posición"
+    },
+    {
+      "entryId": "1467190",
+      "spelling": "任期",
+      "reading": "にんき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "任期【にんき】",
+      "meaning": "término; mandato"
+    },
+    {
+      "entryId": "1269990",
+      "spelling": "後任",
+      "reading": "こうにん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "後任【こうにん】",
+      "meaning": "sucesor"
+    },
+    {
+      "entryId": "1326040",
+      "spelling": "主任",
+      "reading": "しゅにん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "主任【しゅにん】",
+      "meaning": "jefe; director; superior"
+    },
+    {
+      "entryId": "1467260",
+      "spelling": "任務",
+      "reading": "にんむ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "任務【にんむ】",
+      "meaning": "misión; deber; obligación"
+    },
+    {
+      "entryId": "1467160",
+      "spelling": "任意",
+      "reading": "にんい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "任意【にんい】",
+      "meaning": "discreción propia; opcional; libre albedrío"
+    },
+    {
+      "entryId": "1498200",
+      "spelling": "赴任",
+      "reading": "ふにん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "赴任【ふにん】",
+      "meaning": "traslado; trasferencia"
+    },
+    {
+      "entryId": "1359500",
+      "spelling": "信任",
+      "reading": "しんにん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "信任【しんにん】",
+      "meaning": "confianza; fe"
+    },
+    {
+      "entryId": "1418200",
+      "spelling": "担任",
+      "reading": "たんにん",
+      "senseNumbers": [
+        10,
+        11
+      ],
+      "japanese": "担任【たんにん】",
+      "meaning": "a cargo de (algo); profesor particular"
+    },
+    {
+      "entryId": "1467280",
+      "spelling": "任命",
+      "reading": "にんめい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "任命【にんめい】",
+      "meaning": "nombramiento; nombrar; designar"
+    },
+    {
+      "entryId": "1296590",
+      "spelling": "在任",
+      "reading": "ざいにん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "在任【ざいにん】",
+      "meaning": "estar en la oficina"
+    },
+    {
+      "entryId": "1530360",
+      "spelling": "無責任",
+      "reading": "むせきにん",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "無責任【むせきにん】",
+      "meaning": "irresponsabilidad"
+    },
+    {
+      "entryId": "1165550",
+      "spelling": "一任",
+      "reading": "いちにん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "一任【いちにん】",
+      "meaning": "confianza; confiar por completo a alguien; encomendar; dejar encargado de algo a alguien"
+    },
+    {
+      "entryId": "1467130",
+      "spelling": "任す",
+      "reading": "まかす",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "任す【まかす】",
+      "meaning": "confiar; dejar a una persona"
+    },
+    {
+      "entryId": "1630490",
+      "spelling": "刑事責任",
+      "reading": "けいじせきにん",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "刑事責任【けいじせきにん】",
+      "meaning": "responsabilidad penal"
+    },
+    {
+      "entryId": "1343020",
+      "spelling": "初任給",
+      "reading": "しょにんきゅう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "初任給【しょにんきゅう】",
+      "meaning": "salario inicial; sueldo inicial"
+    },
+    {
+      "entryId": "1645890",
+      "spelling": "責任感",
+      "reading": "せきにんかん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "責任感【せきにんかん】",
+      "meaning": "sentido de la responsabilidad"
+    },
+    {
+      "entryId": "1944180",
+      "spelling": "道義的責任",
+      "reading": "どうぎてきせきにん",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "道義的責任【どうぎてきせきにん】",
+      "meaning": "obligación moral"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

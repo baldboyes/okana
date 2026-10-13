@@ -1,0 +1,210 @@
+{
+  "character": "司",
+  "meanings": "dirigir, gobernar, ordenar",
+  "words": [
+    {
+      "entryId": "1306680",
+      "spelling": "司法",
+      "reading": "しほう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "司法【しほう】",
+      "meaning": "judicial; jurídico"
+    },
+    {
+      "entryId": "1353260",
+      "spelling": "上司",
+      "reading": "じょうし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "上司【じょうし】",
+      "meaning": "superior; jefe"
+    },
+    {
+      "entryId": "1306740",
+      "spelling": "司令部",
+      "reading": "しれいぶ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "司令部【しれいぶ】",
+      "meaning": "cuartel general"
+    },
+    {
+      "entryId": "1306640",
+      "spelling": "司会",
+      "reading": "しかい",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "司会【しかい】",
+      "meaning": "maestro de ceremonias"
+    },
+    {
+      "entryId": "1273750",
+      "spelling": "公司",
+      "reading": "こうし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "公司【こうし】",
+      "meaning": "empresa (china); compañía (china)"
+    },
+    {
+      "entryId": "1273750",
+      "spelling": "公司",
+      "reading": "コンス",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "公司【コンス】",
+      "meaning": "empresa (china); compañía (china)"
+    },
+    {
+      "entryId": "1658110",
+      "spelling": "司法裁判",
+      "reading": "しほうさいばん",
+      "senseNumbers": [
+        2
+      ],
+      "japanese": "司法裁判【しほうさいばん】",
+      "meaning": "proceso judicial"
+    },
+    {
+      "entryId": "1595650",
+      "spelling": "壽司",
+      "reading": "すし",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "壽司【すし】",
+      "meaning": "sushi; cualquier cosa con arroz en vinagre (que también lleva vegetales, especias, pescado, etc); \"sushi\": arroz avinagrado con pescado crudo"
+    },
+    {
+      "entryId": "1595650",
+      "spelling": "寿司",
+      "reading": "すし",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "寿司【すし】",
+      "meaning": "sushi; cualquier cosa con arroz en vinagre (que también lleva vegetales, especias, pescado, etc); \"sushi\": arroz avinagrado con pescado crudo"
+    },
+    {
+      "entryId": "1152680",
+      "spelling": "にぎり寿司",
+      "reading": "にぎりずし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "にぎり寿司【にぎりずし】",
+      "meaning": "(food) shushi enrollado a mano; bola de sushi; (comida) sushi enrollado a mano"
+    },
+    {
+      "entryId": "1152680",
+      "spelling": "握り寿司",
+      "reading": "にぎりずし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "握り寿司【にぎりずし】",
+      "meaning": "(food) shushi enrollado a mano; bola de sushi; (comida) sushi enrollado a mano"
+    },
+    {
+      "entryId": "1152680",
+      "spelling": "握寿司",
+      "reading": "にぎりずし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "握寿司【にぎりずし】",
+      "meaning": "(food) shushi enrollado a mano; bola de sushi; (comida) sushi enrollado a mano"
+    },
+    {
+      "entryId": "1306630",
+      "spelling": "司どる",
+      "reading": "つかさどる",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "司どる【つかさどる】",
+      "meaning": "gobernar; mandar; administrar"
+    },
+    {
+      "entryId": "1306630",
+      "spelling": "司る",
+      "reading": "つかさどる",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "司る【つかさどる】",
+      "meaning": "gobernar; mandar; administrar"
+    },
+    {
+      "entryId": "1306690",
+      "spelling": "司法権",
+      "reading": "しほうけん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "司法権【しほうけん】",
+      "meaning": "jurisdicción"
+    },
+    {
+      "entryId": "1306670",
+      "spelling": "司書",
+      "reading": "ししょ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "司書【ししょ】",
+      "meaning": "bibliotecario"
+    },
+    {
+      "entryId": "1270470",
+      "spelling": "御曹司",
+      "reading": "おんぞうし",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "御曹司【おんぞうし】",
+      "meaning": "hijo distinguido; hijo de buena familia"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

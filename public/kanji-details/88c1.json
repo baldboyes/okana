@@ -1,0 +1,240 @@
+{
+  "character": "裁",
+  "meanings": "cortar (tela, papel), juzgar, forma, decidir",
+  "words": [
+    {
+      "entryId": "1296120",
+      "spelling": "裁判",
+      "reading": "さいばん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "裁判【さいばん】",
+      "meaning": "juicio; proceso jurídico; juzgar"
+    },
+    {
+      "entryId": "1401580",
+      "spelling": "総裁",
+      "reading": "そうさい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "総裁【そうさい】",
+      "meaning": "presidente"
+    },
+    {
+      "entryId": "1374800",
+      "spelling": "制裁",
+      "reading": "せいさい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "制裁【せいさい】",
+      "meaning": "restricción; sanciones; castigo"
+    },
+    {
+      "entryId": "1293880",
+      "spelling": "最高裁",
+      "reading": "さいこうさい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "最高裁【さいこうさい】",
+      "meaning": "Corte Suprema"
+    },
+    {
+      "entryId": "1296160",
+      "spelling": "裁判所",
+      "reading": "さいばんしょ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "裁判所【さいばんしょ】",
+      "meaning": "tribunal de justicia"
+    },
+    {
+      "entryId": "1455800",
+      "spelling": "独裁",
+      "reading": "どくさい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "独裁【どくさい】",
+      "meaning": "dictadura; despotismo; tiranía"
+    },
+    {
+      "entryId": "1296130",
+      "spelling": "裁判官",
+      "reading": "さいばんかん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "裁判官【さいばんかん】",
+      "meaning": "juez"
+    },
+    {
+      "entryId": "1613750",
+      "spelling": "家裁",
+      "reading": "かさい",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "家裁【かさい】",
+      "meaning": "juzgado de familia"
+    },
+    {
+      "entryId": "1296080",
+      "spelling": "裁決",
+      "reading": "さいけつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "裁決【さいけつ】",
+      "meaning": "decisión; veredicto; fallo; sentencia"
+    },
+    {
+      "entryId": "1425900",
+      "spelling": "仲裁",
+      "reading": "ちゅうさい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "仲裁【ちゅうさい】",
+      "meaning": "arbitraje; intercesión; mediación"
+    },
+    {
+      "entryId": "1409480",
+      "spelling": "体裁",
+      "reading": "たいさい",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "体裁【たいさい】",
+      "meaning": "apariencias"
+    },
+    {
+      "entryId": "1409480",
+      "spelling": "体裁",
+      "reading": "ていさい",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "体裁【ていさい】",
+      "meaning": "apariencias"
+    },
+    {
+      "entryId": "1658110",
+      "spelling": "司法裁判",
+      "reading": "しほうさいばん",
+      "senseNumbers": [
+        2
+      ],
+      "japanese": "司法裁判【しほうさいばん】",
+      "meaning": "proceso judicial"
+    },
+    {
+      "entryId": "1545950",
+      "spelling": "洋裁",
+      "reading": "ようさい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "洋裁【ようさい】",
+      "meaning": "costura; corte y confección"
+    },
+    {
+      "entryId": "1296200",
+      "spelling": "裁縫",
+      "reading": "さいほう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "裁縫【さいほう】",
+      "meaning": "costura"
+    },
+    {
+      "entryId": "1295940",
+      "spelling": "裁く",
+      "reading": "さばく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "裁く【さばく】",
+      "meaning": "juzgar"
+    },
+    {
+      "entryId": "1296050",
+      "spelling": "裁つ",
+      "reading": "たつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "裁つ【たつ】",
+      "meaning": "cortar telas para hacer vestidos; cortar (ropa)"
+    },
+    {
+      "entryId": "1296100",
+      "spelling": "裁断",
+      "reading": "さいだん",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "裁断【さいだん】",
+      "meaning": "corte; decisión, veredicto, resolución"
+    },
+    {
+      "entryId": "1660050",
+      "spelling": "最高裁判所",
+      "reading": "さいこうさいばんしょ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "最高裁判所【さいこうさいばんしょ】",
+      "meaning": "Corte Suprema"
+    },
+    {
+      "entryId": "1295920",
+      "spelling": "裁き",
+      "reading": "さばき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "裁き【さばき】",
+      "meaning": "decisión; veredicto; juicio"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

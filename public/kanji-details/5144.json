@@ -1,0 +1,230 @@
+{
+  "character": "兄",
+  "meanings": "hermano mayor",
+  "words": [
+    {
+      "entryId": "1249900",
+      "spelling": "兄",
+      "reading": "あに",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "兄【あに】",
+      "meaning": "hermano mayor"
+    },
+    {
+      "entryId": "1249960",
+      "spelling": "兄弟",
+      "reading": "きょうだい",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "兄弟【きょうだい】",
+      "meaning": "hermanos; hermanos y hermanas"
+    },
+    {
+      "entryId": "1249930",
+      "spelling": "兄貴",
+      "reading": "あにき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "兄貴【あにき】",
+      "meaning": "hermano mayor (respetuoso)"
+    },
+    {
+      "entryId": "2275890",
+      "spelling": "兄ちゃん",
+      "reading": "あんちゃん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "兄ちゃん【あんちゃん】",
+      "meaning": "hermano; hermanito; chaval"
+    },
+    {
+      "entryId": "2275890",
+      "spelling": "兄ちゃん",
+      "reading": "にいちゃん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "兄ちゃん【にいちゃん】",
+      "meaning": "hermano; hermanito; chaval"
+    },
+    {
+      "entryId": "1249910",
+      "spelling": "兄さん",
+      "reading": "あにさん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "兄さん【あにさん】",
+      "meaning": "hermano mayor; joven"
+    },
+    {
+      "entryId": "1249910",
+      "spelling": "兄さん",
+      "reading": "にいさん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "兄さん【にいさん】",
+      "meaning": "hermano mayor; joven"
+    },
+    {
+      "entryId": "1001830",
+      "spelling": "お兄さん",
+      "reading": "おにいさん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "お兄さん【おにいさん】",
+      "meaning": "hermano mayor; (vocativo) joven; chico; (vocativo) ¿Señor?"
+    },
+    {
+      "entryId": "1001830",
+      "spelling": "御兄さん",
+      "reading": "おにいさん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "御兄さん【おにいさん】",
+      "meaning": "hermano mayor; (vocativo) joven; chico; (vocativo) ¿Señor?"
+    },
+    {
+      "entryId": "1335290",
+      "spelling": "従兄弟",
+      "reading": "いとこ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "従兄弟【いとこ】",
+      "meaning": "primo"
+    },
+    {
+      "entryId": "1335290",
+      "spelling": "従兄弟",
+      "reading": "じゅうけいてい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "従兄弟【じゅうけいてい】",
+      "meaning": "primo"
+    },
+    {
+      "entryId": "1497630",
+      "spelling": "父兄",
+      "reading": "ふけい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "父兄【ふけい】",
+      "meaning": "padres; tutor"
+    },
+    {
+      "entryId": "1225790",
+      "spelling": "義兄",
+      "reading": "あに",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "義兄【あに】",
+      "meaning": "cuñado"
+    },
+    {
+      "entryId": "1225790",
+      "spelling": "義兄",
+      "reading": "ぎけい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "義兄【ぎけい】",
+      "meaning": "cuñado"
+    },
+    {
+      "entryId": "1249950",
+      "spelling": "兄姉",
+      "reading": "きょうだい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "兄姉【きょうだい】",
+      "meaning": "hermano y hermana"
+    },
+    {
+      "entryId": "1249950",
+      "spelling": "兄姉",
+      "reading": "けいし",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "兄姉【けいし】",
+      "meaning": "hermano y hermana"
+    },
+    {
+      "entryId": "1720720",
+      "spelling": "親兄弟",
+      "reading": "おやきょうだい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "親兄弟【おやきょうだい】",
+      "meaning": "padres e hijos"
+    },
+    {
+      "entryId": "1335280",
+      "spelling": "従兄",
+      "reading": "いとこ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "従兄【いとこ】",
+      "meaning": "primo (mayor que uno)"
+    },
+    {
+      "entryId": "1335280",
+      "spelling": "従兄",
+      "reading": "じゅうけい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "従兄【じゅうけい】",
+      "meaning": "primo (mayor que uno)"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

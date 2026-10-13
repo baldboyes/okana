@@ -1,0 +1,242 @@
+{
+  "character": "相",
+  "meanings": "apariencia, aspecto, fase, ministro de estado, conjuntamente, mutuamente",
+  "words": [
+    {
+      "entryId": "1203940",
+      "spelling": "外相",
+      "reading": "がいしょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "外相【がいしょう】",
+      "meaning": "Ministro de Asuntos Exteriores"
+    },
+    {
+      "entryId": "1329300",
+      "spelling": "首相",
+      "reading": "しゅしょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "首相【しゅしょう】",
+      "meaning": "el Primer Ministro"
+    },
+    {
+      "entryId": "1401000",
+      "spelling": "相手",
+      "reading": "あいて",
+      "senseNumbers": [
+        16,
+        17,
+        18
+      ],
+      "japanese": "相手【あいて】",
+      "meaning": "compañero; socio; otra parte; destinatario; contrincante; oponente (deportes, etc.)"
+    },
+    {
+      "entryId": "1401210",
+      "spelling": "相談",
+      "reading": "そうだん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "相談【そうだん】",
+      "meaning": "consultar; consejo"
+    },
+    {
+      "entryId": "1596370",
+      "spelling": "相互",
+      "reading": "そうご",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "相互【そうご】",
+      "meaning": "mutuo; recíproco"
+    },
+    {
+      "entryId": "1403520",
+      "spelling": "蔵相",
+      "reading": "ぞうしょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "蔵相【ぞうしょう】",
+      "meaning": "Ministro de Finanzas"
+    },
+    {
+      "entryId": "1401070",
+      "spelling": "相場",
+      "reading": "そうば",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "相場【そうば】",
+      "meaning": "precio del mercado; cotización"
+    },
+    {
+      "entryId": "1401240",
+      "spelling": "相当",
+      "reading": "そうとう",
+      "senseNumbers": [
+        22
+      ],
+      "japanese": "相当【そうとう】",
+      "meaning": "bastante; considerable; apropiado"
+    },
+    {
+      "entryId": "1401360",
+      "spelling": "相撲",
+      "reading": "すまい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "相撲【すまい】",
+      "meaning": "sumo (lucha); lucha sumo"
+    },
+    {
+      "entryId": "1401360",
+      "spelling": "相撲",
+      "reading": "すもう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "相撲【すもう】",
+      "meaning": "sumo (lucha); lucha sumo"
+    },
+    {
+      "entryId": "1364110",
+      "spelling": "真相",
+      "reading": "しんそう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "真相【しんそう】",
+      "meaning": "verdad; realidad; situación real"
+    },
+    {
+      "entryId": "1805280",
+      "spelling": "法相",
+      "reading": "ほうしょう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "法相【ほうしょう】",
+      "meaning": "Ministro de Justicia"
+    },
+    {
+      "entryId": "1401310",
+      "spelling": "相かわらず",
+      "reading": "あいかわらず",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "相かわらず【あいかわらず】",
+      "meaning": "igual que siempre; como de costumbre"
+    },
+    {
+      "entryId": "1401310",
+      "spelling": "相不変",
+      "reading": "あいかわらず",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "相不変【あいかわらず】",
+      "meaning": "igual que siempre; como de costumbre"
+    },
+    {
+      "entryId": "1401310",
+      "spelling": "相変らず",
+      "reading": "あいかわらず",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "相変らず【あいかわらず】",
+      "meaning": "igual que siempre; como de costumbre"
+    },
+    {
+      "entryId": "1401310",
+      "spelling": "相変わらず",
+      "reading": "あいかわらず",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "相変わらず【あいかわらず】",
+      "meaning": "igual que siempre; como de costumbre"
+    },
+    {
+      "entryId": "1545840",
+      "spelling": "様相",
+      "reading": "ようそう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "様相【ようそう】",
+      "meaning": "aspecto; apariencia"
+    },
+    {
+      "entryId": "1275540",
+      "spelling": "厚相",
+      "reading": "こうしょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "厚相【こうしょう】",
+      "meaning": "Ministro de Bienestar"
+    },
+    {
+      "entryId": "1613600",
+      "spelling": "円相場",
+      "reading": "えんそうば",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "円相場【えんそうば】",
+      "meaning": "precio de intercambio yenes"
+    },
+    {
+      "entryId": "1400980",
+      "spelling": "相次ぐ",
+      "reading": "あいつぐ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "相次ぐ【あいつぐ】",
+      "meaning": "concatenarse; sucederse; sobrevenir; advenir"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

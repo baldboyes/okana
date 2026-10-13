@@ -1,0 +1,241 @@
+{
+  "character": "端",
+  "meanings": "correcto, justo, filo, borde, punta, extremo",
+  "words": [
+    {
+      "entryId": "1214330",
+      "spelling": "簡端",
+      "reading": "かんたん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "簡端【かんたん】",
+      "meaning": "simple; sencillo"
+    },
+    {
+      "entryId": "1581610",
+      "spelling": "端",
+      "reading": "はし",
+      "senseNumbers": [
+        28
+      ],
+      "japanese": "端【はし】",
+      "meaning": "orilla"
+    },
+    {
+      "entryId": "1581610",
+      "spelling": "端",
+      "reading": "はじ",
+      "senseNumbers": [
+        28
+      ],
+      "japanese": "端【はじ】",
+      "meaning": "orilla"
+    },
+    {
+      "entryId": "1581610",
+      "spelling": "端",
+      "reading": "はな",
+      "senseNumbers": [
+        28
+      ],
+      "japanese": "端【はな】",
+      "meaning": "orilla"
+    },
+    {
+      "entryId": "1240380",
+      "spelling": "極端",
+      "reading": "きょくたん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "極端【きょくたん】",
+      "meaning": "extremo"
+    },
+    {
+      "entryId": "1388110",
+      "spelling": "先端",
+      "reading": "せんたん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "先端【せんたん】",
+      "meaning": "vanguardia"
+    },
+    {
+      "entryId": "1388110",
+      "spelling": "尖端",
+      "reading": "せんたん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "尖端【せんたん】",
+      "meaning": "vanguardia"
+    },
+    {
+      "entryId": "1477690",
+      "spelling": "発端",
+      "reading": "ほったん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "発端【ほったん】",
+      "meaning": "comienzo; origen"
+    },
+    {
+      "entryId": "1294120",
+      "spelling": "最先端",
+      "reading": "さいせんたん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "最先端【さいせんたん】",
+      "meaning": "de vanguardia; vanguardia"
+    },
+    {
+      "entryId": "1294120",
+      "spelling": "最尖端",
+      "reading": "さいせんたん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "最尖端【さいせんたん】",
+      "meaning": "de vanguardia; vanguardia"
+    },
+    {
+      "entryId": "1164660",
+      "spelling": "一端",
+      "reading": "いったん",
+      "senseNumbers": [
+        10,
+        11
+      ],
+      "japanese": "一端【いったん】",
+      "meaning": "un fin; un final; parte; fragmento"
+    },
+    {
+      "entryId": "1525530",
+      "spelling": "末端",
+      "reading": "まったん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "末端【まったん】",
+      "meaning": "extremo"
+    },
+    {
+      "entryId": "1418950",
+      "spelling": "端末",
+      "reading": "たんまつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "端末【たんまつ】",
+      "meaning": "terminal de ordenador (eng: computer terminal)"
+    },
+    {
+      "entryId": "1418940",
+      "spelling": "端的",
+      "reading": "たんてき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "端的【たんてき】",
+      "meaning": "franco; directo"
+    },
+    {
+      "entryId": "1479640",
+      "spelling": "半端",
+      "reading": "はんぱ",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "半端【はんぱ】",
+      "meaning": "incompleto; a medias"
+    },
+    {
+      "entryId": "1425050",
+      "spelling": "中途半端",
+      "reading": "ちゅうとはんぱ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "中途半端【ちゅうとはんぱ】",
+      "meaning": "a medias; sin acabar"
+    },
+    {
+      "entryId": "1454230",
+      "spelling": "道端",
+      "reading": "みちばた",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "道端【みちばた】",
+      "meaning": "a la orilla del camino"
+    },
+    {
+      "entryId": "1521180",
+      "spelling": "北端",
+      "reading": "ほくたん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "北端【ほくたん】",
+      "meaning": "extremo norte"
+    },
+    {
+      "entryId": "1157940",
+      "spelling": "異端",
+      "reading": "いたん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "異端【いたん】",
+      "meaning": "heterodoxo; herejía"
+    },
+    {
+      "entryId": "1585170",
+      "spelling": "両端",
+      "reading": "りょうたん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "両端【りょうたん】",
+      "meaning": "ambos extremos"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

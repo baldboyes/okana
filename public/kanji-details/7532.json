@@ -1,0 +1,170 @@
+{
+  "character": "甲",
+  "meanings": "caparazón, armadura, voz alta, primero",
+  "words": [
+    {
+      "entryId": "1402300",
+      "spelling": "装甲",
+      "reading": "そうこう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "装甲【そうこう】",
+      "meaning": "blindado; acorazado"
+    },
+    {
+      "entryId": "1578750",
+      "spelling": "甲板",
+      "reading": "かんぱん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "甲板【かんぱん】",
+      "meaning": "cubierta de un buque"
+    },
+    {
+      "entryId": "1578750",
+      "spelling": "甲板",
+      "reading": "こうはん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "甲板【こうはん】",
+      "meaning": "cubierta de un buque"
+    },
+    {
+      "entryId": "1280170",
+      "spelling": "甲状せん",
+      "reading": "こうじょうせん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "甲状せん【こうじょうせん】",
+      "meaning": "glándula tiroides; tiroides"
+    },
+    {
+      "entryId": "1280170",
+      "spelling": "甲状腺",
+      "reading": "こうじょうせん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "甲状腺【こうじょうせん】",
+      "meaning": "glándula tiroides; tiroides"
+    },
+    {
+      "entryId": "1204740",
+      "spelling": "甲",
+      "reading": "よろい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "甲【よろい】",
+      "meaning": "armadura"
+    },
+    {
+      "entryId": "1378550",
+      "spelling": "生き甲斐",
+      "reading": "いきがい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "生き甲斐【いきがい】",
+      "meaning": "razón de vivir; motivación para vivir; alegría de vivir; ganas de vivir"
+    },
+    {
+      "entryId": "1378550",
+      "spelling": "生甲斐",
+      "reading": "いきがい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "生甲斐【いきがい】",
+      "meaning": "razón de vivir; motivación para vivir; alegría de vivir; ganas de vivir"
+    },
+    {
+      "entryId": "1280250",
+      "spelling": "甲斐",
+      "reading": "かい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "甲斐【かい】",
+      "meaning": "efecto; resultado; valor; provecho"
+    },
+    {
+      "entryId": "1224300",
+      "spelling": "亀っ甲",
+      "reading": "きっこう",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "亀っ甲【きっこう】",
+      "meaning": "caparazón de tortuga"
+    },
+    {
+      "entryId": "1224300",
+      "spelling": "亀甲",
+      "reading": "きこう",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "亀甲【きこう】",
+      "meaning": "caparazón de tortuga"
+    },
+    {
+      "entryId": "1224300",
+      "spelling": "亀甲",
+      "reading": "きっこう",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "亀甲【きっこう】",
+      "meaning": "caparazón de tortuga"
+    },
+    {
+      "entryId": "1224300",
+      "spelling": "龜甲",
+      "reading": "きっこう",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "龜甲【きっこう】",
+      "meaning": "caparazón de tortuga"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

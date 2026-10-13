@@ -1,0 +1,243 @@
+{
+  "character": "青",
+  "meanings": "azul, verde, pálido",
+  "words": [
+    {
+      "entryId": "1381380",
+      "spelling": "青",
+      "reading": "あお",
+      "senseNumbers": [
+        25
+      ],
+      "japanese": "青【あお】",
+      "meaning": "azul; verde; luz verde"
+    },
+    {
+      "entryId": "1381750",
+      "spelling": "青年",
+      "reading": "せいねん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "青年【せいねん】",
+      "meaning": "joven"
+    },
+    {
+      "entryId": "1750010",
+      "spelling": "青木",
+      "reading": "あおき",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "青木【あおき】",
+      "meaning": "laurel japonés; aucuba japonica"
+    },
+    {
+      "entryId": "1381550",
+      "spelling": "青春",
+      "reading": "せいしゅん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "青春【せいしゅん】",
+      "meaning": "juventud; primavera de la vida; adolescente"
+    },
+    {
+      "entryId": "1381570",
+      "spelling": "青少年",
+      "reading": "せいしょうねん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "青少年【せいしょうねん】",
+      "meaning": "(sp) la juventud (los jóvenes)"
+    },
+    {
+      "entryId": "1381470",
+      "spelling": "青空",
+      "reading": "あおぞら",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "青空【あおぞら】",
+      "meaning": "cielo azul"
+    },
+    {
+      "entryId": "1628120",
+      "spelling": "青葉",
+      "reading": "あおば",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "青葉【あおば】",
+      "meaning": "hojas frescas"
+    },
+    {
+      "entryId": "1604490",
+      "spelling": "未青年",
+      "reading": "みせいねん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "未青年【みせいねん】",
+      "meaning": "menor de edad"
+    },
+    {
+      "entryId": "1750060",
+      "spelling": "青写真",
+      "reading": "あおじゃしん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "青写真【あおじゃしん】",
+      "meaning": "cianotipo; proyecto"
+    },
+    {
+      "entryId": "1381430",
+      "spelling": "青果",
+      "reading": "せいか",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "青果【せいか】",
+      "meaning": "frutas y verduras"
+    },
+    {
+      "entryId": "1750210",
+      "spelling": "青梅",
+      "reading": "あおうめ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "青梅【あおうめ】",
+      "meaning": "ciruela verde"
+    },
+    {
+      "entryId": "1381390",
+      "spelling": "青い",
+      "reading": "あおい",
+      "senseNumbers": [
+        18,
+        19,
+        20,
+        21
+      ],
+      "japanese": "青い【あおい】",
+      "meaning": "azul; verde; pálido; inmaduro; sin experiencia"
+    },
+    {
+      "entryId": "1381590",
+      "spelling": "青色",
+      "reading": "あおいろ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "青色【あおいろ】",
+      "meaning": "azul"
+    },
+    {
+      "entryId": "1381590",
+      "spelling": "青色",
+      "reading": "せいしょく",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "青色【せいしょく】",
+      "meaning": "azul"
+    },
+    {
+      "entryId": "1381420",
+      "spelling": "青ざめる",
+      "reading": "あおざめる",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "青ざめる【あおざめる】",
+      "meaning": "palidecer; ponerse pálido"
+    },
+    {
+      "entryId": "1381420",
+      "spelling": "青褪める",
+      "reading": "あおざめる",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "青褪める【あおざめる】",
+      "meaning": "palidecer; ponerse pálido"
+    },
+    {
+      "entryId": "1604080",
+      "spelling": "まっ青",
+      "reading": "まっさお",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "まっ青【まっさお】",
+      "meaning": "pálido; descolorido (azul pálido)"
+    },
+    {
+      "entryId": "1604080",
+      "spelling": "真っ青",
+      "reading": "まっさお",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "真っ青【まっさお】",
+      "meaning": "pálido; descolorido (azul pálido)"
+    },
+    {
+      "entryId": "1604080",
+      "spelling": "真青",
+      "reading": "まっさお",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "真青【まっさお】",
+      "meaning": "pálido; descolorido (azul pálido)"
+    },
+    {
+      "entryId": "1381760",
+      "spelling": "青じろい",
+      "reading": "あおじろい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "青じろい【あおじろい】",
+      "meaning": "pálido; descolorido; cadavérico; enfermizo"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

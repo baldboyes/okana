@@ -1,0 +1,240 @@
+{
+  "character": "定",
+  "meanings": "determinar, establecer, decidir",
+  "words": [
+    {
+      "entryId": "1254380",
+      "spelling": "決定",
+      "reading": "けってい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "決定【けってい】",
+      "meaning": "dictaminar; fijar; determinar; decidir; decretar; establecer; decisión; determinación"
+    },
+    {
+      "entryId": "1543240",
+      "spelling": "予定",
+      "reading": "よてい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "予定【よてい】",
+      "meaning": "planes; preparativo; calendario; programa; expectación; estimado"
+    },
+    {
+      "entryId": "1235730",
+      "spelling": "協定",
+      "reading": "きょうてい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "協定【きょうてい】",
+      "meaning": "acuerdo; pacto; contrato"
+    },
+    {
+      "entryId": "1154120",
+      "spelling": "安定",
+      "reading": "あんてい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "安定【あんてい】",
+      "meaning": "estabilizarse; mantenerse constante; equilibrarse; estabilidad; equilibrio"
+    },
+    {
+      "entryId": "1304450",
+      "spelling": "暫定",
+      "reading": "ざんてい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "暫定【ざんてい】",
+      "meaning": "provisional; temporal"
+    },
+    {
+      "entryId": "1164950",
+      "spelling": "一定",
+      "reading": "いってい",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "一定【いってい】",
+      "meaning": "arreglado; estable; uniforme; regularizado; definido; estandarizado; seguro; recetado"
+    },
+    {
+      "entryId": "1223060",
+      "spelling": "規定",
+      "reading": "きてい",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "規定【きてい】",
+      "meaning": "normar; regular; establecer; disponer; estatuto; reglamento; ordenanza"
+    },
+    {
+      "entryId": "1309910",
+      "spelling": "指定",
+      "reading": "してい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "指定【してい】",
+      "meaning": "designar; señalar; fijar; marcar; señalamiento; apuntamiento; reservación"
+    },
+    {
+      "entryId": "1435490",
+      "spelling": "定期",
+      "reading": "ていき",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "定期【ていき】",
+      "meaning": "plazo; período"
+    },
+    {
+      "entryId": "1455210",
+      "spelling": "特定",
+      "reading": "とくてい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "特定【とくてい】",
+      "meaning": "específico; especial; particular"
+    },
+    {
+      "entryId": "1374870",
+      "spelling": "制定",
+      "reading": "せいてい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "制定【せいてい】",
+      "meaning": "promulgación; establecimiento"
+    },
+    {
+      "entryId": "1386060",
+      "spelling": "設定",
+      "reading": "せってい",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "設定【せってい】",
+      "meaning": "instalar; establecer; constituir; fundar; crear; plantear; establecimiento; creación"
+    },
+    {
+      "entryId": "1435400",
+      "spelling": "定員",
+      "reading": "ていいん",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "定員【ていいん】",
+      "meaning": "capacidad; cupo (de personas)"
+    },
+    {
+      "entryId": "1205880",
+      "spelling": "確定",
+      "reading": "かくてい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "確定【かくてい】",
+      "meaning": "definición; decisión; resolución; establecimiento"
+    },
+    {
+      "entryId": "1371210",
+      "spelling": "推定",
+      "reading": "すいてい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "推定【すいてい】",
+      "meaning": "cálculo; presunción; estimación"
+    },
+    {
+      "entryId": "1435740",
+      "spelling": "定年",
+      "reading": "ていねん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "定年【ていねん】",
+      "meaning": "edad establecida de jubilación"
+    },
+    {
+      "entryId": "1478660",
+      "spelling": "判定",
+      "reading": "はんてい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "判定【はんてい】",
+      "meaning": "decisión; fallo; sentencia"
+    },
+    {
+      "entryId": "1482990",
+      "spelling": "否定",
+      "reading": "ひてい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "否定【ひてい】",
+      "meaning": "negar; negación; negativa; repudiación"
+    },
+    {
+      "entryId": "1491190",
+      "spelling": "不安定",
+      "reading": "ふあんてい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "不安定【ふあんてい】",
+      "meaning": "inestable"
+    },
+    {
+      "entryId": "1264670",
+      "spelling": "限定",
+      "reading": "げんてい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "限定【げんてい】",
+      "meaning": "límite; restricción"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

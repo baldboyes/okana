@@ -1,0 +1,160 @@
+{
+  "character": "底",
+  "meanings": "fondo, suelo, parte más baja, base",
+  "words": [
+    {
+      "entryId": "1437670",
+      "spelling": "徹底",
+      "reading": "てってい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "徹底【てってい】",
+      "meaning": "rigurosidad; integridad"
+    },
+    {
+      "entryId": "1436050",
+      "spelling": "底",
+      "reading": "そこ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "底【そこ】",
+      "meaning": "fondo"
+    },
+    {
+      "entryId": "1201650",
+      "spelling": "海底",
+      "reading": "うなぞこ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "海底【うなぞこ】",
+      "meaning": "fondo del océano"
+    },
+    {
+      "entryId": "1201650",
+      "spelling": "海底",
+      "reading": "かいてい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "海底【かいてい】",
+      "meaning": "fondo del océano"
+    },
+    {
+      "entryId": "1290260",
+      "spelling": "根底",
+      "reading": "こんてい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "根底【こんてい】",
+      "meaning": "raíz; base; fundamento; núcleo"
+    },
+    {
+      "entryId": "1449880",
+      "spelling": "到底",
+      "reading": "とうてい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "到底【とうてい】",
+      "meaning": "no importa lo que se haga"
+    },
+    {
+      "entryId": "1437680",
+      "spelling": "徹底的",
+      "reading": "てっていてき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "徹底的【てっていてき】",
+      "meaning": "a fondo; minucioso; profundo; completo"
+    },
+    {
+      "entryId": "1636710",
+      "spelling": "川底",
+      "reading": "かわぞこ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "川底【かわぞこ】",
+      "meaning": "cauce; lecho (de un río)"
+    },
+    {
+      "entryId": "1636710",
+      "spelling": "河底",
+      "reading": "かわぞこ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "河底【かわぞこ】",
+      "meaning": "cauce; lecho (de un río)"
+    },
+    {
+      "entryId": "1763610",
+      "spelling": "地底",
+      "reading": "ちてい",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "地底【ちてい】",
+      "meaning": "profundidades de la Tierra"
+    },
+    {
+      "entryId": "1576700",
+      "spelling": "奥底",
+      "reading": "おうてい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "奥底【おうてい】",
+      "meaning": "profundidades; fondo; zona más honda; hondura"
+    },
+    {
+      "entryId": "1576700",
+      "spelling": "奥底",
+      "reading": "おくそこ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "奥底【おくそこ】",
+      "meaning": "profundidades; fondo; zona más honda; hondura"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

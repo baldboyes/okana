@@ -1,0 +1,100 @@
+{
+  "character": "雄",
+  "meanings": "fuerte, bravo, valiente, masculino, varón",
+  "words": [
+    {
+      "entryId": "1589190",
+      "spelling": "雄",
+      "reading": "おす",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "雄【おす】",
+      "meaning": "macho"
+    },
+    {
+      "entryId": "1589190",
+      "spelling": "雄",
+      "reading": "おん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "雄【おん】",
+      "meaning": "macho"
+    },
+    {
+      "entryId": "1174680",
+      "spelling": "英雄",
+      "reading": "えいゆう",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "英雄【えいゆう】",
+      "meaning": "héroe; gran hombre"
+    },
+    {
+      "entryId": "1542540",
+      "spelling": "雄大",
+      "reading": "ゆうだい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "雄大【ゆうだい】",
+      "meaning": "gran"
+    },
+    {
+      "entryId": "1312940",
+      "spelling": "雌雄",
+      "reading": "しゆう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "雌雄【しゆう】",
+      "meaning": "macho y hembra (animal)"
+    },
+    {
+      "entryId": "1247640",
+      "spelling": "群雄割拠",
+      "reading": "ぐんゆうかっきょ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "群雄割拠【ぐんゆうかっきょ】",
+      "meaning": "rivalidad de poderes; enfrentamiento entre colosos; lucha de titanes; guerra de potencias"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

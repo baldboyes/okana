@@ -1,0 +1,240 @@
+{
+  "character": "取",
+  "meanings": "tomar, coger",
+  "words": [
+    {
+      "entryId": "1599120",
+      "spelling": "取り引き",
+      "reading": "とりひき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "取り引き【とりひき】",
+      "meaning": "trato"
+    },
+    {
+      "entryId": "1599120",
+      "spelling": "取引",
+      "reading": "とりひき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "取引【とりひき】",
+      "meaning": "trato"
+    },
+    {
+      "entryId": "1599120",
+      "spelling": "取引き",
+      "reading": "とりひき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "取引き【とりひき】",
+      "meaning": "trato"
+    },
+    {
+      "entryId": "1327020",
+      "spelling": "取材",
+      "reading": "しゅざい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "取材【しゅざい】",
+      "meaning": "cobertura; reporte; entrevista"
+    },
+    {
+      "entryId": "1598780",
+      "spelling": "取っ手",
+      "reading": "とって",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "取っ手【とって】",
+      "meaning": "mango; empuñadura; tirador (e.g. de un cajón, etc.)"
+    },
+    {
+      "entryId": "1598780",
+      "spelling": "取手",
+      "reading": "とって",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "取手【とって】",
+      "meaning": "mango; empuñadura; tirador (e.g. de un cajón, etc.)"
+    },
+    {
+      "entryId": "1610920",
+      "spelling": "取り締まり役",
+      "reading": "とりしまりやく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "取り締まり役【とりしまりやく】",
+      "meaning": "administrador; director; gerente"
+    },
+    {
+      "entryId": "1610920",
+      "spelling": "取締り役",
+      "reading": "とりしまりやく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "取締り役【とりしまりやく】",
+      "meaning": "administrador; director; gerente"
+    },
+    {
+      "entryId": "1610920",
+      "spelling": "取締役",
+      "reading": "とりしまりやく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "取締役【とりしまりやく】",
+      "meaning": "administrador; director; gerente"
+    },
+    {
+      "entryId": "1327070",
+      "spelling": "取得",
+      "reading": "しゅとく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "取得【しゅとく】",
+      "meaning": "adquisición"
+    },
+    {
+      "entryId": "1450860",
+      "spelling": "頭取",
+      "reading": "とうどり",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "頭取【とうどり】",
+      "meaning": "presidente (de banco)"
+    },
+    {
+      "entryId": "1326980",
+      "spelling": "取る",
+      "reading": "とる",
+      "senseNumbers": [
+        51
+      ],
+      "japanese": "取る【とる】",
+      "meaning": "tomar; coger; cosechar; ganar"
+    },
+    {
+      "entryId": "1598990",
+      "spelling": "取り扱",
+      "reading": "とりあつかい",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "取り扱【とりあつかい】",
+      "meaning": "manejo; trato; operación; tratamiento"
+    },
+    {
+      "entryId": "1598990",
+      "spelling": "取り扱い",
+      "reading": "とりあつかい",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "取り扱い【とりあつかい】",
+      "meaning": "manejo; trato; operación; tratamiento"
+    },
+    {
+      "entryId": "1598990",
+      "spelling": "取扱",
+      "reading": "とりあつかい",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "取扱【とりあつかい】",
+      "meaning": "manejo; trato; operación; tratamiento"
+    },
+    {
+      "entryId": "1598990",
+      "spelling": "取扱い",
+      "reading": "とりあつかい",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "取扱い【とりあつかい】",
+      "meaning": "manejo; trato; operación; tratamiento"
+    },
+    {
+      "entryId": "1599050",
+      "spelling": "取り消し",
+      "reading": "とりけし",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "取り消し【とりけし】",
+      "meaning": "cancelación; anulación; revocación"
+    },
+    {
+      "entryId": "1599050",
+      "spelling": "取消",
+      "reading": "とりけし",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "取消【とりけし】",
+      "meaning": "cancelación; anulación; revocación"
+    },
+    {
+      "entryId": "1599050",
+      "spelling": "取消し",
+      "reading": "とりけし",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "取消し【とりけし】",
+      "meaning": "cancelación; anulación; revocación"
+    },
+    {
+      "entryId": "1599070",
+      "spelling": "取り締まり",
+      "reading": "とりしまり",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "取り締まり【とりしまり】",
+      "meaning": "administración; supervisión; gerencia; reglamentación; control; dirección; gestión"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

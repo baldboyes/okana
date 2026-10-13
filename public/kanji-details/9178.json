@@ -1,0 +1,240 @@
+{
+  "character": "酸",
+  "meanings": "ácido, agrio",
+  "words": [
+    {
+      "entryId": "1304290",
+      "spelling": "酸化",
+      "reading": "さんか",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "酸化【さんか】",
+      "meaning": "oxidación"
+    },
+    {
+      "entryId": "1304330",
+      "spelling": "酸性",
+      "reading": "さんせい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "酸性【さんせい】",
+      "meaning": "acidez"
+    },
+    {
+      "entryId": "1304350",
+      "spelling": "酸素",
+      "reading": "さんそ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "酸素【さんそ】",
+      "meaning": "oxígeno"
+    },
+    {
+      "entryId": "1483290",
+      "spelling": "悲酸",
+      "reading": "ひさん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "悲酸【ひさん】",
+      "meaning": "desastroso; trágico; deprimente; desgraciado; lamentable"
+    },
+    {
+      "entryId": "1304260",
+      "spelling": "酸",
+      "reading": "さん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "酸【さん】",
+      "meaning": "acido; ácido"
+    },
+    {
+      "entryId": "1370270",
+      "spelling": "酸",
+      "reading": "す",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "酸【す】",
+      "meaning": "vinagre"
+    },
+    {
+      "entryId": "1162740",
+      "spelling": "一酸化炭素",
+      "reading": "いっさんかたんそ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "一酸化炭素【いっさんかたんそ】",
+      "meaning": "monóxido de carbono"
+    },
+    {
+      "entryId": "1205560",
+      "spelling": "核酸",
+      "reading": "かくさん",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "核酸【かくさん】",
+      "meaning": "ácido nucleico"
+    },
+    {
+      "entryId": "1418530",
+      "spelling": "炭酸",
+      "reading": "たんさん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "炭酸【たんさん】",
+      "meaning": "ácido carbónico"
+    },
+    {
+      "entryId": "1418530",
+      "spelling": "炭酸",
+      "reading": "タンサン",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "炭酸【タンサン】",
+      "meaning": "ácido carbónico"
+    },
+    {
+      "entryId": "1304280",
+      "spelling": "酸っぱい",
+      "reading": "すっぱい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "酸っぱい【すっぱい】",
+      "meaning": "acido; ácido; agrio; acre"
+    },
+    {
+      "entryId": "1018610",
+      "spelling": "アミノ酸",
+      "reading": "アミノさん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "アミノ酸【アミノさん】",
+      "meaning": "aminoácido (eng: amino acid)"
+    },
+    {
+      "entryId": "1461820",
+      "spelling": "二酸化炭素",
+      "reading": "にさんかたんそ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "二酸化炭素【にさんかたんそ】",
+      "meaning": "dióxido de carbono"
+    },
+    {
+      "entryId": "1552880",
+      "spelling": "硫酸",
+      "reading": "りゅうさん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "硫酸【りゅうさん】",
+      "meaning": "ácido sulfúrico"
+    },
+    {
+      "entryId": "1351170",
+      "spelling": "硝酸",
+      "reading": "しょうさん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "硝酸【しょうさん】",
+      "meaning": "ácido nítrico"
+    },
+    {
+      "entryId": "1370290",
+      "spelling": "酢酸",
+      "reading": "さくさん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "酢酸【さくさん】",
+      "meaning": "ácido acético"
+    },
+    {
+      "entryId": "1370290",
+      "spelling": "醋酸",
+      "reading": "さくさん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "醋酸【さくさん】",
+      "meaning": "ácido acético"
+    },
+    {
+      "entryId": "1304390",
+      "spelling": "酸味",
+      "reading": "さんみ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "酸味【さんみ】",
+      "meaning": "acidez"
+    },
+    {
+      "entryId": "1304390",
+      "spelling": "酸味",
+      "reading": "すみ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "酸味【すみ】",
+      "meaning": "acidez"
+    },
+    {
+      "entryId": "1311830",
+      "spelling": "脂肪酸",
+      "reading": "しぼうさん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "脂肪酸【しぼうさん】",
+      "meaning": "ácido graso"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

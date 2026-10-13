@@ -1,0 +1,241 @@
+{
+  "character": "二",
+  "meanings": "dos, 2",
+  "words": [
+    {
+      "entryId": "1334910",
+      "spelling": "一二月",
+      "reading": "じゅうにがつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "一二月【じゅうにがつ】",
+      "meaning": "diciembre; Diciembre"
+    },
+    {
+      "entryId": "1334910",
+      "spelling": "十二月",
+      "reading": "じゅうにがつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "十二月【じゅうにがつ】",
+      "meaning": "diciembre; Diciembre"
+    },
+    {
+      "entryId": "1461140",
+      "spelling": "二",
+      "reading": "に",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "二【に】",
+      "meaning": "dos; dos (usado en documentos)"
+    },
+    {
+      "entryId": "1461140",
+      "spelling": "二",
+      "reading": "ふ",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "二【ふ】",
+      "meaning": "dos; dos (usado en documentos)"
+    },
+    {
+      "entryId": "1461140",
+      "spelling": "二",
+      "reading": "ふう",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "二【ふう】",
+      "meaning": "dos; dos (usado en documentos)"
+    },
+    {
+      "entryId": "1461140",
+      "spelling": "二",
+      "reading": "ふた",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "二【ふた】",
+      "meaning": "dos; dos (usado en documentos)"
+    },
+    {
+      "entryId": "1461560",
+      "spelling": "二月",
+      "reading": "にがつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "二月【にがつ】",
+      "meaning": "febrero; Febrero"
+    },
+    {
+      "entryId": "1582670",
+      "spelling": "二人",
+      "reading": "ににん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "二人【ににん】",
+      "meaning": "dos personas; pareja; dúo"
+    },
+    {
+      "entryId": "1582670",
+      "spelling": "二人",
+      "reading": "ふたり",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "二人【ふたり】",
+      "meaning": "dos personas; pareja; dúo"
+    },
+    {
+      "entryId": "1334890",
+      "spelling": "一二",
+      "reading": "じゅうに",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "一二【じゅうに】",
+      "meaning": "doce"
+    },
+    {
+      "entryId": "1334890",
+      "spelling": "十二",
+      "reading": "じゅうに",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "十二【じゅうに】",
+      "meaning": "doce"
+    },
+    {
+      "entryId": "1292300",
+      "spelling": "二度",
+      "reading": "ふたたび",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "二度【ふたたび】",
+      "meaning": "otra vez; una vez más; segunda vez"
+    },
+    {
+      "entryId": "1461160",
+      "spelling": "二つ",
+      "reading": "ふたつ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "二つ【ふたつ】",
+      "meaning": "2; dos"
+    },
+    {
+      "entryId": "1656380",
+      "spelling": "二〇〇",
+      "reading": "にひゃく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "二〇〇【にひゃく】",
+      "meaning": "doscientos; 200"
+    },
+    {
+      "entryId": "1656380",
+      "spelling": "二百",
+      "reading": "にひゃく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "二百【にひゃく】",
+      "meaning": "doscientos; 200"
+    },
+    {
+      "entryId": "1461420",
+      "spelling": "二階",
+      "reading": "にかい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "二階【にかい】",
+      "meaning": "piso segundo"
+    },
+    {
+      "entryId": "1462730",
+      "spelling": "二度",
+      "reading": "にど",
+      "senseNumbers": [
+        8,
+        9
+      ],
+      "japanese": "二度【にど】",
+      "meaning": "segunda vez; dos grados"
+    },
+    {
+      "entryId": "1462080",
+      "spelling": "二重",
+      "reading": "にじゅう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "二重【にじゅう】",
+      "meaning": "doble; dual; superpuesto"
+    },
+    {
+      "entryId": "1462080",
+      "spelling": "二重",
+      "reading": "ふたえ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "二重【ふたえ】",
+      "meaning": "doble; dual; superpuesto"
+    },
+    {
+      "entryId": "1461870",
+      "spelling": "二次",
+      "reading": "にじ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "二次【にじ】",
+      "meaning": "secundario; subordinado"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

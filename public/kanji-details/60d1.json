@@ -1,0 +1,160 @@
+{
+  "character": "惑",
+  "meanings": "ilusión, engaño, duda, seducción, dudar, seducir",
+  "words": [
+    {
+      "entryId": "1225680",
+      "spelling": "疑惑",
+      "reading": "ぎわく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "疑惑【ぎわく】",
+      "meaning": "sospecha; duda; desconfianza"
+    },
+    {
+      "entryId": "1309630",
+      "spelling": "思惑",
+      "reading": "おもわく",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "思惑【おもわく】",
+      "meaning": "especulación; expectativa"
+    },
+    {
+      "entryId": "1532800",
+      "spelling": "迷惑",
+      "reading": "めいわく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "迷惑【めいわく】",
+      "meaning": "problema; molestia"
+    },
+    {
+      "entryId": "1562600",
+      "spelling": "惑星",
+      "reading": "わくせい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "惑星【わくせい】",
+      "meaning": "planeta"
+    },
+    {
+      "entryId": "1289630",
+      "spelling": "困惑",
+      "reading": "こんわく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "困惑【こんわく】",
+      "meaning": "desconcierto; perturbación"
+    },
+    {
+      "entryId": "1542040",
+      "spelling": "誘惑",
+      "reading": "ゆうわく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "誘惑【ゆうわく】",
+      "meaning": "tentación; seducción"
+    },
+    {
+      "entryId": "1348850",
+      "spelling": "小惑星",
+      "reading": "しょうわくせい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "小惑星【しょうわくせい】",
+      "meaning": "asteroide"
+    },
+    {
+      "entryId": "1562580",
+      "spelling": "惑わす",
+      "reading": "まどわす",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "惑わす【まどわす】",
+      "meaning": "desconcertar; engañar; seducir; tentar"
+    },
+    {
+      "entryId": "1449290",
+      "spelling": "当惑",
+      "reading": "とうわく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "当惑【とうわく】",
+      "meaning": "confusión; perplejidad"
+    },
+    {
+      "entryId": "1528170",
+      "spelling": "魅惑",
+      "reading": "みわく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "魅惑【みわく】",
+      "meaning": "atracción; fascinación; atractivo; encanto"
+    },
+    {
+      "entryId": "1267100",
+      "spelling": "戸惑う",
+      "reading": "とまどう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "戸惑う【とまどう】",
+      "meaning": "estar desconcertado; estar perplejo"
+    },
+    {
+      "entryId": "1267100",
+      "spelling": "途惑う",
+      "reading": "とまどう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "途惑う【とまどう】",
+      "meaning": "estar desconcertado; estar perplejo"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

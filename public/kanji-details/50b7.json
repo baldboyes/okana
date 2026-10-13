@@ -1,0 +1,240 @@
+{
+  "character": "傷",
+  "meanings": "herida, daño, lesión, corte, estar herido, herir",
+  "words": [
+    {
+      "entryId": "1587300",
+      "spelling": "傷み",
+      "reading": "いたみ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "傷み【いたみ】",
+      "meaning": "deterioro; daño; perjuicio; corrupción; podredumbre; dolor; aflicción"
+    },
+    {
+      "entryId": "1580260",
+      "spelling": "傷",
+      "reading": "きず",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "傷【きず】",
+      "meaning": "herida; cortada; rasguño; magulladura; contusión; cuchillada; punto débil"
+    },
+    {
+      "entryId": "1579960",
+      "spelling": "重傷",
+      "reading": "じゅうしょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "重傷【じゅうしょう】",
+      "meaning": "herida o lesión grave"
+    },
+    {
+      "entryId": "1252720",
+      "spelling": "軽傷",
+      "reading": "けいしょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "軽傷【けいしょう】",
+      "meaning": "lesiones leves"
+    },
+    {
+      "entryId": "1310880",
+      "spelling": "死傷者",
+      "reading": "ししょうしゃ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "死傷者【ししょうしゃ】",
+      "meaning": "muertos y heridos"
+    },
+    {
+      "entryId": "1345840",
+      "spelling": "傷害",
+      "reading": "しょうがい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "傷害【しょうがい】",
+      "meaning": "herida; lesión"
+    },
+    {
+      "entryId": "1498100",
+      "spelling": "負傷",
+      "reading": "ふしょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "負傷【ふしょう】",
+      "meaning": "herida; lesión"
+    },
+    {
+      "entryId": "1406760",
+      "spelling": "損傷",
+      "reading": "そんしょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "損傷【そんしょう】",
+      "meaning": "daño; herida"
+    },
+    {
+      "entryId": "1591230",
+      "spelling": "傷あと",
+      "reading": "きずあと",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "傷あと【きずあと】",
+      "meaning": "cicatriz"
+    },
+    {
+      "entryId": "1591230",
+      "spelling": "傷痕",
+      "reading": "きずあと",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "傷痕【きずあと】",
+      "meaning": "cicatriz"
+    },
+    {
+      "entryId": "1591230",
+      "spelling": "傷跡",
+      "reading": "きずあと",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "傷跡【きずあと】",
+      "meaning": "cicatriz"
+    },
+    {
+      "entryId": "1424500",
+      "spelling": "中傷",
+      "reading": "ちゅうしょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "中傷【ちゅうしょう】",
+      "meaning": "calumnia; difamación"
+    },
+    {
+      "entryId": "1421940",
+      "spelling": "致命傷",
+      "reading": "ちめいしょう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "致命傷【ちめいしょう】",
+      "meaning": "herida mortal"
+    },
+    {
+      "entryId": "1345860",
+      "spelling": "傷口",
+      "reading": "きずぐち",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "傷口【きずぐち】",
+      "meaning": "herida"
+    },
+    {
+      "entryId": "1609200",
+      "spelling": "傷ましい",
+      "reading": "いたましい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "傷ましい【いたましい】",
+      "meaning": "que da pena; lamentable; penoso; lastimoso; doloroso; trágico"
+    },
+    {
+      "entryId": "1345930",
+      "spelling": "傷つける",
+      "reading": "きずつける",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "傷つける【きずつける】",
+      "meaning": "herir; daño; estropear; lastimar; desgraciar; dañar; ofender"
+    },
+    {
+      "entryId": "1345930",
+      "spelling": "傷付ける",
+      "reading": "きずつける",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "傷付ける【きずつける】",
+      "meaning": "herir; daño; estropear; lastimar; desgraciar; dañar; ofender"
+    },
+    {
+      "entryId": "1345930",
+      "spelling": "傷付る",
+      "reading": "きずつける",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "傷付る【きずつける】",
+      "meaning": "herir; daño; estropear; lastimar; desgraciar; dañar; ofender"
+    },
+    {
+      "entryId": "1577310",
+      "spelling": "火傷",
+      "reading": "やけど",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "火傷【やけど】",
+      "meaning": "quemar; escaldar"
+    },
+    {
+      "entryId": "1577310",
+      "spelling": "火傷",
+      "reading": "ヤケド",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "火傷【ヤケド】",
+      "meaning": "quemar; escaldar"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

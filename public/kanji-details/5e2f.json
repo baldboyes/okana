@@ -1,0 +1,241 @@
+{
+  "character": "帯",
+  "meanings": "faja, cinturón, zona, región, llevar, transportar, ceñirse",
+  "words": [
+    {
+      "entryId": "1421360",
+      "spelling": "地帯",
+      "reading": "ちたい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "地帯【ちたい】",
+      "meaning": "zona"
+    },
+    {
+      "entryId": "1374170",
+      "spelling": "世帯",
+      "reading": "せたい",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "世帯【せたい】",
+      "meaning": "familia; hogar"
+    },
+    {
+      "entryId": "1250680",
+      "spelling": "携帯",
+      "reading": "けいたい",
+      "senseNumbers": [
+        14,
+        15
+      ],
+      "japanese": "携帯【けいたい】",
+      "meaning": "algo que se lleva (en la mano); de mano; teléfono móvil; celular"
+    },
+    {
+      "entryId": "1467930",
+      "spelling": "熱帯",
+      "reading": "ねったい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "熱帯【ねったい】",
+      "meaning": "trópicos"
+    },
+    {
+      "entryId": "1559660",
+      "spelling": "連帯",
+      "reading": "れんたい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "連帯【れんたい】",
+      "meaning": "solidaridad"
+    },
+    {
+      "entryId": "1164570",
+      "spelling": "一帯",
+      "reading": "いったい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "一帯【いったい】",
+      "meaning": "región; zona; todo el lugar"
+    },
+    {
+      "entryId": "1467940",
+      "spelling": "熱帯魚",
+      "reading": "ねったいぎょ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "熱帯魚【ねったいぎょ】",
+      "meaning": "pez tropical"
+    },
+    {
+      "entryId": "1410430",
+      "spelling": "帯びる",
+      "reading": "おびる",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "帯びる【おびる】",
+      "meaning": "llevar; portar; llevar al cinto; ceñir; llevar o traer puesto; encargarse; tener; cargar con; estar teñido con; tener una traza de"
+    },
+    {
+      "entryId": "1183470",
+      "spelling": "温帯",
+      "reading": "おんたい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "温帯【おんたい】",
+      "meaning": "zona templada"
+    },
+    {
+      "entryId": "1603360",
+      "spelling": "包帯",
+      "reading": "ほうたい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "包帯【ほうたい】",
+      "meaning": "venda"
+    },
+    {
+      "entryId": "1603360",
+      "spelling": "繃帯",
+      "reading": "ほうたい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "繃帯【ほうたい】",
+      "meaning": "venda"
+    },
+    {
+      "entryId": "1149820",
+      "spelling": "亜熱帯",
+      "reading": "あねったい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "亜熱帯【あねったい】",
+      "meaning": "subtropicos"
+    },
+    {
+      "entryId": "1250690",
+      "spelling": "携帯電話",
+      "reading": "けいたいでんわ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "携帯電話【けいたいでんわ】",
+      "meaning": "teléfono móvil; teléfono celular"
+    },
+    {
+      "entryId": "1410410",
+      "spelling": "帯",
+      "reading": "おび",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "帯【おび】",
+      "meaning": "obi; banda; cinturón; faja"
+    },
+    {
+      "entryId": "1607260",
+      "spelling": "帯く",
+      "reading": "はく",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "帯く【はく】",
+      "meaning": "llevar; llevar puesto; vestir; portar; ponerse ropa (piernas y pies)"
+    },
+    {
+      "entryId": "2104790",
+      "spelling": "性感帯",
+      "reading": "せいかんたい",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "性感帯【せいかんたい】",
+      "meaning": "zona erógena"
+    },
+    {
+      "entryId": "1832420",
+      "spelling": "熱帯夜",
+      "reading": "ねったいや",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "熱帯夜【ねったいや】",
+      "meaning": "noche en la cual la temperatura no desciende debajo de 25 grados C"
+    },
+    {
+      "entryId": "1154020",
+      "spelling": "安全地帯",
+      "reading": "あんぜんちたい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "安全地帯【あんぜんちたい】",
+      "meaning": "zona de seguridad; zona segura"
+    },
+    {
+      "entryId": "1832410",
+      "spelling": "熱帯低気圧",
+      "reading": "ねったいていきあつ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "熱帯低気圧【ねったいていきあつ】",
+      "meaning": "ciclón tropical"
+    },
+    {
+      "entryId": "1214510",
+      "spelling": "緩衝地帯",
+      "reading": "かんしょうちたい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "緩衝地帯【かんしょうちたい】",
+      "meaning": "zona neutral; franja desmilitarizada"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

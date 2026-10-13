@@ -1,0 +1,220 @@
+{
+  "character": "昨",
+  "meanings": "ayer, previo, anterior",
+  "words": [
+    {
+      "entryId": "1298230",
+      "spelling": "昨年",
+      "reading": "さくねん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "昨年【さくねん】",
+      "meaning": "el año pasado"
+    },
+    {
+      "entryId": "1576060",
+      "spelling": "一昨年",
+      "reading": "いっさくねん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "一昨年【いっさくねん】",
+      "meaning": "año antepasado"
+    },
+    {
+      "entryId": "1576060",
+      "spelling": "一昨年",
+      "reading": "おととし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "一昨年【おととし】",
+      "meaning": "año antepasado"
+    },
+    {
+      "entryId": "1579260",
+      "spelling": "昨日",
+      "reading": "きのう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "昨日【きのう】",
+      "meaning": "ayer"
+    },
+    {
+      "entryId": "1579260",
+      "spelling": "昨日",
+      "reading": "さくじつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "昨日【さくじつ】",
+      "meaning": "ayer"
+    },
+    {
+      "entryId": "1298210",
+      "spelling": "昨今",
+      "reading": "さくこん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "昨今【さくこん】",
+      "meaning": "hoy en día (actualmente); actual (de hoy en día)"
+    },
+    {
+      "entryId": "1298210",
+      "spelling": "昨今",
+      "reading": "さっこん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "昨今【さっこん】",
+      "meaning": "hoy en día (actualmente); actual (de hoy en día)"
+    },
+    {
+      "entryId": "1657900",
+      "spelling": "昨年来",
+      "reading": "さくねんらい",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "昨年来【さくねんらい】",
+      "meaning": "desde el año pasado"
+    },
+    {
+      "entryId": "1542640",
+      "spelling": "昨夕",
+      "reading": "ゆうべ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "昨夕【ゆうべ】",
+      "meaning": "anoche"
+    },
+    {
+      "entryId": "1542640",
+      "spelling": "昨夜",
+      "reading": "ゆうべ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "昨夜【ゆうべ】",
+      "meaning": "anoche"
+    },
+    {
+      "entryId": "1542640",
+      "spelling": "昨夜",
+      "reading": "ゆんべ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "昨夜【ゆんべ】",
+      "meaning": "anoche"
+    },
+    {
+      "entryId": "1542640",
+      "spelling": "昨夜",
+      "reading": "よべ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "昨夜【よべ】",
+      "meaning": "anoche"
+    },
+    {
+      "entryId": "2863052",
+      "spelling": "昨夜",
+      "reading": "さくや",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "昨夜【さくや】",
+      "meaning": "anoche"
+    },
+    {
+      "entryId": "1576050",
+      "spelling": "一昨日",
+      "reading": "いっさくじつ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "一昨日【いっさくじつ】",
+      "meaning": "anteayer; antier"
+    },
+    {
+      "entryId": "1576050",
+      "spelling": "一昨日",
+      "reading": "おとつい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "一昨日【おとつい】",
+      "meaning": "anteayer; antier"
+    },
+    {
+      "entryId": "1576050",
+      "spelling": "一昨日",
+      "reading": "おととい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "一昨日【おととい】",
+      "meaning": "anteayer; antier"
+    },
+    {
+      "entryId": "1298240",
+      "spelling": "昨晩",
+      "reading": "さくばん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "昨晩【さくばん】",
+      "meaning": "anoche"
+    },
+    {
+      "entryId": "1162640",
+      "spelling": "一昨",
+      "reading": "いっさく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "一昨【いっさく】",
+      "meaning": "un previo; un antes"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

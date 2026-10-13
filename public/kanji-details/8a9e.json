@@ -1,0 +1,240 @@
+{
+  "character": "語",
+  "meanings": "palabra, discurso, lenguaje, hablar, conversar, narrar",
+  "words": [
+    {
+      "entryId": "1174420",
+      "spelling": "英語",
+      "reading": "えいご",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "英語【えいご】",
+      "meaning": "Idioma Inglés; lengua inglesa"
+    },
+    {
+      "entryId": "1464530",
+      "spelling": "日本語",
+      "reading": "にっぽんご",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "日本語【にっぽんご】",
+      "meaning": "japonés (idioma)"
+    },
+    {
+      "entryId": "1464530",
+      "spelling": "日本語",
+      "reading": "にほんご",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "日本語【にほんご】",
+      "meaning": "japonés (idioma)"
+    },
+    {
+      "entryId": "1502480",
+      "spelling": "物語",
+      "reading": "ものがたり",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "物語【ものがたり】",
+      "meaning": "cuento; historia; leyenda"
+    },
+    {
+      "entryId": "1502480",
+      "spelling": "物語り",
+      "reading": "ものがたり",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "物語り【ものがたり】",
+      "meaning": "cuento; historia; leyenda"
+    },
+    {
+      "entryId": "1264420",
+      "spelling": "言語",
+      "reading": "げんきょ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "言語【げんきょ】",
+      "meaning": "idioma; lengua"
+    },
+    {
+      "entryId": "1264420",
+      "spelling": "言語",
+      "reading": "げんご",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "言語【げんご】",
+      "meaning": "idioma; lengua"
+    },
+    {
+      "entryId": "1264420",
+      "spelling": "言語",
+      "reading": "ごんご",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "言語【ごんご】",
+      "meaning": "idioma; lengua"
+    },
+    {
+      "entryId": "1546270",
+      "spelling": "用語",
+      "reading": "ようご",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "用語【ようご】",
+      "meaning": "término; terminología (vocabulario específico de alguna disciplina)"
+    },
+    {
+      "entryId": "1286370",
+      "spelling": "国語",
+      "reading": "こくご",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "国語【こくご】",
+      "meaning": "idioma nacional"
+    },
+    {
+      "entryId": "1286370",
+      "spelling": "國語",
+      "reading": "こくご",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "國語【こくご】",
+      "meaning": "idioma nacional"
+    },
+    {
+      "entryId": "1203640",
+      "spelling": "外国語",
+      "reading": "がいこくご",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "外国語【がいこくご】",
+      "meaning": "idioma extranjero; lengua extranjera"
+    },
+    {
+      "entryId": "1270990",
+      "spelling": "語る",
+      "reading": "かたる",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "語る【かたる】",
+      "meaning": "platicar; conversar; decir; recitar"
+    },
+    {
+      "entryId": "1270920",
+      "spelling": "語らう",
+      "reading": "かたらう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "語らう【かたらう】",
+      "meaning": "hablar; decir; recitar; prometer; conspirar con"
+    },
+    {
+      "entryId": "1271010",
+      "spelling": "語学",
+      "reading": "ごがく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "語学【ごがく】",
+      "meaning": "lingüístico"
+    },
+    {
+      "entryId": "1502490",
+      "spelling": "物語る",
+      "reading": "ものがたる",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "物語る【ものがたる】",
+      "meaning": "contar; hablar de; relatar; narrar"
+    },
+    {
+      "entryId": "1548720",
+      "spelling": "落語",
+      "reading": "らくご",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "落語【らくご】",
+      "meaning": "historia cómica"
+    },
+    {
+      "entryId": "1270930",
+      "spelling": "語",
+      "reading": "かたり",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "語【かたり】",
+      "meaning": "hablar"
+    },
+    {
+      "entryId": "1270930",
+      "spelling": "語り",
+      "reading": "かたり",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "語り【かたり】",
+      "meaning": "hablar"
+    },
+    {
+      "entryId": "1417330",
+      "spelling": "単語",
+      "reading": "たんご",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "単語【たんご】",
+      "meaning": "palabra; vocabulario; (usualmente) palabras de un caracter"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

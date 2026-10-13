@@ -1,0 +1,248 @@
+{
+  "character": "余",
+  "meanings": "remanente, exceso, resto, otro, distinto, uno mismo, quedar, sobrar, ser demasiado",
+  "words": [
+    {
+      "entryId": "1544590",
+      "spelling": "余猶",
+      "reading": "よゆう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "余猶【よゆう】",
+      "meaning": "sobra; holgura"
+    },
+    {
+      "entryId": "1544590",
+      "spelling": "余裕",
+      "reading": "よゆう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "余裕【よゆう】",
+      "meaning": "sobra; holgura"
+    },
+    {
+      "entryId": "1544380",
+      "spelling": "余地",
+      "reading": "よち",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "余地【よち】",
+      "meaning": "espacio extra; holgura; cabida"
+    },
+    {
+      "entryId": "1957300",
+      "spelling": "余儀なく",
+      "reading": "よぎなく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "余儀なく【よぎなく】",
+      "meaning": "inevitablemente; necesariamente"
+    },
+    {
+      "entryId": "1957300",
+      "spelling": "余儀無く",
+      "reading": "よぎなく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "余儀無く【よぎなく】",
+      "meaning": "inevitablemente; necesariamente"
+    },
+    {
+      "entryId": "1541740",
+      "spelling": "猶余",
+      "reading": "ゆうよ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "猶余【ゆうよ】",
+      "meaning": "titubeo; duda; vacilación; fluctuación"
+    },
+    {
+      "entryId": "1543980",
+      "spelling": "余暇",
+      "reading": "よか",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "余暇【よか】",
+      "meaning": "tiempo libre; ocio; esparcimiento"
+    },
+    {
+      "entryId": "1544090",
+      "spelling": "余計",
+      "reading": "よけい",
+      "senseNumbers": [
+        21
+      ],
+      "japanese": "余計【よけい】",
+      "meaning": "demasiado; innecesario; en gran cantidad; sobrante; excesivo; superfluo"
+    },
+    {
+      "entryId": "1543890",
+      "spelling": "余りに",
+      "reading": "あまりに",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "余りに【あまりに】",
+      "meaning": "demasiado; excesivamente"
+    },
+    {
+      "entryId": "1543890",
+      "spelling": "余りに",
+      "reading": "あんまりに",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "余りに【あんまりに】",
+      "meaning": "demasiado; excesivamente"
+    },
+    {
+      "entryId": "1584930",
+      "spelling": "余り",
+      "reading": "あまり",
+      "senseNumbers": [
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "japanese": "余り【あまり】",
+      "meaning": "resto; restos; residuo; remanente; no muy (con verbo negativo); no mucho; exceso; excedente; plenitud; demasiado; encantado; contentísimo; abrumado; más que; por encima de"
+    },
+    {
+      "entryId": "1584930",
+      "spelling": "余り",
+      "reading": "あんまり",
+      "senseNumbers": [
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "japanese": "余り【あんまり】",
+      "meaning": "resto; restos; residuo; remanente; no muy (con verbo negativo); no mucho; exceso; excedente; plenitud; demasiado; encantado; contentísimo; abrumado; más que; por encima de"
+    },
+    {
+      "entryId": "1543910",
+      "spelling": "余る",
+      "reading": "あまる",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "余る【あまる】",
+      "meaning": "sobrar; tener de más"
+    },
+    {
+      "entryId": "1544290",
+      "spelling": "余震",
+      "reading": "よしん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "余震【よしん】",
+      "meaning": "réplica (de un terremoto)"
+    },
+    {
+      "entryId": "1543860",
+      "spelling": "余す",
+      "reading": "あます",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "余す【あます】",
+      "meaning": "dejar; faltar"
+    },
+    {
+      "entryId": "1544520",
+      "spelling": "余分",
+      "reading": "よぶん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "余分【よぶん】",
+      "meaning": "extra; sobrante"
+    },
+    {
+      "entryId": "1544370",
+      "spelling": "余談",
+      "reading": "よだん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "余談【よだん】",
+      "meaning": "digresión; acotación"
+    },
+    {
+      "entryId": "1544190",
+      "spelling": "余所見",
+      "reading": "よそみ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "余所見【よそみ】",
+      "meaning": "descuido; omisión; inadvertencia; desprecio; feo; distracción; falta de atención"
+    },
+    {
+      "entryId": "1584940",
+      "spelling": "余所行き",
+      "reading": "よそゆき",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "余所行き【よそゆき】",
+      "meaning": "de salir; formal (ropa, vocabulario)"
+    },
+    {
+      "entryId": "1605940",
+      "spelling": "余所",
+      "reading": "よそ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "余所【よそ】",
+      "meaning": "ajeno; exterior; foráneo"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

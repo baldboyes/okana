@@ -1,0 +1,248 @@
+{
+  "character": "五",
+  "meanings": "cinco, 5",
+  "words": [
+    {
+      "entryId": "1268060",
+      "spelling": "五",
+      "reading": "い",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "五【い】",
+      "meaning": "cuándo; cinco"
+    },
+    {
+      "entryId": "1268060",
+      "spelling": "五",
+      "reading": "いつ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "五【いつ】",
+      "meaning": "cuándo; cinco"
+    },
+    {
+      "entryId": "1268060",
+      "spelling": "五",
+      "reading": "ご",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "五【ご】",
+      "meaning": "cuándo; cinco"
+    },
+    {
+      "entryId": "1268170",
+      "spelling": "五月",
+      "reading": "ごがつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "五月【ごがつ】",
+      "meaning": "Mayo"
+    },
+    {
+      "entryId": "1693050",
+      "spelling": "五〇",
+      "reading": "ごじゅう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "五〇【ごじゅう】",
+      "meaning": "cincuenta"
+    },
+    {
+      "entryId": "1693050",
+      "spelling": "五十",
+      "reading": "ごじゅう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "五十【ごじゅう】",
+      "meaning": "cincuenta"
+    },
+    {
+      "entryId": "1334590",
+      "spelling": "一五",
+      "reading": "じゅうご",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "一五【じゅうご】",
+      "meaning": "15; quince"
+    },
+    {
+      "entryId": "1334590",
+      "spelling": "十五",
+      "reading": "じゅうご",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "十五【じゅうご】",
+      "meaning": "15; quince"
+    },
+    {
+      "entryId": "1593610",
+      "spelling": "五輪",
+      "reading": "ごりん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "五輪【ごりん】",
+      "meaning": "(las) Olimpíadas; (los) Juegos Olímpicos"
+    },
+    {
+      "entryId": "1693050",
+      "spelling": "五十",
+      "reading": "い",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "五十【い】",
+      "meaning": "cincuenta"
+    },
+    {
+      "entryId": "1693050",
+      "spelling": "五十",
+      "reading": "いそ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "五十【いそ】",
+      "meaning": "cincuenta"
+    },
+    {
+      "entryId": "1268070",
+      "spelling": "五つ",
+      "reading": "いつつ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "五つ【いつつ】",
+      "meaning": "cinco"
+    },
+    {
+      "entryId": "1268300",
+      "spelling": "五十音",
+      "reading": "ごじゅうおん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "五十音【ごじゅうおん】",
+      "meaning": "silabario japonés"
+    },
+    {
+      "entryId": "1307250",
+      "spelling": "四捨五入",
+      "reading": "ししゃごにゅう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "四捨五入【ししゃごにゅう】",
+      "meaning": "redondeo"
+    },
+    {
+      "entryId": "1268570",
+      "spelling": "五日",
+      "reading": "いつか",
+      "senseNumbers": [
+        10,
+        11
+      ],
+      "japanese": "五日【いつか】",
+      "meaning": "quinto día del mes; cinco días"
+    },
+    {
+      "entryId": "1268570",
+      "spelling": "五日",
+      "reading": "ごにち",
+      "senseNumbers": [
+        10,
+        11
+      ],
+      "japanese": "五日【ごにち】",
+      "meaning": "quinto día del mes; cinco días"
+    },
+    {
+      "entryId": "1481920",
+      "spelling": "五月蝿い",
+      "reading": "うるさい",
+      "senseNumbers": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "japanese": "五月蝿い【うるさい】",
+      "meaning": "ruidoso; molesto; impertinente; susceptible; irritante; inquietante; tedioso; mandón"
+    },
+    {
+      "entryId": "1481920",
+      "spelling": "五月蠅い",
+      "reading": "うるさい",
+      "senseNumbers": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "japanese": "五月蠅い【うるさい】",
+      "meaning": "ruidoso; molesto; impertinente; susceptible; irritante; inquietante; tedioso; mandón"
+    },
+    {
+      "entryId": "2275300",
+      "spelling": "一五日",
+      "reading": "じゅうごにち",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "一五日【じゅうごにち】",
+      "meaning": "día 15"
+    },
+    {
+      "entryId": "2275300",
+      "spelling": "十五日",
+      "reading": "じゅうごにち",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "十五日【じゅうごにち】",
+      "meaning": "día 15"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

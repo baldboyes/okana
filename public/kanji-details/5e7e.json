@@ -1,0 +1,180 @@
+{
+  "character": "幾",
+  "meanings": "cuántos, algunos",
+  "words": [
+    {
+      "entryId": "1219960",
+      "spelling": "幾つ",
+      "reading": "いくつ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "幾つ【いくつ】",
+      "meaning": "¿cuanto?; ¿cuantos?; ¿cuantos años?"
+    },
+    {
+      "entryId": "1220020",
+      "spelling": "幾何学",
+      "reading": "きかがく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "幾何学【きかがく】",
+      "meaning": "geometría"
+    },
+    {
+      "entryId": "1220060",
+      "spelling": "幾分",
+      "reading": "いくぶん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "幾分【いくぶん】",
+      "meaning": "cierta cantidad; cantidad aproximada; algo"
+    },
+    {
+      "entryId": "1219980",
+      "spelling": "幾ら",
+      "reading": "いくら",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "幾ら【いくら】",
+      "meaning": "¿cuanto?; ¿cuantos?"
+    },
+    {
+      "entryId": "1220010",
+      "spelling": "幾何",
+      "reading": "きか",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "幾何【きか】",
+      "meaning": "geometría"
+    },
+    {
+      "entryId": "1027750",
+      "spelling": "越幾斯",
+      "reading": "エキス",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "越幾斯【エキス】",
+      "meaning": "extracto (de comida, fruta, etc.); esencia"
+    },
+    {
+      "entryId": "1219950",
+      "spelling": "幾",
+      "reading": "いく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "幾【いく】",
+      "meaning": "prefijo: cuántos; prefijo: varios, algunos"
+    },
+    {
+      "entryId": "1219970",
+      "spelling": "幾つか",
+      "reading": "いくつか",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "幾つか【いくつか】",
+      "meaning": "algo de; algunos de"
+    },
+    {
+      "entryId": "1220050",
+      "spelling": "幾日",
+      "reading": "いくか",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "幾日【いくか】",
+      "meaning": "muchos días; algunos días"
+    },
+    {
+      "entryId": "1220050",
+      "spelling": "幾日",
+      "reading": "いくにち",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "幾日【いくにち】",
+      "meaning": "muchos días; algunos días"
+    },
+    {
+      "entryId": "1522050",
+      "spelling": "幾ど",
+      "reading": "ほとんど",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "幾ど【ほとんど】",
+      "meaning": "casi"
+    },
+    {
+      "entryId": "1609170",
+      "spelling": "幾度",
+      "reading": "いくたび",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "幾度【いくたび】",
+      "meaning": "a menudo; con frecuencia; frecuentemente; cuántas veces"
+    },
+    {
+      "entryId": "1609170",
+      "spelling": "幾度",
+      "reading": "いくど",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "幾度【いくど】",
+      "meaning": "a menudo; con frecuencia; frecuentemente; cuántas veces"
+    },
+    {
+      "entryId": "1220040",
+      "spelling": "幾多",
+      "reading": "いくた",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "幾多【いくた】",
+      "meaning": "muchos; numeroso"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

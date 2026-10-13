@@ -1,0 +1,240 @@
+{
+  "character": "小",
+  "meanings": "poco, pequeño",
+  "words": [
+    {
+      "entryId": "1307850",
+      "spelling": "小供",
+      "reading": "こども",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "小供【こども】",
+      "meaning": "niño; niños"
+    },
+    {
+      "entryId": "1347870",
+      "spelling": "小学校",
+      "reading": "しょうがっこう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "小学校【しょうがっこう】",
+      "meaning": "escuela primaria"
+    },
+    {
+      "entryId": "1348430",
+      "spelling": "小説",
+      "reading": "しょうせつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "小説【しょうせつ】",
+      "meaning": "novela"
+    },
+    {
+      "entryId": "1347880",
+      "spelling": "小学生",
+      "reading": "しょうがくせい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "小学生【しょうがくせい】",
+      "meaning": "estudiante de primaria"
+    },
+    {
+      "entryId": "1580290",
+      "spelling": "小女",
+      "reading": "しょうじょ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "小女【しょうじょ】",
+      "meaning": "muchacha; jovencita; virgen; chica; doncella; niñita"
+    },
+    {
+      "entryId": "1620810",
+      "spelling": "小型",
+      "reading": "こがた",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "小型【こがた】",
+      "meaning": "mini-"
+    },
+    {
+      "entryId": "1620810",
+      "spelling": "小形",
+      "reading": "こがた",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "小形【こがた】",
+      "meaning": "mini-"
+    },
+    {
+      "entryId": "1337630",
+      "spelling": "縮小",
+      "reading": "しゅくしょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "縮小【しゅくしょう】",
+      "meaning": "reducción; encogimiento"
+    },
+    {
+      "entryId": "1348460",
+      "spelling": "小川",
+      "reading": "おがわ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "小川【おがわ】",
+      "meaning": "arroyo"
+    },
+    {
+      "entryId": "1348550",
+      "spelling": "小島",
+      "reading": "おじま",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "小島【おじま】",
+      "meaning": "isla pequeña; islote"
+    },
+    {
+      "entryId": "1348550",
+      "spelling": "小島",
+      "reading": "こじま",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "小島【こじま】",
+      "meaning": "isla pequeña; islote"
+    },
+    {
+      "entryId": "1348550",
+      "spelling": "小島",
+      "reading": "しょうとう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "小島【しょうとう】",
+      "meaning": "isla pequeña; islote"
+    },
+    {
+      "entryId": "1294020",
+      "spelling": "最小限",
+      "reading": "さいしょうげん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "最小限【さいしょうげん】",
+      "meaning": "más pequeño; al mínimo"
+    },
+    {
+      "entryId": "1347830",
+      "spelling": "小屋",
+      "reading": "こや",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "小屋【こや】",
+      "meaning": "choza; cabaña; barraca; corral; casita; caseta; cobertizo"
+    },
+    {
+      "entryId": "1347830",
+      "spelling": "小屋",
+      "reading": "しょうおく",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "小屋【しょうおく】",
+      "meaning": "choza; cabaña; barraca; corral; casita; caseta; cobertizo"
+    },
+    {
+      "entryId": "1610670",
+      "spelling": "小売り店",
+      "reading": "こうりてん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "小売り店【こうりてん】",
+      "meaning": "establecimiento minorista; comercio al por menor; tienda; comercio minorista"
+    },
+    {
+      "entryId": "1610670",
+      "spelling": "小売店",
+      "reading": "こうりてん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "小売店【こうりてん】",
+      "meaning": "establecimiento minorista; comercio al por menor; tienda; comercio minorista"
+    },
+    {
+      "entryId": "1348410",
+      "spelling": "小切手",
+      "reading": "こぎって",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "小切手【こぎって】",
+      "meaning": "cheque"
+    },
+    {
+      "entryId": "1348630",
+      "spelling": "小麦",
+      "reading": "こむぎ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "小麦【こむぎ】",
+      "meaning": "trigo"
+    },
+    {
+      "entryId": "1414110",
+      "spelling": "大小",
+      "reading": "だいしょう",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "大小【だいしょう】",
+      "meaning": "medida; tamaño"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

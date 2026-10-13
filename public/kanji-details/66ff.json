@@ -1,0 +1,257 @@
+{
+  "character": "替",
+  "meanings": "cambio, sustitución, intercambio, cambiar, sustituir, intercambiar, convertir",
+  "words": [
+    {
+      "entryId": "1590770",
+      "spelling": "替り",
+      "reading": "かわり",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "替り【かわり】",
+      "meaning": "cambio; lugar; substituto; sustituto; delegado; apoderado; suplente; relevo; compensación; segunda ración"
+    },
+    {
+      "entryId": "1590770",
+      "spelling": "替わり",
+      "reading": "かわり",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "替わり【かわり】",
+      "meaning": "cambio; lugar; substituto; sustituto; delegado; apoderado; suplente; relevo; compensación; segunda ración"
+    },
+    {
+      "entryId": "1157330",
+      "spelling": "為替",
+      "reading": "かわし",
+      "senseNumbers": [
+        10,
+        11
+      ],
+      "japanese": "為替【かわし】",
+      "meaning": "giro postal; cambio; intercambio (ej. extranjero)"
+    },
+    {
+      "entryId": "1157330",
+      "spelling": "為替",
+      "reading": "かわせ",
+      "senseNumbers": [
+        10,
+        11
+      ],
+      "japanese": "為替【かわせ】",
+      "meaning": "giro postal; cambio; intercambio (ej. extranjero)"
+    },
+    {
+      "entryId": "1592990",
+      "spelling": "交替",
+      "reading": "こうたい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "交替【こうたい】",
+      "meaning": "reemplazar; sustituir; relevar; cambiar; relevo; sustitución; reemplazo"
+    },
+    {
+      "entryId": "1157390",
+      "spelling": "為替相場",
+      "reading": "かわせそうば",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "為替相場【かわせそうば】",
+      "meaning": "tasa de cambio"
+    },
+    {
+      "entryId": "1601550",
+      "spelling": "引き替え",
+      "reading": "ひきかえ",
+      "senseNumbers": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "japanese": "引き替え【ひきかえ】",
+      "meaning": "intercamnio; conversión; al contrario; por una parte; por otra parte; por el contrario; intercambio; por una (u otra) parte"
+    },
+    {
+      "entryId": "1601550",
+      "spelling": "引替",
+      "reading": "ひきかえ",
+      "senseNumbers": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "japanese": "引替【ひきかえ】",
+      "meaning": "intercamnio; conversión; al contrario; por una parte; por otra parte; por el contrario; intercambio; por una (u otra) parte"
+    },
+    {
+      "entryId": "1601550",
+      "spelling": "引替え",
+      "reading": "ひきかえ",
+      "senseNumbers": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "japanese": "引替え【ひきかえ】",
+      "meaning": "intercamnio; conversión; al contrario; por una parte; por otra parte; por el contrario; intercambio; por una (u otra) parte"
+    },
+    {
+      "entryId": "1591760",
+      "spelling": "切り替え",
+      "reading": "きりかえ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "切り替え【きりかえ】",
+      "meaning": "alternación (pasar de uno al otro; de uno al otro); intercambio"
+    },
+    {
+      "entryId": "1591760",
+      "spelling": "切替",
+      "reading": "きりかえ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "切替【きりかえ】",
+      "meaning": "alternación (pasar de uno al otro; de uno al otro); intercambio"
+    },
+    {
+      "entryId": "1591760",
+      "spelling": "切替え",
+      "reading": "きりかえ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "切替え【きりかえ】",
+      "meaning": "alternación (pasar de uno al otro; de uno al otro); intercambio"
+    },
+    {
+      "entryId": "1410840",
+      "spelling": "替え玉",
+      "reading": "かえだま",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "替え玉【かえだま】",
+      "meaning": "sustituto; doble; testaferro"
+    },
+    {
+      "entryId": "1410840",
+      "spelling": "替玉",
+      "reading": "かえだま",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "替玉【かえだま】",
+      "meaning": "sustituto; doble; testaferro"
+    },
+    {
+      "entryId": "1602920",
+      "spelling": "振り替",
+      "reading": "ふりかえ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "振り替【ふりかえ】",
+      "meaning": "transferencia (moneda); cambio"
+    },
+    {
+      "entryId": "1602920",
+      "spelling": "振り替え",
+      "reading": "ふりかえ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "振り替え【ふりかえ】",
+      "meaning": "transferencia (moneda); cambio"
+    },
+    {
+      "entryId": "1602920",
+      "spelling": "振替",
+      "reading": "ふりかえ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "振替【ふりかえ】",
+      "meaning": "transferencia (moneda); cambio"
+    },
+    {
+      "entryId": "1602920",
+      "spelling": "振替え",
+      "reading": "ふりかえ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "振替え【ふりかえ】",
+      "meaning": "transferencia (moneda); cambio"
+    },
+    {
+      "entryId": "1593470",
+      "spelling": "衣替え",
+      "reading": "ころもがえ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "衣替え【ころもがえ】",
+      "meaning": "cambio estacional de ropa; cambiarse de ropa para la estación"
+    },
+    {
+      "entryId": "1791760",
+      "spelling": "入れ替え",
+      "reading": "いれかえ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "入れ替え【いれかえ】",
+      "meaning": "cambio; sustitución"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

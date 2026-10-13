@@ -1,0 +1,160 @@
+{
+  "character": "録",
+  "meanings": "registro, transcripción, copia",
+  "words": [
+    {
+      "entryId": "1223440",
+      "spelling": "記録",
+      "reading": "きろく",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "記録【きろく】",
+      "meaning": "registro; registrar; anotar; dejar constancia de; inscribir; asentar"
+    },
+    {
+      "entryId": "1444810",
+      "spelling": "登録",
+      "reading": "とうろく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "登録【とうろく】",
+      "meaning": "inscripción; registro"
+    },
+    {
+      "entryId": "1561590",
+      "spelling": "録音",
+      "reading": "ろくおん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "録音【ろくおん】",
+      "meaning": "grabación (de audio); grabar (sonidos, música, etc.)"
+    },
+    {
+      "entryId": "1561610",
+      "spelling": "録画",
+      "reading": "ろくが",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "録画【ろくが】",
+      "meaning": "grabación (de vídeo)"
+    },
+    {
+      "entryId": "1535710",
+      "spelling": "目録",
+      "reading": "もくろく",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "目録【もくろく】",
+      "meaning": "catálogo; listado"
+    },
+    {
+      "entryId": "1298790",
+      "spelling": "録る",
+      "reading": "とる",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "録る【とる】",
+      "meaning": "grabar (vídeo, audio, etc.); tomar (foto); hacer (película)"
+    },
+    {
+      "entryId": "1561600",
+      "spelling": "録音テープ",
+      "reading": "ろくおんテープ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "録音テープ【ろくおんテープ】",
+      "meaning": "cinta de audio; cinta magnética"
+    },
+    {
+      "entryId": "1603100",
+      "spelling": "付録",
+      "reading": "ふろく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "付録【ふろく】",
+      "meaning": "apéndice (de un libro)"
+    },
+    {
+      "entryId": "1603100",
+      "spelling": "附録",
+      "reading": "ふろく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "附録【ふろく】",
+      "meaning": "apéndice (de un libro)"
+    },
+    {
+      "entryId": "1037560",
+      "spelling": "型録",
+      "reading": "カタログ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "型録【カタログ】",
+      "meaning": "catálogo"
+    },
+    {
+      "entryId": "1444820",
+      "spelling": "登録商標",
+      "reading": "とうろくしょうひょう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "登録商標【とうろくしょうひょう】",
+      "meaning": "marca registrada (tm)"
+    },
+    {
+      "entryId": "1943650",
+      "spelling": "登録番号",
+      "reading": "とうろくばんごう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "登録番号【とうろくばんごう】",
+      "meaning": "número de registro"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

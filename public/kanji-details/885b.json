@@ -1,0 +1,190 @@
+{
+  "character": "衛",
+  "meanings": "defensa, protección, guardián",
+  "words": [
+    {
+      "entryId": "1317410",
+      "spelling": "自衛隊",
+      "reading": "じえいたい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "自衛隊【じえいたい】",
+      "meaning": "Fuerzas de Autodefensa de Japón"
+    },
+    {
+      "entryId": "1520200",
+      "spelling": "防衛",
+      "reading": "ぼうえい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "防衛【ぼうえい】",
+      "meaning": "defensa; protección; autodefensa; defensa propia"
+    },
+    {
+      "entryId": "1174760",
+      "spelling": "衛星",
+      "reading": "えいせい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "衛星【えいせい】",
+      "meaning": "satélite"
+    },
+    {
+      "entryId": "1282180",
+      "spelling": "行衛",
+      "reading": "ゆくえ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "行衛【ゆくえ】",
+      "meaning": "paradero"
+    },
+    {
+      "entryId": "1174790",
+      "spelling": "衛生",
+      "reading": "えいせい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "衛生【えいせい】",
+      "meaning": "higiene; sanidad; salubridad"
+    },
+    {
+      "entryId": "1317400",
+      "spelling": "自衛",
+      "reading": "じえい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "自衛【じえい】",
+      "meaning": "autodefensa"
+    },
+    {
+      "entryId": "1271510",
+      "spelling": "護衛",
+      "reading": "ごえい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "護衛【ごえい】",
+      "meaning": "guardia; escolta"
+    },
+    {
+      "entryId": "1367430",
+      "spelling": "人工衛星",
+      "reading": "じんこうえいせい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "人工衛星【じんこうえいせい】",
+      "meaning": "satélite artificial"
+    },
+    {
+      "entryId": "1630300",
+      "spelling": "近衛",
+      "reading": "このえ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "近衛【このえ】",
+      "meaning": "guardia imperial"
+    },
+    {
+      "entryId": "1273920",
+      "spelling": "公衆衛生",
+      "reading": "こうしゅうえいせい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "公衆衛生【こうしゅうえいせい】",
+      "meaning": "sanidad pública; higiene pública"
+    },
+    {
+      "entryId": "1327130",
+      "spelling": "守衛",
+      "reading": "しゅえい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "守衛【しゅえい】",
+      "meaning": "guardia; guardián; vigilante"
+    },
+    {
+      "entryId": "1609370",
+      "spelling": "衛生的",
+      "reading": "えいせいてき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "衛生的【えいせいてき】",
+      "meaning": "higiénico; sanitario; salubre"
+    },
+    {
+      "entryId": "1174810",
+      "spelling": "衛兵",
+      "reading": "えいへい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "衛兵【えいへい】",
+      "meaning": "guardia; centinela; vigía"
+    },
+    {
+      "entryId": "1174740",
+      "spelling": "衛視",
+      "reading": "えいし",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "衛視【えいし】",
+      "meaning": "guardias del parlamento"
+    },
+    {
+      "entryId": "1666830",
+      "spelling": "衛生学",
+      "reading": "えいせいがく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "衛生学【えいせいがく】",
+      "meaning": "higiene"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

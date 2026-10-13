@@ -1,0 +1,240 @@
+{
+  "character": "局",
+  "meanings": "oficina, departamento",
+  "words": [
+    {
+      "entryId": "1449030",
+      "spelling": "当局",
+      "reading": "とうきょく",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "当局【とうきょく】",
+      "meaning": "autoridades correspondientes"
+    },
+    {
+      "entryId": "1254730",
+      "spelling": "結局",
+      "reading": "けっきょく",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "結局【けっきょく】",
+      "meaning": "despúes de todo; a fin de cuentas; finalmente; en fin"
+    },
+    {
+      "entryId": "1310140",
+      "spelling": "支局",
+      "reading": "しきょく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "支局【しきょく】",
+      "meaning": "dependencia; oficina"
+    },
+    {
+      "entryId": "1239650",
+      "spelling": "局長",
+      "reading": "きょくちょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "局長【きょくちょう】",
+      "meaning": "jefe de departamento; jefe de oficina"
+    },
+    {
+      "entryId": "1375920",
+      "spelling": "政局",
+      "reading": "せいきょく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "政局【せいきょく】",
+      "meaning": "situación política"
+    },
+    {
+      "entryId": "1239680",
+      "spelling": "局面",
+      "reading": "きょくめん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "局面【きょくめん】",
+      "meaning": "tablero (ajedrez, damas, shogi); situación"
+    },
+    {
+      "entryId": "1542430",
+      "spelling": "郵便局",
+      "reading": "ゆうびんきょく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "郵便局【ゆうびんきょく】",
+      "meaning": "oficina postal; oficina de correos"
+    },
+    {
+      "entryId": "1239560",
+      "spelling": "局",
+      "reading": "きょく",
+      "senseNumbers": [
+        22
+      ],
+      "japanese": "局【きょく】",
+      "meaning": "departamento; oficina; estación; agencia"
+    },
+    {
+      "entryId": "1159920",
+      "spelling": "医局",
+      "reading": "いきょく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "医局【いきょく】",
+      "meaning": "oficina médica; dispensario"
+    },
+    {
+      "entryId": "1466140",
+      "spelling": "入国管理局",
+      "reading": "にゅうこくかんりきょく",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "入国管理局【にゅうこくかんりきょく】",
+      "meaning": "oficina de inmigración"
+    },
+    {
+      "entryId": "1538200",
+      "spelling": "薬局",
+      "reading": "やっきょく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "薬局【やっきょく】",
+      "meaning": "farmacia"
+    },
+    {
+      "entryId": "1332800",
+      "spelling": "終局",
+      "reading": "しゅうきょく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "終局【しゅうきょく】",
+      "meaning": "final; conclusión; término"
+    },
+    {
+      "entryId": "1471310",
+      "spelling": "破局",
+      "reading": "はきょく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "破局【はきょく】",
+      "meaning": "catástrofe; cataclismo"
+    },
+    {
+      "entryId": "1161910",
+      "spelling": "一局",
+      "reading": "いっきょく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "一局【いっきょく】",
+      "meaning": "un juego (damas, etc.)"
+    },
+    {
+      "entryId": "1161910",
+      "spelling": "１局",
+      "reading": "いっきょく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "１局【いっきょく】",
+      "meaning": "un juego (damas, etc.)"
+    },
+    {
+      "entryId": "1239630",
+      "spelling": "局地",
+      "reading": "きょくち",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "局地【きょくち】",
+      "meaning": "zona concreta; localización determinada"
+    },
+    {
+      "entryId": "1460930",
+      "spelling": "難局",
+      "reading": "なんきょく",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "難局【なんきょく】",
+      "meaning": "situación difícil"
+    },
+    {
+      "entryId": "1316110",
+      "spelling": "時局",
+      "reading": "じきょく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "時局【じきょく】",
+      "meaning": "situación"
+    },
+    {
+      "entryId": "1522420",
+      "spelling": "本局",
+      "reading": "ほんきょく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "本局【ほんきょく】",
+      "meaning": "sede central; oficina central"
+    },
+    {
+      "entryId": "1239610",
+      "spelling": "局所",
+      "reading": "きょくしょ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "局所【きょくしょ】",
+      "meaning": "zona concreta; zona limitada"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

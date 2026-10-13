@@ -1,0 +1,130 @@
+{
+  "character": "幕",
+  "meanings": "cortina, telón, acto de una obra, del gobierno shogun, final",
+  "words": [
+    {
+      "entryId": "1202960",
+      "spelling": "開幕",
+      "reading": "かいまく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "開幕【かいまく】",
+      "meaning": "estreno; inauguración"
+    },
+    {
+      "entryId": "1524750",
+      "spelling": "幕",
+      "reading": "まく",
+      "senseNumbers": [
+        21
+      ],
+      "japanese": "幕【まく】",
+      "meaning": "contador para actos(teatro)"
+    },
+    {
+      "entryId": "1166770",
+      "spelling": "ひと幕",
+      "reading": "ひとまく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "ひと幕【ひとまく】",
+      "meaning": "un acto"
+    },
+    {
+      "entryId": "1166770",
+      "spelling": "一幕",
+      "reading": "ひとまく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "一幕【ひとまく】",
+      "meaning": "un acto"
+    },
+    {
+      "entryId": "1315220",
+      "spelling": "字幕",
+      "reading": "じまく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "字幕【じまく】",
+      "meaning": "subtítulos (en una película)"
+    },
+    {
+      "entryId": "1582570",
+      "spelling": "内幕",
+      "reading": "うちまく",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "内幕【うちまく】",
+      "meaning": "entresijos; secretos; lo que ocurre en la trastienda; lo que ocurre entre bastidores"
+    },
+    {
+      "entryId": "1582570",
+      "spelling": "内幕",
+      "reading": "ないまく",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "内幕【ないまく】",
+      "meaning": "entresijos; secretos; lo que ocurre en la trastienda; lo que ocurre entre bastidores"
+    },
+    {
+      "entryId": "1333010",
+      "spelling": "終幕",
+      "reading": "しゅうまく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "終幕【しゅうまく】",
+      "meaning": "caída del telón; fin; conclusión"
+    },
+    {
+      "entryId": "1177330",
+      "spelling": "煙幕",
+      "reading": "えんまく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "煙幕【えんまく】",
+      "meaning": "cortina de humo"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

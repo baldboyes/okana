@@ -1,0 +1,240 @@
+{
+  "character": "花",
+  "meanings": "flor",
+  "words": [
+    {
+      "entryId": "1194500",
+      "spelling": "花",
+      "reading": "はな",
+      "senseNumbers": [
+        31
+      ],
+      "japanese": "花【はな】",
+      "meaning": "flor; pétalo"
+    },
+    {
+      "entryId": "1600990",
+      "spelling": "花やか",
+      "reading": "はなやか",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "花やか【はなやか】",
+      "meaning": "espléndido; espectacular; vistoso"
+    },
+    {
+      "entryId": "1194580",
+      "spelling": "花火",
+      "reading": "はなび",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "花火【はなび】",
+      "meaning": "fuegos articiales"
+    },
+    {
+      "entryId": "1194660",
+      "spelling": "花見",
+      "reading": "はなみ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "花見【はなみ】",
+      "meaning": "vista de la flor; ver los cerezos florecer"
+    },
+    {
+      "entryId": "1577330",
+      "spelling": "花園",
+      "reading": "かえん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "花園【かえん】",
+      "meaning": "jardín de flores"
+    },
+    {
+      "entryId": "1577330",
+      "spelling": "花園",
+      "reading": "はなぞの",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "花園【はなぞの】",
+      "meaning": "jardín de flores"
+    },
+    {
+      "entryId": "1194790",
+      "spelling": "花束",
+      "reading": "はなたば",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "花束【はなたば】",
+      "meaning": "ramo (de flores)"
+    },
+    {
+      "entryId": "1194890",
+      "spelling": "花粉",
+      "reading": "かふん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "花粉【かふん】",
+      "meaning": "polen"
+    },
+    {
+      "entryId": "1194570",
+      "spelling": "花嫁",
+      "reading": "はなよめ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "花嫁【はなよめ】",
+      "meaning": "novia (casamiento)"
+    },
+    {
+      "entryId": "1202550",
+      "spelling": "開花",
+      "reading": "かいか",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "開花【かいか】",
+      "meaning": "eclosión; antesis; apertura de una flores"
+    },
+    {
+      "entryId": "1193760",
+      "spelling": "火花",
+      "reading": "ひばな",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "火花【ひばな】",
+      "meaning": "chispa"
+    },
+    {
+      "entryId": "1194520",
+      "spelling": "花びら",
+      "reading": "はなびら",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "花びら【はなびら】",
+      "meaning": "pétalo (de una flor)"
+    },
+    {
+      "entryId": "1194520",
+      "spelling": "花弁",
+      "reading": "はなびら",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "花弁【はなびら】",
+      "meaning": "pétalo (de una flor)"
+    },
+    {
+      "entryId": "1194520",
+      "spelling": "花片",
+      "reading": "はなびら",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "花片【はなびら】",
+      "meaning": "pétalo (de una flor)"
+    },
+    {
+      "entryId": "1630770",
+      "spelling": "献花",
+      "reading": "けんか",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "献花【けんか】",
+      "meaning": "ofrenda floral"
+    },
+    {
+      "entryId": "1194900",
+      "spelling": "花粉症",
+      "reading": "かふんしょう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "花粉症【かふんしょう】",
+      "meaning": "alergia al polen"
+    },
+    {
+      "entryId": "1401940",
+      "spelling": "草花",
+      "reading": "くさばな",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "草花【くさばな】",
+      "meaning": "flores; hierbas que dan flores"
+    },
+    {
+      "entryId": "1401940",
+      "spelling": "草花",
+      "reading": "そうか",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "草花【そうか】",
+      "meaning": "flores; hierbas que dan flores"
+    },
+    {
+      "entryId": "1613810",
+      "spelling": "花柳",
+      "reading": "かりゅう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "花柳【かりゅう】",
+      "meaning": "zona roja; distrito rojo; barrio rojo"
+    },
+    {
+      "entryId": "1195080",
+      "spelling": "花環",
+      "reading": "はなわ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "花環【はなわ】",
+      "meaning": "guirnalda; corona de flores"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

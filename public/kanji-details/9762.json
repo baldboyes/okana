@@ -1,0 +1,250 @@
+{
+  "character": "面",
+  "meanings": "cara, semblante, superficie",
+  "words": [
+    {
+      "entryId": "1355910",
+      "spelling": "場面",
+      "reading": "ばめん",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "場面【ばめん】",
+      "meaning": "escena (en actuación)"
+    },
+    {
+      "entryId": "1197610",
+      "spelling": "画面",
+      "reading": "がめん",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "画面【がめん】",
+      "meaning": "terminal (pantalla); escena; imagen; el campo (en TV); foto"
+    },
+    {
+      "entryId": "1378030",
+      "spelling": "正面",
+      "reading": "しょうめん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "正面【しょうめん】",
+      "meaning": "principal (por ser el de enfrente)"
+    },
+    {
+      "entryId": "1396300",
+      "spelling": "全面的",
+      "reading": "ぜんめんてき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "全面的【ぜんめんてき】",
+      "meaning": "en general"
+    },
+    {
+      "entryId": "1489880",
+      "spelling": "表面",
+      "reading": "ひょうめん",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "表面【ひょうめん】",
+      "meaning": "superficie"
+    },
+    {
+      "entryId": "1533500",
+      "spelling": "面積",
+      "reading": "めんせき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "面積【めんせき】",
+      "meaning": "área"
+    },
+    {
+      "entryId": "1239680",
+      "spelling": "局面",
+      "reading": "きょくめん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "局面【きょくめん】",
+      "meaning": "tablero (ajedrez, damas, shogi); situación"
+    },
+    {
+      "entryId": "1404040",
+      "spelling": "側面",
+      "reading": "そくめん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "側面【そくめん】",
+      "meaning": "lado; flanco; costado"
+    },
+    {
+      "entryId": "1479920",
+      "spelling": "半面",
+      "reading": "はんめん",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "半面【はんめん】",
+      "meaning": "lado; aspecto; cara"
+    },
+    {
+      "entryId": "1431540",
+      "spelling": "直面",
+      "reading": "ちょくめん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "直面【ちょくめん】",
+      "meaning": "confrontación"
+    },
+    {
+      "entryId": "1166870",
+      "spelling": "一面",
+      "reading": "いちめん",
+      "senseNumbers": [
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "japanese": "一面【いちめん】",
+      "meaning": "una cara; un rostro; la superficie entera; un aspecto; un lado; por una (otra) parte; un amplio, objeto plano; portada"
+    },
+    {
+      "entryId": "1166870",
+      "spelling": "１面",
+      "reading": "いちめん",
+      "senseNumbers": [
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "japanese": "１面【いちめん】",
+      "meaning": "una cara; un rostro; la superficie entera; un aspecto; un lado; por una (otra) parte; un amplio, objeto plano; portada"
+    },
+    {
+      "entryId": "1372120",
+      "spelling": "水面",
+      "reading": "すいめん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "水面【すいめん】",
+      "meaning": "superficie del agua"
+    },
+    {
+      "entryId": "1372120",
+      "spelling": "水面",
+      "reading": "みなも",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "水面【みなも】",
+      "meaning": "superficie del agua"
+    },
+    {
+      "entryId": "1517100",
+      "spelling": "方面",
+      "reading": "ほうめん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "方面【ほうめん】",
+      "meaning": "dirección"
+    },
+    {
+      "entryId": "1533510",
+      "spelling": "面接",
+      "reading": "めんせつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "面接【めんせつ】",
+      "meaning": "entrevista"
+    },
+    {
+      "entryId": "1554030",
+      "spelling": "両面",
+      "reading": "りょうめん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "両面【りょうめん】",
+      "meaning": "ambos caras; cara y reverso"
+    },
+    {
+      "entryId": "1311620",
+      "spelling": "紙面",
+      "reading": "しめん",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "紙面【しめん】",
+      "meaning": "páginas (de los periódicos)"
+    },
+    {
+      "entryId": "1533550",
+      "spelling": "面倒",
+      "reading": "めんどう",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "面倒【めんどう】",
+      "meaning": "problema; dificultad; cuidado; atención"
+    },
+    {
+      "entryId": "1322470",
+      "spelling": "斜面",
+      "reading": "しゃめん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "斜面【しゃめん】",
+      "meaning": "pendiente; plano inclinado"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

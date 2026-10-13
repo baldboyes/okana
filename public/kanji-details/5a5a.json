@@ -1,0 +1,170 @@
+{
+  "character": "婚",
+  "meanings": "matrimonio, casamiento",
+  "words": [
+    {
+      "entryId": "1254790",
+      "spelling": "結婚",
+      "reading": "けっこん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "結婚【けっこん】",
+      "meaning": "matrimonio"
+    },
+    {
+      "entryId": "1550880",
+      "spelling": "離婚",
+      "reading": "りこん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "離婚【りこん】",
+      "meaning": "divorcio"
+    },
+    {
+      "entryId": "1254810",
+      "spelling": "結婚式",
+      "reading": "けっこんしき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "結婚式【けっこんしき】",
+      "meaning": "ceremonia de matrimonio; boda"
+    },
+    {
+      "entryId": "1289710",
+      "spelling": "婚約",
+      "reading": "こんやく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "婚約【こんやく】",
+      "meaning": "compromiso; noviazgo"
+    },
+    {
+      "entryId": "1527480",
+      "spelling": "未婚",
+      "reading": "みこん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "未婚【みこん】",
+      "meaning": "soltero"
+    },
+    {
+      "entryId": "1289650",
+      "spelling": "婚姻",
+      "reading": "こんいん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "婚姻【こんいん】",
+      "meaning": "matrimonio"
+    },
+    {
+      "entryId": "1361820",
+      "spelling": "新婚",
+      "reading": "しんこん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "新婚【しんこん】",
+      "meaning": "recién casados"
+    },
+    {
+      "entryId": "1220350",
+      "spelling": "既婚",
+      "reading": "きこん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "既婚【きこん】",
+      "meaning": "matrimonio; casado"
+    },
+    {
+      "entryId": "1638860",
+      "spelling": "婚約者",
+      "reading": "こんやくしゃ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "婚約者【こんやくしゃ】",
+      "meaning": "novio; prometido"
+    },
+    {
+      "entryId": "1210260",
+      "spelling": "冠婚葬祭",
+      "reading": "かんこんそうさい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "冠婚葬祭【かんこんそうさい】",
+      "meaning": "ceremonias y festejos (familiares)"
+    },
+    {
+      "entryId": "1292750",
+      "spelling": "再婚",
+      "reading": "さいこん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "再婚【さいこん】",
+      "meaning": "segundo matrimonio"
+    },
+    {
+      "entryId": "1289730",
+      "spelling": "婚礼",
+      "reading": "こんれい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "婚礼【こんれい】",
+      "meaning": "ceremonia de matrimonio; boda"
+    },
+    {
+      "entryId": "1342730",
+      "spelling": "初婚",
+      "reading": "しょこん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "初婚【しょこん】",
+      "meaning": "primeras nupcias"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

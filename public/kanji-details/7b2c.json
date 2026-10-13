@@ -1,0 +1,240 @@
+{
+  "character": "第",
+  "meanings": "número, prefijo ordinal, examen",
+  "words": [
+    {
+      "entryId": "1316690",
+      "spelling": "次第に",
+      "reading": "しだいに",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "次第に【しだいに】",
+      "meaning": "poco a poco; gradualmente"
+    },
+    {
+      "entryId": "1415370",
+      "spelling": "第一歩",
+      "reading": "だいいっぽ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "第一歩【だいいっぽ】",
+      "meaning": "primer paso"
+    },
+    {
+      "entryId": "1415380",
+      "spelling": "第三者",
+      "reading": "だいさんしゃ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "第三者【だいさんしゃ】",
+      "meaning": "tercera persona; desconocido; forastero; persona desinteresada"
+    },
+    {
+      "entryId": "1415380",
+      "spelling": "第３者",
+      "reading": "だいさんしゃ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "第３者【だいさんしゃ】",
+      "meaning": "tercera persona; desconocido; forastero; persona desinteresada"
+    },
+    {
+      "entryId": "1759230",
+      "spelling": "第二次世界大戦",
+      "reading": "だいにじせかいたいせん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "第二次世界大戦【だいにじせかいたいせん】",
+      "meaning": "Segunda Guerra Mundial"
+    },
+    {
+      "entryId": "1759230",
+      "spelling": "第２次世界大戦",
+      "reading": "だいにじせかいたいせん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "第２次世界大戦【だいにじせかいたいせん】",
+      "meaning": "Segunda Guerra Mundial"
+    },
+    {
+      "entryId": "1759310",
+      "spelling": "第三国",
+      "reading": "だいさんごく",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "第三国【だいさんごく】",
+      "meaning": "(un) tercer país"
+    },
+    {
+      "entryId": "1316680",
+      "spelling": "次第",
+      "reading": "しだい",
+      "senseNumbers": [
+        21
+      ],
+      "japanese": "次第【しだい】",
+      "meaning": "sucesión; programa; resultado; circunstancias"
+    },
+    {
+      "entryId": "1436820",
+      "spelling": "第宅",
+      "reading": "ていたく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "第宅【ていたく】",
+      "meaning": "mansión; palacete; caserón"
+    },
+    {
+      "entryId": "1548810",
+      "spelling": "落第",
+      "reading": "らくだい",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "落第【らくだい】",
+      "meaning": "fracaso"
+    },
+    {
+      "entryId": "1328220",
+      "spelling": "手あたり次第",
+      "reading": "てあたりしだい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "手あたり次第【てあたりしだい】",
+      "meaning": "usar todo lo que se tiene a mano; al azar; de rebote; de carambola; de forma aleatoria; indiscriminadamente; aleatoriamente; lo primero que pilla; lo primero que cae en sus manos; al tuntún; a la buena de Dios"
+    },
+    {
+      "entryId": "1328220",
+      "spelling": "手当たり次第",
+      "reading": "てあたりしだい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "手当たり次第【てあたりしだい】",
+      "meaning": "usar todo lo que se tiene a mano; al azar; de rebote; de carambola; de forma aleatoria; indiscriminadamente; aleatoriamente; lo primero que pilla; lo primero que cae en sus manos; al tuntún; a la buena de Dios"
+    },
+    {
+      "entryId": "1328220",
+      "spelling": "手当り次第",
+      "reading": "てあたりしだい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "手当り次第【てあたりしだい】",
+      "meaning": "usar todo lo que se tiene a mano; al azar; de rebote; de carambola; de forma aleatoria; indiscriminadamente; aleatoriamente; lo primero que pilla; lo primero que cae en sus manos; al tuntún; a la buena de Dios"
+    },
+    {
+      "entryId": "1080090",
+      "spelling": "第希蘭",
+      "reading": "テヘラン",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "第希蘭【テヘラン】",
+      "meaning": "Teherán"
+    },
+    {
+      "entryId": "1415260",
+      "spelling": "第",
+      "reading": "だい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "第【だい】",
+      "meaning": "prefijo numeral para construir ordinales"
+    },
+    {
+      "entryId": "1415270",
+      "spelling": "第一",
+      "reading": "だいいち",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "第一【だいいち】",
+      "meaning": "primero; máximo; supremo; # 1"
+    },
+    {
+      "entryId": "1415270",
+      "spelling": "第１",
+      "reading": "だいいち",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "第１【だいいち】",
+      "meaning": "primero; máximo; supremo; # 1"
+    },
+    {
+      "entryId": "1415400",
+      "spelling": "第二",
+      "reading": "だいに",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "第二【だいに】",
+      "meaning": "(el) segundo (número ordinal); 2º"
+    },
+    {
+      "entryId": "1415400",
+      "spelling": "第２",
+      "reading": "だいに",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "第２【だいに】",
+      "meaning": "(el) segundo (número ordinal); 2º"
+    },
+    {
+      "entryId": "1759170",
+      "spelling": "第一次世界大戦",
+      "reading": "だいいちじせかいたいせん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "第一次世界大戦【だいいちじせかいたいせん】",
+      "meaning": "Primera Guerra Mundial"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "character": "減",
+  "meanings": "menguar, decrecer, disminuir, resta, acortar",
+  "words": [
+    {
+      "entryId": "1298110",
+      "spelling": "削減",
+      "reading": "さくげん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "削減【さくげん】",
+      "meaning": "recorte; reducción"
+    },
+    {
+      "entryId": "1263260",
+      "spelling": "減税",
+      "reading": "げんぜい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "減税【げんぜい】",
+      "meaning": "reducción de impuestos"
+    },
+    {
+      "entryId": "1263210",
+      "spelling": "減少",
+      "reading": "げんしょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "減少【げんしょう】",
+      "meaning": "disminución; aminoración; baja"
+    },
+    {
+      "entryId": "1263270",
+      "spelling": "減速",
+      "reading": "げんそく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "減速【げんそく】",
+      "meaning": "desaceleracion"
+    },
+    {
+      "entryId": "1252680",
+      "spelling": "軽減",
+      "reading": "けいげん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "軽減【けいげん】",
+      "meaning": "reducción; disminución; deducción"
+    },
+    {
+      "entryId": "1263180",
+      "spelling": "減産",
+      "reading": "げんさん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "減産【げんさん】",
+      "meaning": "reducción de la producción"
+    },
+    {
+      "entryId": "1263340",
+      "spelling": "減免",
+      "reading": "げんめん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "減免【げんめん】",
+      "meaning": "reducción y exención"
+    },
+    {
+      "entryId": "1403200",
+      "spelling": "増減",
+      "reading": "ぞうげん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "増減【ぞうげん】",
+      "meaning": "fluctuación"
+    },
+    {
+      "entryId": "1630940",
+      "spelling": "減給",
+      "reading": "げんきゅう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "減給【げんきゅう】",
+      "meaning": "bajada de sueldo; disminución salarial"
+    },
+    {
+      "entryId": "1479260",
+      "spelling": "半減",
+      "reading": "はんげん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "半減【はんげん】",
+      "meaning": "reducir a una mitad"
+    },
+    {
+      "entryId": "1190080",
+      "spelling": "加減",
+      "reading": "かげん",
+      "senseNumbers": [
+        32
+      ],
+      "japanese": "加減【かげん】",
+      "meaning": "ajustar; regular; graduar; moderación; ajuste"
+    },
+    {
+      "entryId": "1263110",
+      "spelling": "減らす",
+      "reading": "へらす",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "減らす【へらす】",
+      "meaning": "reducir; disminuir"
+    },
+    {
+      "entryId": "1263120",
+      "spelling": "減る",
+      "reading": "へる",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "減る【へる】",
+      "meaning": "disminuir (en tamaño o número); menguar; amainar"
+    },
+    {
+      "entryId": "1263150",
+      "spelling": "減価償却",
+      "reading": "げんかしょうきゃく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "減価償却【げんかしょうきゃく】",
+      "meaning": "depreciación"
+    },
+    {
+      "entryId": "1263290",
+      "spelling": "減点",
+      "reading": "げんてん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "減点【げんてん】",
+      "meaning": "sustracción; deducción"
+    },
+    {
+      "entryId": "1277440",
+      "spelling": "いい加減",
+      "reading": "いいかげん",
+      "senseNumbers": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "japanese": "いい加減【いいかげん】",
+      "meaning": "irresponsable; superficial; descuidado; indiferente; poco entusiasta; razonable; moderado (en sugerencias y órdenes); considerablemente; bastante"
+    },
+    {
+      "entryId": "1277440",
+      "spelling": "好い加減",
+      "reading": "いいかげん",
+      "senseNumbers": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "japanese": "好い加減【いいかげん】",
+      "meaning": "irresponsable; superficial; descuidado; indiferente; poco entusiasta; razonable; moderado (en sugerencias y órdenes); considerablemente; bastante"
+    },
+    {
+      "entryId": "1277440",
+      "spelling": "好加減",
+      "reading": "いいかげん",
+      "senseNumbers": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "japanese": "好加減【いいかげん】",
+      "meaning": "irresponsable; superficial; descuidado; indiferente; poco entusiasta; razonable; moderado (en sugerencias y órdenes); considerablemente; bastante"
+    },
+    {
+      "entryId": "1277440",
+      "spelling": "良い加減",
+      "reading": "いいかげん",
+      "senseNumbers": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "japanese": "良い加減【いいかげん】",
+      "meaning": "irresponsable; superficial; descuidado; indiferente; poco entusiasta; razonable; moderado (en sugerencias y órdenes); considerablemente; bastante"
+    },
+    {
+      "entryId": "2393900",
+      "spelling": "いい加減にしろ",
+      "reading": "いいかげんにしろ",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "いい加減にしろ【いいかげんにしろ】",
+      "meaning": "¡ya es suficiente!; ¡basta ya!"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

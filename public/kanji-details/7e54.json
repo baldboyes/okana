@@ -1,0 +1,246 @@
+{
+  "character": "織",
+  "meanings": "tejido, tela, tramar, tejer",
+  "words": [
+    {
+      "entryId": "1397630",
+      "spelling": "組織",
+      "reading": "そしき",
+      "senseNumbers": [
+        21,
+        22,
+        23,
+        24
+      ],
+      "japanese": "組織【そしき】",
+      "meaning": "organizar; formar; estructurar; constituir; organización; estructura; construcción; tejido; sistema"
+    },
+    {
+      "entryId": "1397630",
+      "spelling": "組織",
+      "reading": "そしょく",
+      "senseNumbers": [
+        21,
+        22,
+        23,
+        24
+      ],
+      "japanese": "組織【そしょく】",
+      "meaning": "organizar; formar; estructurar; constituir; organización; estructura; construcción; tejido; sistema"
+    },
+    {
+      "entryId": "1397660",
+      "spelling": "組織的",
+      "reading": "そしきてき",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "組織的【そしきてき】",
+      "meaning": "sistemático"
+    },
+    {
+      "entryId": "1357450",
+      "spelling": "織りもの",
+      "reading": "おりもの",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "織りもの【おりもの】",
+      "meaning": "textiles"
+    },
+    {
+      "entryId": "1357450",
+      "spelling": "織り物",
+      "reading": "おりもの",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "織り物【おりもの】",
+      "meaning": "textiles"
+    },
+    {
+      "entryId": "1357450",
+      "spelling": "織物",
+      "reading": "おりもの",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "織物【おりもの】",
+      "meaning": "textiles"
+    },
+    {
+      "entryId": "1579640",
+      "spelling": "織女",
+      "reading": "たなばた",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "織女【たなばた】",
+      "meaning": "tanabata (fiesta del 7 de julio)"
+    },
+    {
+      "entryId": "1929820",
+      "spelling": "織",
+      "reading": "おり",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "織【おり】",
+      "meaning": "tejido"
+    },
+    {
+      "entryId": "1929820",
+      "spelling": "織り",
+      "reading": "おり",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "織り【おり】",
+      "meaning": "tejido"
+    },
+    {
+      "entryId": "1357420",
+      "spelling": "織る",
+      "reading": "おる",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "織る【おる】",
+      "meaning": "ondear"
+    },
+    {
+      "entryId": "1171770",
+      "spelling": "羽織",
+      "reading": "はおり",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "羽織【はおり】",
+      "meaning": "haori; capa"
+    },
+    {
+      "entryId": "1357430",
+      "spelling": "織機",
+      "reading": "おりき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "織機【おりき】",
+      "meaning": "telar"
+    },
+    {
+      "entryId": "1357430",
+      "spelling": "織機",
+      "reading": "しょっき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "織機【しょっき】",
+      "meaning": "telar"
+    },
+    {
+      "entryId": "1357400",
+      "spelling": "織りこむ",
+      "reading": "おりこむ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "織りこむ【おりこむ】",
+      "meaning": "entretejer; entremeter"
+    },
+    {
+      "entryId": "1357400",
+      "spelling": "織り込む",
+      "reading": "おりこむ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "織り込む【おりこむ】",
+      "meaning": "entretejer; entremeter"
+    },
+    {
+      "entryId": "1357400",
+      "spelling": "織込む",
+      "reading": "おりこむ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "織込む【おりこむ】",
+      "meaning": "entretejer; entremeter"
+    },
+    {
+      "entryId": "1851640",
+      "spelling": "織りなす",
+      "reading": "おりなす",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "織りなす【おりなす】",
+      "meaning": "entretejer"
+    },
+    {
+      "entryId": "1851640",
+      "spelling": "織り成す",
+      "reading": "おりなす",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "織り成す【おりなす】",
+      "meaning": "entretejer"
+    },
+    {
+      "entryId": "1851640",
+      "spelling": "織成す",
+      "reading": "おりなす",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "織成す【おりなす】",
+      "meaning": "entretejer"
+    },
+    {
+      "entryId": "1258730",
+      "spelling": "絹織物",
+      "reading": "きぬおりもの",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "絹織物【きぬおりもの】",
+      "meaning": "productos de seda"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

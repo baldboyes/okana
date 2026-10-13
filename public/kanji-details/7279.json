@@ -1,0 +1,240 @@
+{
+  "character": "特",
+  "meanings": "especial",
+  "words": [
+    {
+      "entryId": "1454670",
+      "spelling": "特に",
+      "reading": "とくに",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "特に【とくに】",
+      "meaning": "particularmente; especialmente"
+    },
+    {
+      "entryId": "1455280",
+      "spelling": "特別",
+      "reading": "とくべつ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "特別【とくべつ】",
+      "meaning": "especial"
+    },
+    {
+      "entryId": "1455170",
+      "spelling": "特徴",
+      "reading": "とくちょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "特徴【とくちょう】",
+      "meaning": "especialidad; característica peculiar"
+    },
+    {
+      "entryId": "1455210",
+      "spelling": "特定",
+      "reading": "とくてい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "特定【とくてい】",
+      "meaning": "específico; especial; particular"
+    },
+    {
+      "entryId": "1789140",
+      "spelling": "特捜",
+      "reading": "とくそう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "特捜【とくそう】",
+      "meaning": "investigación especial"
+    },
+    {
+      "entryId": "1454970",
+      "spelling": "特殊",
+      "reading": "とくしゅ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "特殊【とくしゅ】",
+      "meaning": "especial; único"
+    },
+    {
+      "entryId": "1456010",
+      "spelling": "独特",
+      "reading": "どくとく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "独特【どくとく】",
+      "meaning": "peculiaridad; singularidad; característico"
+    },
+    {
+      "entryId": "1455060",
+      "spelling": "特輯",
+      "reading": "とくしゅう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "特輯【とくしゅう】",
+      "meaning": "características; rasgos"
+    },
+    {
+      "entryId": "1455060",
+      "spelling": "特集",
+      "reading": "とくしゅう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "特集【とくしゅう】",
+      "meaning": "características; rasgos"
+    },
+    {
+      "entryId": "1454940",
+      "spelling": "特使",
+      "reading": "とくし",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "特使【とくし】",
+      "meaning": "enviado especial"
+    },
+    {
+      "entryId": "1455080",
+      "spelling": "特色",
+      "reading": "とくしょく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "特色【とくしょく】",
+      "meaning": "atractivo especial; particularidad"
+    },
+    {
+      "entryId": "1455240",
+      "spelling": "特派員",
+      "reading": "とくはいん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "特派員【とくはいん】",
+      "meaning": "corresponsal"
+    },
+    {
+      "entryId": "1454780",
+      "spelling": "特許",
+      "reading": "とっきょ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "特許【とっきょ】",
+      "meaning": "propiedad intelectual; patente"
+    },
+    {
+      "entryId": "1455370",
+      "spelling": "特有",
+      "reading": "とくゆう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "特有【とくゆう】",
+      "meaning": "peculiaridad; particularidad; característica"
+    },
+    {
+      "entryId": "1454750",
+      "spelling": "特急",
+      "reading": "とっきゅう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "特急【とっきゅう】",
+      "meaning": "tren expreso especial"
+    },
+    {
+      "entryId": "1454690",
+      "spelling": "特異",
+      "reading": "とくい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "特異【とくい】",
+      "meaning": "único; singular"
+    },
+    {
+      "entryId": "1454870",
+      "spelling": "特権",
+      "reading": "とっけん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "特権【とっけん】",
+      "meaning": "privilegio; prerrogativa"
+    },
+    {
+      "entryId": "1454920",
+      "spelling": "特産",
+      "reading": "とくさん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "特産【とくさん】",
+      "meaning": "de producción especial"
+    },
+    {
+      "entryId": "1455220",
+      "spelling": "特典",
+      "reading": "とくてん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "特典【とくてん】",
+      "meaning": "favor especial; privilegio"
+    },
+    {
+      "entryId": "1454850",
+      "spelling": "特訓",
+      "reading": "とっくん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "特訓【とっくん】",
+      "meaning": "entrenamiento especial; entrenamiento intensivo; curso intensivo"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

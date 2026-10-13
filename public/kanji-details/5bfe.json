@@ -1,0 +1,241 @@
+{
+  "character": "対",
+  "meanings": "opuesto, contrario, por serie",
+  "words": [
+    {
+      "entryId": "1409840",
+      "spelling": "対応",
+      "reading": "たいおう",
+      "senseNumbers": [
+        26
+      ],
+      "japanese": "対応【たいおう】",
+      "meaning": "reciprocidad; correspondencia; equivalencia"
+    },
+    {
+      "entryId": "1410050",
+      "spelling": "対策",
+      "reading": "たいさく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "対策【たいさく】",
+      "meaning": "contramedida"
+    },
+    {
+      "entryId": "1410120",
+      "spelling": "対象",
+      "reading": "たいしょう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "対象【たいしょう】",
+      "meaning": "el objetivo (la meta de)"
+    },
+    {
+      "entryId": "1480670",
+      "spelling": "反対",
+      "reading": "はんたい",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "反対【はんたい】",
+      "meaning": "opuesto; contrario"
+    },
+    {
+      "entryId": "1410290",
+      "spelling": "対立",
+      "reading": "たいりつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "対立【たいりつ】",
+      "meaning": "confrontación; oposición; antagonismo"
+    },
+    {
+      "entryId": "1410300",
+      "spelling": "対話",
+      "reading": "たいわ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "対話【たいわ】",
+      "meaning": "diálogo"
+    },
+    {
+      "entryId": "1596760",
+      "spelling": "対日",
+      "reading": "たいにち",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "対日【たいにち】",
+      "meaning": "con (hacia) Japón"
+    },
+    {
+      "entryId": "1386840",
+      "spelling": "絶対",
+      "reading": "ぜったい",
+      "senseNumbers": [
+        12,
+        13
+      ],
+      "japanese": "絶対【ぜったい】",
+      "meaning": "totalmente; incondicionalmente; total; incondicional; inconfundible"
+    },
+    {
+      "entryId": "1410000",
+      "spelling": "対決",
+      "reading": "たいけつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "対決【たいけつ】",
+      "meaning": "confrontación"
+    },
+    {
+      "entryId": "1410020",
+      "spelling": "対抗",
+      "reading": "たいこう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "対抗【たいこう】",
+      "meaning": "oposición; antagonismo"
+    },
+    {
+      "entryId": "1713980",
+      "spelling": "対照的",
+      "reading": "たいしょうてき",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "対照的【たいしょうてき】",
+      "meaning": "contrastivo"
+    },
+    {
+      "entryId": "1604750",
+      "spelling": "対い",
+      "reading": "むかい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "対い【むかい】",
+      "meaning": "opuesto; contrario"
+    },
+    {
+      "entryId": "1410070",
+      "spelling": "対処",
+      "reading": "たいしょ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "対処【たいしょ】",
+      "meaning": "hacer frente a; solucionar; resolver"
+    },
+    {
+      "entryId": "1410250",
+      "spelling": "対等",
+      "reading": "たいとう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "対等【たいとう】",
+      "meaning": "equivalente"
+    },
+    {
+      "entryId": "1410230",
+      "spelling": "対談",
+      "reading": "たいだん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "対談【たいだん】",
+      "meaning": "diálogo; conversación"
+    },
+    {
+      "entryId": "1401180",
+      "spelling": "相対的",
+      "reading": "そうたいてき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "相対的【そうたいてき】",
+      "meaning": "relativo"
+    },
+    {
+      "entryId": "1409940",
+      "spelling": "対岸",
+      "reading": "たいがん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "対岸【たいがん】",
+      "meaning": "la otra orilla; la orilla de enfrente; la orilla opuesta"
+    },
+    {
+      "entryId": "1179980",
+      "spelling": "応対",
+      "reading": "おうたい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "応対【おうたい】",
+      "meaning": "atención; servicio; atender (a clientes o invitados); dispensar atenciones; despachar"
+    },
+    {
+      "entryId": "1437160",
+      "spelling": "敵対",
+      "reading": "てきたい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "敵対【てきたい】",
+      "meaning": "hostilidad; confrontación"
+    },
+    {
+      "entryId": "1410270",
+      "spelling": "対面",
+      "reading": "たいめ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "対面【たいめ】",
+      "meaning": "encuentro; encaramiento"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

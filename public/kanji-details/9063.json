@@ -1,0 +1,240 @@
+{
+  "character": "遣",
+  "meanings": "enviar, despachar, dar, donar, obsequiar",
+  "words": [
+    {
+      "entryId": "1471130",
+      "spelling": "派遣",
+      "reading": "はけん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "派遣【はけん】",
+      "meaning": "enviar; despachar; mandar"
+    },
+    {
+      "entryId": "1305990",
+      "spelling": "遣う",
+      "reading": "つかう",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "遣う【つかう】",
+      "meaning": "despachar; enviar; donar; usar; manipular; emplear; necesitar; querer; gastar; consumir; hablar (inglés); practicar (esgrima); tomar (almuerzo propio); circular (dinero sucio)"
+    },
+    {
+      "entryId": "1305950",
+      "spelling": "遣い方",
+      "reading": "つかいかた",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "遣い方【つかいかた】",
+      "meaning": "forma de usar algo; trato; manejo (de la situación, etc.); gestión"
+    },
+    {
+      "entryId": "1305720",
+      "spelling": "遣い",
+      "reading": "つかい",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "遣い【つかい】",
+      "meaning": "encargo; mandado; mensajero"
+    },
+    {
+      "entryId": "1309180",
+      "spelling": "思い遣り",
+      "reading": "おもいやり",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "思い遣り【おもいやり】",
+      "meaning": "consideración; compasión; piedad"
+    },
+    {
+      "entryId": "1348030",
+      "spelling": "小遣",
+      "reading": "こづかい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "小遣【こづかい】",
+      "meaning": "propina; asignación semanal; dinerillo para gastos propios; dinero (para gastos menores) de bolsillo"
+    },
+    {
+      "entryId": "1348030",
+      "spelling": "小遣い",
+      "reading": "こずかい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "小遣い【こずかい】",
+      "meaning": "propina; asignación semanal; dinerillo para gastos propios; dinero (para gastos menores) de bolsillo"
+    },
+    {
+      "entryId": "1348030",
+      "spelling": "小遣い",
+      "reading": "こづかい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "小遣い【こづかい】",
+      "meaning": "propina; asignación semanal; dinerillo para gastos propios; dinero (para gastos menores) de bolsillo"
+    },
+    {
+      "entryId": "1531030",
+      "spelling": "無理遣り",
+      "reading": "むりやり",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "無理遣り【むりやり】",
+      "meaning": "a la fuerza; por la fuerza; de modo forzoso; de modo forzado; en contra de la voluntad de uno"
+    },
+    {
+      "entryId": "1597750",
+      "spelling": "遣い捨て",
+      "reading": "つかいすて",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "遣い捨て【つかいすて】",
+      "meaning": "desechable"
+    },
+    {
+      "entryId": "1530520",
+      "spelling": "ムダ遣い",
+      "reading": "むだづかい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "ムダ遣い【むだづかい】",
+      "meaning": "desperdicio; despilfarro; derroche; dispendio; lujo"
+    },
+    {
+      "entryId": "1530520",
+      "spelling": "徒遣い",
+      "reading": "むだづかい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "徒遣い【むだづかい】",
+      "meaning": "desperdicio; despilfarro; derroche; dispendio; lujo"
+    },
+    {
+      "entryId": "1530520",
+      "spelling": "無駄遣い",
+      "reading": "むだづかい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "無駄遣い【むだづかい】",
+      "meaning": "desperdicio; despilfarro; derroche; dispendio; lujo"
+    },
+    {
+      "entryId": "1264560",
+      "spelling": "ことば遣い",
+      "reading": "ことばづかい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "ことば遣い【ことばづかい】",
+      "meaning": "lenguaje; forma de expresarse"
+    },
+    {
+      "entryId": "1264560",
+      "spelling": "言葉遣い",
+      "reading": "ことばづかい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "言葉遣い【ことばづかい】",
+      "meaning": "lenguaje; forma de expresarse"
+    },
+    {
+      "entryId": "1222140",
+      "spelling": "気遣い",
+      "reading": "きづかい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "気遣い【きづかい】",
+      "meaning": "preocupación; inquietud; interés; dispensación de atenciones"
+    },
+    {
+      "entryId": "1524240",
+      "spelling": "魔法遣い",
+      "reading": "まほうつかい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "魔法遣い【まほうつかい】",
+      "meaning": "mago; hechicero; brujo"
+    },
+    {
+      "entryId": "1001980",
+      "spelling": "お遣い",
+      "reading": "おつかい",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "お遣い【おつかい】",
+      "meaning": "siervo; súbdito; vasallo"
+    },
+    {
+      "entryId": "1001980",
+      "spelling": "御遣い",
+      "reading": "おつかい",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "御遣い【おつかい】",
+      "meaning": "siervo; súbdito; vasallo"
+    },
+    {
+      "entryId": "1012790",
+      "spelling": "遣って来る",
+      "reading": "やってくる",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "遣って来る【やってくる】",
+      "meaning": "venir; acudir; llegar a venir"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

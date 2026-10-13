@@ -1,0 +1,84 @@
+{
+  "character": "拍",
+  "meanings": "aplaudir, batir palmas, marcar el ritmo (música)",
+  "words": [
+    {
+      "entryId": "1408810",
+      "spelling": "拍つ",
+      "reading": "うつ",
+      "senseNumbers": [
+        59,
+        60,
+        61,
+        62,
+        63
+      ],
+      "japanese": "拍つ【うつ】",
+      "meaning": "golpear; pegar; escribir a máquina; teclear; inyectar; satisfacer en el juego; visitar (en peregrinaje); varear; apalear; vapulear; sacudir con un palo"
+    },
+    {
+      "entryId": "1474820",
+      "spelling": "拍手",
+      "reading": "はくしゅ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "拍手【はくしゅ】",
+      "meaning": "aplausos"
+    },
+    {
+      "entryId": "1583030",
+      "spelling": "拍子",
+      "reading": "ひょうし",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "拍子【ひょうし】",
+      "meaning": "ritmo; pulso; tiempo"
+    },
+    {
+      "entryId": "1604710",
+      "spelling": "脈拍",
+      "reading": "みゃくはく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "脈拍【みゃくはく】",
+      "meaning": "pulso; pulsación"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

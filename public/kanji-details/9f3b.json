@@ -1,0 +1,140 @@
+{
+  "character": "鼻",
+  "meanings": "nariz, hocico",
+  "words": [
+    {
+      "entryId": "1486720",
+      "spelling": "鼻",
+      "reading": "はな",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "鼻【はな】",
+      "meaning": "nariz"
+    },
+    {
+      "entryId": "1487060",
+      "spelling": "鼻水",
+      "reading": "はなみず",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "鼻水【はなみず】",
+      "meaning": "moco nasal; goteo nasal"
+    },
+    {
+      "entryId": "1317310",
+      "spelling": "耳鼻科",
+      "reading": "じびか",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "耳鼻科【じびか】",
+      "meaning": "otorrinolaringología"
+    },
+    {
+      "entryId": "1583320",
+      "spelling": "鼻紙",
+      "reading": "はながみ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "鼻紙【はながみ】",
+      "meaning": "papel de seda; pañuelo de papel"
+    },
+    {
+      "entryId": "1583300",
+      "spelling": "鼻血",
+      "reading": "はなじ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "鼻血【はなじ】",
+      "meaning": "hemorragia nasal"
+    },
+    {
+      "entryId": "1583300",
+      "spelling": "鼻血",
+      "reading": "はなぢ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "鼻血【はなぢ】",
+      "meaning": "hemorragia nasal"
+    },
+    {
+      "entryId": "1317290",
+      "spelling": "耳鼻咽喉科",
+      "reading": "じびいんこうか",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "耳鼻咽喉科【じびいんこうか】",
+      "meaning": "otorrinolaringología"
+    },
+    {
+      "entryId": "1486810",
+      "spelling": "鼻炎",
+      "reading": "びえん",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "鼻炎【びえん】",
+      "meaning": "rinitis"
+    },
+    {
+      "entryId": "1487070",
+      "spelling": "鼻先",
+      "reading": "はなさき",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "鼻先【はなさき】",
+      "meaning": "(la) punta de la nariz"
+    },
+    {
+      "entryId": "1535630",
+      "spelling": "目鼻",
+      "reading": "めはな",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "目鼻【めはな】",
+      "meaning": "forma; figura"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "character": "安",
+  "meanings": "barato, tranquilo, pacífico",
+  "words": [
+    {
+      "entryId": "1153930",
+      "spelling": "安全",
+      "reading": "あんせん",
+      "senseNumbers": [
+        10,
+        11
+      ],
+      "japanese": "安全【あんせん】",
+      "meaning": "seguro; seguridad"
+    },
+    {
+      "entryId": "1153930",
+      "spelling": "安全",
+      "reading": "あんぜん",
+      "senseNumbers": [
+        10,
+        11
+      ],
+      "japanese": "安全【あんぜん】",
+      "meaning": "seguro; seguridad"
+    },
+    {
+      "entryId": "1154260",
+      "spelling": "安保",
+      "reading": "あんぽ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "安保【あんぽ】",
+      "meaning": "Tratado de Seguridad EUA-Japón; seguro; seguridad"
+    },
+    {
+      "entryId": "1154120",
+      "spelling": "安定",
+      "reading": "あんてい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "安定【あんてい】",
+      "meaning": "estabilizarse; mantenerse constante; equilibrarse; estabilidad; equilibrio"
+    },
+    {
+      "entryId": "1491150",
+      "spelling": "不安",
+      "reading": "ふあん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "不安【ふあん】",
+      "meaning": "ansiedad; malestar; inseguridad; incertidumbre"
+    },
+    {
+      "entryId": "1154030",
+      "spelling": "安全保障",
+      "reading": "あんぜんほしょう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "安全保障【あんぜんほしょう】",
+      "meaning": "garantía de securidad ej. (seguridad militar, red de seguridad, etc."
+    },
+    {
+      "entryId": "1156900",
+      "spelling": "慰安",
+      "reading": "いあん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "慰安【いあん】",
+      "meaning": "consuelo; relajación"
+    },
+    {
+      "entryId": "1316840",
+      "spelling": "治安",
+      "reading": "ちあん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "治安【ちあん】",
+      "meaning": "orden público"
+    },
+    {
+      "entryId": "1154060",
+      "spelling": "安打",
+      "reading": "あんだ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "安打【あんだ】",
+      "meaning": "hit seguro (béisbol)"
+    },
+    {
+      "entryId": "1153890",
+      "spelling": "安心",
+      "reading": "あんしん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "安心【あんしん】",
+      "meaning": "alivio; paz mental"
+    },
+    {
+      "entryId": "1153890",
+      "spelling": "安神",
+      "reading": "あんしん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "安神【あんしん】",
+      "meaning": "alivio; paz mental"
+    },
+    {
+      "entryId": "1491190",
+      "spelling": "不安定",
+      "reading": "ふあんてい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "不安定【ふあんてい】",
+      "meaning": "inestable"
+    },
+    {
+      "entryId": "1513260",
+      "spelling": "保安",
+      "reading": "ほあん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "保安【ほあん】",
+      "meaning": "preservación de la seguridad"
+    },
+    {
+      "entryId": "1153720",
+      "spelling": "安易",
+      "reading": "あんい",
+      "senseNumbers": [
+        12,
+        13
+      ],
+      "japanese": "安易【あんい】",
+      "meaning": "fácil; simple; despreocupado; descuidado"
+    },
+    {
+      "entryId": "1175620",
+      "spelling": "円安",
+      "reading": "えんやす",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "円安【えんやす】",
+      "meaning": "bajo precio del yen"
+    },
+    {
+      "entryId": "1535280",
+      "spelling": "目安",
+      "reading": "めやす",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "目安【めやす】",
+      "meaning": "guía; objetivo; estándar"
+    },
+    {
+      "entryId": "1273180",
+      "spelling": "公安",
+      "reading": "こうあん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "公安【こうあん】",
+      "meaning": "seguridad pública; bienestar público"
+    },
+    {
+      "entryId": "1154080",
+      "spelling": "安値",
+      "reading": "やすね",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "安値【やすね】",
+      "meaning": "precio bajo"
+    },
+    {
+      "entryId": "1154220",
+      "spelling": "安売り",
+      "reading": "やすうり",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "安売り【やすうり】",
+      "meaning": "descuento; rebaja; venta regateada; vende; vendiendo barato"
+    },
+    {
+      "entryId": "1629210",
+      "spelling": "安芸",
+      "reading": "あき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "安芸【あき】",
+      "meaning": "antiguo nombre de la prefectura de Hiroshima"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

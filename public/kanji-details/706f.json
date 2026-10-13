@@ -1,0 +1,220 @@
+{
+  "character": "灯",
+  "meanings": "lámpara, luz, contador para luces",
+  "words": [
+    {
+      "entryId": "1582290",
+      "spelling": "灯",
+      "reading": "ひ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "灯【ひ】",
+      "meaning": "luz"
+    },
+    {
+      "entryId": "1586210",
+      "spelling": "灯",
+      "reading": "あかり",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "灯【あかり】",
+      "meaning": "luz; iluminación; alumbrado; luminosidad; luz de lámpara; luz (en general); brillantez"
+    },
+    {
+      "entryId": "1586210",
+      "spelling": "灯かり",
+      "reading": "あかり",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "灯かり【あかり】",
+      "meaning": "luz; iluminación; alumbrado; luminosidad; luz de lámpara; luz (en general); brillantez"
+    },
+    {
+      "entryId": "1586210",
+      "spelling": "灯り",
+      "reading": "あかり",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "灯り【あかり】",
+      "meaning": "luz; iluminación; alumbrado; luminosidad; luz de lámpara; luz (en general); brillantez"
+    },
+    {
+      "entryId": "1586210",
+      "spelling": "灯火",
+      "reading": "あかり",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "灯火【あかり】",
+      "meaning": "luz; iluminación; alumbrado; luminosidad; luz de lámpara; luz (en general); brillantez"
+    },
+    {
+      "entryId": "1448760",
+      "spelling": "灯油",
+      "reading": "とうゆ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "灯油【とうゆ】",
+      "meaning": "queroseno"
+    },
+    {
+      "entryId": "1443660",
+      "spelling": "電灯",
+      "reading": "でんとう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "電灯【でんとう】",
+      "meaning": "luz eléctrica"
+    },
+    {
+      "entryId": "1448730",
+      "spelling": "灯台",
+      "reading": "とうだい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "灯台【とうだい】",
+      "meaning": "faro"
+    },
+    {
+      "entryId": "1592540",
+      "spelling": "けいこう灯",
+      "reading": "けいこうとう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "けいこう灯【けいこうとう】",
+      "meaning": "luz fluorescente"
+    },
+    {
+      "entryId": "1592540",
+      "spelling": "けい光灯",
+      "reading": "けいこうとう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "けい光灯【けいこうとう】",
+      "meaning": "luz fluorescente"
+    },
+    {
+      "entryId": "1592540",
+      "spelling": "蛍光灯",
+      "reading": "けいこうとう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "蛍光灯【けいこうとう】",
+      "meaning": "luz fluorescente"
+    },
+    {
+      "entryId": "1592540",
+      "spelling": "螢光灯",
+      "reading": "けいこうとう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "螢光灯【けいこうとう】",
+      "meaning": "luz fluorescente"
+    },
+    {
+      "entryId": "1594990",
+      "spelling": "消灯",
+      "reading": "しょうとう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "消灯【しょうとう】",
+      "meaning": "apagado de luces"
+    },
+    {
+      "entryId": "1582140",
+      "spelling": "灯す",
+      "reading": "とぼす",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "灯す【とぼす】",
+      "meaning": "iluminar; encender; prender; dar lumbre"
+    },
+    {
+      "entryId": "1582140",
+      "spelling": "灯す",
+      "reading": "ともす",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "灯す【ともす】",
+      "meaning": "iluminar; encender; prender; dar lumbre"
+    },
+    {
+      "entryId": "1204620",
+      "spelling": "街灯",
+      "reading": "がいとう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "街灯【がいとう】",
+      "meaning": "luz de la calle"
+    },
+    {
+      "entryId": "1436450",
+      "spelling": "挑灯",
+      "reading": "ちょうちん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "挑灯【ちょうちん】",
+      "meaning": "farolillo; linterna de papel"
+    },
+    {
+      "entryId": "1436450",
+      "spelling": "提灯",
+      "reading": "ちょうちん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "提灯【ちょうちん】",
+      "meaning": "farolillo; linterna de papel"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

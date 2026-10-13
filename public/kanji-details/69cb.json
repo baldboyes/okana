@@ -1,0 +1,200 @@
+{
+  "character": "構",
+  "meanings": "construir, ensamblar, preparación, preocupación, establecerse, montar, poner, interesarse por, preocuparse por",
+  "words": [
+    {
+      "entryId": "1220940",
+      "spelling": "機構",
+      "reading": "きこう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "機構【きこう】",
+      "meaning": "maquinaria; mecanismo"
+    },
+    {
+      "entryId": "1279790",
+      "spelling": "構造",
+      "reading": "こうぞう",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "構造【こうぞう】",
+      "meaning": "estructura"
+    },
+    {
+      "entryId": "1279780",
+      "spelling": "構想",
+      "reading": "こうそう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "構想【こうそう】",
+      "meaning": "concepto (idea; plan)"
+    },
+    {
+      "entryId": "1279730",
+      "spelling": "構成",
+      "reading": "こうせい",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "構成【こうせい】",
+      "meaning": "organización; configuración; composición"
+    },
+    {
+      "entryId": "1279810",
+      "spelling": "構築",
+      "reading": "こうちく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "構築【こうちく】",
+      "meaning": "construir; construcción"
+    },
+    {
+      "entryId": "1279720",
+      "spelling": "構図",
+      "reading": "こうず",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "構図【こうず】",
+      "meaning": "composición"
+    },
+    {
+      "entryId": "1254760",
+      "spelling": "結構",
+      "reading": "けっこう",
+      "senseNumbers": [
+        27
+      ],
+      "japanese": "結構【けっこう】",
+      "meaning": "que está bien así como está; mucho ~"
+    },
+    {
+      "entryId": "1279820",
+      "spelling": "構内",
+      "reading": "こうない",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "構内【こうない】",
+      "meaning": "dentro del edificio; dentro del recinto; interior"
+    },
+    {
+      "entryId": "1279680",
+      "spelling": "構う",
+      "reading": "かまう",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "構う【かまう】",
+      "meaning": "importar; tener interés"
+    },
+    {
+      "entryId": "1232710",
+      "spelling": "虚構",
+      "reading": "きょこう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "虚構【きょこう】",
+      "meaning": "ficción; treta"
+    },
+    {
+      "entryId": "1159180",
+      "spelling": "遺構",
+      "reading": "いこう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "遺構【いこう】",
+      "meaning": "restos mortales"
+    },
+    {
+      "entryId": "1410500",
+      "spelling": "待ち構える",
+      "reading": "まちかまえる",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "待ち構える【まちかまえる】",
+      "meaning": "acechar; aguardar; estar a la expectativa"
+    },
+    {
+      "entryId": "1410500",
+      "spelling": "待構える",
+      "reading": "まちかまえる",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "待構える【まちかまえる】",
+      "meaning": "acechar; aguardar; estar a la expectativa"
+    },
+    {
+      "entryId": "1279700",
+      "spelling": "構える",
+      "reading": "かまえる",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "構える【かまえる】",
+      "meaning": "establecer; posar; ponerse en guardia; darle bola a"
+    },
+    {
+      "entryId": "2127390",
+      "spelling": "構造物",
+      "reading": "こうぞうぶつ",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "構造物【こうぞうぶつ】",
+      "meaning": "estructura"
+    },
+    {
+      "entryId": "1222200",
+      "spelling": "気構え",
+      "reading": "きがまえ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "気構え【きがまえ】",
+      "meaning": "mentalización; concienciación; preparación mental; disposición de ánimo"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

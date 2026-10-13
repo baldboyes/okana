@@ -1,0 +1,244 @@
+{
+  "character": "電",
+  "meanings": "electricidad, eléctrico",
+  "words": [
+    {
+      "entryId": "1443840",
+      "spelling": "電話",
+      "reading": "でんわ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "電話【でんわ】",
+      "meaning": "teléfono"
+    },
+    {
+      "entryId": "1443000",
+      "spelling": "電気",
+      "reading": "でんき",
+      "senseNumbers": [
+        11,
+        12
+      ],
+      "japanese": "電気【でんき】",
+      "meaning": "electricidad; luz (eléctrica)"
+    },
+    {
+      "entryId": "1443000",
+      "spelling": "電氣",
+      "reading": "でんき",
+      "senseNumbers": [
+        11,
+        12
+      ],
+      "japanese": "電氣【でんき】",
+      "meaning": "electricidad; luz (eléctrica)"
+    },
+    {
+      "entryId": "1443810",
+      "spelling": "電力",
+      "reading": "でんりょく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "電力【でんりょく】",
+      "meaning": "electricidad; energía eléctrica"
+    },
+    {
+      "entryId": "1443320",
+      "spelling": "電子",
+      "reading": "でんし",
+      "senseNumbers": [
+        9,
+        10
+      ],
+      "japanese": "電子【でんし】",
+      "meaning": "electrón; (esp. como prefijo) electrónico"
+    },
+    {
+      "entryId": "1443530",
+      "spelling": "電車",
+      "reading": "でんしゃ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "電車【でんしゃ】",
+      "meaning": "tren (eléctrico)"
+    },
+    {
+      "entryId": "1443720",
+      "spelling": "電波",
+      "reading": "でんぱ",
+      "senseNumbers": [
+        10,
+        11
+      ],
+      "japanese": "電波【でんぱ】",
+      "meaning": "onda electromagnética; ondas de radio; tonterías"
+    },
+    {
+      "entryId": "1477750",
+      "spelling": "発電",
+      "reading": "はつでん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "発電【はつでん】",
+      "meaning": "generación (e.g. energía)"
+    },
+    {
+      "entryId": "1477750",
+      "spelling": "發電",
+      "reading": "はつでん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "發電【はつでん】",
+      "meaning": "generación (e.g. energía)"
+    },
+    {
+      "entryId": "1192380",
+      "spelling": "家電",
+      "reading": "かでん",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "家電【かでん】",
+      "meaning": "electrónica de consumo"
+    },
+    {
+      "entryId": "1442990",
+      "spelling": "電機",
+      "reading": "でんき",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "電機【でんき】",
+      "meaning": "maquinaria eléctrica; artefactos; aparatos"
+    },
+    {
+      "entryId": "1477770",
+      "spelling": "発電所",
+      "reading": "はつでんしょ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "発電所【はつでんしょ】",
+      "meaning": "planta generadora de energía; estación eléctrica"
+    },
+    {
+      "entryId": "1443220",
+      "spelling": "電源",
+      "reading": "でんげん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "電源【でんげん】",
+      "meaning": "fuente de energía eléctrica"
+    },
+    {
+      "entryId": "1443620",
+      "spelling": "電池",
+      "reading": "でんち",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "電池【でんち】",
+      "meaning": "pila (eléctrica); batería (eléctrica)"
+    },
+    {
+      "entryId": "1435020",
+      "spelling": "停電",
+      "reading": "ていでん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "停電【ていでん】",
+      "meaning": "corte de energía (electricidad, luz); apagón; falla del suministro electrico"
+    },
+    {
+      "entryId": "1742540",
+      "spelling": "超電導",
+      "reading": "ちょうでんどう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "超電導【ちょうでんどう】",
+      "meaning": "superconductividad"
+    },
+    {
+      "entryId": "1442980",
+      "spelling": "電器",
+      "reading": "でんき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "電器【でんき】",
+      "meaning": "productos eléctricos"
+    },
+    {
+      "entryId": "1273940",
+      "spelling": "公衆電話",
+      "reading": "こうしゅうでんわ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "公衆電話【こうしゅうでんわ】",
+      "meaning": "teléfono público"
+    },
+    {
+      "entryId": "1443870",
+      "spelling": "電話器",
+      "reading": "でんわき",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "電話器【でんわき】",
+      "meaning": "teléfono; aparato telefónico"
+    },
+    {
+      "entryId": "1443870",
+      "spelling": "電話機",
+      "reading": "でんわき",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "電話機【でんわき】",
+      "meaning": "teléfono; aparato telefónico"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

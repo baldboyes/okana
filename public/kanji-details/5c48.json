@@ -1,0 +1,130 @@
+{
+  "character": "屈",
+  "meanings": "doblar, torcer, curvar, rendirse, encogerse, someter",
+  "words": [
+    {
+      "entryId": "1606240",
+      "spelling": "理屈",
+      "reading": "りくつ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "理屈【りくつ】",
+      "meaning": "teoría; razón; razonamiento; pretexto; excusa"
+    },
+    {
+      "entryId": "1246600",
+      "spelling": "屈辱",
+      "reading": "くつじょく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "屈辱【くつじょく】",
+      "meaning": "deshonra; humillación"
+    },
+    {
+      "entryId": "1246630",
+      "spelling": "屈托",
+      "reading": "くったく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "屈托【くったく】",
+      "meaning": "desvelo; inquietud; preocupación"
+    },
+    {
+      "entryId": "1246630",
+      "spelling": "屈託",
+      "reading": "くったく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "屈託【くったく】",
+      "meaning": "desvelo; inquietud; preocupación"
+    },
+    {
+      "entryId": "1230080",
+      "spelling": "窮屈",
+      "reading": "きゅうくつ",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "窮屈【きゅうくつ】",
+      "meaning": "estrecho; apretado"
+    },
+    {
+      "entryId": "1246620",
+      "spelling": "屈折",
+      "reading": "くっせつ",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "屈折【くっせつ】",
+      "meaning": "curvatura; refracción; distorsión"
+    },
+    {
+      "entryId": "1596750",
+      "spelling": "退屈",
+      "reading": "たいくつ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "退屈【たいくつ】",
+      "meaning": "aburrirse; tedio; aburrimiento"
+    },
+    {
+      "entryId": "1246540",
+      "spelling": "屈する",
+      "reading": "くっする",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "屈する【くっする】",
+      "meaning": "doblarse; agacharse; doblegarse; someterse"
+    },
+    {
+      "entryId": "1246610",
+      "spelling": "屈伸",
+      "reading": "くっしん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "屈伸【くっしん】",
+      "meaning": "elasticidad"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

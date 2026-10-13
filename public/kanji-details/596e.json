@@ -1,0 +1,130 @@
+{
+  "character": "奮",
+  "meanings": "agitado, entusiasmado, exaltado, excitado, mostrar habilidad, ejercer poder",
+  "words": [
+    {
+      "entryId": "1238380",
+      "spelling": "亢奮",
+      "reading": "こうふん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "亢奮【こうふん】",
+      "meaning": "excitarse; exaltarse; agitarse; entusiasmarse; excitación; estimulación; agitación"
+    },
+    {
+      "entryId": "1238380",
+      "spelling": "昂奮",
+      "reading": "こうふん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "昂奮【こうふん】",
+      "meaning": "excitarse; exaltarse; agitarse; entusiasmarse; excitación; estimulación; agitación"
+    },
+    {
+      "entryId": "1238380",
+      "spelling": "興奮",
+      "reading": "こうふん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "興奮【こうふん】",
+      "meaning": "excitarse; exaltarse; agitarse; entusiasmarse; excitación; estimulación; agitación"
+    },
+    {
+      "entryId": "1238380",
+      "spelling": "興奮",
+      "reading": "コーフン",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "興奮【コーフン】",
+      "meaning": "excitarse; exaltarse; agitarse; entusiasmarse; excitación; estimulación; agitación"
+    },
+    {
+      "entryId": "1504720",
+      "spelling": "奮起",
+      "reading": "ふんき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "奮起【ふんき】",
+      "meaning": "ánimo; enardecimiento; levantamiento del ánimo; levantamiento de la moral"
+    },
+    {
+      "entryId": "1504750",
+      "spelling": "奮闘",
+      "reading": "ふんとう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "奮闘【ふんとう】",
+      "meaning": "dura lucha; lucha dura; esfuerzo intenso"
+    },
+    {
+      "entryId": "1504700",
+      "spelling": "奮う",
+      "reading": "ふるう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "奮う【ふるう】",
+      "meaning": "exaltar; exaltarse; emocionarse"
+    },
+    {
+      "entryId": "1504760",
+      "spelling": "奮発",
+      "reading": "ふんぱつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "奮発【ふんぱつ】",
+      "meaning": "excitación; entusiasmo; emoción"
+    },
+    {
+      "entryId": "1843290",
+      "spelling": "孤軍奮闘",
+      "reading": "こぐんふんとう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "孤軍奮闘【こぐんふんとう】",
+      "meaning": "estar sólo ante el peligro pero luchar hasta el fin valiéndose sólo de las propias fuerzas; luchar con todo empeño a pesar de no contar con ningún tipo de apoyo o ayuda externos"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

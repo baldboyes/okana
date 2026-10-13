@@ -1,0 +1,240 @@
+{
+  "character": "四",
+  "meanings": "cuatro, 4",
+  "words": [
+    {
+      "entryId": "1307180",
+      "spelling": "四月",
+      "reading": "しがつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "四月【しがつ】",
+      "meaning": "abril; Abril"
+    },
+    {
+      "entryId": "1579470",
+      "spelling": "四",
+      "reading": "し",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "四【し】",
+      "meaning": "cuatro (usado en documentos legales); cuatro"
+    },
+    {
+      "entryId": "1579470",
+      "spelling": "四",
+      "reading": "よ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "四【よ】",
+      "meaning": "cuatro (usado en documentos legales); cuatro"
+    },
+    {
+      "entryId": "1579470",
+      "spelling": "四",
+      "reading": "よん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "四【よん】",
+      "meaning": "cuatro (usado en documentos legales); cuatro"
+    },
+    {
+      "entryId": "1650220",
+      "spelling": "四〇",
+      "reading": "よんじゅう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "四〇【よんじゅう】",
+      "meaning": "cuarenta"
+    },
+    {
+      "entryId": "1650220",
+      "spelling": "四十",
+      "reading": "よんじゅう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "四十【よんじゅう】",
+      "meaning": "cuarenta"
+    },
+    {
+      "entryId": "1650220",
+      "spelling": "四拾",
+      "reading": "よんじゅう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "四拾【よんじゅう】",
+      "meaning": "cuarenta"
+    },
+    {
+      "entryId": "1579860",
+      "spelling": "一四",
+      "reading": "じゅうし",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "一四【じゅうし】",
+      "meaning": "14; catorce"
+    },
+    {
+      "entryId": "1579860",
+      "spelling": "十四",
+      "reading": "じゅうし",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "十四【じゅうし】",
+      "meaning": "14; catorce"
+    },
+    {
+      "entryId": "1579860",
+      "spelling": "十四",
+      "reading": "じゅうよん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "十四【じゅうよん】",
+      "meaning": "14; catorce"
+    },
+    {
+      "entryId": "1650220",
+      "spelling": "四十",
+      "reading": "しじゅう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "四十【しじゅう】",
+      "meaning": "cuarenta"
+    },
+    {
+      "entryId": "1650220",
+      "spelling": "四十",
+      "reading": "よそ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "四十【よそ】",
+      "meaning": "cuarenta"
+    },
+    {
+      "entryId": "1767090",
+      "spelling": "四〇〇",
+      "reading": "よんひゃく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "四〇〇【よんひゃく】",
+      "meaning": "cuatrocientos; 400"
+    },
+    {
+      "entryId": "1767090",
+      "spelling": "四百",
+      "reading": "よんひゃく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "四百【よんひゃく】",
+      "meaning": "cuatrocientos; 400"
+    },
+    {
+      "entryId": "1307040",
+      "spelling": "四つ",
+      "reading": "よっつ",
+      "senseNumbers": [
+        28
+      ],
+      "japanese": "四つ【よっつ】",
+      "meaning": "4; cuatro"
+    },
+    {
+      "entryId": "1307040",
+      "spelling": "四つ",
+      "reading": "よつ",
+      "senseNumbers": [
+        28
+      ],
+      "japanese": "四つ【よつ】",
+      "meaning": "4; cuatro"
+    },
+    {
+      "entryId": "1766960",
+      "spelling": "四〇〇〇",
+      "reading": "よんせん",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "四〇〇〇【よんせん】",
+      "meaning": "cuatro mil; 4000"
+    },
+    {
+      "entryId": "1766960",
+      "spelling": "四千",
+      "reading": "よんせん",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "四千【よんせん】",
+      "meaning": "cuatro mil; 4000"
+    },
+    {
+      "entryId": "1766960",
+      "spelling": "四千",
+      "reading": "しせん",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "四千【しせん】",
+      "meaning": "cuatro mil; 4000"
+    },
+    {
+      "entryId": "1307130",
+      "spelling": "四季",
+      "reading": "しき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "四季【しき】",
+      "meaning": "cuatro estaciones"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

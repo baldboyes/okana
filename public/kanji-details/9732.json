@@ -1,0 +1,190 @@
+{
+  "character": "露",
+  "meanings": "rocío, relente, exponer, mostrar, sereno, Rusia",
+  "words": [
+    {
+      "entryId": "1560120",
+      "spelling": "露骨",
+      "reading": "ろこつ",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "露骨【ろこつ】",
+      "meaning": "abierto; destapado; desnudo"
+    },
+    {
+      "entryId": "1560050",
+      "spelling": "露路",
+      "reading": "ろじ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "露路【ろじ】",
+      "meaning": "callejón"
+    },
+    {
+      "entryId": "1560190",
+      "spelling": "露店",
+      "reading": "ろてん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "露店【ろてん】",
+      "meaning": "quiosco; puesto callejero"
+    },
+    {
+      "entryId": "1601280",
+      "spelling": "暴露",
+      "reading": "ばくろ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "暴露【ばくろ】",
+      "meaning": "denuncia"
+    },
+    {
+      "entryId": "1601280",
+      "spelling": "曝露",
+      "reading": "ばくろ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "曝露【ばくろ】",
+      "meaning": "denuncia"
+    },
+    {
+      "entryId": "1263490",
+      "spelling": "露す",
+      "reading": "あらわす",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "露す【あらわす】",
+      "meaning": "mostrar; expresar; demostrar; indicar; desplegar; revelar; difundir; dar a conocer; hacer público; divulgar"
+    },
+    {
+      "entryId": "1121320",
+      "spelling": "秘露",
+      "reading": "ペルー",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "秘露【ペルー】",
+      "meaning": "Perú"
+    },
+    {
+      "entryId": "1483500",
+      "spelling": "披露宴",
+      "reading": "ひろうえん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "披露宴【ひろうえん】",
+      "meaning": "recepción (boda)"
+    },
+    {
+      "entryId": "1560070",
+      "spelling": "露",
+      "reading": "つゆ",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "露【つゆ】",
+      "meaning": "rocío"
+    },
+    {
+      "entryId": "1596700",
+      "spelling": "十露盤",
+      "reading": "そろばん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "十露盤【そろばん】",
+      "meaning": "ábaco"
+    },
+    {
+      "entryId": "1775880",
+      "spelling": "露西亜",
+      "reading": "ロシア",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "露西亜【ロシア】",
+      "meaning": "Rusia"
+    },
+    {
+      "entryId": "1560130",
+      "spelling": "露出",
+      "reading": "ろしゅつ",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "露出【ろしゅつ】",
+      "meaning": "exposición"
+    },
+    {
+      "entryId": "1560170",
+      "spelling": "露天",
+      "reading": "ろてん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "露天【ろてん】",
+      "meaning": "aire libre"
+    },
+    {
+      "entryId": "1560110",
+      "spelling": "露光",
+      "reading": "ろこう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "露光【ろこう】",
+      "meaning": "exposición (fotográfica)"
+    },
+    {
+      "entryId": "1213600",
+      "spelling": "甘露",
+      "reading": "かんろ",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "甘露【かんろ】",
+      "meaning": "sabroso; exquisito"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

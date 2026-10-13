@@ -1,0 +1,130 @@
+{
+  "character": "凍",
+  "meanings": "helado, congelado, helar, congelarse, helarse, entumecerse",
+  "words": [
+    {
+      "entryId": "1446300",
+      "spelling": "凍結",
+      "reading": "とうけつ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "凍結【とうけつ】",
+      "meaning": "inmovilizar; congelamiento"
+    },
+    {
+      "entryId": "1488840",
+      "spelling": "凍り",
+      "reading": "こおり",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "凍り【こおり】",
+      "meaning": "hielo"
+    },
+    {
+      "entryId": "1557170",
+      "spelling": "冷凍",
+      "reading": "れいとう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "冷凍【れいとう】",
+      "meaning": "congelado"
+    },
+    {
+      "entryId": "1593100",
+      "spelling": "凍る",
+      "reading": "こおる",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "凍る【こおる】",
+      "meaning": "helarse; congelarse"
+    },
+    {
+      "entryId": "1446180",
+      "spelling": "凍える",
+      "reading": "こごえる",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "凍える【こごえる】",
+      "meaning": "congelarse"
+    },
+    {
+      "entryId": "1557210",
+      "spelling": "冷凍庫",
+      "reading": "れいとうこ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "冷凍庫【れいとうこ】",
+      "meaning": "congelador; heladera"
+    },
+    {
+      "entryId": "1557240",
+      "spelling": "冷凍食品",
+      "reading": "れいとうしょくひん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "冷凍食品【れいとうしょくひん】",
+      "meaning": "alimentos congelados; comida congelada"
+    },
+    {
+      "entryId": "1199150",
+      "spelling": "解凍",
+      "reading": "かいとう",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "解凍【かいとう】",
+      "meaning": "descongelación; deshielo"
+    },
+    {
+      "entryId": "1446340",
+      "spelling": "凍死",
+      "reading": "とうし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "凍死【とうし】",
+      "meaning": "muerte de frío"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "character": "夫",
+  "meanings": "marido, hombre, esposo",
+  "words": [
+    {
+      "entryId": "1496480",
+      "spelling": "夫",
+      "reading": "おっと",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "夫【おっと】",
+      "meaning": "esposo; marido"
+    },
+    {
+      "entryId": "1496540",
+      "spelling": "夫人",
+      "reading": "ふじん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "夫人【ふじん】",
+      "meaning": "esposa; señora"
+    },
+    {
+      "entryId": "1496540",
+      "spelling": "夫人",
+      "reading": "ぶにん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "夫人【ぶにん】",
+      "meaning": "esposa; señora"
+    },
+    {
+      "entryId": "1583640",
+      "spelling": "夫婦",
+      "reading": "ふうふ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "夫婦【ふうふ】",
+      "meaning": "pareja casada; esposos; marido y esposa; pareja"
+    },
+    {
+      "entryId": "1496520",
+      "spelling": "夫妻",
+      "reading": "ふさい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "夫妻【ふさい】",
+      "meaning": "marido y mujer; matrimonio"
+    },
+    {
+      "entryId": "1278220",
+      "spelling": "功夫",
+      "reading": "くふう",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "功夫【くふう】",
+      "meaning": "inventar; ingeniar; idear; planear; proyectar; ingenio; idea; invención"
+    },
+    {
+      "entryId": "1278220",
+      "spelling": "工夫",
+      "reading": "くふう",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "工夫【くふう】",
+      "meaning": "inventar; ingeniar; idear; planear; proyectar; ingenio; idea; invención"
+    },
+    {
+      "entryId": "1414150",
+      "spelling": "大丈夫",
+      "reading": "だいじょうぶ",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "大丈夫【だいじょうぶ】",
+      "meaning": "estar a salvo; estar bien; OK"
+    },
+    {
+      "entryId": "1414150",
+      "spelling": "大丈夫",
+      "reading": "だいじょぶ",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "大丈夫【だいじょぶ】",
+      "meaning": "estar a salvo; estar bien; OK"
+    },
+    {
+      "entryId": "1414150",
+      "spelling": "大丈夫",
+      "reading": "だいじょーぶ",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "大丈夫【だいじょーぶ】",
+      "meaning": "estar a salvo; estar bien; OK"
+    },
+    {
+      "entryId": "1580480",
+      "spelling": "丈夫",
+      "reading": "じょうぶ",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "丈夫【じょうぶ】",
+      "meaning": "saludable; fuerte"
+    },
+    {
+      "entryId": "1596690",
+      "spelling": "夫々",
+      "reading": "それぞれ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "夫々【それぞれ】",
+      "meaning": "cada uno; respectivamente"
+    },
+    {
+      "entryId": "1596690",
+      "spelling": "夫れ夫れ",
+      "reading": "それぞれ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "夫れ夫れ【それぞれ】",
+      "meaning": "cada uno; respectivamente"
+    },
+    {
+      "entryId": "1596690",
+      "spelling": "夫夫",
+      "reading": "それぞれ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "夫夫【それぞれ】",
+      "meaning": "cada uno; respectivamente"
+    },
+    {
+      "entryId": "1727740",
+      "spelling": "ひと工夫",
+      "reading": "ひとくふう",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "ひと工夫【ひとくふう】",
+      "meaning": "un invento; un pedazo más"
+    },
+    {
+      "entryId": "1727740",
+      "spelling": "一工夫",
+      "reading": "ひとくふう",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "一工夫【ひとくふう】",
+      "meaning": "un invento; un pedazo más"
+    },
+    {
+      "entryId": "1841830",
+      "spelling": "夫唱婦随",
+      "reading": "ふしょうふずい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "夫唱婦随【ふしょうふずい】",
+      "meaning": "el hombre ordena y la mujer obedece; la mujer hace siempre lo que dice el marido"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

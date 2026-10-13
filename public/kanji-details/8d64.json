@@ -1,0 +1,241 @@
+{
+  "character": "赤",
+  "meanings": "rojo, enrojecer, enrojecerse, sonrojarse",
+  "words": [
+    {
+      "entryId": "1383440",
+      "spelling": "赤字",
+      "reading": "あかじ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "赤字【あかじ】",
+      "meaning": "déficit"
+    },
+    {
+      "entryId": "1383260",
+      "spelling": "赤ちゃん",
+      "reading": "あかちゃん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "赤ちゃん【あかちゃん】",
+      "meaning": "bebe; criatura; nene; nena"
+    },
+    {
+      "entryId": "1829120",
+      "spelling": "赤松",
+      "reading": "あかまつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "赤松【あかまつ】",
+      "meaning": "pino rojo"
+    },
+    {
+      "entryId": "1363250",
+      "spelling": "まっ赤",
+      "reading": "まっか",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "まっ赤【まっか】",
+      "meaning": "rojo intenso (como un tomate)"
+    },
+    {
+      "entryId": "1363250",
+      "spelling": "真っ赤",
+      "reading": "まっか",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "真っ赤【まっか】",
+      "meaning": "rojo intenso (como un tomate)"
+    },
+    {
+      "entryId": "1363250",
+      "spelling": "真赤",
+      "reading": "まっか",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "真赤【まっか】",
+      "meaning": "rojo intenso (como un tomate)"
+    },
+    {
+      "entryId": "1383310",
+      "spelling": "赤んぼう",
+      "reading": "あかんぼう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "赤んぼう【あかんぼう】",
+      "meaning": "bebé"
+    },
+    {
+      "entryId": "1383310",
+      "spelling": "赤ん坊",
+      "reading": "あかんぼ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "赤ん坊【あかんぼ】",
+      "meaning": "bebé"
+    },
+    {
+      "entryId": "1383310",
+      "spelling": "赤ん坊",
+      "reading": "あかんぼう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "赤ん坊【あかんぼう】",
+      "meaning": "bebé"
+    },
+    {
+      "entryId": "1383240",
+      "spelling": "赤い",
+      "reading": "あかい",
+      "senseNumbers": [
+        13,
+        14
+      ],
+      "japanese": "赤い【あかい】",
+      "meaning": "rojo; comunista"
+    },
+    {
+      "entryId": "1383370",
+      "spelling": "赤外線",
+      "reading": "せきがいせん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "赤外線【せきがいせん】",
+      "meaning": "rayos infrarrojos"
+    },
+    {
+      "entryId": "1383560",
+      "spelling": "赤道",
+      "reading": "せきどう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "赤道【せきどう】",
+      "meaning": "ecuador"
+    },
+    {
+      "entryId": "1634690",
+      "spelling": "赤信号",
+      "reading": "あかしんごう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "赤信号【あかしんごう】",
+      "meaning": "luz roja (tráfico)"
+    },
+    {
+      "entryId": "1580940",
+      "spelling": "赤色",
+      "reading": "あかいろ",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "赤色【あかいろ】",
+      "meaning": "rojo"
+    },
+    {
+      "entryId": "1580940",
+      "spelling": "赤色",
+      "reading": "せきしょく",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "赤色【せきしょく】",
+      "meaning": "rojo"
+    },
+    {
+      "entryId": "1383580",
+      "spelling": "赤飯",
+      "reading": "せきはん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "赤飯【せきはん】",
+      "meaning": "sekihan (arroz con judías rojas)"
+    },
+    {
+      "entryId": "1383620",
+      "spelling": "赤面",
+      "reading": "せきめん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "赤面【せきめん】",
+      "meaning": "sonrojo (ruborizamiento); ruborizarse; avergonzarse; ponerse colorado; abochornarse"
+    },
+    {
+      "entryId": "2013900",
+      "spelling": "赤",
+      "reading": "あか",
+      "senseNumbers": [
+        43
+      ],
+      "japanese": "赤【あか】",
+      "meaning": "rojo"
+    },
+    {
+      "entryId": "1383630",
+      "spelling": "赤毛",
+      "reading": "あかげ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "赤毛【あかげ】",
+      "meaning": "pelo rojo"
+    },
+    {
+      "entryId": "1633560",
+      "spelling": "赤土",
+      "reading": "あかつち",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "赤土【あかつち】",
+      "meaning": "arcilla roja; ocre; almagre"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "character": "繰",
+  "meanings": "devanar, ovillar, pasar páginas",
+  "words": [
+    {
+      "entryId": "1247010",
+      "spelling": "繰りかえし",
+      "reading": "くりかえし",
+      "senseNumbers": [
+        9,
+        10
+      ],
+      "japanese": "繰りかえし【くりかえし】",
+      "meaning": "repetición; reiteración; iteración; ciclo; repetidamente"
+    },
+    {
+      "entryId": "1247010",
+      "spelling": "繰り返し",
+      "reading": "くりかえし",
+      "senseNumbers": [
+        9,
+        10
+      ],
+      "japanese": "繰り返し【くりかえし】",
+      "meaning": "repetición; reiteración; iteración; ciclo; repetidamente"
+    },
+    {
+      "entryId": "1247010",
+      "spelling": "繰返し",
+      "reading": "くりかえし",
+      "senseNumbers": [
+        9,
+        10
+      ],
+      "japanese": "繰返し【くりかえし】",
+      "meaning": "repetición; reiteración; iteración; ciclo; repetidamente"
+    },
+    {
+      "entryId": "1247030",
+      "spelling": "繰りかえす",
+      "reading": "くりかえす",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "繰りかえす【くりかえす】",
+      "meaning": "repetir; hacer algo otra vez"
+    },
+    {
+      "entryId": "1247030",
+      "spelling": "繰り返す",
+      "reading": "くりかえす",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "繰り返す【くりかえす】",
+      "meaning": "repetir; hacer algo otra vez"
+    },
+    {
+      "entryId": "1247030",
+      "spelling": "繰返す",
+      "reading": "くりかえす",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "繰返す【くりかえす】",
+      "meaning": "repetir; hacer algo otra vez"
+    },
+    {
+      "entryId": "1246920",
+      "spelling": "繰り延べ",
+      "reading": "くりのべ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "繰り延べ【くりのべ】",
+      "meaning": "aplazamiento"
+    },
+    {
+      "entryId": "1246920",
+      "spelling": "繰延べ",
+      "reading": "くりのべ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "繰延べ【くりのべ】",
+      "meaning": "aplazamiento"
+    },
+    {
+      "entryId": "1169320",
+      "spelling": "引っ繰り返る",
+      "reading": "ひっくりかえる",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "引っ繰り返る【ひっくりかえる】",
+      "meaning": "volcarse; trastornarse; tambalearse; estar al revés; estar invertido; estar volcado"
+    },
+    {
+      "entryId": "1169320",
+      "spelling": "引繰り返る",
+      "reading": "ひっくりかえる",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "引繰り返る【ひっくりかえる】",
+      "meaning": "volcarse; trastornarse; tambalearse; estar al revés; estar invertido; estar volcado"
+    },
+    {
+      "entryId": "1012930",
+      "spelling": "やり繰り",
+      "reading": "やりくり",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "やり繰り【やりくり】",
+      "meaning": "ajuste; arreglo; acomodamiento"
+    },
+    {
+      "entryId": "1012930",
+      "spelling": "遣り繰り",
+      "reading": "やりくり",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "遣り繰り【やりくり】",
+      "meaning": "ajuste; arreglo; acomodamiento"
+    },
+    {
+      "entryId": "1247040",
+      "spelling": "繰る",
+      "reading": "くる",
+      "senseNumbers": [
+        23
+      ],
+      "japanese": "繰る【くる】",
+      "meaning": "enrollar"
+    },
+    {
+      "entryId": "1850930",
+      "spelling": "繰り入れる",
+      "reading": "くりいれる",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "繰り入れる【くりいれる】",
+      "meaning": "transferir"
+    },
+    {
+      "entryId": "1850930",
+      "spelling": "繰入れる",
+      "reading": "くりいれる",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "繰入れる【くりいれる】",
+      "meaning": "transferir"
+    },
+    {
+      "entryId": "1169320",
+      "spelling": "引っ繰り返る",
+      "reading": "ひっくりがえる",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "引っ繰り返る【ひっくりがえる】",
+      "meaning": "volcarse; trastornarse; tambalearse; estar al revés; estar invertido; estar volcado"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

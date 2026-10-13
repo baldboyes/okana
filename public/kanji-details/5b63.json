@@ -1,0 +1,170 @@
+{
+  "character": "季",
+  "meanings": "estación del año",
+  "words": [
+    {
+      "entryId": "1222840",
+      "spelling": "季節",
+      "reading": "きせつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "季節【きせつ】",
+      "meaning": "temporada"
+    },
+    {
+      "entryId": "1446080",
+      "spelling": "冬季",
+      "reading": "とうき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "冬季【とうき】",
+      "meaning": "(temporada de) invierno"
+    },
+    {
+      "entryId": "1307130",
+      "spelling": "四季",
+      "reading": "しき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "四季【しき】",
+      "meaning": "cuatro estaciones"
+    },
+    {
+      "entryId": "1589900",
+      "spelling": "夏季",
+      "reading": "かき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "夏季【かき】",
+      "meaning": "temporada de verano"
+    },
+    {
+      "entryId": "1589900",
+      "spelling": "夏季",
+      "reading": "なつき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "夏季【なつき】",
+      "meaning": "temporada de verano"
+    },
+    {
+      "entryId": "1655260",
+      "spelling": "春季",
+      "reading": "しゅんき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "春季【しゅんき】",
+      "meaning": "primavera"
+    },
+    {
+      "entryId": "1659200",
+      "spelling": "秋季",
+      "reading": "しゅうき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "秋季【しゅうき】",
+      "meaning": "otoño"
+    },
+    {
+      "entryId": "1588010",
+      "spelling": "雨季",
+      "reading": "うき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "雨季【うき】",
+      "meaning": "temporada de lluvias"
+    },
+    {
+      "entryId": "1222820",
+      "spelling": "季語",
+      "reading": "きご",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "季語【きご】",
+      "meaning": "metáfora referente a alguna de las 4 estaciónes"
+    },
+    {
+      "entryId": "1222810",
+      "spelling": "季刊",
+      "reading": "きかん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "季刊【きかん】",
+      "meaning": "publicación trimestral"
+    },
+    {
+      "entryId": "1590850",
+      "spelling": "乾季",
+      "reading": "かんき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "乾季【かんき】",
+      "meaning": "estación seca"
+    },
+    {
+      "entryId": "1222870",
+      "spelling": "季節風",
+      "reading": "きせつふう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "季節風【きせつふう】",
+      "meaning": "monzón; viento periódico"
+    },
+    {
+      "entryId": "1589890",
+      "spelling": "花季",
+      "reading": "かき",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "花季【かき】",
+      "meaning": "periodo de floración; florescencia"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

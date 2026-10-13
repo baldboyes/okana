@@ -1,0 +1,240 @@
+{
+  "character": "予",
+  "meanings": "de antemano, previo",
+  "words": [
+    {
+      "entryId": "1543000",
+      "spelling": "予算",
+      "reading": "よさん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "予算【よさん】",
+      "meaning": "presupuesto"
+    },
+    {
+      "entryId": "1543240",
+      "spelling": "予定",
+      "reading": "よてい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "予定【よてい】",
+      "meaning": "planes; preparativo; calendario; programa; expectación; estimado"
+    },
+    {
+      "entryId": "1543110",
+      "spelling": "予選",
+      "reading": "よせん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "予選【よせん】",
+      "meaning": "eliminatoria; preselección"
+    },
+    {
+      "entryId": "1543130",
+      "spelling": "予想",
+      "reading": "よそう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "予想【よそう】",
+      "meaning": "expectativa; predicción; previsión; pronóstico"
+    },
+    {
+      "entryId": "1543320",
+      "spelling": "予備",
+      "reading": "よび",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "予備【よび】",
+      "meaning": "de reserva; de repuesto"
+    },
+    {
+      "entryId": "1543660",
+      "spelling": "予防",
+      "reading": "よぼう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "予防【よぼう】",
+      "meaning": "prevención; medida preventiva"
+    },
+    {
+      "entryId": "1543200",
+      "spelling": "予測",
+      "reading": "よそく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "予測【よそく】",
+      "meaning": "predicción; estimación"
+    },
+    {
+      "entryId": "1543750",
+      "spelling": "予約",
+      "reading": "よやく",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "予約【よやく】",
+      "meaning": "reservar; hacer una reserva; reserva"
+    },
+    {
+      "entryId": "1543630",
+      "spelling": "予報",
+      "reading": "よほう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "予報【よほう】",
+      "meaning": "pronóstico; predicción"
+    },
+    {
+      "entryId": "1541740",
+      "spelling": "猶予",
+      "reading": "ゆうよ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "猶予【ゆうよ】",
+      "meaning": "titubeo; duda; vacilación; fluctuación"
+    },
+    {
+      "entryId": "1543220",
+      "spelling": "予知",
+      "reading": "よち",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "予知【よち】",
+      "meaning": "premonición; presagio; intuición; corazonada; conjetura; presentimiento"
+    },
+    {
+      "entryId": "1543210",
+      "spelling": "予断",
+      "reading": "よだん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "予断【よだん】",
+      "meaning": "predicción; conjetura"
+    },
+    {
+      "entryId": "1543150",
+      "spelling": "予想外",
+      "reading": "よそうがい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "予想外【よそうがい】",
+      "meaning": "inesperado; imprevisto; extraño"
+    },
+    {
+      "entryId": "1542910",
+      "spelling": "予感",
+      "reading": "よかん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "予感【よかん】",
+      "meaning": "presentimiento; premonición"
+    },
+    {
+      "entryId": "1542990",
+      "spelling": "予告",
+      "reading": "よこく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "予告【よこく】",
+      "meaning": "aviso"
+    },
+    {
+      "entryId": "1542920",
+      "spelling": "予期",
+      "reading": "よき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "予期【よき】",
+      "meaning": "prever; esperar; expectativa"
+    },
+    {
+      "entryId": "1584920",
+      "spelling": "予言",
+      "reading": "よげん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "予言【よげん】",
+      "meaning": "predecir; vaticinar; pronosticar; profecía"
+    },
+    {
+      "entryId": "1543070",
+      "spelling": "予習",
+      "reading": "よしゅう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "予習【よしゅう】",
+      "meaning": "preparar la lección con antelación; estudio de preparación"
+    },
+    {
+      "entryId": "1542850",
+      "spelling": "予て",
+      "reading": "かねて",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "予て【かねて】",
+      "meaning": "con anterioridad; previamente"
+    },
+    {
+      "entryId": "1438770",
+      "spelling": "天気予報",
+      "reading": "てんきよほう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "天気予報【てんきよほう】",
+      "meaning": "reporte meteorológico"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "character": "衣",
+  "meanings": "prenda, ropas, vestidos",
+  "words": [
+    {
+      "entryId": "1158760",
+      "spelling": "衣装",
+      "reading": "いしょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "衣装【いしょう】",
+      "meaning": "ropa; indumentaria; traje; conjunto; prenda; vestido"
+    },
+    {
+      "entryId": "1158760",
+      "spelling": "衣裳",
+      "reading": "いしょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "衣裳【いしょう】",
+      "meaning": "ropa; indumentaria; traje; conjunto; prenda; vestido"
+    },
+    {
+      "entryId": "1158830",
+      "spelling": "衣料",
+      "reading": "いりょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "衣料【いりょう】",
+      "meaning": "ropa; vestimenta; atuendo"
+    },
+    {
+      "entryId": "1158710",
+      "spelling": "衣",
+      "reading": "ころも",
+      "senseNumbers": [
+        14,
+        15,
+        16
+      ],
+      "japanese": "衣【ころも】",
+      "meaning": "ropa; indumentaria; toga; sotana; bata; capa (vidriado, batido, hielo)"
+    },
+    {
+      "entryId": "1613280",
+      "spelling": "衣類",
+      "reading": "いるい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "衣類【いるい】",
+      "meaning": "ropa; vestimenta; prendas"
+    },
+    {
+      "entryId": "1158810",
+      "spelling": "衣服",
+      "reading": "いふく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "衣服【いふく】",
+      "meaning": "ropa"
+    },
+    {
+      "entryId": "1593470",
+      "spelling": "更衣",
+      "reading": "ころもがえ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "更衣【ころもがえ】",
+      "meaning": "cambio estacional de ropa; cambiarse de ropa para la estación"
+    },
+    {
+      "entryId": "1593470",
+      "spelling": "衣更え",
+      "reading": "ころもがえ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "衣更え【ころもがえ】",
+      "meaning": "cambio estacional de ropa; cambiarse de ropa para la estación"
+    },
+    {
+      "entryId": "1593470",
+      "spelling": "衣替え",
+      "reading": "ころもがえ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "衣替え【ころもがえ】",
+      "meaning": "cambio estacional de ropa; cambiarse de ropa para la estación"
+    },
+    {
+      "entryId": "1580340",
+      "spelling": "上衣",
+      "reading": "うわぎ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "上衣【うわぎ】",
+      "meaning": "abrigo; túnica; chaqueta; prenda de vestir; americana; chaquetón"
+    },
+    {
+      "entryId": "1584990",
+      "spelling": "浴衣",
+      "reading": "ゆかた",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "浴衣【ゆかた】",
+      "meaning": "yukata; bata"
+    },
+    {
+      "entryId": "1584990",
+      "spelling": "浴衣",
+      "reading": "よくい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "浴衣【よくい】",
+      "meaning": "yukata; bata"
+    },
+    {
+      "entryId": "1474990",
+      "spelling": "白衣",
+      "reading": "しろきぬ",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "白衣【しろきぬ】",
+      "meaning": "bata blanca; vestido blanco"
+    },
+    {
+      "entryId": "1474990",
+      "spelling": "白衣",
+      "reading": "しろぎぬ",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "白衣【しろぎぬ】",
+      "meaning": "bata blanca; vestido blanco"
+    },
+    {
+      "entryId": "1474990",
+      "spelling": "白衣",
+      "reading": "はくい",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "白衣【はくい】",
+      "meaning": "bata blanca; vestido blanco"
+    },
+    {
+      "entryId": "1474990",
+      "spelling": "白衣",
+      "reading": "はくえ",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "白衣【はくえ】",
+      "meaning": "bata blanca; vestido blanco"
+    },
+    {
+      "entryId": "1474990",
+      "spelling": "白衣",
+      "reading": "びゃくい",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "白衣【びゃくい】",
+      "meaning": "bata blanca; vestido blanco"
+    },
+    {
+      "entryId": "1474990",
+      "spelling": "白衣",
+      "reading": "びゃくえ",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "白衣【びゃくえ】",
+      "meaning": "bata blanca; vestido blanco"
+    },
+    {
+      "entryId": "1578980",
+      "spelling": "黒衣",
+      "reading": "くろぎぬ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "黒衣【くろぎぬ】",
+      "meaning": "ropa negra"
+    },
+    {
+      "entryId": "1578980",
+      "spelling": "黒衣",
+      "reading": "こくい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "黒衣【こくい】",
+      "meaning": "ropa negra"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "character": "砂",
+  "meanings": "arena, gravilla",
+  "words": [
+    {
+      "entryId": "1291500",
+      "spelling": "砂",
+      "reading": "いさご",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "砂【いさご】",
+      "meaning": "arena; arenilla"
+    },
+    {
+      "entryId": "1291500",
+      "spelling": "砂",
+      "reading": "すな",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "砂【すな】",
+      "meaning": "arena; arenilla"
+    },
+    {
+      "entryId": "1593800",
+      "spelling": "砂漠",
+      "reading": "さばく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "砂漠【さばく】",
+      "meaning": "desierto"
+    },
+    {
+      "entryId": "1291600",
+      "spelling": "砂糖",
+      "reading": "さとう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "砂糖【さとう】",
+      "meaning": "azúcar"
+    },
+    {
+      "entryId": "1624160",
+      "spelling": "土砂",
+      "reading": "どさ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "土砂【どさ】",
+      "meaning": "tierra y arena"
+    },
+    {
+      "entryId": "1624160",
+      "spelling": "土砂",
+      "reading": "どしゃ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "土砂【どしゃ】",
+      "meaning": "tierra y arena"
+    },
+    {
+      "entryId": "1291620",
+      "spelling": "砂浜",
+      "reading": "すなはま",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "砂浜【すなはま】",
+      "meaning": "playa de arena"
+    },
+    {
+      "entryId": "1291660",
+      "spelling": "砂利",
+      "reading": "ざり",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "砂利【ざり】",
+      "meaning": "grava; arena"
+    },
+    {
+      "entryId": "1291660",
+      "spelling": "砂利",
+      "reading": "じゃり",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "砂利【じゃり】",
+      "meaning": "grava; arena"
+    },
+    {
+      "entryId": "1056980",
+      "spelling": "サハラ砂漠",
+      "reading": "サハラさばく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "サハラ砂漠【サハラさばく】",
+      "meaning": "desierto de Sahara"
+    },
+    {
+      "entryId": "1291540",
+      "spelling": "砂時計",
+      "reading": "すなどけい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "砂時計【すなどけい】",
+      "meaning": "reloj de arena"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

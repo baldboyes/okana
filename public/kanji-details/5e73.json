@@ -1,0 +1,244 @@
+{
+  "character": "平",
+  "meanings": "llanura, liso, llano, plano, sencillo",
+  "words": [
+    {
+      "entryId": "1508070",
+      "spelling": "平和",
+      "reading": "へいわ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "平和【へいわ】",
+      "meaning": "paz; armonía"
+    },
+    {
+      "entryId": "1562210",
+      "spelling": "和平",
+      "reading": "わへい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "和平【わへい】",
+      "meaning": "paz"
+    },
+    {
+      "entryId": "1583870",
+      "spelling": "平均",
+      "reading": "へいきん",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "平均【へいきん】",
+      "meaning": "promedio"
+    },
+    {
+      "entryId": "1583870",
+      "spelling": "平均",
+      "reading": "へいぎん",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "平均【へいぎん】",
+      "meaning": "promedio"
+    },
+    {
+      "entryId": "1408360",
+      "spelling": "大平洋",
+      "reading": "たいへいよう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "大平洋【たいへいよう】",
+      "meaning": "Océano Pacífico"
+    },
+    {
+      "entryId": "1408360",
+      "spelling": "太平洋",
+      "reading": "たいへいよう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "太平洋【たいへいよう】",
+      "meaning": "Océano Pacífico"
+    },
+    {
+      "entryId": "1608110",
+      "spelling": "平成",
+      "reading": "へいせい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "平成【へいせい】",
+      "meaning": "Heisei (reino del emperador)"
+    },
+    {
+      "entryId": "1752020",
+      "spelling": "平壌",
+      "reading": "へいじょう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "平壌【へいじょう】",
+      "meaning": "Pyongyang; pyongyang (capital de corea del norte)"
+    },
+    {
+      "entryId": "1752020",
+      "spelling": "平壌",
+      "reading": "ピョンヤン",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "平壌【ピョンヤン】",
+      "meaning": "Pyongyang; pyongyang (capital de corea del norte)"
+    },
+    {
+      "entryId": "1507670",
+      "spelling": "平等",
+      "reading": "びょうどう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "平等【びょうどう】",
+      "meaning": "igualdad; imparcialidad; uniformidad"
+    },
+    {
+      "entryId": "1507740",
+      "spelling": "平年",
+      "reading": "へいねん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "平年【へいねん】",
+      "meaning": "año promedio"
+    },
+    {
+      "entryId": "1787330",
+      "spelling": "太平洋戦争",
+      "reading": "たいへいようせんそう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "太平洋戦争【たいへいようせんそう】",
+      "meaning": "(la) Guerra del Pacífico"
+    },
+    {
+      "entryId": "1507720",
+      "spelling": "平日",
+      "reading": "ひらび",
+      "senseNumbers": [
+        10,
+        11,
+        12
+      ],
+      "japanese": "平日【ひらび】",
+      "meaning": "entre semana; día laborable; radical de kanji 73"
+    },
+    {
+      "entryId": "1507720",
+      "spelling": "平日",
+      "reading": "へいじつ",
+      "senseNumbers": [
+        10,
+        11,
+        12
+      ],
+      "japanese": "平日【へいじつ】",
+      "meaning": "entre semana; día laborable; radical de kanji 73"
+    },
+    {
+      "entryId": "1508030",
+      "spelling": "平野",
+      "reading": "へいや",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "平野【へいや】",
+      "meaning": "llanura; planicie; campo abierto"
+    },
+    {
+      "entryId": "1274640",
+      "spelling": "公平",
+      "reading": "こうへい",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "公平【こうへい】",
+      "meaning": "ecuánime; imparcial"
+    },
+    {
+      "entryId": "1492300",
+      "spelling": "不公平",
+      "reading": "ふこうへい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "不公平【ふこうへい】",
+      "meaning": "injusticia; desigualdad"
+    },
+    {
+      "entryId": "1507290",
+      "spelling": "平行線",
+      "reading": "へいこうせん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "平行線【へいこうせん】",
+      "meaning": "línea paralela"
+    },
+    {
+      "entryId": "1507070",
+      "spelling": "平穏",
+      "reading": "へいおん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "平穏【へいおん】",
+      "meaning": "tranquilo; en calma"
+    },
+    {
+      "entryId": "1372040",
+      "spelling": "水平",
+      "reading": "すいへい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "水平【すいへい】",
+      "meaning": "horizontal"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

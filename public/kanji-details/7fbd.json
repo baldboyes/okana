@@ -1,0 +1,203 @@
+{
+  "character": "羽",
+  "meanings": "pluma, alas, contador de pájaros y conejos",
+  "words": [
+    {
+      "entryId": "1607310",
+      "spelling": "羽",
+      "reading": "ば",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "羽【ば】",
+      "meaning": "contador para pájaros y conejos"
+    },
+    {
+      "entryId": "1607310",
+      "spelling": "羽",
+      "reading": "ぱ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "羽【ぱ】",
+      "meaning": "contador para pájaros y conejos"
+    },
+    {
+      "entryId": "1607310",
+      "spelling": "羽",
+      "reading": "わ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "羽【わ】",
+      "meaning": "contador para pájaros y conejos"
+    },
+    {
+      "entryId": "1171680",
+      "spelling": "羽",
+      "reading": "はね",
+      "senseNumbers": [
+        24,
+        25
+      ],
+      "japanese": "羽【はね】",
+      "meaning": "pluma; ala; aleta (ventilador, hélice, etc.)"
+    },
+    {
+      "entryId": "1171680",
+      "spelling": "羽根",
+      "reading": "はね",
+      "senseNumbers": [
+        24,
+        25
+      ],
+      "japanese": "羽根【はね】",
+      "meaning": "pluma; ala; aleta (ventilador, hélice, etc.)"
+    },
+    {
+      "entryId": "1475010",
+      "spelling": "白羽",
+      "reading": "しらは",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "白羽【しらは】",
+      "meaning": "pluma blanca"
+    },
+    {
+      "entryId": "1171770",
+      "spelling": "羽織",
+      "reading": "はおり",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "羽織【はおり】",
+      "meaning": "haori; capa"
+    },
+    {
+      "entryId": "1171680",
+      "spelling": "羽",
+      "reading": "は",
+      "senseNumbers": [
+        24,
+        25
+      ],
+      "japanese": "羽【は】",
+      "meaning": "pluma; ala; aleta (ventilador, hélice, etc.)"
+    },
+    {
+      "entryId": "1284590",
+      "spelling": "合羽",
+      "reading": "カッパ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "合羽【カッパ】",
+      "meaning": "capa"
+    },
+    {
+      "entryId": "1546590",
+      "spelling": "羽書",
+      "reading": "はがき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "羽書【はがき】",
+      "meaning": "tarjeta"
+    },
+    {
+      "entryId": "1171700",
+      "spelling": "羽衣",
+      "reading": "うい",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "羽衣【うい】",
+      "meaning": "plumaje"
+    },
+    {
+      "entryId": "1171700",
+      "spelling": "羽衣",
+      "reading": "はごろも",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "羽衣【はごろも】",
+      "meaning": "plumaje"
+    },
+    {
+      "entryId": "1171720",
+      "spelling": "羽化",
+      "reading": "うか",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "羽化【うか】",
+      "meaning": "metamorfosis (insectos)"
+    },
+    {
+      "entryId": "1171690",
+      "spelling": "羽ばたく",
+      "reading": "はばたく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "羽ばたく【はばたく】",
+      "meaning": "batir las alas; aletear"
+    },
+    {
+      "entryId": "1171690",
+      "spelling": "羽搏く",
+      "reading": "はばたく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "羽搏く【はばたく】",
+      "meaning": "batir las alas; aletear"
+    },
+    {
+      "entryId": "1171690",
+      "spelling": "羽撃く",
+      "reading": "はばたく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "羽撃く【はばたく】",
+      "meaning": "batir las alas; aletear"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "character": "有",
+  "meanings": "existir, poseer, tener, ser",
+  "words": [
+    {
+      "entryId": "1541290",
+      "spelling": "有効",
+      "reading": "ゆうこう",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "有効【ゆうこう】",
+      "meaning": "válido"
+    },
+    {
+      "entryId": "1541710",
+      "spelling": "有力",
+      "reading": "ゆうりょく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "有力【ゆうりょく】",
+      "meaning": "potente; poderoso; influyente"
+    },
+    {
+      "entryId": "1541240",
+      "spelling": "有権者",
+      "reading": "ゆうけんしゃ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "有権者【ゆうけんしゃ】",
+      "meaning": "votantes"
+    },
+    {
+      "entryId": "1541620",
+      "spelling": "有名",
+      "reading": "ゆうめい",
+      "senseNumbers": [
+        8,
+        9
+      ],
+      "japanese": "有名【ゆうめい】",
+      "meaning": "famoso; fama"
+    },
+    {
+      "entryId": "1605720",
+      "spelling": "有利",
+      "reading": "ゆうり",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "有利【ゆうり】",
+      "meaning": "ventajoso"
+    },
+    {
+      "entryId": "1296400",
+      "spelling": "有る",
+      "reading": "ある",
+      "senseNumbers": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "japanese": "有る【ある】",
+      "meaning": "estar (objetos inanimados y plantas); vivir; existir; tener; estar equipado con; suceder; estar (objetos inanimados); haber; poseer; ser; estar localizado; ocurrir; pasar; producirse; tener lugar; suceder en"
+    },
+    {
+      "entryId": "1343390",
+      "spelling": "所有",
+      "reading": "しょゆう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "所有【しょゆう】",
+      "meaning": "pertenencias (de uno); propiedad"
+    },
+    {
+      "entryId": "1541350",
+      "spelling": "有罪",
+      "reading": "ゆうざい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "有罪【ゆうざい】",
+      "meaning": "culpa; culpabilidad"
+    },
+    {
+      "entryId": "1541610",
+      "spelling": "有無",
+      "reading": "うむ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "有無【うむ】",
+      "meaning": "presencia; existencia"
+    },
+    {
+      "entryId": "1541610",
+      "spelling": "有無",
+      "reading": "ゆうむ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "有無【ゆうむ】",
+      "meaning": "presencia; existencia"
+    },
+    {
+      "entryId": "1541690",
+      "spelling": "有料",
+      "reading": "ゆうりょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "有料【ゆうりょう】",
+      "meaning": "de paga; de pago requerido"
+    },
+    {
+      "entryId": "1541130",
+      "spelling": "有価証券",
+      "reading": "ゆうかしょうけん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "有価証券【ゆうかしょうけん】",
+      "meaning": "título valor"
+    },
+    {
+      "entryId": "1541180",
+      "spelling": "有機",
+      "reading": "ゆうき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "有機【ゆうき】",
+      "meaning": "orgánico"
+    },
+    {
+      "entryId": "1266730",
+      "spelling": "固有",
+      "reading": "こゆう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "固有【こゆう】",
+      "meaning": "propio; individual; inherente"
+    },
+    {
+      "entryId": "1455370",
+      "spelling": "特有",
+      "reading": "とくゆう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "特有【とくゆう】",
+      "meaning": "peculiaridad; particularidad; característica"
+    },
+    {
+      "entryId": "1541140",
+      "spelling": "有害",
+      "reading": "ゆうがい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "有害【ゆうがい】",
+      "meaning": "nocivo"
+    },
+    {
+      "entryId": "1541370",
+      "spelling": "有識者",
+      "reading": "ゆうしきしゃ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "有識者【ゆうしきしゃ】",
+      "meaning": "experto (persona)"
+    },
+    {
+      "entryId": "1541430",
+      "spelling": "有数",
+      "reading": "ゆうすう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "有数【ゆうすう】",
+      "meaning": "prominente; destacado"
+    },
+    {
+      "entryId": "1287170",
+      "spelling": "国有",
+      "reading": "こくゆう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "国有【こくゆう】",
+      "meaning": "propiedad del estado"
+    },
+    {
+      "entryId": "1541600",
+      "spelling": "有望",
+      "reading": "ゆうぼう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "有望【ゆうぼう】",
+      "meaning": "prometedor"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

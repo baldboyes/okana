@@ -1,0 +1,230 @@
+{
+  "character": "厚",
+  "meanings": "grueso, espeso, cordial, calma",
+  "words": [
+    {
+      "entryId": "1275500",
+      "spelling": "厚生省",
+      "reading": "こうせいしょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "厚生省【こうせいしょう】",
+      "meaning": "ministerio de sanidad y bienestar social"
+    },
+    {
+      "entryId": "1275540",
+      "spelling": "厚相",
+      "reading": "こうしょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "厚相【こうしょう】",
+      "meaning": "Ministro de Bienestar"
+    },
+    {
+      "entryId": "1275340",
+      "spelling": "厚さ",
+      "reading": "あつさ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "厚さ【あつさ】",
+      "meaning": "espesor; grosor"
+    },
+    {
+      "entryId": "1275490",
+      "spelling": "厚生",
+      "reading": "こうせい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "厚生【こうせい】",
+      "meaning": "seguro social; asistencia y salubridad social"
+    },
+    {
+      "entryId": "1469910",
+      "spelling": "濃厚",
+      "reading": "のうこう",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "濃厚【のうこう】",
+      "meaning": "densidad; riqueza; concentración; tensión"
+    },
+    {
+      "entryId": "1275600",
+      "spelling": "厚み",
+      "reading": "あつみ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "厚み【あつみ】",
+      "meaning": "grosor; profundidad; espesor"
+    },
+    {
+      "entryId": "1275600",
+      "spelling": "厚味",
+      "reading": "あつみ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "厚味【あつみ】",
+      "meaning": "grosor; profundidad; espesor"
+    },
+    {
+      "entryId": "1183380",
+      "spelling": "温厚",
+      "reading": "おんこう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "温厚【おんこう】",
+      "meaning": "dulce (carácter)"
+    },
+    {
+      "entryId": "1275320",
+      "spelling": "厚い",
+      "reading": "あつい",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "厚い【あつい】",
+      "meaning": "cordial; bueno; cálido (corazón); grueso; profundo; fiel; grave (enfermedad); ferviente"
+    },
+    {
+      "entryId": "1275330",
+      "spelling": "厚かましい",
+      "reading": "あつかましい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "厚かましい【あつかましい】",
+      "meaning": "impudente; descarado; atrevido; desvergonzado; insolente; infame"
+    },
+    {
+      "entryId": "1275370",
+      "spelling": "厚意",
+      "reading": "こうい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "厚意【こうい】",
+      "meaning": "cordialidad; amabilidad"
+    },
+    {
+      "entryId": "1275560",
+      "spelling": "厚着",
+      "reading": "あつぎ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "厚着【あつぎ】",
+      "meaning": "abrigarse; arroparse; ponerse mucha ropa; abrigarse mucho"
+    },
+    {
+      "entryId": "1327580",
+      "spelling": "手厚い",
+      "reading": "てあつい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "手厚い【てあつい】",
+      "meaning": "cortés; atento; amable; cordial; cálido; cariñoso"
+    },
+    {
+      "entryId": "1275470",
+      "spelling": "厚手",
+      "reading": "あつで",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "厚手【あつで】",
+      "meaning": "grueso; espeso"
+    },
+    {
+      "entryId": "1275460",
+      "spelling": "厚紙",
+      "reading": "あつがみ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "厚紙【あつがみ】",
+      "meaning": "papel grueso; cartón"
+    },
+    {
+      "entryId": "1503510",
+      "spelling": "ぶ厚い",
+      "reading": "ぶあつい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "ぶ厚い【ぶあつい】",
+      "meaning": "voluminoso; abultado; macizo; grande; grueso; gordo; pesado"
+    },
+    {
+      "entryId": "1503510",
+      "spelling": "ブ厚い",
+      "reading": "ぶあつい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "ブ厚い【ぶあつい】",
+      "meaning": "voluminoso; abultado; macizo; grande; grueso; gordo; pesado"
+    },
+    {
+      "entryId": "1503510",
+      "spelling": "分厚い",
+      "reading": "ぶあつい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "分厚い【ぶあつい】",
+      "meaning": "voluminoso; abultado; macizo; grande; grueso; gordo; pesado"
+    },
+    {
+      "entryId": "1503510",
+      "spelling": "部厚い",
+      "reading": "ぶあつい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "部厚い【ぶあつい】",
+      "meaning": "voluminoso; abultado; macizo; grande; grueso; gordo; pesado"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

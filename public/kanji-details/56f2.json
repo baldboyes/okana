@@ -1,0 +1,191 @@
+{
+  "character": "囲",
+  "meanings": "circunferencia, rodear, cercar",
+  "words": [
+    {
+      "entryId": "1331030",
+      "spelling": "周囲",
+      "reading": "しゅうい",
+      "senseNumbers": [
+        10,
+        11
+      ],
+      "japanese": "周囲【しゅうい】",
+      "meaning": "entorno; alrededores; circunferencia"
+    },
+    {
+      "entryId": "1481890",
+      "spelling": "範囲",
+      "reading": "はんい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "範囲【はんい】",
+      "meaning": "alcance; radio"
+    },
+    {
+      "entryId": "1505070",
+      "spelling": "ふん囲気",
+      "reading": "ふんいき",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "ふん囲気【ふんいき】",
+      "meaning": "atmósfera (ej. musical); ambiente"
+    },
+    {
+      "entryId": "1505070",
+      "spelling": "雰囲気",
+      "reading": "ふいんき",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "雰囲気【ふいんき】",
+      "meaning": "atmósfera (ej. musical); ambiente"
+    },
+    {
+      "entryId": "1505070",
+      "spelling": "雰囲気",
+      "reading": "ふんいき",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "雰囲気【ふんいき】",
+      "meaning": "atmósfera (ej. musical); ambiente"
+    },
+    {
+      "entryId": "1155980",
+      "spelling": "囲む",
+      "reading": "かこむ",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "囲む【かこむ】",
+      "meaning": "rodear"
+    },
+    {
+      "entryId": "1155980",
+      "spelling": "囲む",
+      "reading": "かごむ",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "囲む【かごむ】",
+      "meaning": "rodear"
+    },
+    {
+      "entryId": "1155990",
+      "spelling": "囲碁",
+      "reading": "いご",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "囲碁【いご】",
+      "meaning": "Go (juego de mesa de capturar territorio)"
+    },
+    {
+      "entryId": "1515440",
+      "spelling": "包囲",
+      "reading": "ほうい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "包囲【ほうい】",
+      "meaning": "sitio; cerco; bloqueo; acorralamiento; sitiar; cercar; asediar; rodear"
+    },
+    {
+      "entryId": "1636210",
+      "spelling": "囲み",
+      "reading": "かこみ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "囲み【かこみ】",
+      "meaning": "encierro; cercado; caja; cajón; columna; (Milicia) sitio"
+    },
+    {
+      "entryId": "1155950",
+      "spelling": "囲い",
+      "reading": "かこい",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "囲い【かこい】",
+      "meaning": "encierro; cercado; empalizada; almacenamiento; almacén"
+    },
+    {
+      "entryId": "1326550",
+      "spelling": "とり囲む",
+      "reading": "とりかこむ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "とり囲む【とりかこむ】",
+      "meaning": "rodear; cercar"
+    },
+    {
+      "entryId": "1326550",
+      "spelling": "取り囲む",
+      "reading": "とりかこむ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "取り囲む【とりかこむ】",
+      "meaning": "rodear; cercar"
+    },
+    {
+      "entryId": "1326550",
+      "spelling": "取囲む",
+      "reading": "とりかこむ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "取囲む【とりかこむ】",
+      "meaning": "rodear; cercar"
+    },
+    {
+      "entryId": "1155960",
+      "spelling": "囲う",
+      "reading": "かこう",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "囲う【かこう】",
+      "meaning": "encerrar"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

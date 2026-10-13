@@ -1,0 +1,240 @@
+{
+  "character": "昼",
+  "meanings": "día, mediodía",
+  "words": [
+    {
+      "entryId": "1426250",
+      "spelling": "昼",
+      "reading": "ひる",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "昼【ひる】",
+      "meaning": "mediodía; día"
+    },
+    {
+      "entryId": "1602330",
+      "spelling": "昼食",
+      "reading": "ちゅうしょく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "昼食【ちゅうしょく】",
+      "meaning": "almuerzo"
+    },
+    {
+      "entryId": "1581710",
+      "spelling": "昼間",
+      "reading": "ちゅうかん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "昼間【ちゅうかん】",
+      "meaning": "día; durante el día"
+    },
+    {
+      "entryId": "1581710",
+      "spelling": "昼間",
+      "reading": "ひるま",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "昼間【ひるま】",
+      "meaning": "día; durante el día"
+    },
+    {
+      "entryId": "1426280",
+      "spelling": "昼すぎ",
+      "reading": "ひるすぎ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "昼すぎ【ひるすぎ】",
+      "meaning": "la tarde; (la) tarde"
+    },
+    {
+      "entryId": "1426280",
+      "spelling": "昼過ぎ",
+      "reading": "ひるすぎ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "昼過ぎ【ひるすぎ】",
+      "meaning": "la tarde; (la) tarde"
+    },
+    {
+      "entryId": "1426430",
+      "spelling": "昼夜",
+      "reading": "ちゅうや",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "昼夜【ちゅうや】",
+      "meaning": "día y noche"
+    },
+    {
+      "entryId": "1426290",
+      "spelling": "昼休み",
+      "reading": "ひるやすみ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "昼休み【ひるやすみ】",
+      "meaning": "descanso de la tarde"
+    },
+    {
+      "entryId": "1426380",
+      "spelling": "昼前",
+      "reading": "ひるまえ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "昼前【ひるまえ】",
+      "meaning": "antes del medio día; en la mañana"
+    },
+    {
+      "entryId": "1426370",
+      "spelling": "昼寐",
+      "reading": "ひるね",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "昼寐【ひるね】",
+      "meaning": "siesta"
+    },
+    {
+      "entryId": "1426370",
+      "spelling": "昼寝",
+      "reading": "ひるね",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "昼寝【ひるね】",
+      "meaning": "siesta"
+    },
+    {
+      "entryId": "1426270",
+      "spelling": "昼下がり",
+      "reading": "ひるさがり",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "昼下がり【ひるさがり】",
+      "meaning": "primeras horas de la tarde"
+    },
+    {
+      "entryId": "1426270",
+      "spelling": "昼下り",
+      "reading": "ひるさがり",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "昼下り【ひるさがり】",
+      "meaning": "primeras horas de la tarde"
+    },
+    {
+      "entryId": "1660100",
+      "spelling": "お昼",
+      "reading": "おひる",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "お昼【おひる】",
+      "meaning": "a medio día"
+    },
+    {
+      "entryId": "1660100",
+      "spelling": "御昼",
+      "reading": "おひる",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "御昼【おひる】",
+      "meaning": "a medio día"
+    },
+    {
+      "entryId": "1602340",
+      "spelling": "昼ごはん",
+      "reading": "ひるごはん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "昼ごはん【ひるごはん】",
+      "meaning": "almuerzo"
+    },
+    {
+      "entryId": "1602340",
+      "spelling": "昼ご飯",
+      "reading": "ひるごはん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "昼ご飯【ひるごはん】",
+      "meaning": "almuerzo"
+    },
+    {
+      "entryId": "1602340",
+      "spelling": "昼御飯",
+      "reading": "ひるごはん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "昼御飯【ひるごはん】",
+      "meaning": "almuerzo"
+    },
+    {
+      "entryId": "1426410",
+      "spelling": "昼めし",
+      "reading": "ひるめし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "昼めし【ひるめし】",
+      "meaning": "almuerzo"
+    },
+    {
+      "entryId": "1426410",
+      "spelling": "昼メシ",
+      "reading": "ひるめし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "昼メシ【ひるめし】",
+      "meaning": "almuerzo"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

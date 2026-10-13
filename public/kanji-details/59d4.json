@@ -1,0 +1,191 @@
+{
+  "character": "委",
+  "meanings": "confiar, confianza, detallado",
+  "words": [
+    {
+      "entryId": "1156100",
+      "spelling": "委員",
+      "reading": "いいん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "委員【いいん】",
+      "meaning": "miembro del comité"
+    },
+    {
+      "entryId": "1156110",
+      "spelling": "委員会",
+      "reading": "いいんかい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "委員会【いいんかい】",
+      "meaning": "junta del comité; comité"
+    },
+    {
+      "entryId": "1156120",
+      "spelling": "委員長",
+      "reading": "いいんちょう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "委員長【いいんちょう】",
+      "meaning": "presidente del comité"
+    },
+    {
+      "entryId": "1351730",
+      "spelling": "委しい",
+      "reading": "くわしい",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "委しい【くわしい】",
+      "meaning": "saber muy bien; detallado; exacto; preciso; bien conocido; completo"
+    },
+    {
+      "entryId": "1156160",
+      "spelling": "委托",
+      "reading": "いたく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "委托【いたく】",
+      "meaning": "consignar (bienes (para vender) a una firma); encargar; cometer"
+    },
+    {
+      "entryId": "1156160",
+      "spelling": "委託",
+      "reading": "いたく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "委託【いたく】",
+      "meaning": "consignar (bienes (para vender) a una firma); encargar; cometer"
+    },
+    {
+      "entryId": "1658680",
+      "spelling": "執行委員",
+      "reading": "しっこういいん",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "執行委員【しっこういいん】",
+      "meaning": "comité ejecutivo"
+    },
+    {
+      "entryId": "1467130",
+      "spelling": "委す",
+      "reading": "まかす",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "委す【まかす】",
+      "meaning": "confiar; dejar a una persona"
+    },
+    {
+      "entryId": "1587220",
+      "spelling": "委縮",
+      "reading": "いしゅく",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "委縮【いしゅく】",
+      "meaning": "seco; marchito; atrofia; contracción; enano"
+    },
+    {
+      "entryId": "1156180",
+      "spelling": "委任",
+      "reading": "いにん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "委任【いにん】",
+      "meaning": "custodia; confianza"
+    },
+    {
+      "entryId": "1587230",
+      "spelling": "委嘱",
+      "reading": "いしょく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "委嘱【いしょく】",
+      "meaning": "encargar; encomendar; encargo; encomienda"
+    },
+    {
+      "entryId": "1156090",
+      "spelling": "委ねる",
+      "reading": "ゆだねる",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "委ねる【ゆだねる】",
+      "meaning": "confiar a; dedicarse a; abandonarse uno mismo a"
+    },
+    {
+      "entryId": "1467150",
+      "spelling": "委せる",
+      "reading": "まかせる",
+      "senseNumbers": [
+        14,
+        15
+      ],
+      "japanese": "委せる【まかせる】",
+      "meaning": "confiar a otro; dejar a; hacer algo cuando uno tenga tiempo"
+    },
+    {
+      "entryId": "1156190",
+      "spelling": "委任状",
+      "reading": "いにんじょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "委任状【いにんじょう】",
+      "meaning": "comisión; apoderado; poder notarial; autorización"
+    },
+    {
+      "entryId": "1970980",
+      "spelling": "委任統治",
+      "reading": "いにんとうち",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "委任統治【いにんとうち】",
+      "meaning": "mandato"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "character": "消",
+  "meanings": "extinguirse, apagarse, desaparecer, apagar, extinguir",
+  "words": [
+    {
+      "entryId": "1350290",
+      "spelling": "消費",
+      "reading": "しょうひ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "消費【しょうひ】",
+      "meaning": "gasto; consumo"
+    },
+    {
+      "entryId": "1350300",
+      "spelling": "消費者",
+      "reading": "しょうひしゃ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "消費者【しょうひしゃ】",
+      "meaning": "consumidor"
+    },
+    {
+      "entryId": "1350320",
+      "spelling": "消費税",
+      "reading": "しょうひぜい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "消費税【しょうひぜい】",
+      "meaning": "impuestos al consumo"
+    },
+    {
+      "entryId": "1199040",
+      "spelling": "解消",
+      "reading": "かいしょう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "解消【かいしょう】",
+      "meaning": "saldo; liquidación; cancelación; anulación; abolición; nulidad"
+    },
+    {
+      "entryId": "1350220",
+      "spelling": "消極的",
+      "reading": "しょうきょくてき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "消極的【しょうきょくてき】",
+      "meaning": "negativo; poco entusiasta; pasivo; desmotivado"
+    },
+    {
+      "entryId": "1350340",
+      "spelling": "消防",
+      "reading": "しょうぼう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "消防【しょうぼう】",
+      "meaning": "exterminio de incendios; control de incendios"
+    },
+    {
+      "entryId": "1592600",
+      "spelling": "消し印",
+      "reading": "けしいん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "消し印【けしいん】",
+      "meaning": "matasellos"
+    },
+    {
+      "entryId": "1592600",
+      "spelling": "消印",
+      "reading": "けしいん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "消印【けしいん】",
+      "meaning": "matasellos"
+    },
+    {
+      "entryId": "1599050",
+      "spelling": "取り消し",
+      "reading": "とりけし",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "取り消し【とりけし】",
+      "meaning": "cancelación; anulación; revocación"
+    },
+    {
+      "entryId": "1599050",
+      "spelling": "取消",
+      "reading": "とりけし",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "取消【とりけし】",
+      "meaning": "cancelación; anulación; revocación"
+    },
+    {
+      "entryId": "1599050",
+      "spelling": "取消し",
+      "reading": "とりけし",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "取消し【とりけし】",
+      "meaning": "cancelación; anulación; revocación"
+    },
+    {
+      "entryId": "1350380",
+      "spelling": "消滅",
+      "reading": "しょうめつ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "消滅【しょうめつ】",
+      "meaning": "extinción; desaparición; apagamiento"
+    },
+    {
+      "entryId": "1350250",
+      "spelling": "消息",
+      "reading": "しょうそく",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "消息【しょうそく】",
+      "meaning": "paradero; acontecimiento; noticias"
+    },
+    {
+      "entryId": "1350250",
+      "spelling": "消息",
+      "reading": "しょうそこ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "消息【しょうそこ】",
+      "meaning": "paradero; acontecimiento; noticias"
+    },
+    {
+      "entryId": "1350080",
+      "spelling": "消しごむ",
+      "reading": "けしゴム",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "消しごむ【けしゴム】",
+      "meaning": "goma de borrar"
+    },
+    {
+      "entryId": "1350080",
+      "spelling": "消しゴム",
+      "reading": "けしごむ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "消しゴム【けしごむ】",
+      "meaning": "goma de borrar"
+    },
+    {
+      "entryId": "1350080",
+      "spelling": "消しゴム",
+      "reading": "けしゴム",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "消しゴム【けしゴム】",
+      "meaning": "goma de borrar"
+    },
+    {
+      "entryId": "1350080",
+      "spelling": "消しゴム",
+      "reading": "ケシゴム",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "消しゴム【ケシゴム】",
+      "meaning": "goma de borrar"
+    },
+    {
+      "entryId": "1350080",
+      "spelling": "消ゴム",
+      "reading": "けしゴム",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "消ゴム【けしゴム】",
+      "meaning": "goma de borrar"
+    },
+    {
+      "entryId": "1350140",
+      "spelling": "消化",
+      "reading": "しょうか",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "消化【しょうか】",
+      "meaning": "digestión"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

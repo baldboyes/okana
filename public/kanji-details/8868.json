@@ -1,0 +1,241 @@
+{
+  "character": "表",
+  "meanings": "superficie, tabla, diagrama, expresar, mostrar",
+  "words": [
+    {
+      "entryId": "1412170",
+      "spelling": "代表",
+      "reading": "だいひょう",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "代表【だいひょう】",
+      "meaning": "representar; actuar como representante o delegado; representativo; representación; delegación; tipo; ejemplo; modelo"
+    },
+    {
+      "entryId": "1477840",
+      "spelling": "発表",
+      "reading": "はっぴょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "発表【はっぴょう】",
+      "meaning": "publicar; declarar; hacer público; decir en público; anuncio; publicación; presentación"
+    },
+    {
+      "entryId": "1489510",
+      "spelling": "表現",
+      "reading": "ひょうげん",
+      "senseNumbers": [
+        10,
+        11
+      ],
+      "japanese": "表現【ひょうげん】",
+      "meaning": "expresión; gesto; (matemáticas) representación; expresar; manifestar"
+    },
+    {
+      "entryId": "1489700",
+      "spelling": "表情",
+      "reading": "ひょうじょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "表情【ひょうじょう】",
+      "meaning": "expresión facial"
+    },
+    {
+      "entryId": "1489880",
+      "spelling": "表面",
+      "reading": "ひょうめん",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "表面【ひょうめん】",
+      "meaning": "superficie"
+    },
+    {
+      "entryId": "1489610",
+      "spelling": "表示",
+      "reading": "ひょうじ",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "表示【ひょうじ】",
+      "meaning": "presentación; display"
+    },
+    {
+      "entryId": "1274550",
+      "spelling": "公表",
+      "reading": "こうひょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "公表【こうひょう】",
+      "meaning": "anuncio; comunicado; aviso; notificación"
+    },
+    {
+      "entryId": "1489670",
+      "spelling": "表彰",
+      "reading": "ひょうしょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "表彰【ひょうしょう】",
+      "meaning": "reconocimiento; homenaje"
+    },
+    {
+      "entryId": "1489670",
+      "spelling": "表賞",
+      "reading": "ひょうしょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "表賞【ひょうしょう】",
+      "meaning": "reconocimiento; homenaje"
+    },
+    {
+      "entryId": "1489340",
+      "spelling": "表",
+      "reading": "おもて",
+      "senseNumbers": [
+        26
+      ],
+      "japanese": "表【おもて】",
+      "meaning": "frente; superficie"
+    },
+    {
+      "entryId": "1610550",
+      "spelling": "表れ",
+      "reading": "あらわれ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "表れ【あらわれ】",
+      "meaning": "expresión; resultado; reflejo; muestra; divulgación; publificación; difusión"
+    },
+    {
+      "entryId": "1610550",
+      "spelling": "表われ",
+      "reading": "あらわれ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "表われ【あらわれ】",
+      "meaning": "expresión; resultado; reflejo; muestra; divulgación; publificación; difusión"
+    },
+    {
+      "entryId": "1489600",
+      "spelling": "表紙",
+      "reading": "ひょうし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "表紙【ひょうし】",
+      "meaning": "portada; encuadernación"
+    },
+    {
+      "entryId": "1412190",
+      "spelling": "代表作",
+      "reading": "だいひょうさく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "代表作【だいひょうさく】",
+      "meaning": "obra maestra; obra representativa"
+    },
+    {
+      "entryId": "1489420",
+      "spelling": "表記",
+      "reading": "ひょうき",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "表記【ひょうき】",
+      "meaning": "nota; comentario; observación"
+    },
+    {
+      "entryId": "1156630",
+      "spelling": "意志表示",
+      "reading": "いしひょうじ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "意志表示【いしひょうじ】",
+      "meaning": "declaración de intención"
+    },
+    {
+      "entryId": "1156630",
+      "spelling": "意思表示",
+      "reading": "いしひょうじ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "意思表示【いしひょうじ】",
+      "meaning": "declaración de intención"
+    },
+    {
+      "entryId": "1412220",
+      "spelling": "代表的",
+      "reading": "だいひょうてき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "代表的【だいひょうてき】",
+      "meaning": "representativo; ejemplar; modelo"
+    },
+    {
+      "entryId": "1489540",
+      "spelling": "表向き",
+      "reading": "おもてむき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "表向き【おもてむき】",
+      "meaning": "apariencia exterior; aparente; público; oficial"
+    },
+    {
+      "entryId": "1167190",
+      "spelling": "一覧表",
+      "reading": "いちらんひょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "一覧表【いちらんひょう】",
+      "meaning": "lista; tabla; cuadro; horarios; catálogo"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

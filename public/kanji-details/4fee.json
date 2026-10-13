@@ -1,0 +1,240 @@
+{
+  "character": "修",
+  "meanings": "disciplina, reparación, arreglo, dominar, controlar, controlarse",
+  "words": [
+    {
+      "entryId": "1332130",
+      "spelling": "修正",
+      "reading": "しゅうせい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "修正【しゅうせい】",
+      "meaning": "corrección; enmienda; rectificación; corregir; rectificar; modificar; enmendar"
+    },
+    {
+      "entryId": "1603240",
+      "spelling": "編修",
+      "reading": "へんしゅう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "編修【へんしゅう】",
+      "meaning": "edición"
+    },
+    {
+      "entryId": "1258660",
+      "spelling": "研修",
+      "reading": "けんしゅう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "研修【けんしゅう】",
+      "meaning": "estudio; investigación"
+    },
+    {
+      "entryId": "1332400",
+      "spelling": "修理",
+      "reading": "しゅうり",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "修理【しゅうり】",
+      "meaning": "reparación; arreglo; restauración"
+    },
+    {
+      "entryId": "1332400",
+      "spelling": "修理",
+      "reading": "しゅり",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "修理【しゅり】",
+      "meaning": "reparación; arreglo; restauración"
+    },
+    {
+      "entryId": "1332400",
+      "spelling": "修理",
+      "reading": "すり",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "修理【すり】",
+      "meaning": "reparación; arreglo; restauración"
+    },
+    {
+      "entryId": "1332320",
+      "spelling": "修復",
+      "reading": "しゅうふく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "修復【しゅうふく】",
+      "meaning": "rehabilitar; restaurar; reconstruir; reparación; arreglo"
+    },
+    {
+      "entryId": "1332320",
+      "spelling": "修復",
+      "reading": "しゅふく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "修復【しゅふく】",
+      "meaning": "rehabilitar; restaurar; reconstruir; reparación; arreglo"
+    },
+    {
+      "entryId": "1332320",
+      "spelling": "修覆",
+      "reading": "しゅうふく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "修覆【しゅうふく】",
+      "meaning": "rehabilitar; restaurar; reconstruir; reparación; arreglo"
+    },
+    {
+      "entryId": "1332450",
+      "spelling": "修了",
+      "reading": "しゅうりょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "修了【しゅうりょう】",
+      "meaning": "conclusión; fin"
+    },
+    {
+      "entryId": "1200880",
+      "spelling": "改修",
+      "reading": "かいしゅう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "改修【かいしゅう】",
+      "meaning": "restauración; reforma"
+    },
+    {
+      "entryId": "1331960",
+      "spelling": "修学旅行",
+      "reading": "しゅうがくりょこう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "修学旅行【しゅうがくりょこう】",
+      "meaning": "excursión; viaje de aprendizaje"
+    },
+    {
+      "entryId": "1389790",
+      "spelling": "専修",
+      "reading": "せんしゅう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "専修【せんしゅう】",
+      "meaning": "especialización"
+    },
+    {
+      "entryId": "1579800",
+      "spelling": "修業",
+      "reading": "しゅうぎょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "修業【しゅうぎょう】",
+      "meaning": "Estudio; formación; aprendizaje; capacitación"
+    },
+    {
+      "entryId": "1579800",
+      "spelling": "修業",
+      "reading": "しゅぎょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "修業【しゅぎょう】",
+      "meaning": "Estudio; formación; aprendizaje; capacitación"
+    },
+    {
+      "entryId": "1213710",
+      "spelling": "監修",
+      "reading": "かんしゅう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "監修【かんしゅう】",
+      "meaning": "coordinación; supervisión"
+    },
+    {
+      "entryId": "1332020",
+      "spelling": "修士",
+      "reading": "しゅうし",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "修士【しゅうし】",
+      "meaning": "maestría"
+    },
+    {
+      "entryId": "1594750",
+      "spelling": "修得",
+      "reading": "しゅうとく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "修得【しゅうとく】",
+      "meaning": "aprendizaje; adquisición"
+    },
+    {
+      "entryId": "1332170",
+      "spelling": "修繕",
+      "reading": "しゅうぜん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "修繕【しゅうぜん】",
+      "meaning": "reparación; arreglo"
+    },
+    {
+      "entryId": "1487510",
+      "spelling": "必修",
+      "reading": "ひっしゅう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "必修【ひっしゅう】",
+      "meaning": "obligatorio"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

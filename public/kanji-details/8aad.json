@@ -1,0 +1,240 @@
+{
+  "character": "読",
+  "meanings": "leer",
+  "words": [
+    {
+      "entryId": "1456400",
+      "spelling": "読者",
+      "reading": "どくしゃ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "読者【どくしゃ】",
+      "meaning": "lector"
+    },
+    {
+      "entryId": "1456420",
+      "spelling": "読書",
+      "reading": "とくしょ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "読書【とくしょ】",
+      "meaning": "la lectura (el leer); lectura"
+    },
+    {
+      "entryId": "1456420",
+      "spelling": "読書",
+      "reading": "どくしょ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "読書【どくしょ】",
+      "meaning": "la lectura (el leer); lectura"
+    },
+    {
+      "entryId": "1456130",
+      "spelling": "読み",
+      "reading": "よみ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "読み【よみ】",
+      "meaning": "lectura"
+    },
+    {
+      "entryId": "1456470",
+      "spelling": "読売",
+      "reading": "よみうり",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "読売【よみうり】",
+      "meaning": "Yomiuri (periódico japonés)"
+    },
+    {
+      "entryId": "1456360",
+      "spelling": "読む",
+      "reading": "よむ",
+      "senseNumbers": [
+        24
+      ],
+      "japanese": "読む【よむ】",
+      "meaning": "leer"
+    },
+    {
+      "entryId": "1560730",
+      "spelling": "朗読",
+      "reading": "ろうどく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "朗読【ろうどく】",
+      "meaning": "lectura en voz alta"
+    },
+    {
+      "entryId": "1282420",
+      "spelling": "購読",
+      "reading": "こうどく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "購読【こうどく】",
+      "meaning": "suscripción (e.g. revista)"
+    },
+    {
+      "entryId": "1456330",
+      "spelling": "読み方",
+      "reading": "よみかた",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "読み方【よみかた】",
+      "meaning": "(reglas, estandares de) lectura"
+    },
+    {
+      "entryId": "1490460",
+      "spelling": "秒読み",
+      "reading": "びょうよみ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "秒読み【びょうよみ】",
+      "meaning": "cuenta atrás"
+    },
+    {
+      "entryId": "1150990",
+      "spelling": "愛読",
+      "reading": "あいどく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "愛読【あいどく】",
+      "meaning": "leer con placer"
+    },
+    {
+      "entryId": "1456250",
+      "spelling": "読み書き",
+      "reading": "よみかき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "読み書き【よみかき】",
+      "meaning": "lectura y escritura"
+    },
+    {
+      "entryId": "1456250",
+      "spelling": "読書き",
+      "reading": "よみかき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "読書き【よみかき】",
+      "meaning": "lectura y escritura"
+    },
+    {
+      "entryId": "1199200",
+      "spelling": "解読",
+      "reading": "かいどく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "解読【かいどく】",
+      "meaning": "descifrar; descodificar"
+    },
+    {
+      "entryId": "1456260",
+      "spelling": "読み上げる",
+      "reading": "よみあげる",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "読み上げる【よみあげる】",
+      "meaning": "leer en voz alta"
+    },
+    {
+      "entryId": "1456260",
+      "spelling": "読上げる",
+      "reading": "よみあげる",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "読上げる【よみあげる】",
+      "meaning": "leer en voz alta"
+    },
+    {
+      "entryId": "1244050",
+      "spelling": "句読点",
+      "reading": "くとうてん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "句読点【くとうてん】",
+      "meaning": "punto final"
+    },
+    {
+      "entryId": "1183990",
+      "spelling": "音読",
+      "reading": "おんどく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "音読【おんどく】",
+      "meaning": "lectura en voz alta"
+    },
+    {
+      "entryId": "1184000",
+      "spelling": "音読み",
+      "reading": "おんよみ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "音読み【おんよみ】",
+      "meaning": "lectura china del kanji"
+    },
+    {
+      "entryId": "1247450",
+      "spelling": "訓読み",
+      "reading": "くんよみ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "訓読み【くんよみ】",
+      "meaning": "lectura japonesa del kanji; kun-yomi"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

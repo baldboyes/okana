@@ -1,0 +1,240 @@
+{
+  "character": "適",
+  "meanings": "adecuado, apropiado, adaptarse",
+  "words": [
+    {
+      "entryId": "1437430",
+      "spelling": "適切",
+      "reading": "てきせつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "適切【てきせつ】",
+      "meaning": "apropiado"
+    },
+    {
+      "entryId": "1437500",
+      "spelling": "適用",
+      "reading": "てきよう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "適用【てきよう】",
+      "meaning": "aplicar; aplicación; uso"
+    },
+    {
+      "entryId": "1437450",
+      "spelling": "適当",
+      "reading": "てきとう",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "適当【てきとう】",
+      "meaning": "al azar; al buen tuntún; apropiado; adecuado"
+    },
+    {
+      "entryId": "1437290",
+      "spelling": "適確",
+      "reading": "てきかく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "適確【てきかく】",
+      "meaning": "preciso; exacto"
+    },
+    {
+      "entryId": "1200120",
+      "spelling": "快適",
+      "reading": "かいてき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "快適【かいてき】",
+      "meaning": "cómodo"
+    },
+    {
+      "entryId": "1294280",
+      "spelling": "最適",
+      "reading": "さいてき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "最適【さいてき】",
+      "meaning": "óptimo"
+    },
+    {
+      "entryId": "1437350",
+      "spelling": "適応",
+      "reading": "てきおう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "適応【てきおう】",
+      "meaning": "adaptarse; aclimatarse; acomodarse; adaptación"
+    },
+    {
+      "entryId": "1397350",
+      "spelling": "素適",
+      "reading": "すてき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "素適【すてき】",
+      "meaning": "encantador; maravilloso; espléndido"
+    },
+    {
+      "entryId": "1437490",
+      "spelling": "適法",
+      "reading": "てきほう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "適法【てきほう】",
+      "meaning": "legalidad"
+    },
+    {
+      "entryId": "1437370",
+      "spelling": "適格",
+      "reading": "てきかく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "適格【てきかく】",
+      "meaning": "legitimado; adecuado; apto; competente"
+    },
+    {
+      "entryId": "1437370",
+      "spelling": "適格",
+      "reading": "てっかく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "適格【てっかく】",
+      "meaning": "legitimado; adecuado; apto; competente"
+    },
+    {
+      "entryId": "1437390",
+      "spelling": "適合",
+      "reading": "てきごう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "適合【てきごう】",
+      "meaning": "ajustarse; conjuntar; adaptarse; ir bien"
+    },
+    {
+      "entryId": "1437440",
+      "spelling": "適度",
+      "reading": "てきど",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "適度【てきど】",
+      "meaning": "moderación; mesura"
+    },
+    {
+      "entryId": "1437410",
+      "spelling": "適性",
+      "reading": "てきせい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "適性【てきせい】",
+      "meaning": "aptitud; talento"
+    },
+    {
+      "entryId": "1437300",
+      "spelling": "適中",
+      "reading": "てきちゅう",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "適中【てきちゅう】",
+      "meaning": "dar justo en el blanco; acierto; atino"
+    },
+    {
+      "entryId": "1735060",
+      "spelling": "適齢",
+      "reading": "てきれい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "適齢【てきれい】",
+      "meaning": "edad adecuada"
+    },
+    {
+      "entryId": "1437530",
+      "spelling": "適量",
+      "reading": "てきりょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "適量【てきりょう】",
+      "meaning": "cantidad adecuada"
+    },
+    {
+      "entryId": "1437380",
+      "spelling": "適宜",
+      "reading": "てきぎ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "適宜【てきぎ】",
+      "meaning": "apropiado; oportuno"
+    },
+    {
+      "entryId": "1437340",
+      "spelling": "適する",
+      "reading": "てきする",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "適する【てきする】",
+      "meaning": "ser propicio; ser adecuado"
+    },
+    {
+      "entryId": "1002950",
+      "spelling": "適わない",
+      "reading": "かなわない",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "適わない【かなわない】",
+      "meaning": "inevitable"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

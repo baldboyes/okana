@@ -1,0 +1,241 @@
+{
+  "character": "院",
+  "meanings": "institución, templo, hospital",
+  "words": [
+    {
+      "entryId": "1490220",
+      "spelling": "病院",
+      "reading": "びょういん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "病院【びょういん】",
+      "meaning": "hospital"
+    },
+    {
+      "entryId": "1580350",
+      "spelling": "上院",
+      "reading": "じょういん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "上院【じょういん】",
+      "meaning": "senado"
+    },
+    {
+      "entryId": "1413250",
+      "spelling": "大学院",
+      "reading": "だいがくいん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "大学院【だいがくいん】",
+      "meaning": "posgrado universitario"
+    },
+    {
+      "entryId": "1465720",
+      "spelling": "入院",
+      "reading": "にゅういん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "入院【にゅういん】",
+      "meaning": "hospitalización; ingresar en un hospital; ser hospitalizado; ser dado de baja hospitalaria"
+    },
+    {
+      "entryId": "1206560",
+      "spelling": "学院",
+      "reading": "がくいん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "学院【がくいん】",
+      "meaning": "instituto; academia"
+    },
+    {
+      "entryId": "1206560",
+      "spelling": "學院",
+      "reading": "がくいん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "學院【がくいん】",
+      "meaning": "instituto; academia"
+    },
+    {
+      "entryId": "1170210",
+      "spelling": "院長",
+      "reading": "いんちょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "院長【いんちょう】",
+      "meaning": "director"
+    },
+    {
+      "entryId": "1302210",
+      "spelling": "参議院",
+      "reading": "さんぎいん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "参議院【さんぎいん】",
+      "meaning": "Cámara de Consejeros (Japón)"
+    },
+    {
+      "entryId": "1315250",
+      "spelling": "寺院",
+      "reading": "じいん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "寺院【じいん】",
+      "meaning": "templo"
+    },
+    {
+      "entryId": "1613450",
+      "spelling": "院内",
+      "reading": "いんない",
+      "senseNumbers": [
+        9,
+        10
+      ],
+      "japanese": "院内【いんない】",
+      "meaning": "dentro de la Cámara (Dieta); dentro del hospital"
+    },
+    {
+      "entryId": "1333260",
+      "spelling": "衆議院",
+      "reading": "しゅうぎいん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "衆議院【しゅうぎいん】",
+      "meaning": "Cámara de Representantes de Japón"
+    },
+    {
+      "entryId": "1411300",
+      "spelling": "退院",
+      "reading": "たいいん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "退院【たいいん】",
+      "meaning": "alta de un hospital"
+    },
+    {
+      "entryId": "1159730",
+      "spelling": "医院",
+      "reading": "いいん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "医院【いいん】",
+      "meaning": "oficina del doctor (cirugía); clínica; dispensario"
+    },
+    {
+      "entryId": "1159730",
+      "spelling": "醫院",
+      "reading": "いいん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "醫院【いいん】",
+      "meaning": "oficina del doctor (cirugía); clínica; dispensario"
+    },
+    {
+      "entryId": "1266820",
+      "spelling": "孤児院",
+      "reading": "こじいん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "孤児院【こじいん】",
+      "meaning": "orfanato"
+    },
+    {
+      "entryId": "1486680",
+      "spelling": "美容院",
+      "reading": "びよういん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "美容院【びよういん】",
+      "meaning": "peluquería"
+    },
+    {
+      "entryId": "1349180",
+      "spelling": "少年院",
+      "reading": "しょうねんいん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "少年院【しょうねんいん】",
+      "meaning": "reformatorio; centro penitenciario de menores"
+    },
+    {
+      "entryId": "1303730",
+      "spelling": "産院",
+      "reading": "さんいん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "産院【さんいん】",
+      "meaning": "hospital de maternidad"
+    },
+    {
+      "entryId": "1751220",
+      "spelling": "精神病院",
+      "reading": "せいしんびょういん",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "精神病院【せいしんびょういん】",
+      "meaning": "manicomio"
+    },
+    {
+      "entryId": "1170180",
+      "spelling": "院政",
+      "reading": "いんせい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "院政【いんせい】",
+      "meaning": "gobierno por los emperadores claustros"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

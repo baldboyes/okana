@@ -1,0 +1,241 @@
+{
+  "character": "男",
+  "meanings": "masculino, hombre",
+  "words": [
+    {
+      "entryId": "1419990",
+      "spelling": "男",
+      "reading": "おっこ",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "男【おっこ】",
+      "meaning": "hombre; varón"
+    },
+    {
+      "entryId": "1419990",
+      "spelling": "男",
+      "reading": "おとこ",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "男【おとこ】",
+      "meaning": "hombre; varón"
+    },
+    {
+      "entryId": "1420070",
+      "spelling": "男子",
+      "reading": "だんし",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "男子【だんし】",
+      "meaning": "muchacho; chico; joven; niño"
+    },
+    {
+      "entryId": "1420160",
+      "spelling": "男性",
+      "reading": "だんせい",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "男性【だんせい】",
+      "meaning": "sexo masculino; hombre"
+    },
+    {
+      "entryId": "1430080",
+      "spelling": "長男",
+      "reading": "ちょうなん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "長男【ちょうなん】",
+      "meaning": "hijo mayor"
+    },
+    {
+      "entryId": "1420110",
+      "spelling": "男女",
+      "reading": "だんじょ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "男女【だんじょ】",
+      "meaning": "hombre y mujer; hombres y mujeres"
+    },
+    {
+      "entryId": "1420110",
+      "spelling": "男女",
+      "reading": "なんにょ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "男女【なんにょ】",
+      "meaning": "hombre y mujer; hombres y mujeres"
+    },
+    {
+      "entryId": "1420010",
+      "spelling": "男のコ",
+      "reading": "おとこのこ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "男のコ【おとこのこ】",
+      "meaning": "chico; chaval; niño (varón)"
+    },
+    {
+      "entryId": "1420010",
+      "spelling": "男の子",
+      "reading": "おとこのこ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "男の子【おとこのこ】",
+      "meaning": "chico; chaval; niño (varón)"
+    },
+    {
+      "entryId": "1164720",
+      "spelling": "一男",
+      "reading": "いちなん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "一男【いちなん】",
+      "meaning": "muchacho; hijo mayor"
+    },
+    {
+      "entryId": "1420230",
+      "spelling": "男優",
+      "reading": "だんゆう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "男優【だんゆう】",
+      "meaning": "actor"
+    },
+    {
+      "entryId": "1420180",
+      "spelling": "男まえ",
+      "reading": "おとこまえ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "男まえ【おとこまえ】",
+      "meaning": "hombre guapo"
+    },
+    {
+      "entryId": "1420180",
+      "spelling": "男前",
+      "reading": "おとこまえ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "男前【おとこまえ】",
+      "meaning": "hombre guapo"
+    },
+    {
+      "entryId": "1316710",
+      "spelling": "二男",
+      "reading": "じなん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "二男【じなん】",
+      "meaning": "segundo hijo (varón)"
+    },
+    {
+      "entryId": "1316710",
+      "spelling": "次男",
+      "reading": "じなん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "次男【じなん】",
+      "meaning": "segundo hijo (varón)"
+    },
+    {
+      "entryId": "1420030",
+      "spelling": "男らしい",
+      "reading": "おとこらしい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "男らしい【おとこらしい】",
+      "meaning": "masculino; varonil"
+    },
+    {
+      "entryId": "1610290",
+      "spelling": "男性的",
+      "reading": "だんせいてき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "男性的【だんせいてき】",
+      "meaning": "masculino; varonil"
+    },
+    {
+      "entryId": "1223615",
+      "spelling": "貴男",
+      "reading": "あなた",
+      "senseNumbers": [
+        8,
+        9
+      ],
+      "japanese": "貴男【あなた】",
+      "meaning": "tú; señorita; usted; querido (como la esposa llama al marido)"
+    },
+    {
+      "entryId": "1420020",
+      "spelling": "男の人",
+      "reading": "おとこのひと",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "男の人【おとこのひと】",
+      "meaning": "hombre"
+    },
+    {
+      "entryId": "1561080",
+      "spelling": "老若男女",
+      "reading": "ろうじゃくだんじょ",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "老若男女【ろうじゃくだんじょ】",
+      "meaning": "todo el mundo sin distinción: jóvenes y viejos, hombres y mujeres; hombres y mujeres de todas las edades"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

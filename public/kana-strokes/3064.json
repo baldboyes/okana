@@ -1,0 +1,30 @@
+{
+  "character": "つ",
+  "script": "hiragana",
+  "viewBox": "0 0 1024 1024",
+  "coordinates": "svg-native-y-down",
+  "strokes": [
+    {
+      "ordinal": 1,
+      "parts": [
+        {
+          "id": "z12388d1",
+          "clipId": "z12388c1",
+          "outline": "M 335,348 C 275,367 200,384 152,392 127,395 117,396 103,405 80,417 101,439 124,454 145,467 173,470 197,462 233,449 267,429 304,417 525,337 593,320 703,320 911,319 863,486 844,528 794,634 607,699 509,751 456,778 518,782 557,771 709,725 829,671 889,577 960,465 916,345 837,303 707,234 544,279 335,348 Z",
+          "median": "M 107,418 161,448 547,300 791,304 891,398 878,550 683,707 508,769"
+        }
+      ]
+    }
+  ],
+  "provenance": {
+    "commit": "ec5e17cca76c87587790bcbce5ea0b4d4fb753d6",
+    "modifiedAt": "2026-10-02",
+    "license": "LGPL-3.0-or-later",
+    "sourceFilename": "12388.svg",
+    "sourceUrl": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12388.svg",
+    "sourceSha256": "019eb221a4af96a7822ff510ad0d36bf65195e8b241b0c54736e98cb31416329",
+    "gitBlobSha1": "016fda557eff72ad5b6e44bf8a4115c0526b84e0",
+    "sourceHeader": "\nAnimCJK 2016-2026 Copyright FM-SH, https://github.com/parsimonhi/animCJK\nYou can redistribute and/or modify these files under the terms of the GNU\nLesser General Public License as published by the Free Software Foundation,\neither version 3 of the license, or (at your option) any later version. You\nshould have received a copy of this license (the file \"LGPL.txt\") along with\nthese files; if not, see https://www.gnu.org/licenses/.\n",
+    "notice": "Converted SVG outlines and median paths to grouped JSON without geometry changes by Okana on 2026-10-02, from AnimCJK ec5e17cca76c87587790bcbce5ea0b4d4fb753d6. Graphics remain LGPL-3.0-or-later; original copyright and notices are retained in sourceHeader and corresponding source SVG files."
+  }
+}

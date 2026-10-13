@@ -1,0 +1,220 @@
+{
+  "character": "陸",
+  "meanings": "tierra",
+  "words": [
+    {
+      "entryId": "1585310",
+      "spelling": "陸",
+      "reading": "ろく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "陸【ろく】",
+      "meaning": "seis"
+    },
+    {
+      "entryId": "1588920",
+      "spelling": "陸符",
+      "reading": "おか",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "陸符【おか】",
+      "meaning": "colina"
+    },
+    {
+      "entryId": "1415150",
+      "spelling": "大陸",
+      "reading": "たいりく",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "大陸【たいりく】",
+      "meaning": "continente"
+    },
+    {
+      "entryId": "1550980",
+      "spelling": "陸",
+      "reading": "おか",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "陸【おか】",
+      "meaning": "tierra (por oposición a mar); tierra firme; suelo"
+    },
+    {
+      "entryId": "1550980",
+      "spelling": "陸",
+      "reading": "りく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "陸【りく】",
+      "meaning": "tierra (por oposición a mar); tierra firme; suelo"
+    },
+    {
+      "entryId": "1551050",
+      "spelling": "陸上",
+      "reading": "りくじょう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "陸上【りくじょう】",
+      "meaning": "terrestre; de atletismo"
+    },
+    {
+      "entryId": "1551020",
+      "spelling": "陸軍",
+      "reading": "りくぐん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "陸軍【りくぐん】",
+      "meaning": "ejército"
+    },
+    {
+      "entryId": "1354480",
+      "spelling": "上陸",
+      "reading": "じょうりく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "上陸【じょうりく】",
+      "meaning": "aterrizaje"
+    },
+    {
+      "entryId": "1423280",
+      "spelling": "着陸",
+      "reading": "ちゃくりく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "着陸【ちゃくりく】",
+      "meaning": "aterrizaje"
+    },
+    {
+      "entryId": "1459500",
+      "spelling": "内陸",
+      "reading": "ないりく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "内陸【ないりく】",
+      "meaning": "tierra adentro (sin acceso al mar)"
+    },
+    {
+      "entryId": "1550970",
+      "spelling": "離陸",
+      "reading": "りりく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "離陸【りりく】",
+      "meaning": "despegue"
+    },
+    {
+      "entryId": "1823900",
+      "spelling": "陸海",
+      "reading": "りくかい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "陸海【りくかい】",
+      "meaning": "tierra y mar"
+    },
+    {
+      "entryId": "1823900",
+      "spelling": "陸海",
+      "reading": "りっかい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "陸海【りっかい】",
+      "meaning": "tierra y mar"
+    },
+    {
+      "entryId": "1612250",
+      "spelling": "陸橋",
+      "reading": "りくきょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "陸橋【りくきょう】",
+      "meaning": "paso elevado; puente flotante"
+    },
+    {
+      "entryId": "1612250",
+      "spelling": "陸橋",
+      "reading": "りっきょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "陸橋【りっきょう】",
+      "meaning": "paso elevado; puente flotante"
+    },
+    {
+      "entryId": "1570040",
+      "spelling": "陸に",
+      "reading": "ろくに",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "陸に【ろくに】",
+      "meaning": "bien; debidamente"
+    },
+    {
+      "entryId": "1612330",
+      "spelling": "陸な",
+      "reading": "ろくな",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "陸な【ろくな】",
+      "meaning": "satisfactorio; decente"
+    },
+    {
+      "entryId": "1415170",
+      "spelling": "大陸棚",
+      "reading": "たいりくだな",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "大陸棚【たいりくだな】",
+      "meaning": "plataforma continental"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

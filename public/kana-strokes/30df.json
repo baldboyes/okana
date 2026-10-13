@@ -1,0 +1,52 @@
+{
+  "character": "ミ",
+  "script": "katakana",
+  "viewBox": "0 0 1024 1024",
+  "coordinates": "svg-native-y-down",
+  "strokes": [
+    {
+      "ordinal": 1,
+      "parts": [
+        {
+          "id": "z12511d1",
+          "clipId": "z12511c1",
+          "outline": "M403 172C472 221 537 288 596 308C636 322 638 263 619 235C598 202 483 163 414 138C373 124 314 108 403 172Z",
+          "median": "M 367,134 576,243 607,302"
+        }
+      ]
+    },
+    {
+      "ordinal": 2,
+      "parts": [
+        {
+          "id": "z12511d2",
+          "clipId": "z12511c2",
+          "outline": "M387 430C454 476 531 562 597 584C639 598 633 524 609 499C576 465 477 430 402 404C354 386 328 389 387 430Z",
+          "median": "M 367,404 577,504 609,580"
+        }
+      ]
+    },
+    {
+      "ordinal": 3,
+      "parts": [
+        {
+          "id": "z12511d3",
+          "clipId": "z12511c3",
+          "outline": "M371 697C441 750 543 854 619 895C665 920 672 835 643 802C604 757 502 714 368 652C332 636 298 642 342 676C361 690 361 690 371 697Z",
+          "median": "M 331,655 619,827 638,887"
+        }
+      ]
+    }
+  ],
+  "provenance": {
+    "commit": "ec5e17cca76c87587790bcbce5ea0b4d4fb753d6",
+    "modifiedAt": "2026-10-02",
+    "license": "LGPL-3.0-or-later",
+    "sourceFilename": "12511.svg",
+    "sourceUrl": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12511.svg",
+    "sourceSha256": "2a98dd0894d8aa7c0cd4452ad957a8595ad9656b8573d86c5937b5107d68e044",
+    "gitBlobSha1": "83312d1b0186122cb27c9271026e98360fd7a5e9",
+    "sourceHeader": "\nAnimCJK 2016-2026 Copyright FM-SH, https://github.com/parsimonhi/animCJK\nYou can redistribute and/or modify these files under the terms of the GNU\nLesser General Public License as published by the Free Software Foundation,\neither version 3 of the license, or (at your option) any later version. You\nshould have received a copy of this license (the file \"LGPL.txt\") along with\nthese files; if not, see https://www.gnu.org/licenses/.\n",
+    "notice": "Converted SVG outlines and median paths to grouped JSON without geometry changes by Okana on 2026-10-02, from AnimCJK ec5e17cca76c87587790bcbce5ea0b4d4fb753d6. Graphics remain LGPL-3.0-or-later; original copyright and notices are retained in sourceHeader and corresponding source SVG files."
+  }
+}

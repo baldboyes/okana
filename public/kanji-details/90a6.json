@@ -1,0 +1,120 @@
+{
+  "character": "邦",
+  "meanings": "país natal, país, tierra",
+  "words": [
+    {
+      "entryId": "1559790",
+      "spelling": "聯邦",
+      "reading": "れんぽう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "聯邦【れんぽう】",
+      "meaning": "federación; confederación"
+    },
+    {
+      "entryId": "1559790",
+      "spelling": "連邦",
+      "reading": "れんぽう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "連邦【れんぽう】",
+      "meaning": "federación; confederación"
+    },
+    {
+      "entryId": "1592250",
+      "spelling": "邦",
+      "reading": "くに",
+      "senseNumbers": [
+        22
+      ],
+      "japanese": "邦【くに】",
+      "meaning": "país"
+    },
+    {
+      "entryId": "1518250",
+      "spelling": "邦人",
+      "reading": "ほうじん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "邦人【ほうじん】",
+      "meaning": "persona japonesa"
+    },
+    {
+      "entryId": "1518230",
+      "spelling": "邦楽",
+      "reading": "ほうがく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "邦楽【ほうがく】",
+      "meaning": "música japonesa (tradicional)"
+    },
+    {
+      "entryId": "1518220",
+      "spelling": "邦画",
+      "reading": "ほうが",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "邦画【ほうが】",
+      "meaning": "película japonesa"
+    },
+    {
+      "entryId": "1158090",
+      "spelling": "異邦人",
+      "reading": "いほうじん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "異邦人【いほうじん】",
+      "meaning": "extranjero; extraño; gentil"
+    },
+    {
+      "entryId": "1540240",
+      "spelling": "友邦",
+      "reading": "ゆうほう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "友邦【ゆうほう】",
+      "meaning": "nación amistosa; país amistoso"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

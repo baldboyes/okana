@@ -1,0 +1,241 @@
+{
+  "character": "極",
+  "meanings": "polo terrestre o magnético, muy, sumamente, extremadamente, alcanzar un extremo",
+  "words": [
+    {
+      "entryId": "1383030",
+      "spelling": "積極的",
+      "reading": "せっきょくてき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "積極的【せっきょくてき】",
+      "meaning": "asertivo; positivo; activo; proactivo"
+    },
+    {
+      "entryId": "1951150",
+      "spelling": "極まって",
+      "reading": "きまって",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "極まって【きまって】",
+      "meaning": "siempre; sin falta; normalmente; frecuentemente"
+    },
+    {
+      "entryId": "1350220",
+      "spelling": "消極的",
+      "reading": "しょうきょくてき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "消極的【しょうきょくてき】",
+      "meaning": "negativo; poco entusiasta; pasivo; desmotivado"
+    },
+    {
+      "entryId": "1240380",
+      "spelling": "極端",
+      "reading": "きょくたん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "極端【きょくたん】",
+      "meaning": "extremo"
+    },
+    {
+      "entryId": "1240450",
+      "spelling": "極東",
+      "reading": "きょくとう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "極東【きょくとう】",
+      "meaning": "Extremo Oriente; Lejano Oriente"
+    },
+    {
+      "entryId": "1460180",
+      "spelling": "南極",
+      "reading": "なんきょく",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "南極【なんきょく】",
+      "meaning": "polo sur; Antártico"
+    },
+    {
+      "entryId": "1240240",
+      "spelling": "極右",
+      "reading": "きょくう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "極右【きょくう】",
+      "meaning": "extrema derecha"
+    },
+    {
+      "entryId": "1240470",
+      "spelling": "極秘",
+      "reading": "ごくひ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "極秘【ごくひ】",
+      "meaning": "secreto absoluto"
+    },
+    {
+      "entryId": "1230040",
+      "spelling": "究極",
+      "reading": "きゅうきょく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "究極【きゅうきょく】",
+      "meaning": "extremoso; intenso; potente; final; fin; extremo"
+    },
+    {
+      "entryId": "1230040",
+      "spelling": "窮極",
+      "reading": "きゅうきょく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "窮極【きゅうきょく】",
+      "meaning": "extremoso; intenso; potente; final; fin; extremo"
+    },
+    {
+      "entryId": "1599030",
+      "spelling": "取り極め",
+      "reading": "とりきめ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "取り極め【とりきめ】",
+      "meaning": "decisión; acuerdo"
+    },
+    {
+      "entryId": "1599030",
+      "spelling": "取極め",
+      "reading": "とりきめ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "取極め【とりきめ】",
+      "meaning": "decisión; acuerdo"
+    },
+    {
+      "entryId": "1240180",
+      "spelling": "極",
+      "reading": "ごく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "極【ごく】",
+      "meaning": "muy; mucho; en extremo"
+    },
+    {
+      "entryId": "1240180",
+      "spelling": "極く",
+      "reading": "ごく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "極く【ごく】",
+      "meaning": "muy; mucho; en extremo"
+    },
+    {
+      "entryId": "1591420",
+      "spelling": "極る",
+      "reading": "きまる",
+      "senseNumbers": [
+        20,
+        21
+      ],
+      "japanese": "極る【きまる】",
+      "meaning": "decidirse; arreglarse; verse bien (ropa); establecerse; verse bien con(ropa)"
+    },
+    {
+      "entryId": "1240300",
+      "spelling": "極限",
+      "reading": "きょくげん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "極限【きょくげん】",
+      "meaning": "extremo; borde; límite"
+    },
+    {
+      "entryId": "1259490",
+      "spelling": "見極める",
+      "reading": "みきわめる",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "見極める【みきわめる】",
+      "meaning": "verificar; evidenciar"
+    },
+    {
+      "entryId": "1520890",
+      "spelling": "北極",
+      "reading": "ほっきょく",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "北極【ほっきょく】",
+      "meaning": "Polo Norte"
+    },
+    {
+      "entryId": "1520920",
+      "spelling": "北極圏",
+      "reading": "ほっきょくけん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "北極圏【ほっきょくけん】",
+      "meaning": "Círculo Ártico"
+    },
+    {
+      "entryId": "1254180",
+      "spelling": "極める",
+      "reading": "きめる",
+      "senseNumbers": [
+        26
+      ],
+      "japanese": "極める【きめる】",
+      "meaning": "decidir"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

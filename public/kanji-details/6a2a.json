@@ -1,0 +1,240 @@
+{
+  "character": "横",
+  "meanings": "lateral, lado, horizontal, egoísta, incorrecto, costado",
+  "words": [
+    {
+      "entryId": "1180570",
+      "spelling": "横",
+      "reading": "よこ",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "横【よこ】",
+      "meaning": "junto"
+    },
+    {
+      "entryId": "1180740",
+      "spelling": "横綱",
+      "reading": "よこづな",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "横綱【よこづな】",
+      "meaning": "yokozuna"
+    },
+    {
+      "entryId": "1180900",
+      "spelling": "横断",
+      "reading": "おうだん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "横断【おうだん】",
+      "meaning": "cruce; intersección"
+    },
+    {
+      "entryId": "1180870",
+      "spelling": "横線",
+      "reading": "おうせん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "横線【おうせん】",
+      "meaning": "línea horizontal; línea transversal"
+    },
+    {
+      "entryId": "1180870",
+      "spelling": "横線",
+      "reading": "よこせん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "横線【よこせん】",
+      "meaning": "línea horizontal; línea transversal"
+    },
+    {
+      "entryId": "1180950",
+      "spelling": "横転",
+      "reading": "おうてん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "横転【おうてん】",
+      "meaning": "volcar"
+    },
+    {
+      "entryId": "1180910",
+      "spelling": "横断歩道",
+      "reading": "おうだんほどう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "横断歩道【おうだんほどう】",
+      "meaning": "paso de peatones"
+    },
+    {
+      "entryId": "1180670",
+      "spelling": "横顔",
+      "reading": "よこがお",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "横顔【よこがお】",
+      "meaning": "perfil"
+    },
+    {
+      "entryId": "1180850",
+      "spelling": "横書",
+      "reading": "よこがき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "横書【よこがき】",
+      "meaning": "escritura horizontal"
+    },
+    {
+      "entryId": "1180850",
+      "spelling": "横書き",
+      "reading": "よこがき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "横書き【よこがき】",
+      "meaning": "escritura horizontal"
+    },
+    {
+      "entryId": "1181020",
+      "spelling": "横文字",
+      "reading": "よこもじ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "横文字【よこもじ】",
+      "meaning": "alfabeto romano; escritura occidental"
+    },
+    {
+      "entryId": "1180860",
+      "spelling": "横ぎる",
+      "reading": "よこぎる",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "横ぎる【よこぎる】",
+      "meaning": "cruzar; atravesar"
+    },
+    {
+      "entryId": "1180860",
+      "spelling": "横切る",
+      "reading": "よこぎる",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "横切る【よこぎる】",
+      "meaning": "cruzar; atravesar"
+    },
+    {
+      "entryId": "1180960",
+      "spelling": "横道",
+      "reading": "よこみち",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "横道【よこみち】",
+      "meaning": "vereda; desviación (del tema principal)"
+    },
+    {
+      "entryId": "1180590",
+      "spelling": "横たわる",
+      "reading": "よこたわる",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "横たわる【よこたわる】",
+      "meaning": "recostarse; postrarse; tenderse"
+    },
+    {
+      "entryId": "1180840",
+      "spelling": "横どり",
+      "reading": "よこどり",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "横どり【よこどり】",
+      "meaning": "despojo; usurpación; apoderamiento; captura; decomiso; apoplejía; arrebatamiento"
+    },
+    {
+      "entryId": "1180840",
+      "spelling": "横取り",
+      "reading": "よこどり",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "横取り【よこどり】",
+      "meaning": "despojo; usurpación; apoderamiento; captura; decomiso; apoplejía; arrebatamiento"
+    },
+    {
+      "entryId": "1180920",
+      "spelling": "横着",
+      "reading": "おうちゃく",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "横着【おうちゃく】",
+      "meaning": "vago; perezoso; descarado; insolente"
+    },
+    {
+      "entryId": "2164610",
+      "spelling": "横浜",
+      "reading": "よこはま",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "横浜【よこはま】",
+      "meaning": "Yokohama (ciudad)"
+    },
+    {
+      "entryId": "1408340",
+      "spelling": "横刀",
+      "reading": "たち",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "横刀【たち】",
+      "meaning": "espada larga"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

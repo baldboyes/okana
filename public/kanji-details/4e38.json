@@ -1,0 +1,248 @@
+{
+  "character": "丸",
+  "meanings": "redondo, circular, círculo, redondear",
+  "words": [
+    {
+      "entryId": "1463780",
+      "spelling": "日の丸",
+      "reading": "ひのまる",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "日の丸【ひのまる】",
+      "meaning": "bandera de Japón; Hinomaru"
+    },
+    {
+      "entryId": "1216560",
+      "spelling": "丸太",
+      "reading": "まるた",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "丸太【まるた】",
+      "meaning": "tronco"
+    },
+    {
+      "entryId": "1604230",
+      "spelling": "丸い",
+      "reading": "まるい",
+      "senseNumbers": [
+        16,
+        17
+      ],
+      "japanese": "丸い【まるい】",
+      "meaning": "redondo; circular; esférico; armonioso; tranquilo"
+    },
+    {
+      "entryId": "1604230",
+      "spelling": "丸い",
+      "reading": "まろい",
+      "senseNumbers": [
+        16,
+        17
+      ],
+      "japanese": "丸い【まろい】",
+      "meaning": "redondo; circular; esférico; armonioso; tranquilo"
+    },
+    {
+      "entryId": "1161640",
+      "spelling": "一丸",
+      "reading": "いちがん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "一丸【いちがん】",
+      "meaning": "montón; (en) uno"
+    },
+    {
+      "entryId": "1419440",
+      "spelling": "弾丸",
+      "reading": "だんがん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "弾丸【だんがん】",
+      "meaning": "bala; cartucho; proyectil"
+    },
+    {
+      "entryId": "1216410",
+      "spelling": "丸ごと",
+      "reading": "まるごと",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "丸ごと【まるごと】",
+      "meaning": "enteramente; todo completo"
+    },
+    {
+      "entryId": "1216410",
+      "spelling": "丸事",
+      "reading": "まるごと",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "丸事【まるごと】",
+      "meaning": "enteramente; todo completo"
+    },
+    {
+      "entryId": "1216410",
+      "spelling": "丸毎",
+      "reading": "まるごと",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "丸毎【まるごと】",
+      "meaning": "enteramente; todo completo"
+    },
+    {
+      "entryId": "1216290",
+      "spelling": "丸み",
+      "reading": "まるみ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "丸み【まるみ】",
+      "meaning": "redondez"
+    },
+    {
+      "entryId": "1216290",
+      "spelling": "丸味",
+      "reading": "まるみ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "丸味【まるみ】",
+      "meaning": "redondez"
+    },
+    {
+      "entryId": "1604260",
+      "spelling": "丸々",
+      "reading": "まるまる",
+      "senseNumbers": [
+        14,
+        15
+      ],
+      "japanese": "丸々【まるまる】",
+      "meaning": "relleno; rotundo; regordete; enteramente; completamente"
+    },
+    {
+      "entryId": "1604260",
+      "spelling": "丸丸",
+      "reading": "まるまる",
+      "senseNumbers": [
+        14,
+        15
+      ],
+      "japanese": "丸丸【まるまる】",
+      "meaning": "relleno; rotundo; regordete; enteramente; completamente"
+    },
+    {
+      "entryId": "1216300",
+      "spelling": "丸める",
+      "reading": "まるめる",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "丸める【まるめる】",
+      "meaning": "hacer redondo; redondear; envolver; arrollar; seducir; adular; justificar"
+    },
+    {
+      "entryId": "1216250",
+      "spelling": "丸",
+      "reading": "まる",
+      "senseNumbers": [
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "japanese": "丸【まる】",
+      "meaning": "círculo; mes completo; perfección; pureza; sufijo para nombres de barcos"
+    },
+    {
+      "entryId": "1216270",
+      "spelling": "丸っきり",
+      "reading": "まるっきり",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "丸っきり【まるっきり】",
+      "meaning": "en su totalidad; por completo"
+    },
+    {
+      "entryId": "1216270",
+      "spelling": "丸っ切り",
+      "reading": "まるっきり",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "丸っ切り【まるっきり】",
+      "meaning": "en su totalidad; por completo"
+    },
+    {
+      "entryId": "1216280",
+      "spelling": "丸で",
+      "reading": "まるで",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "丸で【まるで】",
+      "meaning": "justamente; totalmente; completamente; por así decirlo"
+    },
+    {
+      "entryId": "1216310",
+      "spelling": "丸めこむ",
+      "reading": "まるめこむ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "丸めこむ【まるめこむ】",
+      "meaning": "envolver; enrollar; hacer la pelota; adular"
+    },
+    {
+      "entryId": "1216310",
+      "spelling": "丸め込む",
+      "reading": "まるめこむ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "丸め込む【まるめこむ】",
+      "meaning": "envolver; enrollar; hacer la pelota; adular"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

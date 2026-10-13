@@ -1,0 +1,220 @@
+{
+  "character": "奇",
+  "meanings": "extraño, raro, sospechoso",
+  "words": [
+    {
+      "entryId": "1190860",
+      "spelling": "奇怪しい",
+      "reading": "おかしい",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "奇怪しい【おかしい】",
+      "meaning": "extraño; cómico; ridículo; divertido; risible; falso"
+    },
+    {
+      "entryId": "1219490",
+      "spelling": "奇妙",
+      "reading": "きみょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "奇妙【きみょう】",
+      "meaning": "extraño; raro; curioso"
+    },
+    {
+      "entryId": "1591250",
+      "spelling": "奇跡",
+      "reading": "きせき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "奇跡【きせき】",
+      "meaning": "milagro; maravilla"
+    },
+    {
+      "entryId": "1591250",
+      "spelling": "奇蹟",
+      "reading": "きせき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "奇蹟【きせき】",
+      "meaning": "milagro; maravilla"
+    },
+    {
+      "entryId": "1277590",
+      "spelling": "好奇心",
+      "reading": "こうきしん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "好奇心【こうきしん】",
+      "meaning": "curiosidad"
+    },
+    {
+      "entryId": "1219360",
+      "spelling": "奇襲",
+      "reading": "きしゅう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "奇襲【きしゅう】",
+      "meaning": "ataque sorpresa"
+    },
+    {
+      "entryId": "1200240",
+      "spelling": "怪奇",
+      "reading": "かいき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "怪奇【かいき】",
+      "meaning": "misterioso; grotesco"
+    },
+    {
+      "entryId": "1219410",
+      "spelling": "奇数",
+      "reading": "きすう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "奇数【きすう】",
+      "meaning": "número impar"
+    },
+    {
+      "entryId": "1502500",
+      "spelling": "物数奇",
+      "reading": "ものずき",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "物数奇【ものずき】",
+      "meaning": "capricho; curiosidad"
+    },
+    {
+      "entryId": "1591900",
+      "spelling": "奇麗",
+      "reading": "きれい",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "奇麗【きれい】",
+      "meaning": "bonito; bello; limpio"
+    },
+    {
+      "entryId": "1219430",
+      "spelling": "奇想天外",
+      "reading": "きそうてんがい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "奇想天外【きそうてんがい】",
+      "meaning": "impensable; muy original; muy curioso; inimaginable; muy novedoso"
+    },
+    {
+      "entryId": "1219330",
+      "spelling": "奇型",
+      "reading": "きけい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "奇型【きけい】",
+      "meaning": "deformación; deformidad"
+    },
+    {
+      "entryId": "1219330",
+      "spelling": "奇形",
+      "reading": "きけい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "奇形【きけい】",
+      "meaning": "deformación; deformidad"
+    },
+    {
+      "entryId": "1219370",
+      "spelling": "奇術",
+      "reading": "きじゅつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "奇術【きじゅつ】",
+      "meaning": "magia"
+    },
+    {
+      "entryId": "1441930",
+      "spelling": "伝奇",
+      "reading": "でんき",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "伝奇【でんき】",
+      "meaning": "romance (ficción)"
+    },
+    {
+      "entryId": "1219470",
+      "spelling": "奇病",
+      "reading": "きびょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "奇病【きびょう】",
+      "meaning": "enfermedad extraña"
+    },
+    {
+      "entryId": "1361640",
+      "spelling": "新奇",
+      "reading": "しんき",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "新奇【しんき】",
+      "meaning": "original, innovador, novedoso"
+    },
+    {
+      "entryId": "1572650",
+      "spelling": "奇弁",
+      "reading": "きべん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "奇弁【きべん】",
+      "meaning": "sofisma; sofistería; tergiversación; falacia; argumento vacío"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

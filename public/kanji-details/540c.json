@@ -1,0 +1,240 @@
+{
+  "character": "同",
+  "meanings": "mismo, igual, compañero, idéntico, similar",
+  "words": [
+    {
+      "entryId": "1452500",
+      "spelling": "同時",
+      "reading": "どうじ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "同時【どうじ】",
+      "meaning": "simultáneamente; a la vez; al mismo tiempo"
+    },
+    {
+      "entryId": "1591660",
+      "spelling": "共同",
+      "reading": "きょうどう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "共同【きょうどう】",
+      "meaning": "cooperar; colaborar"
+    },
+    {
+      "entryId": "1591660",
+      "spelling": "協同",
+      "reading": "きょうどう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "協同【きょうどう】",
+      "meaning": "cooperar; colaborar"
+    },
+    {
+      "entryId": "1453210",
+      "spelling": "同日",
+      "reading": "どうじつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "同日【どうじつ】",
+      "meaning": "(el) mismo día"
+    },
+    {
+      "entryId": "1898260",
+      "spelling": "同市",
+      "reading": "どうし",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "同市【どうし】",
+      "meaning": "misma ciudad"
+    },
+    {
+      "entryId": "1453550",
+      "spelling": "同様",
+      "reading": "どうよう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "同様【どうよう】",
+      "meaning": "igual; semejante; similar"
+    },
+    {
+      "entryId": "1452260",
+      "spelling": "同県",
+      "reading": "どうけん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "同県【どうけん】",
+      "meaning": "(la) misma prefectura"
+    },
+    {
+      "entryId": "1285140",
+      "spelling": "合同",
+      "reading": "ごうどう",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "合同【ごうどう】",
+      "meaning": "conjunto; unión; asociación; agrupación"
+    },
+    {
+      "entryId": "1452400",
+      "spelling": "同士",
+      "reading": "どうし",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "同士【どうし】",
+      "meaning": "compañero; camarada"
+    },
+    {
+      "entryId": "1452400",
+      "spelling": "同士",
+      "reading": "どし",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "同士【どし】",
+      "meaning": "compañero; camarada"
+    },
+    {
+      "entryId": "1452240",
+      "spelling": "同月",
+      "reading": "どうげつ",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "同月【どうげつ】",
+      "meaning": "(el) mismo mes"
+    },
+    {
+      "entryId": "1451900",
+      "spelling": "同一",
+      "reading": "どういつ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "同一【どういつ】",
+      "meaning": "idéntico; igual; mismo"
+    },
+    {
+      "entryId": "1452030",
+      "spelling": "同期",
+      "reading": "どうき",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "同期【どうき】",
+      "meaning": "sincronización; mismo período"
+    },
+    {
+      "entryId": "1453580",
+      "spelling": "同僚",
+      "reading": "どうりょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "同僚【どうりょう】",
+      "meaning": "colega; camarada"
+    },
+    {
+      "entryId": "1451850",
+      "spelling": "同意",
+      "reading": "どうい",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "同意【どうい】",
+      "meaning": "consentimiento; aprobación"
+    },
+    {
+      "entryId": "1452410",
+      "spelling": "同志",
+      "reading": "どうし",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "同志【どうし】",
+      "meaning": "camarada; colega"
+    },
+    {
+      "entryId": "1452320",
+      "spelling": "同校",
+      "reading": "どうこう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "同校【どうこう】",
+      "meaning": "misma escuela"
+    },
+    {
+      "entryId": "1452120",
+      "spelling": "同級生",
+      "reading": "どうきゅうせい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "同級生【どうきゅうせい】",
+      "meaning": "compañero(s) de clase"
+    },
+    {
+      "entryId": "1453160",
+      "spelling": "同店",
+      "reading": "どうてん",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "同店【どうてん】",
+      "meaning": "la misma tienda; la tienda mencionada"
+    },
+    {
+      "entryId": "1452720",
+      "spelling": "同情",
+      "reading": "どうじょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "同情【どうじょう】",
+      "meaning": "compadecer; sentir compasión; compasión; compadecerse; piedad; sentirlo por"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

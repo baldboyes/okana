@@ -1,0 +1,240 @@
+{
+  "character": "公",
+  "meanings": "público, imparcial, oficial",
+  "words": [
+    {
+      "entryId": "1273270",
+      "spelling": "公園",
+      "reading": "こうえん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "公園【こうえん】",
+      "meaning": "parque (público)"
+    },
+    {
+      "entryId": "1273270",
+      "spelling": "公苑",
+      "reading": "こうえん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "公苑【こうえん】",
+      "meaning": "parque (público)"
+    },
+    {
+      "entryId": "1273280",
+      "spelling": "公演",
+      "reading": "こうえん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "公演【こうえん】",
+      "meaning": "presentación; exposición"
+    },
+    {
+      "entryId": "1273370",
+      "spelling": "公開",
+      "reading": "こうかい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "公開【こうかい】",
+      "meaning": "abierto al público"
+    },
+    {
+      "entryId": "1273510",
+      "spelling": "公共",
+      "reading": "こうきょう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "公共【こうきょう】",
+      "meaning": "público"
+    },
+    {
+      "entryId": "1273820",
+      "spelling": "公式",
+      "reading": "こうしき",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "公式【こうしき】",
+      "meaning": "fórmula; oficial"
+    },
+    {
+      "entryId": "1274850",
+      "spelling": "公明",
+      "reading": "こうめい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "公明【こうめい】",
+      "meaning": "justo; honrado"
+    },
+    {
+      "entryId": "1274510",
+      "spelling": "公判",
+      "reading": "こうはん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "公判【こうはん】",
+      "meaning": "juicio público; vista pública; audiencia pública"
+    },
+    {
+      "entryId": "1273420",
+      "spelling": "公害",
+      "reading": "こうがい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "公害【こうがい】",
+      "meaning": "contaminación ambiental"
+    },
+    {
+      "entryId": "1274450",
+      "spelling": "公認",
+      "reading": "こうにん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "公認【こうにん】",
+      "meaning": "reconocimiento oficial; autorización; permiso; licencia; acreditación"
+    },
+    {
+      "entryId": "1274550",
+      "spelling": "公表",
+      "reading": "こうひょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "公表【こうひょう】",
+      "meaning": "anuncio; comunicado; aviso; notificación"
+    },
+    {
+      "entryId": "1274820",
+      "spelling": "公務員",
+      "reading": "こうむいん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "公務員【こうむいん】",
+      "meaning": "funcionario público; empleado del gobierno"
+    },
+    {
+      "entryId": "1274880",
+      "spelling": "公約",
+      "reading": "こうやく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "公約【こうやく】",
+      "meaning": "promesa; palabra; juramento"
+    },
+    {
+      "entryId": "1275000",
+      "spelling": "公立",
+      "reading": "こうりつ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "公立【こうりつ】",
+      "meaning": "público; municipal"
+    },
+    {
+      "entryId": "1274180",
+      "spelling": "公選",
+      "reading": "こうせん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "公選【こうせん】",
+      "meaning": "elección democrática; sufragio"
+    },
+    {
+      "entryId": "1274350",
+      "spelling": "公邸",
+      "reading": "こうてい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "公邸【こうてい】",
+      "meaning": "residencia oficial"
+    },
+    {
+      "entryId": "1325680",
+      "spelling": "主人公",
+      "reading": "しゅじんこう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "主人公【しゅじんこう】",
+      "meaning": "protagonista"
+    },
+    {
+      "entryId": "1484850",
+      "spelling": "非公式",
+      "reading": "ひこうしき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "非公式【ひこうしき】",
+      "meaning": "informal"
+    },
+    {
+      "entryId": "1273720",
+      "spelling": "公算",
+      "reading": "こうさん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "公算【こうさん】",
+      "meaning": "probabilidad"
+    },
+    {
+      "entryId": "1274120",
+      "spelling": "公正",
+      "reading": "こうせい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "公正【こうせい】",
+      "meaning": "justo"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "character": "押",
+  "meanings": "empujar, presionar, forzar, contener, reprimir, suprimir",
+  "words": [
+    {
+      "entryId": "1180470",
+      "spelling": "押す",
+      "reading": "おす",
+      "senseNumbers": [
+        36,
+        37,
+        38
+      ],
+      "japanese": "押す【おす】",
+      "meaning": "empujar; presionar; aplicar presión desde arriba; empujar abajo; estampar (i.e. un pasaporte); aplicar un sello; estampillar; estampar; sellar; apretar; oprimir; comprimir"
+    },
+    {
+      "entryId": "1589080",
+      "spelling": "押える",
+      "reading": "おさえる",
+      "senseNumbers": [
+        28
+      ],
+      "japanese": "押える【おさえる】",
+      "meaning": "suprimir; detener; atrapar; asegurar"
+    },
+    {
+      "entryId": "1589080",
+      "spelling": "押さえる",
+      "reading": "おさえる",
+      "senseNumbers": [
+        28
+      ],
+      "japanese": "押さえる【おさえる】",
+      "meaning": "suprimir; detener; atrapar; asegurar"
+    },
+    {
+      "entryId": "1589150",
+      "spelling": "押し出し",
+      "reading": "おしだし",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "押し出し【おしだし】",
+      "meaning": "expulsión por empuje; extrusión; \"oshidashi\" (técnica de sumo)"
+    },
+    {
+      "entryId": "1589150",
+      "spelling": "押出し",
+      "reading": "おしだし",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "押出し【おしだし】",
+      "meaning": "expulsión por empuje; extrusión; \"oshidashi\" (técnica de sumo)"
+    },
+    {
+      "entryId": "1180510",
+      "spelling": "押収",
+      "reading": "おうしゅう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "押収【おうしゅう】",
+      "meaning": "incautación; embargo; comiso; decomiso; confiscación"
+    },
+    {
+      "entryId": "1180270",
+      "spelling": "押しきる",
+      "reading": "おしきる",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "押しきる【おしきる】",
+      "meaning": "romper; oponerse"
+    },
+    {
+      "entryId": "1180270",
+      "spelling": "押し切る",
+      "reading": "おしきる",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "押し切る【おしきる】",
+      "meaning": "romper; oponerse"
+    },
+    {
+      "entryId": "1180270",
+      "spelling": "押切る",
+      "reading": "おしきる",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "押切る【おしきる】",
+      "meaning": "romper; oponerse"
+    },
+    {
+      "entryId": "1180260",
+      "spelling": "押しこむ",
+      "reading": "おしこむ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "押しこむ【おしこむ】",
+      "meaning": "insertar; empujar; meter"
+    },
+    {
+      "entryId": "1180260",
+      "spelling": "押し込む",
+      "reading": "おしこむ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "押し込む【おしこむ】",
+      "meaning": "insertar; empujar; meter"
+    },
+    {
+      "entryId": "1180360",
+      "spelling": "押しつける",
+      "reading": "おしつける",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "押しつける【おしつける】",
+      "meaning": "apretar; empujar; forzar; obligar"
+    },
+    {
+      "entryId": "1180360",
+      "spelling": "押し付ける",
+      "reading": "おしつける",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "押し付ける【おしつける】",
+      "meaning": "apretar; empujar; forzar; obligar"
+    },
+    {
+      "entryId": "1180360",
+      "spelling": "押付ける",
+      "reading": "おしつける",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "押付ける【おしつける】",
+      "meaning": "apretar; empujar; forzar; obligar"
+    },
+    {
+      "entryId": "1180420",
+      "spelling": "押し問答",
+      "reading": "おしもんどう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "押し問答【おしもんどう】",
+      "meaning": "discusión; debate; disputa; polémica; altercado"
+    },
+    {
+      "entryId": "1180420",
+      "spelling": "押問答",
+      "reading": "おしもんどう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "押問答【おしもんどう】",
+      "meaning": "discusión; debate; disputa; polémica; altercado"
+    },
+    {
+      "entryId": "1589120",
+      "spelling": "押し売り",
+      "reading": "おしうり",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "押し売り【おしうり】",
+      "meaning": "venta agresiva; venta impuesta; venta por la fuerza"
+    },
+    {
+      "entryId": "1589120",
+      "spelling": "押売",
+      "reading": "おしうり",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "押売【おしうり】",
+      "meaning": "venta agresiva; venta impuesta; venta por la fuerza"
+    },
+    {
+      "entryId": "1589120",
+      "spelling": "押売り",
+      "reading": "おしうり",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "押売り【おしうり】",
+      "meaning": "venta agresiva; venta impuesta; venta por la fuerza"
+    },
+    {
+      "entryId": "1589110",
+      "spelling": "押し入れ",
+      "reading": "おしいれ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "押し入れ【おしいれ】",
+      "meaning": "ropero; armario"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

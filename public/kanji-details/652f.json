@@ -1,0 +1,240 @@
+{
+  "character": "支",
+  "meanings": "soporte, apoyo, rama, pago, interferencia, soportar, sostener",
+  "words": [
+    {
+      "entryId": "1310100",
+      "spelling": "支援",
+      "reading": "しえん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "支援【しえん】",
+      "meaning": "apoyo; asistencia; sostén"
+    },
+    {
+      "entryId": "1310150",
+      "spelling": "支持",
+      "reading": "しじ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "支持【しじ】",
+      "meaning": "apoyo"
+    },
+    {
+      "entryId": "1310140",
+      "spelling": "支局",
+      "reading": "しきょく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "支局【しきょく】",
+      "meaning": "dependencia; oficina"
+    },
+    {
+      "entryId": "1310230",
+      "spelling": "支店",
+      "reading": "してん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "支店【してん】",
+      "meaning": "sucursal; filial"
+    },
+    {
+      "entryId": "1594480",
+      "spelling": "支払",
+      "reading": "しはらい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "支払【しはらい】",
+      "meaning": "pago"
+    },
+    {
+      "entryId": "1594480",
+      "spelling": "支払い",
+      "reading": "しはらい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "支払い【しはらい】",
+      "meaning": "pago"
+    },
+    {
+      "entryId": "1310270",
+      "spelling": "支配",
+      "reading": "しはい",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "支配【しはい】",
+      "meaning": "dominar; controlar; gobernar; dirigir; norma; control; dirección"
+    },
+    {
+      "entryId": "1330640",
+      "spelling": "収支",
+      "reading": "しゅうし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "収支【しゅうし】",
+      "meaning": "balance"
+    },
+    {
+      "entryId": "1310180",
+      "spelling": "支出",
+      "reading": "ししゅつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "支出【ししゅつ】",
+      "meaning": "gastos; desembolsos"
+    },
+    {
+      "entryId": "1310130",
+      "spelling": "支給",
+      "reading": "しきゅう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "支給【しきゅう】",
+      "meaning": "pago; abono; suministro"
+    },
+    {
+      "entryId": "1658230",
+      "spelling": "支店長",
+      "reading": "してんちょう",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "支店長【してんちょう】",
+      "meaning": "gerente de sucursal"
+    },
+    {
+      "entryId": "1310190",
+      "spelling": "支障",
+      "reading": "ししょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "支障【ししょう】",
+      "meaning": "obstáculo; estorbo; impedimento"
+    },
+    {
+      "entryId": "1310170",
+      "spelling": "支社",
+      "reading": "ししゃ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "支社【ししゃ】",
+      "meaning": "sucursal"
+    },
+    {
+      "entryId": "1310300",
+      "spelling": "支払う",
+      "reading": "しはらう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "支払う【しはらう】",
+      "meaning": "pagar"
+    },
+    {
+      "entryId": "1646570",
+      "spelling": "支配人",
+      "reading": "しはいにん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "支配人【しはいにん】",
+      "meaning": "gerente"
+    },
+    {
+      "entryId": "1310260",
+      "spelling": "支度",
+      "reading": "したく",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "支度【したく】",
+      "meaning": "preparar; hacer los preparativos; disponer; preparación"
+    },
+    {
+      "entryId": "1310220",
+      "spelling": "支柱",
+      "reading": "しちゅう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "支柱【しちゅう】",
+      "meaning": "pilote; soporte; columna; poste; pilar de sostén; fulcro; apéndice"
+    },
+    {
+      "entryId": "1222040",
+      "spelling": "気管支",
+      "reading": "きかんし",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "気管支【きかんし】",
+      "meaning": "bronquio"
+    },
+    {
+      "entryId": "1310330",
+      "spelling": "支流",
+      "reading": "しりゅう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "支流【しりゅう】",
+      "meaning": "afluente"
+    },
+    {
+      "entryId": "1291180",
+      "spelling": "差し支える",
+      "reading": "さしつかえる",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "差し支える【さしつかえる】",
+      "meaning": "perjudicar; afectar"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "character": "塩",
+  "meanings": "sal",
+  "words": [
+    {
+      "entryId": "1576630",
+      "spelling": "塩",
+      "reading": "しお",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "塩【しお】",
+      "meaning": "sal"
+    },
+    {
+      "entryId": "1178750",
+      "spelling": "塩素",
+      "reading": "えんそ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "塩素【えんそ】",
+      "meaning": "cloro (Cl)"
+    },
+    {
+      "entryId": "1178870",
+      "spelling": "塩分",
+      "reading": "えんぶん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "塩分【えんぶん】",
+      "meaning": "cantidad de sal; salinidad"
+    },
+    {
+      "entryId": "1178630",
+      "spelling": "塩化",
+      "reading": "えんか",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "塩化【えんか】",
+      "meaning": "cloruro"
+    },
+    {
+      "entryId": "1358410",
+      "spelling": "食塩",
+      "reading": "しょくえん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "食塩【しょくえん】",
+      "meaning": "sal de cocina"
+    },
+    {
+      "entryId": "1178680",
+      "spelling": "塩基",
+      "reading": "えんき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "塩基【えんき】",
+      "meaning": "base (química)"
+    },
+    {
+      "entryId": "1178790",
+      "spelling": "塩田",
+      "reading": "えんでん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "塩田【えんでん】",
+      "meaning": "salina"
+    },
+    {
+      "entryId": "1178790",
+      "spelling": "塩田",
+      "reading": "しおた",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "塩田【しおた】",
+      "meaning": "salina"
+    },
+    {
+      "entryId": "1178790",
+      "spelling": "塩田",
+      "reading": "しおだ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "塩田【しおだ】",
+      "meaning": "salina"
+    },
+    {
+      "entryId": "1576650",
+      "spelling": "塩水",
+      "reading": "えんすい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "塩水【えんすい】",
+      "meaning": "agua salada; salmuera"
+    },
+    {
+      "entryId": "1576650",
+      "spelling": "塩水",
+      "reading": "しおみず",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "塩水【しおみず】",
+      "meaning": "agua salada; salmuera"
+    },
+    {
+      "entryId": "1178880",
+      "spelling": "塩味",
+      "reading": "えんみ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "塩味【えんみ】",
+      "meaning": "sabor salado; salado (sabor)"
+    },
+    {
+      "entryId": "1178880",
+      "spelling": "塩味",
+      "reading": "しおあじ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "塩味【しおあじ】",
+      "meaning": "sabor salado; salado (sabor)"
+    },
+    {
+      "entryId": "1178880",
+      "spelling": "塩味",
+      "reading": "しおみ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "塩味【しおみ】",
+      "meaning": "sabor salado; salado (sabor)"
+    },
+    {
+      "entryId": "1609860",
+      "spelling": "塩辛い",
+      "reading": "しおからい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "塩辛い【しおからい】",
+      "meaning": "(sabor) salado; salado"
+    },
+    {
+      "entryId": "1586960",
+      "spelling": "塩梅",
+      "reading": "あんばい",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "塩梅【あんばい】",
+      "meaning": "arreglo; asignación; ajuste; estado; condición; sazón; orden sucesivo"
+    },
+    {
+      "entryId": "1594080",
+      "spelling": "塩づけ",
+      "reading": "しおづけ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "塩づけ【しおづけ】",
+      "meaning": "salazón; salmuera"
+    },
+    {
+      "entryId": "1594080",
+      "spelling": "塩漬",
+      "reading": "しおづけ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "塩漬【しおづけ】",
+      "meaning": "salazón; salmuera"
+    },
+    {
+      "entryId": "1594080",
+      "spelling": "塩漬け",
+      "reading": "しおづけ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "塩漬け【しおづけ】",
+      "meaning": "salazón; salmuera"
+    },
+    {
+      "entryId": "1428710",
+      "spelling": "塩風",
+      "reading": "しおかぜ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "塩風【しおかぜ】",
+      "meaning": "brisa del mar; brisa marina; aire salado"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "character": "脈",
+  "meanings": "vena, pulso, esperanza",
+  "words": [
+    {
+      "entryId": "1303190",
+      "spelling": "山脈",
+      "reading": "さんみゃく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "山脈【さんみゃく】",
+      "meaning": "cordillera (cadena montañosa)"
+    },
+    {
+      "entryId": "1451580",
+      "spelling": "動脈",
+      "reading": "どうみゃく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "動脈【どうみゃく】",
+      "meaning": "arteria"
+    },
+    {
+      "entryId": "1505630",
+      "spelling": "文脈",
+      "reading": "ぶんみゃく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "文脈【ぶんみゃく】",
+      "meaning": "contexto; redacción"
+    },
+    {
+      "entryId": "1528440",
+      "spelling": "脈",
+      "reading": "みゃく",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "脈【みゃく】",
+      "meaning": "pulso"
+    },
+    {
+      "entryId": "1381980",
+      "spelling": "静脈",
+      "reading": "じょうみゃく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "静脈【じょうみゃく】",
+      "meaning": "vena"
+    },
+    {
+      "entryId": "1493360",
+      "spelling": "不整脈",
+      "reading": "ふせいみゃく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "不整脈【ふせいみゃく】",
+      "meaning": "pulso irregular; arritmia"
+    },
+    {
+      "entryId": "1786540",
+      "spelling": "大動脈",
+      "reading": "だいどうみゃく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "大動脈【だいどうみゃく】",
+      "meaning": "aorta"
+    },
+    {
+      "entryId": "1604710",
+      "spelling": "脈拍",
+      "reading": "みゃくはく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "脈拍【みゃくはく】",
+      "meaning": "pulso; pulsación"
+    },
+    {
+      "entryId": "1604710",
+      "spelling": "脈搏",
+      "reading": "みゃくはく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "脈搏【みゃくはく】",
+      "meaning": "pulso; pulsación"
+    },
+    {
+      "entryId": "1528470",
+      "spelling": "脈略",
+      "reading": "みゃくらく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "脈略【みゃくらく】",
+      "meaning": "conexión; coherencia"
+    },
+    {
+      "entryId": "1528470",
+      "spelling": "脈絡",
+      "reading": "みゃくらく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "脈絡【みゃくらく】",
+      "meaning": "conexión; coherencia"
+    },
+    {
+      "entryId": "1282670",
+      "spelling": "鉱脈",
+      "reading": "こうみゃく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "鉱脈【こうみゃく】",
+      "meaning": "filón; veta"
+    },
+    {
+      "entryId": "1166810",
+      "spelling": "一脈",
+      "reading": "いちみゃく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "一脈【いちみゃく】",
+      "meaning": "una vena; un hilo (de conexión)"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

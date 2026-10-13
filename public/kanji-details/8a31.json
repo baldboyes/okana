@@ -1,0 +1,222 @@
+{
+  "character": "許",
+  "meanings": "permitir, perdonar, dejar, excusar",
+  "words": [
+    {
+      "entryId": "1232880",
+      "spelling": "許可",
+      "reading": "きょか",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "許可【きょか】",
+      "meaning": "permitir; autorizar; dar licencia; dar permiso; licencia; permiso; autorización; visado"
+    },
+    {
+      "entryId": "1232870",
+      "spelling": "許す",
+      "reading": "ゆるす",
+      "senseNumbers": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "japanese": "許す【ゆるす】",
+      "meaning": "permitir; dejar; aprobar; eximir (de bien); disculpar (de); confiar; perdonar; disculpar; poner en libertad; dejar salir; resignarse; ceder"
+    },
+    {
+      "entryId": "1533130",
+      "spelling": "免許",
+      "reading": "めんきょ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "免許【めんきょ】",
+      "meaning": "licencia; permiso; carnet"
+    },
+    {
+      "entryId": "2004390",
+      "spelling": "許",
+      "reading": "もと",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "許【もと】",
+      "meaning": "bajo; debajo; detrás"
+    },
+    {
+      "entryId": "1365670",
+      "spelling": "身許",
+      "reading": "みもと",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "身許【みもと】",
+      "meaning": "procedencia; identidad"
+    },
+    {
+      "entryId": "1454780",
+      "spelling": "特許",
+      "reading": "とっきょ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "特許【とっきょ】",
+      "meaning": "propiedad intelectual; patente"
+    },
+    {
+      "entryId": "1586390",
+      "spelling": "足許",
+      "reading": "あしもと",
+      "senseNumbers": [
+        24
+      ],
+      "japanese": "足許【あしもと】",
+      "meaning": "a los pies de uno; base de las piernas; zona de los pies; pies; zona muy próxima a uno; andares, pasos, forma de andar"
+    },
+    {
+      "entryId": "1327560",
+      "spelling": "手許",
+      "reading": "てもと",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "手許【てもと】",
+      "meaning": "alcance; control; poder de adquisición"
+    },
+    {
+      "entryId": "1232900",
+      "spelling": "許諾",
+      "reading": "きょだく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "許諾【きょだく】",
+      "meaning": "consentimiento"
+    },
+    {
+      "entryId": "1232910",
+      "spelling": "許容",
+      "reading": "きょよう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "許容【きょよう】",
+      "meaning": "tolerancia; transigencia; flexibilidad; paciencia; admitir; tolerar; soportar; aguantar"
+    },
+    {
+      "entryId": "1672380",
+      "spelling": "無免許",
+      "reading": "むめんきょ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "無免許【むめんきょ】",
+      "meaning": "sin licencia"
+    },
+    {
+      "entryId": "1789210",
+      "spelling": "特許庁",
+      "reading": "とっきょちょう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "特許庁【とっきょちょう】",
+      "meaning": "Oficina de Patentes"
+    },
+    {
+      "entryId": "1611820",
+      "spelling": "耳許",
+      "reading": "みみもと",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "耳許【みみもと】",
+      "meaning": "cercano al oído; cerca de la oreja"
+    },
+    {
+      "entryId": "1010240",
+      "spelling": "許",
+      "reading": "ばかり",
+      "senseNumbers": [
+        21,
+        22,
+        23
+      ],
+      "japanese": "許【ばかり】",
+      "meaning": "aproximadamente; más o menos; solamente; solo; (después de la forma -ta de un verbo) acabar de (terminar, etc.)"
+    },
+    {
+      "entryId": "1010240",
+      "spelling": "許り",
+      "reading": "ばかり",
+      "senseNumbers": [
+        21,
+        22,
+        23
+      ],
+      "japanese": "許り【ばかり】",
+      "meaning": "aproximadamente; más o menos; solamente; solo; (después de la forma -ta de un verbo) acabar de (terminar, etc.)"
+    },
+    {
+      "entryId": "1533150",
+      "spelling": "免許証",
+      "reading": "めんきょしょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "免許証【めんきょしょう】",
+      "meaning": "licencia; permiso"
+    },
+    {
+      "entryId": "1365150",
+      "spelling": "親許",
+      "reading": "おやもと",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "親許【おやもと】",
+      "meaning": "domicilio paterno"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

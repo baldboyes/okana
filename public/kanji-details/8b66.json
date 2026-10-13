@@ -1,0 +1,241 @@
+{
+  "character": "警",
+  "meanings": "amonestar, advertir",
+  "words": [
+    {
+      "entryId": "1252390",
+      "spelling": "警察",
+      "reading": "けいさつ",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "警察【けいさつ】",
+      "meaning": "policía"
+    },
+    {
+      "entryId": "1252390",
+      "spelling": "警察",
+      "reading": "ケイサツ",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "警察【ケイサツ】",
+      "meaning": "policía"
+    },
+    {
+      "entryId": "1252390",
+      "spelling": "警察",
+      "reading": "ケーサツ",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "警察【ケーサツ】",
+      "meaning": "policía"
+    },
+    {
+      "entryId": "1252450",
+      "spelling": "警視庁",
+      "reading": "けいしちょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "警視庁【けいしちょう】",
+      "meaning": "jefatura de policía"
+    },
+    {
+      "entryId": "1252310",
+      "spelling": "警戒",
+      "reading": "けいかい",
+      "senseNumbers": [
+        9,
+        10
+      ],
+      "japanese": "警戒【けいかい】",
+      "meaning": "ponerse en alerta; precaverse; tomar medidas preventivas; vigilancia; precaución; estado de alerta; estar alerta; ser cauteloso; proteger (de)"
+    },
+    {
+      "entryId": "1252490",
+      "spelling": "警備",
+      "reading": "けいび",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "警備【けいび】",
+      "meaning": "guardia; vigilante"
+    },
+    {
+      "entryId": "1252330",
+      "spelling": "警官",
+      "reading": "けいかん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "警官【けいかん】",
+      "meaning": "hombre policía"
+    },
+    {
+      "entryId": "1252360",
+      "spelling": "警告",
+      "reading": "けいこく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "警告【けいこく】",
+      "meaning": "advertencia; aviso"
+    },
+    {
+      "entryId": "1905870",
+      "spelling": "府警",
+      "reading": "ふけい",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "府警【ふけい】",
+      "meaning": "prefectura de policía"
+    },
+    {
+      "entryId": "1252520",
+      "spelling": "警報",
+      "reading": "けいほう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "警報【けいほう】",
+      "meaning": "alarma; advertencia"
+    },
+    {
+      "entryId": "1252350",
+      "spelling": "警護",
+      "reading": "けいご",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "警護【けいご】",
+      "meaning": "guardaespaldas; escolta"
+    },
+    {
+      "entryId": "1252410",
+      "spelling": "警察署",
+      "reading": "けいさつしょ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "警察署【けいさつしょ】",
+      "meaning": "estación de policía"
+    },
+    {
+      "entryId": "1252510",
+      "spelling": "警部",
+      "reading": "けいぶ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "警部【けいぶ】",
+      "meaning": "inspector de policía"
+    },
+    {
+      "entryId": "1609250",
+      "spelling": "警め",
+      "reading": "いましめ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "警め【いましめ】",
+      "meaning": "mandamientos; advertencia; admonición; reprensión; amonestación; reprimenda; regañina"
+    },
+    {
+      "entryId": "1200650",
+      "spelling": "警める",
+      "reading": "いましめる",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "警める【いましめる】",
+      "meaning": "amonestar; advertir; regañar; reprobar; reprender; leer la cartilla; sermonear; echar la bronca; echar la cantada; afear la conducta de alguien"
+    },
+    {
+      "entryId": "1252400",
+      "spelling": "警察官",
+      "reading": "けいさつかん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "警察官【けいさつかん】",
+      "meaning": "policía; agente de policía; policías"
+    },
+    {
+      "entryId": "1831060",
+      "spelling": "警ら",
+      "reading": "けいら",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "警ら【けいら】",
+      "meaning": "patrulla"
+    },
+    {
+      "entryId": "1831060",
+      "spelling": "警邏",
+      "reading": "けいら",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "警邏【けいら】",
+      "meaning": "patrulla"
+    },
+    {
+      "entryId": "1830990",
+      "spelling": "警察手帳",
+      "reading": "けいさつてちょう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "警察手帳【けいさつてちょう】",
+      "meaning": "placa de policía"
+    },
+    {
+      "entryId": "1252340",
+      "spelling": "警句",
+      "reading": "けいく",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "警句【けいく】",
+      "meaning": "aforismo; dicho; sentencia; cita breve"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "character": "兵",
+  "meanings": "soldado, marinero, tropa",
+  "words": [
+    {
+      "entryId": "1205700",
+      "spelling": "核兵器",
+      "reading": "かくへいき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "核兵器【かくへいき】",
+      "meaning": "armas nucleares"
+    },
+    {
+      "entryId": "1506320",
+      "spelling": "兵器",
+      "reading": "へいき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "兵器【へいき】",
+      "meaning": "armas; ordenanza"
+    },
+    {
+      "entryId": "1506420",
+      "spelling": "兵士",
+      "reading": "へいし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "兵士【へいし】",
+      "meaning": "soldado"
+    },
+    {
+      "entryId": "1186940",
+      "spelling": "化学兵器",
+      "reading": "かがくへいき",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "化学兵器【かがくへいき】",
+      "meaning": "armas químicas"
+    },
+    {
+      "entryId": "1529210",
+      "spelling": "民兵",
+      "reading": "みんぺい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "民兵【みんぺい】",
+      "meaning": "partisano; miliciano"
+    },
+    {
+      "entryId": "1428130",
+      "spelling": "徴兵",
+      "reading": "ちょうへい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "徴兵【ちょうへい】",
+      "meaning": "alistamiento; reclutamiento"
+    },
+    {
+      "entryId": "1506590",
+      "spelling": "兵隊",
+      "reading": "へいたい",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "兵隊【へいたい】",
+      "meaning": "soldado; armada; tropa"
+    },
+    {
+      "entryId": "1587140",
+      "spelling": "兵",
+      "reading": "いくさ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "兵【いくさ】",
+      "meaning": "soldado; militar; guerra; batalla; campaña; pelea"
+    },
+    {
+      "entryId": "1506710",
+      "spelling": "兵役",
+      "reading": "へいえき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "兵役【へいえき】",
+      "meaning": "servicio militar; reclutamiento; conscripción"
+    },
+    {
+      "entryId": "1278240",
+      "spelling": "工兵",
+      "reading": "こうへい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "工兵【こうへい】",
+      "meaning": "ingeniero"
+    },
+    {
+      "entryId": "1506460",
+      "spelling": "兵舎",
+      "reading": "へいしゃ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "兵舎【へいしゃ】",
+      "meaning": "cuartel; barracones"
+    },
+    {
+      "entryId": "1174810",
+      "spelling": "衛兵",
+      "reading": "えいへい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "衛兵【えいへい】",
+      "meaning": "guardia; centinela; vigía"
+    },
+    {
+      "entryId": "1720290",
+      "spelling": "新兵",
+      "reading": "しんぺい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "新兵【しんぺい】",
+      "meaning": "recluta"
+    },
+    {
+      "entryId": "1201730",
+      "spelling": "海兵",
+      "reading": "かいへい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "海兵【かいへい】",
+      "meaning": "infantería de marina; marines"
+    },
+    {
+      "entryId": "1372020",
+      "spelling": "水兵",
+      "reading": "すいへい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "水兵【すいへい】",
+      "meaning": "marino; soldado de marina"
+    },
+    {
+      "entryId": "1506240",
+      "spelling": "兵営",
+      "reading": "へいえい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "兵営【へいえい】",
+      "meaning": "cuartel; barracones"
+    },
+    {
+      "entryId": "1506680",
+      "spelling": "兵法",
+      "reading": "ひょうほう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "兵法【ひょうほう】",
+      "meaning": "estrategia; táctica"
+    },
+    {
+      "entryId": "1506680",
+      "spelling": "兵法",
+      "reading": "へいほう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "兵法【へいほう】",
+      "meaning": "estrategia; táctica"
+    },
+    {
+      "entryId": "1545090",
+      "spelling": "傭兵",
+      "reading": "ようへい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "傭兵【ようへい】",
+      "meaning": "mercenario (soldado)"
+    },
+    {
+      "entryId": "1224180",
+      "spelling": "騎兵",
+      "reading": "きへい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "騎兵【きへい】",
+      "meaning": "caballería"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

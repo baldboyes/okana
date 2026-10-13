@@ -1,0 +1,180 @@
+{
+  "character": "挙",
+  "meanings": "tener lugar, elevar, completamente, levantar, poner un ejemplo, prosperar",
+  "words": [
+    {
+      "entryId": "1392190",
+      "spelling": "選挙",
+      "reading": "せんきょ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "選挙【せんきょ】",
+      "meaning": "elección (elecciones políticas por partidos políticos)"
+    },
+    {
+      "entryId": "1161850",
+      "spelling": "一挙",
+      "reading": "いっきょ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "一挙【いっきょ】",
+      "meaning": "un esfuerzo; una acción"
+    },
+    {
+      "entryId": "1392220",
+      "spelling": "選挙戦",
+      "reading": "せんきょせん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "選挙戦【せんきょせん】",
+      "meaning": "campaña electoral"
+    },
+    {
+      "entryId": "1392200",
+      "spelling": "選挙権",
+      "reading": "せんきょけん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "選挙権【せんきょけん】",
+      "meaning": "sufragio"
+    },
+    {
+      "entryId": "1788320",
+      "spelling": "直接選挙",
+      "reading": "ちょくせつせんきょ",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "直接選挙【ちょくせつせんきょ】",
+      "meaning": "elección directa"
+    },
+    {
+      "entryId": "1586290",
+      "spelling": "挙げ句",
+      "reading": "あげく",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "挙げ句【あげく】",
+      "meaning": "después de mucho; al final; por fin; colmo; para el colmo"
+    },
+    {
+      "entryId": "1586290",
+      "spelling": "挙句",
+      "reading": "あげく",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "挙句【あげく】",
+      "meaning": "después de mucho; al final; por fin; colmo; para el colmo"
+    },
+    {
+      "entryId": "1609220",
+      "spelling": "一挙に",
+      "reading": "いっきょに",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "一挙に【いっきょに】",
+      "meaning": "con un simple golpe"
+    },
+    {
+      "entryId": "1232540",
+      "spelling": "挙国",
+      "reading": "きょこく",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "挙国【きょこく】",
+      "meaning": "todo el país; el país entero"
+    },
+    {
+      "entryId": "1524620",
+      "spelling": "枚挙",
+      "reading": "まいきょ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "枚挙【まいきょ】",
+      "meaning": "enumeración"
+    },
+    {
+      "entryId": "1161870",
+      "spelling": "一挙手一投足",
+      "reading": "いっきょしゅいっとうそく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "一挙手一投足【いっきょしゅいっとうそく】",
+      "meaning": "pequeño esfuerzo; problema menor"
+    },
+    {
+      "entryId": "1371090",
+      "spelling": "吹挙",
+      "reading": "すいきょ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "吹挙【すいきょ】",
+      "meaning": "recomendación"
+    },
+    {
+      "entryId": "1371090",
+      "spelling": "推挙",
+      "reading": "すいきょ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "推挙【すいきょ】",
+      "meaning": "recomendación"
+    },
+    {
+      "entryId": "1497230",
+      "spelling": "普通選挙",
+      "reading": "ふつうせんきょ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "普通選挙【ふつうせんきょ】",
+      "meaning": "sufragio universal"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

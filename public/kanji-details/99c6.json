@@ -1,0 +1,200 @@
+{
+  "character": "駆",
+  "meanings": "galopar, hacer correr a un caballo, avanzar",
+  "words": [
+    {
+      "entryId": "1387450",
+      "spelling": "先駆ける",
+      "reading": "さきがける",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "先駆ける【さきがける】",
+      "meaning": "ser el primero"
+    },
+    {
+      "entryId": "1244720",
+      "spelling": "駆ける",
+      "reading": "かける",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "駆ける【かける】",
+      "meaning": "correr (carreras de caballos); galopar; ir a medio galope; correr; avanzar"
+    },
+    {
+      "entryId": "1244860",
+      "spelling": "駆除",
+      "reading": "くじょ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "駆除【くじょ】",
+      "meaning": "eliminación; exterminación; exterminio"
+    },
+    {
+      "entryId": "1244880",
+      "spelling": "駆逐艦",
+      "reading": "くちくかん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "駆逐艦【くちくかん】",
+      "meaning": "destructor (buque de guerra)"
+    },
+    {
+      "entryId": "1244800",
+      "spelling": "駆け足",
+      "reading": "かけあし",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "駆け足【かけあし】",
+      "meaning": "galope; algo hecho a prisas"
+    },
+    {
+      "entryId": "1244800",
+      "spelling": "駆足",
+      "reading": "かけあし",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "駆足【かけあし】",
+      "meaning": "galope; algo hecho a prisas"
+    },
+    {
+      "entryId": "1608720",
+      "spelling": "追い駆ける",
+      "reading": "おいかける",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "追い駆ける【おいかける】",
+      "meaning": "perseguir; correr detrás de; seguir"
+    },
+    {
+      "entryId": "1244840",
+      "spelling": "駆る",
+      "reading": "かる",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "駆る【かる】",
+      "meaning": "conducir (carro); espolear; impeler; impulsar"
+    },
+    {
+      "entryId": "1712410",
+      "spelling": "駆けだし",
+      "reading": "かけだし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "駆けだし【かけだし】",
+      "meaning": "novato; principiante"
+    },
+    {
+      "entryId": "1712410",
+      "spelling": "駆け出し",
+      "reading": "かけだし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "駆け出し【かけだし】",
+      "meaning": "novato; principiante"
+    },
+    {
+      "entryId": "1712410",
+      "spelling": "駆出し",
+      "reading": "かけだし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "駆出し【かけだし】",
+      "meaning": "novato; principiante"
+    },
+    {
+      "entryId": "1244820",
+      "spelling": "駆けぬける",
+      "reading": "かけぬける",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "駆けぬける【かけぬける】",
+      "meaning": "correr libremente"
+    },
+    {
+      "entryId": "1244820",
+      "spelling": "駆け抜ける",
+      "reading": "かけぬける",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "駆け抜ける【かけぬける】",
+      "meaning": "correr libremente"
+    },
+    {
+      "entryId": "1244820",
+      "spelling": "駆抜ける",
+      "reading": "かけぬける",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "駆抜ける【かけぬける】",
+      "meaning": "correr libremente"
+    },
+    {
+      "entryId": "1590050",
+      "spelling": "駆け落ち",
+      "reading": "かけおち",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "駆け落ち【かけおち】",
+      "meaning": "derrota y vuelo; desaparer sin dejar rastro; fugarse"
+    },
+    {
+      "entryId": "1590050",
+      "spelling": "駆落ち",
+      "reading": "かけおち",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "駆落ち【かけおち】",
+      "meaning": "derrota y vuelo; desaparer sin dejar rastro; fugarse"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

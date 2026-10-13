@@ -1,0 +1,202 @@
+{
+  "character": "著",
+  "meanings": "expresar, publicar, escribir, notable, eminente",
+  "words": [
+    {
+      "entryId": "1427110",
+      "spelling": "著者",
+      "reading": "ちょしゃ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "著者【ちょしゃ】",
+      "meaning": "autor (norm. de un libro en concreto, etc.); escritor"
+    },
+    {
+      "entryId": "1427140",
+      "spelling": "著書",
+      "reading": "ちょしょ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "著書【ちょしょ】",
+      "meaning": "libro; escrito; obra escrita"
+    },
+    {
+      "entryId": "1956680",
+      "spelling": "著",
+      "reading": "ちょ",
+      "senseNumbers": [
+        8,
+        9
+      ],
+      "japanese": "著【ちょ】",
+      "meaning": "contador para trajes; llegar a ..."
+    },
+    {
+      "entryId": "1427100",
+      "spelling": "著作権",
+      "reading": "ちょさくけん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "著作権【ちょさくけん】",
+      "meaning": "copyright; derecho de autor"
+    },
+    {
+      "entryId": "1427150",
+      "spelling": "著名",
+      "reading": "ちょめい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "著名【ちょめい】",
+      "meaning": "famoso; renombrado; célebre"
+    },
+    {
+      "entryId": "1260640",
+      "spelling": "顕著",
+      "reading": "けんちょ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "顕著【けんちょ】",
+      "meaning": "notable; notorio"
+    },
+    {
+      "entryId": "1260640",
+      "spelling": "顯著",
+      "reading": "けんちょ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "顯著【けんちょ】",
+      "meaning": "notable; notorio"
+    },
+    {
+      "entryId": "1423000",
+      "spelling": "著る",
+      "reading": "きる",
+      "senseNumbers": [
+        11,
+        12
+      ],
+      "japanese": "著る【きる】",
+      "meaning": "vestir; ponerse; llevar puesto (ropa en el torso); cargar (con la culpa,etc.)"
+    },
+    {
+      "entryId": "1630320",
+      "spelling": "近著",
+      "reading": "きんちょ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "近著【きんちょ】",
+      "meaning": "obra reciente; trabajo reciente"
+    },
+    {
+      "entryId": "1423060",
+      "spelling": "著手",
+      "reading": "ちゃくしゅ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "著手【ちゃくしゅ】",
+      "meaning": "inicio de la ejecución de un delito; acometer una tarea; emprender; empezar; iniciar; comenzar; ponerse manos a la obra; comienzo; inicio"
+    },
+    {
+      "entryId": "1594740",
+      "spelling": "執著",
+      "reading": "しゅうちゃく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "執著【しゅうちゃく】",
+      "meaning": "obsesión; manía; obstinación; apego; querencia; aferramiento"
+    },
+    {
+      "entryId": "1531750",
+      "spelling": "名著",
+      "reading": "めいちょ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "名著【めいちょ】",
+      "meaning": "libro famoso; obra maestra"
+    },
+    {
+      "entryId": "1427070",
+      "spelling": "著しい",
+      "reading": "いちじるしい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "著しい【いちじるしい】",
+      "meaning": "sobresaliente; notable"
+    },
+    {
+      "entryId": "1427070",
+      "spelling": "著しい",
+      "reading": "いちぢるしい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "著しい【いちぢるしい】",
+      "meaning": "sobresaliente; notable"
+    },
+    {
+      "entryId": "1427080",
+      "spelling": "著す",
+      "reading": "あらわす",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "著す【あらわす】",
+      "meaning": "escribir; publicar"
+    },
+    {
+      "entryId": "1427080",
+      "spelling": "著わす",
+      "reading": "あらわす",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "著わす【あらわす】",
+      "meaning": "escribir; publicar"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

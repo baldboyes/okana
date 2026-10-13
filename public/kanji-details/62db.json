@@ -1,0 +1,160 @@
+{
+  "character": "招",
+  "meanings": "invitar, convocar",
+  "words": [
+    {
+      "entryId": "1349610",
+      "spelling": "招待",
+      "reading": "しょうたい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "招待【しょうたい】",
+      "meaning": "invitación"
+    },
+    {
+      "entryId": "1349610",
+      "spelling": "招待",
+      "reading": "しょうだい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "招待【しょうだい】",
+      "meaning": "invitación"
+    },
+    {
+      "entryId": "1349640",
+      "spelling": "招致",
+      "reading": "しょうち",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "招致【しょうち】",
+      "meaning": "invitación"
+    },
+    {
+      "entryId": "1349570",
+      "spelling": "招き",
+      "reading": "まねき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "招き【まねき】",
+      "meaning": "invitación"
+    },
+    {
+      "entryId": "1349600",
+      "spelling": "招集",
+      "reading": "しょうしゅう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "招集【しょうしゅう】",
+      "meaning": "citación a junta; convocatoria a junta"
+    },
+    {
+      "entryId": "1594970",
+      "spelling": "招請",
+      "reading": "しょうじょう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "招請【しょうじょう】",
+      "meaning": "llamada; citación; llamamiento; convocatoria; invitación"
+    },
+    {
+      "entryId": "1594970",
+      "spelling": "招請",
+      "reading": "しょうせい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "招請【しょうせい】",
+      "meaning": "llamada; citación; llamamiento; convocatoria; invitación"
+    },
+    {
+      "entryId": "1594970",
+      "spelling": "招請",
+      "reading": "ちょうしょう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "招請【ちょうしょう】",
+      "meaning": "llamada; citación; llamamiento; convocatoria; invitación"
+    },
+    {
+      "entryId": "1349590",
+      "spelling": "招く",
+      "reading": "まねく",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "招く【まねく】",
+      "meaning": "invitar"
+    },
+    {
+      "entryId": "1346460",
+      "spelling": "招喚",
+      "reading": "しょうかん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "招喚【しょうかん】",
+      "meaning": "citación; llamamiento"
+    },
+    {
+      "entryId": "1349650",
+      "spelling": "招へい",
+      "reading": "しょうへい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "招へい【しょうへい】",
+      "meaning": "invitación"
+    },
+    {
+      "entryId": "1349650",
+      "spelling": "招聘",
+      "reading": "しょうへい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "招聘【しょうへい】",
+      "meaning": "invitación"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

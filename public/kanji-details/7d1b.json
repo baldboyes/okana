@@ -1,0 +1,140 @@
+{
+  "character": "紛",
+  "meanings": "revuelto, difuminado, confuso, ambiguo, desviar, confundir, estar confuso",
+  "words": [
+    {
+      "entryId": "1505060",
+      "spelling": "紛争",
+      "reading": "ふんそう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "紛争【ふんそう】",
+      "meaning": "conflicto; disputa; guerra"
+    },
+    {
+      "entryId": "1505060",
+      "spelling": "紛諍",
+      "reading": "ふんそう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "紛諍【ふんそう】",
+      "meaning": "conflicto; disputa; guerra"
+    },
+    {
+      "entryId": "1505050",
+      "spelling": "紛失",
+      "reading": "ふんしつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "紛失【ふんしつ】",
+      "meaning": "perder algo"
+    },
+    {
+      "entryId": "1591410",
+      "spelling": "気紛れ",
+      "reading": "きまぐれ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "気紛れ【きまぐれ】",
+      "meaning": "capricho; antojo; veleidad; apetencia momentánea; caprichoso; voluble; que cambia de parecer a su antojo"
+    },
+    {
+      "entryId": "1611590",
+      "spelling": "紛れ",
+      "reading": "まぐれ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "紛れ【まぐれ】",
+      "meaning": "de chiripa; por casualidad; por azar"
+    },
+    {
+      "entryId": "1505010",
+      "spelling": "紛れる",
+      "reading": "まぎれる",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "紛れる【まぎれる】",
+      "meaning": "confundirse; camuflarse; distraerse"
+    },
+    {
+      "entryId": "1504990",
+      "spelling": "紛らわしい",
+      "reading": "まぎらわしい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "紛らわしい【まぎらわしい】",
+      "meaning": "engañoso"
+    },
+    {
+      "entryId": "1504980",
+      "spelling": "紛らす",
+      "reading": "まぎらす",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "紛らす【まぎらす】",
+      "meaning": "disimular; desvariar; distraer"
+    },
+    {
+      "entryId": "1610360",
+      "spelling": "珍紛漢紛",
+      "reading": "ちんぷんかんぷん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "珍紛漢紛【ちんぷんかんぷん】",
+      "meaning": "galimatías; jerigonza; palabras ininteligibles; sin pies ni cabeza; sin sentido"
+    },
+    {
+      "entryId": "1535170",
+      "spelling": "目紛しい",
+      "reading": "めまぐるしい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "目紛しい【めまぐるしい】",
+      "meaning": "febril; agitado; confundido; mareado; aturdido; desconcertante; héctico"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

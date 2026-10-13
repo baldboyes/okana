@@ -1,0 +1,242 @@
+{
+  "character": "肉",
+  "meanings": "carne",
+  "words": [
+    {
+      "entryId": "1463520",
+      "spelling": "肉",
+      "reading": "にく",
+      "senseNumbers": [
+        23,
+        24,
+        25
+      ],
+      "japanese": "肉【にく】",
+      "meaning": "carne; cuerpo (físico); espesor"
+    },
+    {
+      "entryId": "1231580",
+      "spelling": "牛肉",
+      "reading": "ぎゅうにく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "牛肉【ぎゅうにく】",
+      "meaning": "carne de res (vaca, ternera)"
+    },
+    {
+      "entryId": "1241810",
+      "spelling": "筋肉",
+      "reading": "きんにく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "筋肉【きんにく】",
+      "meaning": "músculo; tendón"
+    },
+    {
+      "entryId": "1463640",
+      "spelling": "肉親",
+      "reading": "にくしん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "肉親【にくしん】",
+      "meaning": "pariente; consanguíneo"
+    },
+    {
+      "entryId": "1463650",
+      "spelling": "肉体",
+      "reading": "にくたい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "肉体【にくたい】",
+      "meaning": "el cuerpo; la carne"
+    },
+    {
+      "entryId": "1483900",
+      "spelling": "皮肉",
+      "reading": "ひにく",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "皮肉【ひにく】",
+      "meaning": "cinismo; sarcasmo; ironía; sátira"
+    },
+    {
+      "entryId": "1827400",
+      "spelling": "肉体的",
+      "reading": "にくたいてき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "肉体的【にくたいてき】",
+      "meaning": "corporal; material"
+    },
+    {
+      "entryId": "1457440",
+      "spelling": "ぶた肉",
+      "reading": "ぶたにく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "ぶた肉【ぶたにく】",
+      "meaning": "puerco; carne de cerdo"
+    },
+    {
+      "entryId": "1457440",
+      "spelling": "ブタ肉",
+      "reading": "ぶたにく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "ブタ肉【ぶたにく】",
+      "meaning": "puerco; carne de cerdo"
+    },
+    {
+      "entryId": "1457440",
+      "spelling": "豚肉",
+      "reading": "とんにく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "豚肉【とんにく】",
+      "meaning": "puerco; carne de cerdo"
+    },
+    {
+      "entryId": "1457440",
+      "spelling": "豚肉",
+      "reading": "ぶたにく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "豚肉【ぶたにく】",
+      "meaning": "puerco; carne de cerdo"
+    },
+    {
+      "entryId": "1358580",
+      "spelling": "食肉",
+      "reading": "しょくにく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "食肉【しょくにく】",
+      "meaning": "carne (para el consumo)"
+    },
+    {
+      "entryId": "1605420",
+      "spelling": "焼き肉",
+      "reading": "やきにく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "焼き肉【やきにく】",
+      "meaning": "carne asada"
+    },
+    {
+      "entryId": "1605420",
+      "spelling": "焼肉",
+      "reading": "やきにく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "焼肉【やきにく】",
+      "meaning": "carne asada"
+    },
+    {
+      "entryId": "1253020",
+      "spelling": "とり肉",
+      "reading": "とりにく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "とり肉【とりにく】",
+      "meaning": "carne de pollo; carne de gallina"
+    },
+    {
+      "entryId": "1253020",
+      "spelling": "鳥肉",
+      "reading": "とりにく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "鳥肉【とりにく】",
+      "meaning": "carne de pollo; carne de gallina"
+    },
+    {
+      "entryId": "1253020",
+      "spelling": "鶏肉",
+      "reading": "けいにく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "鶏肉【けいにく】",
+      "meaning": "carne de pollo; carne de gallina"
+    },
+    {
+      "entryId": "1253020",
+      "spelling": "鶏肉",
+      "reading": "とりにく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "鶏肉【とりにく】",
+      "meaning": "carne de pollo; carne de gallina"
+    },
+    {
+      "entryId": "1463630",
+      "spelling": "肉食",
+      "reading": "にくしょく",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "肉食【にくしょく】",
+      "meaning": "carnívoro"
+    },
+    {
+      "entryId": "1463630",
+      "spelling": "肉食",
+      "reading": "にくじき",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "肉食【にくじき】",
+      "meaning": "carnívoro"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

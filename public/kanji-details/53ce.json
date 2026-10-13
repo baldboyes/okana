@@ -1,0 +1,240 @@
+{
+  "character": "収",
+  "meanings": "ingresar, obtener, recibir, almacenar, aceptar, ser obtenido, ser pagado",
+  "words": [
+    {
+      "entryId": "1330790",
+      "spelling": "収入",
+      "reading": "しゅうにゅう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "収入【しゅうにゅう】",
+      "meaning": "ingresos"
+    },
+    {
+      "entryId": "1330640",
+      "spelling": "収支",
+      "reading": "しゅうし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "収支【しゅうし】",
+      "meaning": "balance"
+    },
+    {
+      "entryId": "1199470",
+      "spelling": "回収",
+      "reading": "かいしゅう",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "回収【かいしゅう】",
+      "meaning": "recoger; recuperar; retirar; reembolsarse, cobrar; recuperación; decomiso; confiscación; requisa; incautación"
+    },
+    {
+      "entryId": "1330500",
+      "spelling": "収益",
+      "reading": "しゅうえき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "収益【しゅうえき】",
+      "meaning": "ganancias; dividendos"
+    },
+    {
+      "entryId": "1473780",
+      "spelling": "買収",
+      "reading": "ばいしゅう",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "買収【ばいしゅう】",
+      "meaning": "adquisición; compra"
+    },
+    {
+      "entryId": "1594720",
+      "spelling": "収集",
+      "reading": "しゅうしゅう",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "収集【しゅうしゅう】",
+      "meaning": "coleccionar; recopilar; hacer colección de; recoger; colección; amontonamiento; hacinamiento; acumulamiento; recopilación; recolecta; recogida"
+    },
+    {
+      "entryId": "1330510",
+      "spelling": "収穫",
+      "reading": "しゅうかく",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "収穫【しゅうかく】",
+      "meaning": "cosechar; recolectar; cosecha"
+    },
+    {
+      "entryId": "1468830",
+      "spelling": "年収",
+      "reading": "ねんしゅう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "年収【ねんしゅう】",
+      "meaning": "ingresos anuales"
+    },
+    {
+      "entryId": "1330880",
+      "spelling": "収容",
+      "reading": "しゅうよう",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "収容【しゅうよう】",
+      "meaning": "capacidad; cabida; aforo; espacio"
+    },
+    {
+      "entryId": "1228330",
+      "spelling": "吸収",
+      "reading": "きゅうしゅう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "吸収【きゅうしゅう】",
+      "meaning": "absorción; succión; atracción"
+    },
+    {
+      "entryId": "1330660",
+      "spelling": "収拾",
+      "reading": "しゅうしゅう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "収拾【しゅうしゅう】",
+      "meaning": "manejo; dominio; control"
+    },
+    {
+      "entryId": "1437730",
+      "spelling": "徹収",
+      "reading": "てっしゅう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "徹収【てっしゅう】",
+      "meaning": "retirada"
+    },
+    {
+      "entryId": "1437730",
+      "spelling": "撒収",
+      "reading": "てっしゅう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "撒収【てっしゅう】",
+      "meaning": "retirada"
+    },
+    {
+      "entryId": "1437730",
+      "spelling": "撤収",
+      "reading": "てっしゅう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "撤収【てっしゅう】",
+      "meaning": "retirada"
+    },
+    {
+      "entryId": "1428110",
+      "spelling": "徴収",
+      "reading": "ちょうしゅう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "徴収【ちょうしゅう】",
+      "meaning": "impuesto"
+    },
+    {
+      "entryId": "1255700",
+      "spelling": "月収",
+      "reading": "げっしゅう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "月収【げっしゅう】",
+      "meaning": "ingresos mensuales"
+    },
+    {
+      "entryId": "1554760",
+      "spelling": "領収書",
+      "reading": "りょうしゅうしょ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "領収書【りょうしゅうしょ】",
+      "meaning": "recibo de pago"
+    },
+    {
+      "entryId": "1330830",
+      "spelling": "収納",
+      "reading": "しゅうのう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "収納【しゅうのう】",
+      "meaning": "cobrar; recaudar; cobro; recaudación"
+    },
+    {
+      "entryId": "1330950",
+      "spelling": "収用",
+      "reading": "しゅうよう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "収用【しゅうよう】",
+      "meaning": "expropiación"
+    },
+    {
+      "entryId": "1180510",
+      "spelling": "押収",
+      "reading": "おうしゅう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "押収【おうしゅう】",
+      "meaning": "incautación; embargo; comiso; decomiso; confiscación"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

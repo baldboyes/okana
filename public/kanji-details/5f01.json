@@ -1,0 +1,245 @@
+{
+  "character": "弁",
+  "meanings": "discurso, dialecto, distinguir, identificar, reembolsar, pétalo",
+  "words": [
+    {
+      "entryId": "1512850",
+      "spelling": "弁護士",
+      "reading": "べんごし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "弁護士【べんごし】",
+      "meaning": "abogado"
+    },
+    {
+      "entryId": "1449570",
+      "spelling": "答弁",
+      "reading": "とうべん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "答弁【とうべん】",
+      "meaning": "respuesta; explicación"
+    },
+    {
+      "entryId": "1512830",
+      "spelling": "弁護",
+      "reading": "べんご",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "弁護【べんご】",
+      "meaning": "defensa; justificación; argumento; abogar; defender"
+    },
+    {
+      "entryId": "1513060",
+      "spelling": "弁当",
+      "reading": "べんとう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "弁当【べんとう】",
+      "meaning": "bento; lonchera japonesa"
+    },
+    {
+      "entryId": "1513060",
+      "spelling": "弁當",
+      "reading": "べんとう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "弁當【べんとう】",
+      "meaning": "bento; lonchera japonesa"
+    },
+    {
+      "entryId": "1513130",
+      "spelling": "弁務官",
+      "reading": "べんむかん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "弁務官【べんむかん】",
+      "meaning": "comisionado"
+    },
+    {
+      "entryId": "1512710",
+      "spelling": "弁",
+      "reading": "べん",
+      "senseNumbers": [
+        34,
+        35,
+        36,
+        37,
+        38
+      ],
+      "japanese": "弁【べん】",
+      "meaning": "pétalo; válvula; habla; dialecto; Departamento de Vigilancia (división de los daijokan responsable del control central y oficinas gubernamentales de provincias)"
+    },
+    {
+      "entryId": "1513170",
+      "spelling": "弁論",
+      "reading": "べんろん",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "弁論【べんろん】",
+      "meaning": "debate; discusión; discurso"
+    },
+    {
+      "entryId": "1631210",
+      "spelling": "口頭弁論",
+      "reading": "こうとうべんろん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "口頭弁論【こうとうべんろん】",
+      "meaning": "alegato oral; informe oral; exposición oral"
+    },
+    {
+      "entryId": "1194520",
+      "spelling": "花弁",
+      "reading": "はなびら",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "花弁【はなびら】",
+      "meaning": "pétalo (de una flor)"
+    },
+    {
+      "entryId": "1513140",
+      "spelling": "弁明",
+      "reading": "べんめい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "弁明【べんめい】",
+      "meaning": "explicación"
+    },
+    {
+      "entryId": "1512760",
+      "spelling": "弁解",
+      "reading": "べんかい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "弁解【べんかい】",
+      "meaning": "excusa; pretexto; justificación"
+    },
+    {
+      "entryId": "1175240",
+      "spelling": "駅弁",
+      "reading": "えきべん",
+      "senseNumbers": [
+        7,
+        8
+      ],
+      "japanese": "駅弁【えきべん】",
+      "meaning": "comida que se vende en cajitas en la estación de ferrocarril; postura sexual"
+    },
+    {
+      "entryId": "1467980",
+      "spelling": "熱弁",
+      "reading": "ねつべん",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "熱弁【ねつべん】",
+      "meaning": "discurso vehemente"
+    },
+    {
+      "entryId": "1512770",
+      "spelling": "弁慶",
+      "reading": "べんけい",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "弁慶【べんけい】",
+      "meaning": "hombre fuerte"
+    },
+    {
+      "entryId": "1412300",
+      "spelling": "代弁",
+      "reading": "だいべん",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "代弁【だいべん】",
+      "meaning": "representación; compensación"
+    },
+    {
+      "entryId": "1512940",
+      "spelling": "弁済",
+      "reading": "べんさい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "弁済【べんさい】",
+      "meaning": "pago; saldo; liquidación"
+    },
+    {
+      "entryId": "1512980",
+      "spelling": "弁償",
+      "reading": "べんしょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "弁償【べんしょう】",
+      "meaning": "reembolso; compensación; indemnización"
+    },
+    {
+      "entryId": "1512720",
+      "spelling": "弁える",
+      "reading": "わきまえる",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "弁える【わきまえる】",
+      "meaning": "distinguir; discernir"
+    },
+    {
+      "entryId": "1513065",
+      "spelling": "お弁当",
+      "reading": "おべんとう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "お弁当【おべんとう】",
+      "meaning": "o-bento; almuerzo portátil; (am) itacate"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

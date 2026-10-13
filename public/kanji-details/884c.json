@@ -1,0 +1,240 @@
+{
+  "character": "行",
+  "meanings": "ir, fila, línea (texto), ocurrencia, conducta, realizar, llevar a cabo, ocurrir",
+  "words": [
+    {
+      "entryId": "1243490",
+      "spelling": "銀行",
+      "reading": "ぎんこう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "銀行【ぎんこう】",
+      "meaning": "banco"
+    },
+    {
+      "entryId": "1282010",
+      "spelling": "行政",
+      "reading": "ぎょうせい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "行政【ぎょうせい】",
+      "meaning": "administración (pública); gobierno"
+    },
+    {
+      "entryId": "1282100",
+      "spelling": "行動",
+      "reading": "こうどう",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "行動【こうどう】",
+      "meaning": "acción; conducta; comportamiento; movilización"
+    },
+    {
+      "entryId": "1589060",
+      "spelling": "行う",
+      "reading": "おこなう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "行う【おこなう】",
+      "meaning": "ejecutar; hacer; llevar a cabo"
+    },
+    {
+      "entryId": "1589060",
+      "spelling": "行なう",
+      "reading": "おこなう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "行なう【おこなう】",
+      "meaning": "ejecutar; hacer; llevar a cabo"
+    },
+    {
+      "entryId": "1281830",
+      "spelling": "行為",
+      "reading": "こうい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "行為【こうい】",
+      "meaning": "acto; hecho; conducta"
+    },
+    {
+      "entryId": "1282180",
+      "spelling": "行くえ",
+      "reading": "ゆくえ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "行くえ【ゆくえ】",
+      "meaning": "paradero"
+    },
+    {
+      "entryId": "1282180",
+      "spelling": "行方",
+      "reading": "ゆくえ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "行方【ゆくえ】",
+      "meaning": "paradero"
+    },
+    {
+      "entryId": "1282180",
+      "spelling": "行衛",
+      "reading": "ゆくえ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "行衛【ゆくえ】",
+      "meaning": "paradero"
+    },
+    {
+      "entryId": "1477390",
+      "spelling": "発行",
+      "reading": "はっこう",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "発行【はっこう】",
+      "meaning": "publicar; editar; publicación"
+    },
+    {
+      "entryId": "1553170",
+      "spelling": "旅行",
+      "reading": "りょこう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "旅行【りょこう】",
+      "meaning": "viajar; viaje"
+    },
+    {
+      "entryId": "1263630",
+      "spelling": "現行",
+      "reading": "げんこう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "現行【げんこう】",
+      "meaning": "presente; actual; infraganti"
+    },
+    {
+      "entryId": "1281910",
+      "spelling": "行使",
+      "reading": "こうし",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "行使【こうし】",
+      "meaning": "uso; empleo; ejercicio"
+    },
+    {
+      "entryId": "1321040",
+      "spelling": "実行",
+      "reading": "じっこう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "実行【じっこう】",
+      "meaning": "ejecutar; llevar a cabo; llevar a la práctica; realizar; materializar; realización; ejecutar (un plan; un programa de computadora)"
+    },
+    {
+      "entryId": "1411850",
+      "spelling": "代行",
+      "reading": "だいこう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "代行【だいこう】",
+      "meaning": "representante"
+    },
+    {
+      "entryId": "1481570",
+      "spelling": "犯行",
+      "reading": "はんこう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "犯行【はんこう】",
+      "meaning": "delito; crimen"
+    },
+    {
+      "entryId": "1485450",
+      "spelling": "飛行",
+      "reading": "ひこう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "飛行【ひこう】",
+      "meaning": "aviación"
+    },
+    {
+      "entryId": "1158240",
+      "spelling": "移行",
+      "reading": "いこう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "移行【いこう】",
+      "meaning": "transición; migración"
+    },
+    {
+      "entryId": "1281930",
+      "spelling": "行事",
+      "reading": "ぎょうじ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "行事【ぎょうじ】",
+      "meaning": "evento; función"
+    },
+    {
+      "entryId": "1319630",
+      "spelling": "執行",
+      "reading": "しぎょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "執行【しぎょう】",
+      "meaning": "ejecución; realización"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

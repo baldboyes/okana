@@ -1,0 +1,162 @@
+{
+  "character": "汚",
+  "meanings": "sucio, manchado, manchar, deshonrar, ensuciar, difamar, obsceno, ensuciarse",
+  "words": [
+    {
+      "entryId": "1179010",
+      "spelling": "汚職",
+      "reading": "おしょく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "汚職【おしょく】",
+      "meaning": "corrupción"
+    },
+    {
+      "entryId": "1179040",
+      "spelling": "汚染",
+      "reading": "おせん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "汚染【おせん】",
+      "meaning": "polución; contaminación"
+    },
+    {
+      "entryId": "1612200",
+      "spelling": "汚れ",
+      "reading": "よごれ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "汚れ【よごれ】",
+      "meaning": "mancha"
+    },
+    {
+      "entryId": "1179090",
+      "spelling": "汚濁",
+      "reading": "おだく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "汚濁【おだく】",
+      "meaning": "turbiedad; suciedad"
+    },
+    {
+      "entryId": "1179130",
+      "spelling": "汚名",
+      "reading": "おめい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "汚名【おめい】",
+      "meaning": "mancilla; deshonor; deshonra"
+    },
+    {
+      "entryId": "1179030",
+      "spelling": "汚水",
+      "reading": "おすい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "汚水【おすい】",
+      "meaning": "aguas fecales; aguas residuales"
+    },
+    {
+      "entryId": "1179005",
+      "spelling": "汚れる",
+      "reading": "よごれる",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "汚れる【よごれる】",
+      "meaning": "ensuciar"
+    },
+    {
+      "entryId": "1178940",
+      "spelling": "汚い",
+      "reading": "きたない",
+      "senseNumbers": [
+        21
+      ],
+      "japanese": "汚い【きたない】",
+      "meaning": "sucio; manchado"
+    },
+    {
+      "entryId": "1178940",
+      "spelling": "汚ない",
+      "reading": "きたない",
+      "senseNumbers": [
+        21
+      ],
+      "japanese": "汚ない【きたない】",
+      "meaning": "sucio; manchado"
+    },
+    {
+      "entryId": "1178960",
+      "spelling": "汚す",
+      "reading": "けがす",
+      "senseNumbers": [
+        20,
+        21
+      ],
+      "japanese": "汚す【けがす】",
+      "meaning": "manchar; ensuciar; desgraciar; deshonrar; contaminar"
+    },
+    {
+      "entryId": "1178960",
+      "spelling": "汚す",
+      "reading": "よごす",
+      "senseNumbers": [
+        20,
+        21
+      ],
+      "japanese": "汚す【よごす】",
+      "meaning": "manchar; ensuciar; desgraciar; deshonrar; contaminar"
+    },
+    {
+      "entryId": "1179110",
+      "spelling": "汚点",
+      "reading": "おてん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "汚点【おてん】",
+      "meaning": "mancha; mancilla; tara; fallo; defecto"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "character": "追",
+  "meanings": "perseguir, ahuyentar, expulsar, desterrar, despedir",
+  "words": [
+    {
+      "entryId": "1432460",
+      "spelling": "追加",
+      "reading": "ついか",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "追加【ついか】",
+      "meaning": "adición; suplemento; apéndice; agregar (en software)"
+    },
+    {
+      "entryId": "1432330",
+      "spelling": "追いこむ",
+      "reading": "おいこむ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "追いこむ【おいこむ】",
+      "meaning": "acorralar; esquinar"
+    },
+    {
+      "entryId": "1432330",
+      "spelling": "追い込む",
+      "reading": "おいこむ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "追い込む【おいこむ】",
+      "meaning": "acorralar; esquinar"
+    },
+    {
+      "entryId": "1432410",
+      "spelling": "追う",
+      "reading": "おう",
+      "senseNumbers": [
+        22
+      ],
+      "japanese": "追う【おう】",
+      "meaning": "perseguir; ir detrás de"
+    },
+    {
+      "entryId": "1432480",
+      "spelling": "追及",
+      "reading": "ついきゅう",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "追及【ついきゅう】",
+      "meaning": "persecución; investigación"
+    },
+    {
+      "entryId": "1432670",
+      "spelling": "追放",
+      "reading": "ついほう",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "追放【ついほう】",
+      "meaning": "exilio; destierro"
+    },
+    {
+      "entryId": "1608725",
+      "spelling": "追っかける",
+      "reading": "おっかける",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "追っかける【おっかける】",
+      "meaning": "perseguir; correr detrás de; seguir"
+    },
+    {
+      "entryId": "1608725",
+      "spelling": "追っ掛ける",
+      "reading": "おっかける",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "追っ掛ける【おっかける】",
+      "meaning": "perseguir; correr detrás de; seguir"
+    },
+    {
+      "entryId": "1432610",
+      "spelling": "追悼",
+      "reading": "ついとう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "追悼【ついとう】",
+      "meaning": "luto; duelo"
+    },
+    {
+      "entryId": "1588800",
+      "spelling": "追い風",
+      "reading": "おいかぜ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "追い風【おいかぜ】",
+      "meaning": "viento a favor; viento en popa"
+    },
+    {
+      "entryId": "1588800",
+      "spelling": "追い風",
+      "reading": "おいて",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "追い風【おいて】",
+      "meaning": "viento a favor; viento en popa"
+    },
+    {
+      "entryId": "1588800",
+      "spelling": "追風",
+      "reading": "おいかぜ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "追風【おいかぜ】",
+      "meaning": "viento a favor; viento en popa"
+    },
+    {
+      "entryId": "1432560",
+      "spelling": "追跡",
+      "reading": "ついせき",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "追跡【ついせき】",
+      "meaning": "persecución; caza; seguimiento"
+    },
+    {
+      "entryId": "1432490",
+      "spelling": "追求",
+      "reading": "ついきゅう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "追求【ついきゅう】",
+      "meaning": "búsqueda; investigación"
+    },
+    {
+      "entryId": "1588810",
+      "spelling": "追いつく",
+      "reading": "おいつく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "追いつく【おいつく】",
+      "meaning": "alcanzar; coger; ponerse a la altura de; llegar al nivel de; dar alcance"
+    },
+    {
+      "entryId": "1588810",
+      "spelling": "追い付く",
+      "reading": "おいつく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "追い付く【おいつく】",
+      "meaning": "alcanzar; coger; ponerse a la altura de; llegar al nivel de; dar alcance"
+    },
+    {
+      "entryId": "1588810",
+      "spelling": "追い着く",
+      "reading": "おいつく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "追い着く【おいつく】",
+      "meaning": "alcanzar; coger; ponerse a la altura de; llegar al nivel de; dar alcance"
+    },
+    {
+      "entryId": "1588810",
+      "spelling": "追付く",
+      "reading": "おいつく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "追付く【おいつく】",
+      "meaning": "alcanzar; coger; ponerse a la altura de; llegar al nivel de; dar alcance"
+    },
+    {
+      "entryId": "1588810",
+      "spelling": "追着く",
+      "reading": "おいつく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "追着く【おいつく】",
+      "meaning": "alcanzar; coger; ponerse a la altura de; llegar al nivel de; dar alcance"
+    },
+    {
+      "entryId": "1432510",
+      "spelling": "追撃",
+      "reading": "ついげき",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "追撃【ついげき】",
+      "meaning": "persecución"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

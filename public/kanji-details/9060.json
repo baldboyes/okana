@@ -1,0 +1,240 @@
+{
+  "character": "遠",
+  "meanings": "lejos, distante",
+  "words": [
+    {
+      "entryId": "1174070",
+      "spelling": "永遠",
+      "reading": "えいえん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "永遠【えいえん】",
+      "meaning": "para siempre; hasta la eternidad; perpetuidad; inmortalidad; eternidad; permanencia"
+    },
+    {
+      "entryId": "1178210",
+      "spelling": "遠征",
+      "reading": "えんせい",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "遠征【えんせい】",
+      "meaning": "expedición; tour; hacer una expedición (tour)"
+    },
+    {
+      "entryId": "1519650",
+      "spelling": "望遠鏡",
+      "reading": "ぼうえんきょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "望遠鏡【ぼうえんきょう】",
+      "meaning": "telescopio"
+    },
+    {
+      "entryId": "1177950",
+      "spelling": "遠隔",
+      "reading": "えんかく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "遠隔【えんかく】",
+      "meaning": "remoto; lejano; apartado"
+    },
+    {
+      "entryId": "1178450",
+      "spelling": "遠慮",
+      "reading": "えんりょ",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "遠慮【えんりょ】",
+      "meaning": "abstenerse de; excusarse de; preferir no hacer; dar corte; cortarse; reserva; modestia; recato; vergüenza; temor; abstenerse; rehusar algo por discreción; estar temeroso de algo"
+    },
+    {
+      "entryId": "1250730",
+      "spelling": "敬遠",
+      "reading": "けいえん",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "敬遠【けいえん】",
+      "meaning": "evasión; fuga; huida"
+    },
+    {
+      "entryId": "1650010",
+      "spelling": "遠山",
+      "reading": "えんざん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "遠山【えんざん】",
+      "meaning": "montaña distante"
+    },
+    {
+      "entryId": "1650010",
+      "spelling": "遠山",
+      "reading": "とおやま",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "遠山【とおやま】",
+      "meaning": "montaña distante"
+    },
+    {
+      "entryId": "1178050",
+      "spelling": "遠距離",
+      "reading": "えんきょり",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "遠距離【えんきょり】",
+      "meaning": "distancia larga"
+    },
+    {
+      "entryId": "1178260",
+      "spelling": "遠足",
+      "reading": "えんそく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "遠足【えんそく】",
+      "meaning": "excursión; viaje"
+    },
+    {
+      "entryId": "1396680",
+      "spelling": "疎遠",
+      "reading": "そえん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "疎遠【そえん】",
+      "meaning": "distanciamiento; alejamiento"
+    },
+    {
+      "entryId": "1178340",
+      "spelling": "遠方",
+      "reading": "えんぽう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "遠方【えんぽう】",
+      "meaning": "lejanía; lugar alejado"
+    },
+    {
+      "entryId": "1410480",
+      "spelling": "待ち遠しい",
+      "reading": "まちどうしい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "待ち遠しい【まちどうしい】",
+      "meaning": "ansioso; impaciente"
+    },
+    {
+      "entryId": "1410480",
+      "spelling": "待ち遠しい",
+      "reading": "まちどおしい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "待ち遠しい【まちどおしい】",
+      "meaning": "ansioso; impaciente"
+    },
+    {
+      "entryId": "1410480",
+      "spelling": "待遠しい",
+      "reading": "まちどおしい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "待遠しい【まちどおしい】",
+      "meaning": "ansioso; impaciente"
+    },
+    {
+      "entryId": "1177830",
+      "spelling": "遠ざかる",
+      "reading": "とおざかる",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "遠ざかる【とおざかる】",
+      "meaning": "alejarse; distanciarse; apartarse"
+    },
+    {
+      "entryId": "1177800",
+      "spelling": "遠い",
+      "reading": "とおい",
+      "senseNumbers": [
+        27
+      ],
+      "japanese": "遠い【とおい】",
+      "meaning": "lejos; distante"
+    },
+    {
+      "entryId": "1177820",
+      "spelling": "遠く",
+      "reading": "とおく",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "遠く【とおく】",
+      "meaning": "en la lejanía"
+    },
+    {
+      "entryId": "1178410",
+      "spelling": "遠洋",
+      "reading": "えんよう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "遠洋【えんよう】",
+      "meaning": "océano; mar profundo"
+    },
+    {
+      "entryId": "1177860",
+      "spelling": "遠因",
+      "reading": "えんいん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "遠因【えんいん】",
+      "meaning": "causa remota"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

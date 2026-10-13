@@ -1,0 +1,248 @@
+{
+  "character": "在",
+  "meanings": "existir, pueblo natal, alrededores, ser",
+  "words": [
+    {
+      "entryId": "1263650",
+      "spelling": "現在",
+      "reading": "げんざい",
+      "senseNumbers": [
+        22
+      ],
+      "japanese": "現在【げんざい】",
+      "meaning": "ahora; actual; presente; actualmente"
+    },
+    {
+      "entryId": "1263650",
+      "spelling": "見在",
+      "reading": "げんざい",
+      "senseNumbers": [
+        22
+      ],
+      "japanese": "見在【げんざい】",
+      "meaning": "ahora; actual; presente; actualmente"
+    },
+    {
+      "entryId": "1406150",
+      "spelling": "存在",
+      "reading": "そんざい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "存在【そんざい】",
+      "meaning": "existir; existencia"
+    },
+    {
+      "entryId": "1296560",
+      "spelling": "在日",
+      "reading": "ざいにち",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "在日【ざいにち】",
+      "meaning": "residencia (estancia) en Japón"
+    },
+    {
+      "entryId": "1410930",
+      "spelling": "滞在",
+      "reading": "たいざい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "滞在【たいざい】",
+      "meaning": "estancia"
+    },
+    {
+      "entryId": "1296500",
+      "spelling": "在住",
+      "reading": "ざいじゅう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "在住【ざいじゅう】",
+      "meaning": "residencia"
+    },
+    {
+      "entryId": "1296400",
+      "spelling": "在る",
+      "reading": "ある",
+      "senseNumbers": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "japanese": "在る【ある】",
+      "meaning": "estar (objetos inanimados y plantas); vivir; existir; tener; estar equipado con; suceder; estar (objetos inanimados); haber; poseer; ser; estar localizado; ocurrir; pasar; producirse; tener lugar; suceder en"
+    },
+    {
+      "entryId": "1296470",
+      "spelling": "在庫",
+      "reading": "ざいこ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "在庫【ざいこ】",
+      "meaning": "las reservas (lo almacenado; el stock)"
+    },
+    {
+      "entryId": "1741040",
+      "spelling": "在りし日",
+      "reading": "ありしひ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "在りし日【ありしひ】",
+      "meaning": "pasado; tiempos (días) pasados; los viejos tiempos; los días pasados"
+    },
+    {
+      "entryId": "1492460",
+      "spelling": "不在",
+      "reading": "ふざい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "不在【ふざい】",
+      "meaning": "ausencia"
+    },
+    {
+      "entryId": "1391310",
+      "spelling": "潜在",
+      "reading": "せんざい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "潜在【せんざい】",
+      "meaning": "latencia"
+    },
+    {
+      "entryId": "1296440",
+      "spelling": "在学",
+      "reading": "ざいがく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "在学【ざいがく】",
+      "meaning": "estudiante"
+    },
+    {
+      "entryId": "1296620",
+      "spelling": "在留",
+      "reading": "ざいりゅう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "在留【ざいりゅう】",
+      "meaning": "estadía; estancia; permanencia"
+    },
+    {
+      "entryId": "1296590",
+      "spelling": "在任",
+      "reading": "ざいにん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "在任【ざいにん】",
+      "meaning": "estar en la oficina"
+    },
+    {
+      "entryId": "1343210",
+      "spelling": "所在",
+      "reading": "しょざい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "所在【しょざい】",
+      "meaning": "paradero"
+    },
+    {
+      "entryId": "1317750",
+      "spelling": "自在",
+      "reading": "じざい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "自在【じざい】",
+      "meaning": "libremente; a voluntad"
+    },
+    {
+      "entryId": "1657810",
+      "spelling": "在京",
+      "reading": "ざいきょう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "在京【ざいきょう】",
+      "meaning": "estar en Tokio"
+    },
+    {
+      "entryId": "1296520",
+      "spelling": "在職",
+      "reading": "ざいしょく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "在職【ざいしょく】",
+      "meaning": "estar en la oficina"
+    },
+    {
+      "entryId": "1657820",
+      "spelling": "在米",
+      "reading": "ざいべい",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "在米【ざいべい】",
+      "meaning": "estar en los EE.UU."
+    },
+    {
+      "entryId": "1296530",
+      "spelling": "在籍",
+      "reading": "ざいせき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "在籍【ざいせき】",
+      "meaning": "inscripción; matriculación; filiación"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

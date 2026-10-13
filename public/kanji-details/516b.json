@@ -1,0 +1,241 @@
+{
+  "character": "八",
+  "meanings": "ocho, 8",
+  "words": [
+    {
+      "entryId": "1476730",
+      "spelling": "八月",
+      "reading": "はちがつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "八月【はちがつ】",
+      "meaning": "agosto; Agosto"
+    },
+    {
+      "entryId": "1583090",
+      "spelling": "八",
+      "reading": "はち",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "八【はち】",
+      "meaning": "ocho; ocho (usado en documentos legales)"
+    },
+    {
+      "entryId": "1583090",
+      "spelling": "八",
+      "reading": "や",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "八【や】",
+      "meaning": "ocho; ocho (usado en documentos legales)"
+    },
+    {
+      "entryId": "1335050",
+      "spelling": "一八",
+      "reading": "じゅうはち",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "一八【じゅうはち】",
+      "meaning": "dieciocho"
+    },
+    {
+      "entryId": "1335050",
+      "spelling": "十八",
+      "reading": "じゅうはち",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "十八【じゅうはち】",
+      "meaning": "dieciocho"
+    },
+    {
+      "entryId": "1649490",
+      "spelling": "八〇",
+      "reading": "はちじゅう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "八〇【はちじゅう】",
+      "meaning": "ochenta"
+    },
+    {
+      "entryId": "1649490",
+      "spelling": "八十",
+      "reading": "はちじゅう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "八十【はちじゅう】",
+      "meaning": "ochenta"
+    },
+    {
+      "entryId": "1649490",
+      "spelling": "八十",
+      "reading": "やそ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "八十【やそ】",
+      "meaning": "ochenta"
+    },
+    {
+      "entryId": "1625410",
+      "spelling": "八幡",
+      "reading": "はちまん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "八幡【はちまん】",
+      "meaning": "dios de la Guerra; Hachiman"
+    },
+    {
+      "entryId": "1476870",
+      "spelling": "八千代",
+      "reading": "やちよ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "八千代【やちよ】",
+      "meaning": "eternidad; miles de años"
+    },
+    {
+      "entryId": "1476960",
+      "spelling": "八百屋",
+      "reading": "やおや",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "八百屋【やおや】",
+      "meaning": "verdulería; verdulero"
+    },
+    {
+      "entryId": "1476610",
+      "spelling": "八つあたり",
+      "reading": "やつあたり",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "八つあたり【やつあたり】",
+      "meaning": "desquitarse con quien sea"
+    },
+    {
+      "entryId": "1476610",
+      "spelling": "八つ当たり",
+      "reading": "やつあたり",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "八つ当たり【やつあたり】",
+      "meaning": "desquitarse con quien sea"
+    },
+    {
+      "entryId": "1476610",
+      "spelling": "八つ当り",
+      "reading": "やつあたり",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "八つ当り【やつあたり】",
+      "meaning": "desquitarse con quien sea"
+    },
+    {
+      "entryId": "1476920",
+      "spelling": "八日",
+      "reading": "ようか",
+      "senseNumbers": [
+        10,
+        11
+      ],
+      "japanese": "八日【ようか】",
+      "meaning": "octavo día del mes; ocho días"
+    },
+    {
+      "entryId": "1211380",
+      "spelling": "八釜しい",
+      "reading": "やかましい",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "八釜しい【やかましい】",
+      "meaning": "ruidoso"
+    },
+    {
+      "entryId": "1583095",
+      "spelling": "八つ",
+      "reading": "やっつ",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "八つ【やっつ】",
+      "meaning": "ocho"
+    },
+    {
+      "entryId": "1583095",
+      "spelling": "八つ",
+      "reading": "やつ",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "八つ【やつ】",
+      "meaning": "ocho"
+    },
+    {
+      "entryId": "1589430",
+      "spelling": "お八つ",
+      "reading": "おやつ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "お八つ【おやつ】",
+      "meaning": "merienda"
+    },
+    {
+      "entryId": "1589430",
+      "spelling": "御八つ",
+      "reading": "おやつ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "御八つ【おやつ】",
+      "meaning": "merienda"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

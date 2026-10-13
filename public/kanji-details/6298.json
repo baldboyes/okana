@@ -1,0 +1,240 @@
+{
+  "character": "折",
+  "meanings": "plegar, doblar, romper, dividir, en ese tiempo, quebrar",
+  "words": [
+    {
+      "entryId": "1385950",
+      "spelling": "折衝",
+      "reading": "せっしょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "折衝【せっしょう】",
+      "meaning": "negociación"
+    },
+    {
+      "entryId": "1385780",
+      "spelling": "折",
+      "reading": "おり",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "折【おり】",
+      "meaning": "tiempo; ocasión; telar"
+    },
+    {
+      "entryId": "1385780",
+      "spelling": "折り",
+      "reading": "おり",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "折り【おり】",
+      "meaning": "tiempo; ocasión; telar"
+    },
+    {
+      "entryId": "1598670",
+      "spelling": "時折",
+      "reading": "ときおり",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "時折【ときおり】",
+      "meaning": "a veces; algunas veces"
+    },
+    {
+      "entryId": "1598670",
+      "spelling": "時折",
+      "reading": "ときより",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "時折【ときより】",
+      "meaning": "a veces; algunas veces"
+    },
+    {
+      "entryId": "1598670",
+      "spelling": "時折り",
+      "reading": "ときおり",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "時折り【ときおり】",
+      "meaning": "a veces; algunas veces"
+    },
+    {
+      "entryId": "1199060",
+      "spelling": "解折",
+      "reading": "かいせき",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "解折【かいせき】",
+      "meaning": "análisis"
+    },
+    {
+      "entryId": "1288640",
+      "spelling": "骨折",
+      "reading": "こっせつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "骨折【こっせつ】",
+      "meaning": "fractura del hueso"
+    },
+    {
+      "entryId": "1292040",
+      "spelling": "挫折",
+      "reading": "ざせつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "挫折【ざせつ】",
+      "meaning": "frustración; revés; desánimo; desaliento"
+    },
+    {
+      "entryId": "1385810",
+      "spelling": "折り合い",
+      "reading": "おりあい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "折り合い【おりあい】",
+      "meaning": "avenencia; acuerdo; consenso; transacción; conciliación"
+    },
+    {
+      "entryId": "1385810",
+      "spelling": "折合い",
+      "reading": "おりあい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "折合い【おりあい】",
+      "meaning": "avenencia; acuerdo; consenso; transacción; conciliación"
+    },
+    {
+      "entryId": "1589450",
+      "spelling": "折り紙",
+      "reading": "おりがみ",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "折り紙【おりがみ】",
+      "meaning": "origami (arte de hacer figuritas de papel)"
+    },
+    {
+      "entryId": "1589450",
+      "spelling": "折紙",
+      "reading": "おりがみ",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "折紙【おりがみ】",
+      "meaning": "origami (arte de hacer figuritas de papel)"
+    },
+    {
+      "entryId": "1385790",
+      "spelling": "折から",
+      "reading": "おりから",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "折から【おりから】",
+      "meaning": "justo en ese momento; precisamente en ese instante"
+    },
+    {
+      "entryId": "1385790",
+      "spelling": "折りから",
+      "reading": "おりから",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "折りから【おりから】",
+      "meaning": "justo en ese momento; precisamente en ese instante"
+    },
+    {
+      "entryId": "1385790",
+      "spelling": "折柄",
+      "reading": "おりから",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "折柄【おりから】",
+      "meaning": "justo en ese momento; precisamente en ese instante"
+    },
+    {
+      "entryId": "1385960",
+      "spelling": "折中",
+      "reading": "せっちゅう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "折中【せっちゅう】",
+      "meaning": "conciliación; acuerdo"
+    },
+    {
+      "entryId": "1385960",
+      "spelling": "折衷",
+      "reading": "せっちゅう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "折衷【せっちゅう】",
+      "meaning": "conciliación; acuerdo"
+    },
+    {
+      "entryId": "1589440",
+      "spelling": "折々",
+      "reading": "おりおり",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "折々【おりおり】",
+      "meaning": "ocasionalmente; de vez en cuando; a veces"
+    },
+    {
+      "entryId": "1589440",
+      "spelling": "折折",
+      "reading": "おりおり",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "折折【おりおり】",
+      "meaning": "ocasionalmente; de vez en cuando; a veces"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "character": "奥",
+  "meanings": "profundo, interior, esposa",
+  "words": [
+    {
+      "entryId": "1179320",
+      "spelling": "奥",
+      "reading": "おく",
+      "senseNumbers": [
+        22
+      ],
+      "japanese": "奥【おく】",
+      "meaning": "interior; parte interior"
+    },
+    {
+      "entryId": "1179480",
+      "spelling": "奥行",
+      "reading": "おくゆき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "奥行【おくゆき】",
+      "meaning": "profundidad; hondura"
+    },
+    {
+      "entryId": "1179480",
+      "spelling": "奥行き",
+      "reading": "おくゆき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "奥行き【おくゆき】",
+      "meaning": "profundidad; hondura"
+    },
+    {
+      "entryId": "1179630",
+      "spelling": "奥さま",
+      "reading": "おくさま",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "奥さま【おくさま】",
+      "meaning": "esposa; su esposa"
+    },
+    {
+      "entryId": "1179630",
+      "spelling": "奥様",
+      "reading": "おくさま",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "奥様【おくさま】",
+      "meaning": "esposa; su esposa"
+    },
+    {
+      "entryId": "1179330",
+      "spelling": "奥さん",
+      "reading": "おくさん",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "奥さん【おくさん】",
+      "meaning": "esposa; señora"
+    },
+    {
+      "entryId": "1179570",
+      "spelling": "奥ふかい",
+      "reading": "おくふかい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "奥ふかい【おくふかい】",
+      "meaning": "profundo; intrincado"
+    },
+    {
+      "entryId": "1179570",
+      "spelling": "奥ぶかい",
+      "reading": "おくふかい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "奥ぶかい【おくふかい】",
+      "meaning": "profundo; intrincado"
+    },
+    {
+      "entryId": "1179570",
+      "spelling": "奥深い",
+      "reading": "おくふかい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "奥深い【おくふかい】",
+      "meaning": "profundo; intrincado"
+    },
+    {
+      "entryId": "1179570",
+      "spelling": "奥深い",
+      "reading": "おくぶかい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "奥深い【おくぶかい】",
+      "meaning": "profundo; intrincado"
+    },
+    {
+      "entryId": "1576700",
+      "spelling": "奥底",
+      "reading": "おうてい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "奥底【おうてい】",
+      "meaning": "profundidades; fondo; zona más honda; hondura"
+    },
+    {
+      "entryId": "1576700",
+      "spelling": "奥底",
+      "reading": "おくそこ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "奥底【おくそこ】",
+      "meaning": "profundidades; fondo; zona más honda; hondura"
+    },
+    {
+      "entryId": "1179520",
+      "spelling": "奥歯",
+      "reading": "おくば",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "奥歯【おくば】",
+      "meaning": "muela"
+    },
+    {
+      "entryId": "1413100",
+      "spelling": "大奥",
+      "reading": "おおおく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "大奥【おおおく】",
+      "meaning": "háren del shogun; cámara de señoritas en el palacio"
+    },
+    {
+      "entryId": "1179430",
+      "spelling": "奥儀",
+      "reading": "おうぎ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "奥儀【おうぎ】",
+      "meaning": "arcano; misterio; secreto; enigma; secreto oculto"
+    },
+    {
+      "entryId": "1179430",
+      "spelling": "奥技",
+      "reading": "おうぎ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "奥技【おうぎ】",
+      "meaning": "arcano; misterio; secreto; enigma; secreto oculto"
+    },
+    {
+      "entryId": "1179430",
+      "spelling": "奥義",
+      "reading": "おうぎ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "奥義【おうぎ】",
+      "meaning": "arcano; misterio; secreto; enigma; secreto oculto"
+    },
+    {
+      "entryId": "1179430",
+      "spelling": "奥義",
+      "reading": "おくぎ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "奥義【おくぎ】",
+      "meaning": "arcano; misterio; secreto; enigma; secreto oculto"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

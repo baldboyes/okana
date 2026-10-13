@@ -1,0 +1,240 @@
+{
+  "character": "老",
+  "meanings": "envejecer, viejo, experimentado, hacerse viejo",
+  "words": [
+    {
+      "entryId": "1561090",
+      "spelling": "老人",
+      "reading": "ろうじん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "老人【ろうじん】",
+      "meaning": "anciano"
+    },
+    {
+      "entryId": "1561040",
+      "spelling": "老後",
+      "reading": "ろうご",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "老後【ろうご】",
+      "meaning": "vejez"
+    },
+    {
+      "entryId": "1430180",
+      "spelling": "長老",
+      "reading": "ちょうろう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "長老【ちょうろう】",
+      "meaning": "anciano mayor"
+    },
+    {
+      "entryId": "1561120",
+      "spelling": "老衰",
+      "reading": "ろうすい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "老衰【ろうすい】",
+      "meaning": "senilidad; decrepitud"
+    },
+    {
+      "entryId": "1643510",
+      "spelling": "老い",
+      "reading": "おい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "老い【おい】",
+      "meaning": "viejo; anciano; vejez; envejecido"
+    },
+    {
+      "entryId": "1612310",
+      "spelling": "老化",
+      "reading": "ろうか",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "老化【ろうか】",
+      "meaning": "senectud; envejecimiento"
+    },
+    {
+      "entryId": "1644640",
+      "spelling": "老年",
+      "reading": "ろうねん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "老年【ろうねん】",
+      "meaning": "vejez"
+    },
+    {
+      "entryId": "1250800",
+      "spelling": "敬老",
+      "reading": "けいろう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "敬老【けいろう】",
+      "meaning": "respeto a los ancianos"
+    },
+    {
+      "entryId": "1628240",
+      "spelling": "老婦",
+      "reading": "ろうふ",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "老婦【ろうふ】",
+      "meaning": "anciana"
+    },
+    {
+      "entryId": "1561110",
+      "spelling": "老人性",
+      "reading": "ろうじんせい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "老人性【ろうじんせい】",
+      "meaning": "senil"
+    },
+    {
+      "entryId": "1588720",
+      "spelling": "海老",
+      "reading": "えび",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "海老【えび】",
+      "meaning": "langosta; langostino; gamba; camarón; quisquilla; ástaco"
+    },
+    {
+      "entryId": "1560990",
+      "spelling": "老いる",
+      "reading": "おいる",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "老いる【おいる】",
+      "meaning": "envejecerse; madurar"
+    },
+    {
+      "entryId": "1137720",
+      "spelling": "老麺",
+      "reading": "ラーメン",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "老麺【ラーメン】",
+      "meaning": "\"ramen\": tallarines chinos en sopa"
+    },
+    {
+      "entryId": "1561010",
+      "spelling": "老ける",
+      "reading": "ふける",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "老ける【ふける】",
+      "meaning": "envejecer"
+    },
+    {
+      "entryId": "1561080",
+      "spelling": "老若男女",
+      "reading": "ろうじゃくだんじょ",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "老若男女【ろうじゃくだんじょ】",
+      "meaning": "todo el mundo sin distinción: jóvenes y viejos, hombres y mujeres; hombres y mujeres de todas las edades"
+    },
+    {
+      "entryId": "1561080",
+      "spelling": "老若男女",
+      "reading": "ろうにゃくなんにょ",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "老若男女【ろうにゃくなんにょ】",
+      "meaning": "todo el mundo sin distinción: jóvenes y viejos, hombres y mujeres; hombres y mujeres de todas las edades"
+    },
+    {
+      "entryId": "1568080",
+      "spelling": "福老",
+      "reading": "ふくろう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "福老【ふくろう】",
+      "meaning": "búho"
+    },
+    {
+      "entryId": "1612320",
+      "spelling": "老眼",
+      "reading": "ろうがん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "老眼【ろうがん】",
+      "meaning": "presbicia; hipermetropía"
+    },
+    {
+      "entryId": "1616030",
+      "spelling": "老練",
+      "reading": "ろうれん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "老練【ろうれん】",
+      "meaning": "experimentado, veterano, curtido, ducho"
+    },
+    {
+      "entryId": "1561130",
+      "spelling": "老婆",
+      "reading": "ろうば",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "老婆【ろうば】",
+      "meaning": "anciana"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

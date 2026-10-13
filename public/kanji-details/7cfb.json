@@ -1,0 +1,203 @@
+{
+  "character": "系",
+  "meanings": "sistema, conexión, relación, linaje",
+  "words": [
+    {
+      "entryId": "1251080",
+      "spelling": "系列",
+      "reading": "けいれつ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "系列【けいれつ】",
+      "meaning": "serie; cadena"
+    },
+    {
+      "entryId": "1463970",
+      "spelling": "日系",
+      "reading": "にっけい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "日系【にっけい】",
+      "meaning": "nikkei; descendiente de japoneses; que tiene sangre japonesa y extranjera"
+    },
+    {
+      "entryId": "1409390",
+      "spelling": "体系",
+      "reading": "たいけい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "体系【たいけい】",
+      "meaning": "organización; sistema; arquitectura"
+    },
+    {
+      "entryId": "1379300",
+      "spelling": "生態系",
+      "reading": "せいたいけい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "生態系【せいたいけい】",
+      "meaning": "ecosistema"
+    },
+    {
+      "entryId": "1251030",
+      "spelling": "系統",
+      "reading": "けいとう",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "系統【けいとう】",
+      "meaning": "sistema; método; estructura; variedades cultivadas; variedades"
+    },
+    {
+      "entryId": "1251000",
+      "spelling": "系",
+      "reading": "けい",
+      "senseNumbers": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "japanese": "系【けい】",
+      "meaning": "sistema; linaje; grupo; (mat) corolario; (geológico) sistema (rango del estrato que corresponde a un periodo en particular); (taxonomía) serie"
+    },
+    {
+      "entryId": "1737020",
+      "spelling": "水系",
+      "reading": "すいけい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "水系【すいけい】",
+      "meaning": "red de drenaje (red de ríos, lagos, etc.)"
+    },
+    {
+      "entryId": "1191900",
+      "spelling": "家系",
+      "reading": "かけい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "家系【かけい】",
+      "meaning": "linaje familiar"
+    },
+    {
+      "entryId": "1251070",
+      "spelling": "系譜",
+      "reading": "けいふ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "系譜【けいふ】",
+      "meaning": "genealogía; pedigrí"
+    },
+    {
+      "entryId": "1661170",
+      "spelling": "太陽系",
+      "reading": "たいようけい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "太陽系【たいようけい】",
+      "meaning": "sistema solar"
+    },
+    {
+      "entryId": "1505280",
+      "spelling": "文系",
+      "reading": "ぶんけい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "文系【ぶんけい】",
+      "meaning": "humanidades, ciencias sociales y bellas artes; artes liberales"
+    },
+    {
+      "entryId": "1549950",
+      "spelling": "理系",
+      "reading": "りけい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "理系【りけい】",
+      "meaning": "ciencia"
+    },
+    {
+      "entryId": "1409410",
+      "spelling": "体系的",
+      "reading": "たいけいてき",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "体系的【たいけいてき】",
+      "meaning": "sistemático"
+    },
+    {
+      "entryId": "1804310",
+      "spelling": "銀河系",
+      "reading": "ぎんがけい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "銀河系【ぎんがけい】",
+      "meaning": "galaxia; sistema galáctico"
+    },
+    {
+      "entryId": "1251010",
+      "spelling": "系図",
+      "reading": "けいず",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "系図【けいず】",
+      "meaning": "árbol genealógico"
+    },
+    {
+      "entryId": "1251060",
+      "spelling": "系統的",
+      "reading": "けいとうてき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "系統的【けいとうてき】",
+      "meaning": "sistemático"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

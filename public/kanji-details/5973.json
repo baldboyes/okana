@@ -1,0 +1,244 @@
+{
+  "character": "女",
+  "meanings": "femenino, mujer",
+  "words": [
+    {
+      "entryId": "1345140",
+      "spelling": "女子",
+      "reading": "じょし",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "女子【じょし】",
+      "meaning": "mujer; chica; muchacha"
+    },
+    {
+      "entryId": "1345250",
+      "spelling": "女性",
+      "reading": "じょせい",
+      "senseNumbers": [
+        13,
+        14
+      ],
+      "japanese": "女性【じょせい】",
+      "meaning": "sexo femenino; mujer (mejor término que onna); género femenino"
+    },
+    {
+      "entryId": "1345250",
+      "spelling": "女性",
+      "reading": "にょしょう",
+      "senseNumbers": [
+        13,
+        14
+      ],
+      "japanese": "女性【にょしょう】",
+      "meaning": "sexo femenino; mujer (mejor término que onna); género femenino"
+    },
+    {
+      "entryId": "1344930",
+      "spelling": "女",
+      "reading": "おんな",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "女【おんな】",
+      "meaning": "mujer"
+    },
+    {
+      "entryId": "1420110",
+      "spelling": "男女",
+      "reading": "だんじょ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "男女【だんじょ】",
+      "meaning": "hombre y mujer; hombres y mujeres"
+    },
+    {
+      "entryId": "1420110",
+      "spelling": "男女",
+      "reading": "なんにょ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "男女【なんにょ】",
+      "meaning": "hombre y mujer; hombres y mujeres"
+    },
+    {
+      "entryId": "1483150",
+      "spelling": "彼女",
+      "reading": "かのじょ",
+      "senseNumbers": [
+        12,
+        13
+      ],
+      "japanese": "彼女【かのじょ】",
+      "meaning": "ella; novia"
+    },
+    {
+      "entryId": "1345430",
+      "spelling": "女優",
+      "reading": "じょゆう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "女優【じょゆう】",
+      "meaning": "actriz"
+    },
+    {
+      "entryId": "1430040",
+      "spelling": "長女",
+      "reading": "ちょうじょ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "長女【ちょうじょ】",
+      "meaning": "hija mayor"
+    },
+    {
+      "entryId": "1580290",
+      "spelling": "小女",
+      "reading": "しょうじょ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "小女【しょうじょ】",
+      "meaning": "muchacha; jovencita; virgen; chica; doncella; niñita"
+    },
+    {
+      "entryId": "1580290",
+      "spelling": "少女",
+      "reading": "しょうじょ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "少女【しょうじょ】",
+      "meaning": "muchacha; jovencita; virgen; chica; doncella; niñita"
+    },
+    {
+      "entryId": "1345170",
+      "spelling": "女子大",
+      "reading": "じょしだい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "女子大【じょしだい】",
+      "meaning": "colegio de mujeres"
+    },
+    {
+      "entryId": "1344970",
+      "spelling": "女のこ",
+      "reading": "おんなのこ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "女のこ【おんなのこ】",
+      "meaning": "chica; muchacha; jovencita; niña"
+    },
+    {
+      "entryId": "1344970",
+      "spelling": "女のコ",
+      "reading": "おんなのこ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "女のコ【おんなのこ】",
+      "meaning": "chica; muchacha; jovencita; niña"
+    },
+    {
+      "entryId": "1344970",
+      "spelling": "女の子",
+      "reading": "おんなのこ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "女の子【おんなのこ】",
+      "meaning": "chica; muchacha; jovencita; niña"
+    },
+    {
+      "entryId": "1345020",
+      "spelling": "女王",
+      "reading": "じょうおう",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "女王【じょうおう】",
+      "meaning": "reina"
+    },
+    {
+      "entryId": "1345020",
+      "spelling": "女王",
+      "reading": "じょおう",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "女王【じょおう】",
+      "meaning": "reina"
+    },
+    {
+      "entryId": "1345020",
+      "spelling": "女王",
+      "reading": "にょおう",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "女王【にょおう】",
+      "meaning": "reina"
+    },
+    {
+      "entryId": "1345130",
+      "spelling": "女史",
+      "reading": "じょし",
+      "senseNumbers": [
+        12,
+        13
+      ],
+      "japanese": "女史【じょし】",
+      "meaning": "señora; Madame; intelectual (mujer); cerebral"
+    },
+    {
+      "entryId": "1345420",
+      "spelling": "女房",
+      "reading": "にゅうぼう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "女房【にゅうぼう】",
+      "meaning": "esposa"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

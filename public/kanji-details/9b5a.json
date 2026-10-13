@@ -1,0 +1,240 @@
+{
+  "character": "魚",
+  "meanings": "pez, pescado",
+  "words": [
+    {
+      "entryId": "1578010",
+      "spelling": "魚",
+      "reading": "うお",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "魚【うお】",
+      "meaning": "pez; pescado"
+    },
+    {
+      "entryId": "1578010",
+      "spelling": "魚",
+      "reading": "さかな",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "魚【さかな】",
+      "meaning": "pez; pescado"
+    },
+    {
+      "entryId": "1448780",
+      "spelling": "魚信",
+      "reading": "あたり",
+      "senseNumbers": [
+        29
+      ],
+      "japanese": "魚信【あたり】",
+      "meaning": "éxito; alcanzar el blanco; alrededores; cercanías"
+    },
+    {
+      "entryId": "1242750",
+      "spelling": "金魚",
+      "reading": "きんぎょ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "金魚【きんぎょ】",
+      "meaning": "carpa dorada"
+    },
+    {
+      "entryId": "1467940",
+      "spelling": "熱帯魚",
+      "reading": "ねったいぎょ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "熱帯魚【ねったいぎょ】",
+      "meaning": "pez tropical"
+    },
+    {
+      "entryId": "1392510",
+      "spelling": "鮮魚",
+      "reading": "せんぎょ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "鮮魚【せんぎょ】",
+      "meaning": "pescado fresco"
+    },
+    {
+      "entryId": "1586720",
+      "spelling": "年魚",
+      "reading": "あゆ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "年魚【あゆ】",
+      "meaning": "\"ayu\": una especie de trucha"
+    },
+    {
+      "entryId": "1586720",
+      "spelling": "細鱗魚",
+      "reading": "あゆ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "細鱗魚【あゆ】",
+      "meaning": "\"ayu\": una especie de trucha"
+    },
+    {
+      "entryId": "1586720",
+      "spelling": "銀口魚",
+      "reading": "あゆ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "銀口魚【あゆ】",
+      "meaning": "\"ayu\": una especie de trucha"
+    },
+    {
+      "entryId": "1586720",
+      "spelling": "香魚",
+      "reading": "あゆ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "香魚【あゆ】",
+      "meaning": "\"ayu\": una especie de trucha"
+    },
+    {
+      "entryId": "1596910",
+      "spelling": "章魚",
+      "reading": "たこ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "章魚【たこ】",
+      "meaning": "pulpo"
+    },
+    {
+      "entryId": "1604140",
+      "spelling": "真魚板",
+      "reading": "まないた",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "真魚板【まないた】",
+      "meaning": "tabla para cortar; tabla de cocina"
+    },
+    {
+      "entryId": "1233100",
+      "spelling": "魚屋",
+      "reading": "さかなや",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "魚屋【さかなや】",
+      "meaning": "pescadería; vendedor de pescados"
+    },
+    {
+      "entryId": "1367090",
+      "spelling": "人魚",
+      "reading": "にんぎょ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "人魚【にんぎょ】",
+      "meaning": "sirena; tritón"
+    },
+    {
+      "entryId": "1233200",
+      "spelling": "魚雷",
+      "reading": "ぎょらい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "魚雷【ぎょらい】",
+      "meaning": "torpedo"
+    },
+    {
+      "entryId": "1233130",
+      "spelling": "魚群",
+      "reading": "ぎょぐん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "魚群【ぎょぐん】",
+      "meaning": "banco pesquero; bandada de peces"
+    },
+    {
+      "entryId": "1233130",
+      "spelling": "魚群",
+      "reading": "なむら",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "魚群【なむら】",
+      "meaning": "banco pesquero; bandada de peces"
+    },
+    {
+      "entryId": "1208850",
+      "spelling": "堅魚",
+      "reading": "かつお",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "堅魚【かつお】",
+      "meaning": "bonito (pez)"
+    },
+    {
+      "entryId": "1208850",
+      "spelling": "松魚",
+      "reading": "かつお",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "松魚【かつお】",
+      "meaning": "bonito (pez)"
+    },
+    {
+      "entryId": "1233190",
+      "spelling": "魚肉",
+      "reading": "ぎょにく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "魚肉【ぎょにく】",
+      "meaning": "carne de pescado"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

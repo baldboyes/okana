@@ -1,0 +1,30 @@
+{
+  "character": "へ",
+  "script": "hiragana",
+  "viewBox": "0 0 1024 1024",
+  "coordinates": "svg-native-y-down",
+  "strokes": [
+    {
+      "ordinal": 1,
+      "parts": [
+        {
+          "id": "z12408d1",
+          "clipId": "z12408c1",
+          "outline": "M371 290C330 291 294 313 259 333C210 363 166 399 118 429C105 433 92 426 80 422C71 421 61 429 64 439C65 459 81 474 94 488C104 498 116 508 130 510C143 511 156 503 164 493C174 479 184 465 197 453C241 410 291 372 345 344C357 339 371 334 384 338C397 344 406 355 418 364C491 428 563 495 643 550C730 612 822 665 909 728C920 734 938 734 946 721C954 705 950 686 944 670C932 643 907 625 881 612C810 573 733 544 666 496C586 441 514 374 436 315C417 301 395 289 371 290Z",
+          "median": "M 75,438 138,469 247,372 375,309 940,710"
+        }
+      ]
+    }
+  ],
+  "provenance": {
+    "commit": "ec5e17cca76c87587790bcbce5ea0b4d4fb753d6",
+    "modifiedAt": "2026-10-02",
+    "license": "LGPL-3.0-or-later",
+    "sourceFilename": "12408.svg",
+    "sourceUrl": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12408.svg",
+    "sourceSha256": "f6272e63e4c5c865a940a5a8f2821e94676bd299caf179cb837ed41d331b08d2",
+    "gitBlobSha1": "8b2fa3fc388d92844c1da323a3de03144bc5bb2f",
+    "sourceHeader": "\nAnimCJK 2016-2026 Copyright FM-SH, https://github.com/parsimonhi/animCJK\nYou can redistribute and/or modify these files under the terms of the GNU\nLesser General Public License as published by the Free Software Foundation,\neither version 3 of the license, or (at your option) any later version. You\nshould have received a copy of this license (the file \"LGPL.txt\") along with\nthese files; if not, see https://www.gnu.org/licenses/.\n",
+    "notice": "Converted SVG outlines and median paths to grouped JSON without geometry changes by Okana on 2026-10-02, from AnimCJK ec5e17cca76c87587790bcbce5ea0b4d4fb753d6. Graphics remain LGPL-3.0-or-later; original copyright and notices are retained in sourceHeader and corresponding source SVG files."
+  }
+}

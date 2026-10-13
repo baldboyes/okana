@@ -1,0 +1,240 @@
+{
+  "character": "仕",
+  "meanings": "trabajo, servir, asistir",
+  "words": [
+    {
+      "entryId": "1304970",
+      "spelling": "仕事",
+      "reading": "しごと",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "仕事【しごと】",
+      "meaning": "trabajo; empleo; ocupación"
+    },
+    {
+      "entryId": "1312420",
+      "spelling": "仕合",
+      "reading": "しあい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "仕合【しあい】",
+      "meaning": "juego; contienda"
+    },
+    {
+      "entryId": "1312420",
+      "spelling": "仕合い",
+      "reading": "しあい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "仕合い【しあい】",
+      "meaning": "juego; contienda"
+    },
+    {
+      "entryId": "1594180",
+      "spelling": "仕組",
+      "reading": "しくみ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "仕組【しくみ】",
+      "meaning": "mecanismo; dispositivo"
+    },
+    {
+      "entryId": "1594180",
+      "spelling": "仕組み",
+      "reading": "しくみ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "仕組み【しくみ】",
+      "meaning": "mecanismo; dispositivo"
+    },
+    {
+      "entryId": "1594110",
+      "spelling": "仕方",
+      "reading": "しかた",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "仕方【しかた】",
+      "meaning": "manera; modo; forma (de hacer); método; recurso; curso (e.g. de acción)"
+    },
+    {
+      "entryId": "1310300",
+      "spelling": "仕払う",
+      "reading": "しはらう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "仕払う【しはらう】",
+      "meaning": "pagar"
+    },
+    {
+      "entryId": "1594100",
+      "spelling": "仕掛",
+      "reading": "しかけ",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "仕掛【しかけ】",
+      "meaning": "dispositivo; mecanismo; truco"
+    },
+    {
+      "entryId": "1594100",
+      "spelling": "仕掛け",
+      "reading": "しかけ",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "仕掛け【しかけ】",
+      "meaning": "dispositivo; mecanismo; truco"
+    },
+    {
+      "entryId": "1594060",
+      "spelling": "仕合せ",
+      "reading": "しあわせ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "仕合せ【しあわせ】",
+      "meaning": "felicidad; buena fortuna; suerte; bendición"
+    },
+    {
+      "entryId": "1594060",
+      "spelling": "仕合わせ",
+      "reading": "しあわせ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "仕合わせ【しあわせ】",
+      "meaning": "felicidad; buena fortuna; suerte; bendición"
+    },
+    {
+      "entryId": "1305070",
+      "spelling": "仕手",
+      "reading": "して",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "仕手【して】",
+      "meaning": "protagonista (en noh o kyogen); héroe; parte principal; personaje principal"
+    },
+    {
+      "entryId": "1305070",
+      "spelling": "仕手",
+      "reading": "シテ",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "仕手【シテ】",
+      "meaning": "protagonista (en noh o kyogen); héroe; parte principal; personaje principal"
+    },
+    {
+      "entryId": "1515950",
+      "spelling": "奉仕",
+      "reading": "ほうし",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "奉仕【ほうし】",
+      "meaning": "servicio voluntario"
+    },
+    {
+      "entryId": "1305500",
+      "spelling": "仕様",
+      "reading": "しよう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "仕様【しよう】",
+      "meaning": "manera; forma de hacer"
+    },
+    {
+      "entryId": "1305500",
+      "spelling": "仕樣",
+      "reading": "しよう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "仕樣【しよう】",
+      "meaning": "manera; forma de hacer"
+    },
+    {
+      "entryId": "1305300",
+      "spelling": "仕入",
+      "reading": "しいれ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "仕入【しいれ】",
+      "meaning": "abastecimiento; abasto"
+    },
+    {
+      "entryId": "1305300",
+      "spelling": "仕入れ",
+      "reading": "しいれ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "仕入れ【しいれ】",
+      "meaning": "abastecimiento; abasto"
+    },
+    {
+      "entryId": "1594040",
+      "spelling": "仕あげ",
+      "reading": "しあげ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "仕あげ【しあげ】",
+      "meaning": "acabado; remate; toque final"
+    },
+    {
+      "entryId": "1594040",
+      "spelling": "仕上",
+      "reading": "しあげ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "仕上【しあげ】",
+      "meaning": "acabado; remate; toque final"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

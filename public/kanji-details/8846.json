@@ -1,0 +1,220 @@
+{
+  "character": "衆",
+  "meanings": "multitud, masas",
+  "words": [
+    {
+      "entryId": "1414050",
+      "spelling": "大衆",
+      "reading": "たいしゅう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "大衆【たいしゅう】",
+      "meaning": "masas; multitud; población"
+    },
+    {
+      "entryId": "1528920",
+      "spelling": "民衆",
+      "reading": "みんしゅう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "民衆【みんしゅう】",
+      "meaning": "pueblo; masas"
+    },
+    {
+      "entryId": "1428910",
+      "spelling": "聴衆",
+      "reading": "ちょうしゅう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "聴衆【ちょうしゅう】",
+      "meaning": "audiencias; espectadores"
+    },
+    {
+      "entryId": "1333260",
+      "spelling": "衆議院",
+      "reading": "しゅうぎいん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "衆議院【しゅうぎいん】",
+      "meaning": "Cámara de Representantes de Japón"
+    },
+    {
+      "entryId": "1214930",
+      "spelling": "観衆",
+      "reading": "かんしゅう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "観衆【かんしゅう】",
+      "meaning": "espectadores; audiencia; público"
+    },
+    {
+      "entryId": "1273940",
+      "spelling": "公衆電話",
+      "reading": "こうしゅうでんわ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "公衆電話【こうしゅうでんわ】",
+      "meaning": "teléfono público"
+    },
+    {
+      "entryId": "1592510",
+      "spelling": "群衆",
+      "reading": "ぐんしゅ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "群衆【ぐんしゅ】",
+      "meaning": "multitud"
+    },
+    {
+      "entryId": "1592510",
+      "spelling": "群衆",
+      "reading": "ぐんしゅう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "群衆【ぐんしゅう】",
+      "meaning": "multitud"
+    },
+    {
+      "entryId": "1592510",
+      "spelling": "群衆",
+      "reading": "ぐんじゅ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "群衆【ぐんじゅ】",
+      "meaning": "multitud"
+    },
+    {
+      "entryId": "1273900",
+      "spelling": "公衆",
+      "reading": "こうしゅう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "公衆【こうしゅう】",
+      "meaning": "público"
+    },
+    {
+      "entryId": "1273920",
+      "spelling": "公衆衛生",
+      "reading": "こうしゅうえいせい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "公衆衛生【こうしゅうえいせい】",
+      "meaning": "sanidad pública; higiene pública"
+    },
+    {
+      "entryId": "1333240",
+      "spelling": "衆",
+      "reading": "しゅ",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "衆【しゅ】",
+      "meaning": "muchedumbre; gentío; gran número de personas; gente"
+    },
+    {
+      "entryId": "1333240",
+      "spelling": "衆",
+      "reading": "しゅう",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "衆【しゅう】",
+      "meaning": "muchedumbre; gentío; gran número de personas; gente"
+    },
+    {
+      "entryId": "1149840",
+      "spelling": "アメリカ合衆国",
+      "reading": "アメリカがっしゅうこく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "アメリカ合衆国【アメリカがっしゅうこく】",
+      "meaning": "Estados Unidos de América"
+    },
+    {
+      "entryId": "1149840",
+      "spelling": "亜墨利加合衆国",
+      "reading": "アメリカがっしゅうこく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "亜墨利加合衆国【アメリカがっしゅうこく】",
+      "meaning": "Estados Unidos de América"
+    },
+    {
+      "entryId": "1149840",
+      "spelling": "亜米利加合衆国",
+      "reading": "アメリカがっしゅうこく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "亜米利加合衆国【アメリカがっしゅうこく】",
+      "meaning": "Estados Unidos de América"
+    },
+    {
+      "entryId": "1591010",
+      "spelling": "合衆国",
+      "reading": "がっしゅうこく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "合衆国【がっしゅうこく】",
+      "meaning": "Estados Unidos de América; estado federal"
+    },
+    {
+      "entryId": "1414060",
+      "spelling": "大衆文学",
+      "reading": "たいしゅうぶんがく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "大衆文学【たいしゅうぶんがく】",
+      "meaning": "literatura popular"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

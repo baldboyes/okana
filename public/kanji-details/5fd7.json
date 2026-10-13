@@ -1,0 +1,190 @@
+{
+  "character": "志",
+  "meanings": "intención, deseo, aspiración, ambición, aspirar, desear, voluntad",
+  "words": [
+    {
+      "entryId": "1309050",
+      "spelling": "志",
+      "reading": "こころざし",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "志【こころざし】",
+      "meaning": "voluntad; determinación; mente"
+    },
+    {
+      "entryId": "1309110",
+      "spelling": "志向",
+      "reading": "しこう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "志向【しこう】",
+      "meaning": "inclinación; vocación"
+    },
+    {
+      "entryId": "1452410",
+      "spelling": "同志",
+      "reading": "どうし",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "同志【どうし】",
+      "meaning": "camarada; colega"
+    },
+    {
+      "entryId": "1309080",
+      "spelling": "志願",
+      "reading": "しがん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "志願【しがん】",
+      "meaning": "instancia; solicitud"
+    },
+    {
+      "entryId": "1309140",
+      "spelling": "志望",
+      "reading": "しぼう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "志望【しぼう】",
+      "meaning": "deseo; ambición"
+    },
+    {
+      "entryId": "1156620",
+      "spelling": "意志決定",
+      "reading": "いしけってい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "意志決定【いしけってい】",
+      "meaning": "toma de decisión"
+    },
+    {
+      "entryId": "1156630",
+      "spelling": "意志表示",
+      "reading": "いしひょうじ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "意志表示【いしひょうじ】",
+      "meaning": "declaración de intención"
+    },
+    {
+      "entryId": "1653040",
+      "spelling": "闘志",
+      "reading": "とうし",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "闘志【とうし】",
+      "meaning": "espíritu combativo; espíritu guerrero"
+    },
+    {
+      "entryId": "1156560",
+      "spelling": "意志",
+      "reading": "いし",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "意志【いし】",
+      "meaning": "voluntad; volición; intención; determinación"
+    },
+    {
+      "entryId": "1159290",
+      "spelling": "遺志",
+      "reading": "いし",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "遺志【いし】",
+      "meaning": "deseo de morir"
+    },
+    {
+      "entryId": "1309060",
+      "spelling": "志す",
+      "reading": "こころざす",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "志す【こころざす】",
+      "meaning": "tener la intensión de; aspirar a; proponerse"
+    },
+    {
+      "entryId": "2029860",
+      "spelling": "意志疎通",
+      "reading": "いしそつう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "意志疎通【いしそつう】",
+      "meaning": "(llegar a un) entendimiento mutuo; entendiéndose uno al otro"
+    },
+    {
+      "entryId": "1362320",
+      "spelling": "志ん板",
+      "reading": "しんぱん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "志ん板【しんぱん】",
+      "meaning": "nuevo; flamante"
+    },
+    {
+      "entryId": "1309120",
+      "spelling": "志士",
+      "reading": "しし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "志士【しし】",
+      "meaning": "patriota; persona pública animada"
+    },
+    {
+      "entryId": "1413920",
+      "spelling": "大志",
+      "reading": "たいし",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "大志【たいし】",
+      "meaning": "ambición; aspiración"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

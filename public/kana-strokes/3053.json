@@ -1,0 +1,41 @@
+{
+  "character": "こ",
+  "script": "hiragana",
+  "viewBox": "0 0 1024 1024",
+  "coordinates": "svg-native-y-down",
+  "strokes": [
+    {
+      "ordinal": 1,
+      "parts": [
+        {
+          "id": "z12371d1",
+          "clipId": "z12371c1",
+          "outline": "M474 192C411 193 348 195 286 208C279 210 271 217 274 225C278 238 292 243 304 247C323 252 342 245 360 244C408 239 455 233 502 241C530 246 558 252 584 262C588 263 593 266 596 269C587 275 576 279 566 285C547 296 528 307 510 320C504 325 506 337 515 338C529 339 542 330 556 327C597 313 642 303 686 307C701 308 719 310 731 299C739 291 737 278 731 270C719 251 699 238 680 227C636 203 585 197 535 193C515 192 495 192 474 192Z",
+          "median": "M 288,222 318,227 536,214 678,254 715,283 630,280 518,327"
+        }
+      ]
+    },
+    {
+      "ordinal": 2,
+      "parts": [
+        {
+          "id": "z12371d2",
+          "clipId": "z12371c2",
+          "outline": "M247 623C237 625 236 636 233 645C227 678 231 713 244 744C254 767 272 785 292 799C344 838 408 855 472 864C559 877 648 879 736 878C753 877 771 876 786 867C796 861 800 847 794 837C784 816 761 805 740 800C723 796 705 801 688 802C604 809 519 809 435 796C388 787 341 774 301 748C283 736 266 720 262 698C256 675 259 652 255 629C254 625 251 622 247 623Z",
+          "median": "M 248,635 245,714 312,792 511,840 704,838 783,851"
+        }
+      ]
+    }
+  ],
+  "provenance": {
+    "commit": "ec5e17cca76c87587790bcbce5ea0b4d4fb753d6",
+    "modifiedAt": "2026-10-02",
+    "license": "LGPL-3.0-or-later",
+    "sourceFilename": "12371.svg",
+    "sourceUrl": "https://raw.githubusercontent.com/parsimonhi/animCJK/ec5e17cca76c87587790bcbce5ea0b4d4fb753d6/svgsJaKana/12371.svg",
+    "sourceSha256": "68d1792222ad1502a29a3f519ab2ccc2a6553a187f8e104b62bfcc27e9547d8c",
+    "gitBlobSha1": "b1269f93fb583190853d693ca910678c1d88cfe9",
+    "sourceHeader": "\nAnimCJK 2016-2026 Copyright FM-SH, https://github.com/parsimonhi/animCJK\nYou can redistribute and/or modify these files under the terms of the GNU\nLesser General Public License as published by the Free Software Foundation,\neither version 3 of the license, or (at your option) any later version. You\nshould have received a copy of this license (the file \"LGPL.txt\") along with\nthese files; if not, see https://www.gnu.org/licenses/.\n",
+    "notice": "Converted SVG outlines and median paths to grouped JSON without geometry changes by Okana on 2026-10-02, from AnimCJK ec5e17cca76c87587790bcbce5ea0b4d4fb753d6. Graphics remain LGPL-3.0-or-later; original copyright and notices are retained in sourceHeader and corresponding source SVG files."
+  }
+}

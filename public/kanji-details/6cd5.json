@@ -1,0 +1,240 @@
+{
+  "character": "法",
+  "meanings": "método, ley, doctrina",
+  "words": [
+    {
+      "entryId": "1257590",
+      "spelling": "憲法",
+      "reading": "けんぼう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "憲法【けんぼう】",
+      "meaning": "constitución"
+    },
+    {
+      "entryId": "1257590",
+      "spelling": "憲法",
+      "reading": "けんぽう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "憲法【けんぽう】",
+      "meaning": "constitución"
+    },
+    {
+      "entryId": "1517090",
+      "spelling": "方法",
+      "reading": "ほうほう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "方法【ほうほう】",
+      "meaning": "método; proceso; forma (de hacer); medios; técnica"
+    },
+    {
+      "entryId": "1517160",
+      "spelling": "法案",
+      "reading": "ほうあん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "法案【ほうあん】",
+      "meaning": "proyecto de ley"
+    },
+    {
+      "entryId": "1517310",
+      "spelling": "法人",
+      "reading": "ほうじん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "法人【ほうじん】",
+      "meaning": "corporación"
+    },
+    {
+      "entryId": "1517480",
+      "spelling": "法律",
+      "reading": "ほうりつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "法律【ほうりつ】",
+      "meaning": "derecho"
+    },
+    {
+      "entryId": "1306680",
+      "spelling": "司法",
+      "reading": "しほう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "司法【しほう】",
+      "meaning": "judicial; jurídico"
+    },
+    {
+      "entryId": "1517400",
+      "spelling": "法廷",
+      "reading": "ほうてい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "法廷【ほうてい】",
+      "meaning": "corte; tribunal de justicia"
+    },
+    {
+      "entryId": "1517410",
+      "spelling": "法的",
+      "reading": "ほうてき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "法的【ほうてき】",
+      "meaning": "legalidad"
+    },
+    {
+      "entryId": "1551840",
+      "spelling": "立法",
+      "reading": "りっぽう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "立法【りっぽう】",
+      "meaning": "(poder) legislativo"
+    },
+    {
+      "entryId": "1328380",
+      "spelling": "手法",
+      "reading": "しゅほう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "手法【しゅほう】",
+      "meaning": "técnica"
+    },
+    {
+      "entryId": "1494880",
+      "spelling": "不法",
+      "reading": "ふほう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "不法【ふほう】",
+      "meaning": "anarquía; injusticia; ilegalidad"
+    },
+    {
+      "entryId": "1805280",
+      "spelling": "法相",
+      "reading": "ほうしょう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "法相【ほうしょう】",
+      "meaning": "Ministro de Justicia"
+    },
+    {
+      "entryId": "1158960",
+      "spelling": "違法",
+      "reading": "いほう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "違法【いほう】",
+      "meaning": "ilegal; ilegalidad; inválido"
+    },
+    {
+      "entryId": "1517230",
+      "spelling": "法学",
+      "reading": "ほうがく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "法学【ほうがく】",
+      "meaning": "ley"
+    },
+    {
+      "entryId": "1517330",
+      "spelling": "法制",
+      "reading": "ほうせい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "法制【ほうせい】",
+      "meaning": "legislación; leyes; ley"
+    },
+    {
+      "entryId": "1517460",
+      "spelling": "法務省",
+      "reading": "ほうむしょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "法務省【ほうむしょう】",
+      "meaning": "Ministerio de Justicia"
+    },
+    {
+      "entryId": "1554470",
+      "spelling": "療法",
+      "reading": "りょうほう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "療法【りょうほう】",
+      "meaning": "remedio; tratamiento médico"
+    },
+    {
+      "entryId": "1517450",
+      "spelling": "法務",
+      "reading": "ほうむ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "法務【ほうむ】",
+      "meaning": "asuntos judiciales; ministerio de justicia"
+    },
+    {
+      "entryId": "1322910",
+      "spelling": "社団法人",
+      "reading": "しゃだんほうじん",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "社団法人【しゃだんほうじん】",
+      "meaning": "corporación"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

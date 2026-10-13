@@ -1,0 +1,241 @@
+{
+  "character": "作",
+  "meanings": "hacer, construir, fabricar, conducta, comportamiento, crear",
+  "words": [
+    {
+      "entryId": "1297540",
+      "spelling": "作業",
+      "reading": "さぎょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "作業【さぎょう】",
+      "meaning": "labor; trabajo; faena"
+    },
+    {
+      "entryId": "1297910",
+      "spelling": "作品",
+      "reading": "さくひん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "作品【さくひん】",
+      "meaning": "obra (creación o trabajo de un artista, obra de arte)"
+    },
+    {
+      "entryId": "1297510",
+      "spelling": "作家",
+      "reading": "さっか",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "作家【さっか】",
+      "meaning": "autor; escritor; novelista; artista"
+    },
+    {
+      "entryId": "1297800",
+      "spelling": "作戦",
+      "reading": "さくせん",
+      "senseNumbers": [
+        10,
+        11
+      ],
+      "japanese": "作戦【さくせん】",
+      "meaning": "tácticas; estrategia; operación militar; operación naval"
+    },
+    {
+      "entryId": "1374810",
+      "spelling": "制作",
+      "reading": "せいさく",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "制作【せいさく】",
+      "meaning": "obra (e.g. película, libro); trabajo"
+    },
+    {
+      "entryId": "1597890",
+      "spelling": "作る",
+      "reading": "つくる",
+      "senseNumbers": [
+        32
+      ],
+      "japanese": "作る【つくる】",
+      "meaning": "hacer; crear; fabricar; manufacturar; redactar; escribir; componer; construir; acuñar; cultivar; organizar; establecer (lugar); maquillar; cortar (árbol); preparar (comida); cometer (pecado); crear (cosas nuevas o que se hacen por primera vez); originar; inventar; engendrar; concebir"
+    },
+    {
+      "entryId": "1278100",
+      "spelling": "工作",
+      "reading": "こうさく",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "工作【こうさく】",
+      "meaning": "trabajo; construcción; artificio; treta"
+    },
+    {
+      "entryId": "1297650",
+      "spelling": "作曲",
+      "reading": "さっきょく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "作曲【さっきょく】",
+      "meaning": "composición; arreglo (de música)"
+    },
+    {
+      "entryId": "1380650",
+      "spelling": "製作",
+      "reading": "せいさく",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "製作【せいさく】",
+      "meaning": "fabricar; producir; manufacturar; producción; manufactura"
+    },
+    {
+      "entryId": "1400050",
+      "spelling": "操作",
+      "reading": "そうさ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "操作【そうさ】",
+      "meaning": "operación; manejo"
+    },
+    {
+      "entryId": "1297760",
+      "spelling": "作成",
+      "reading": "さくせい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "作成【さくせい】",
+      "meaning": "elaborar; redactar; fabricar; editar"
+    },
+    {
+      "entryId": "1361850",
+      "spelling": "新作",
+      "reading": "しんさく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "新作【しんさく】",
+      "meaning": "nueva obra; nueva producción"
+    },
+    {
+      "entryId": "1261450",
+      "spelling": "原作",
+      "reading": "げんさく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "原作【げんさく】",
+      "meaning": "obra original; trabajo original"
+    },
+    {
+      "entryId": "1297250",
+      "spelling": "作り",
+      "reading": "つくり",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "作り【つくり】",
+      "meaning": "cosa hecha (preparada)"
+    },
+    {
+      "entryId": "1297710",
+      "spelling": "作者",
+      "reading": "さくしゃ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "作者【さくしゃ】",
+      "meaning": "autor"
+    },
+    {
+      "entryId": "1500400",
+      "spelling": "副作用",
+      "reading": "ふくさよう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "副作用【ふくさよう】",
+      "meaning": "efectos secundarios"
+    },
+    {
+      "entryId": "1297240",
+      "spelling": "作",
+      "reading": "さく",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "作【さく】",
+      "meaning": "trabajo; obra; cosecha; siega; cultivo"
+    },
+    {
+      "entryId": "1398420",
+      "spelling": "創作",
+      "reading": "そうさく",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "創作【そうさく】",
+      "meaning": "creación"
+    },
+    {
+      "entryId": "1598360",
+      "spelling": "手作り",
+      "reading": "てづくり",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "手作り【てづくり】",
+      "meaning": "manufacturado; hecho a mano"
+    },
+    {
+      "entryId": "1427100",
+      "spelling": "著作権",
+      "reading": "ちょさくけん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "著作権【ちょさくけん】",
+      "meaning": "copyright; derecho de autor"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

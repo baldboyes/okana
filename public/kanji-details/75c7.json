@@ -1,0 +1,200 @@
+{
+  "character": "症",
+  "meanings": "síntoma, señal, enfermedad",
+  "words": [
+    {
+      "entryId": "1351030",
+      "spelling": "症状",
+      "reading": "しょうじょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "症状【しょうじょう】",
+      "meaning": "síntoma"
+    },
+    {
+      "entryId": "1351000",
+      "spelling": "症",
+      "reading": "しょう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "症【しょう】",
+      "meaning": "enfermedad"
+    },
+    {
+      "entryId": "1269450",
+      "spelling": "後遺症",
+      "reading": "こういしょう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "後遺症【こういしょう】",
+      "meaning": "secuela"
+    },
+    {
+      "entryId": "1351020",
+      "spelling": "症候群",
+      "reading": "しょうこうぐん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "症候群【しょうこうぐん】",
+      "meaning": "síndrome"
+    },
+    {
+      "entryId": "1336310",
+      "spelling": "重症",
+      "reading": "じゅうしょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "重症【じゅうしょう】",
+      "meaning": "enfermedad grave"
+    },
+    {
+      "entryId": "1614180",
+      "spelling": "感染症",
+      "reading": "かんせんしょう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "感染症【かんせんしょう】",
+      "meaning": "enfermedad infecciosa; infección"
+    },
+    {
+      "entryId": "1707110",
+      "spelling": "症例",
+      "reading": "しょうれい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "症例【しょうれい】",
+      "meaning": "caso (médico, clínico)"
+    },
+    {
+      "entryId": "1194900",
+      "spelling": "花粉症",
+      "reading": "かふんしょう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "花粉症【かふんしょう】",
+      "meaning": "alergia al polen"
+    },
+    {
+      "entryId": "1177100",
+      "spelling": "炎症",
+      "reading": "えんしょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "炎症【えんしょう】",
+      "meaning": "inflamación; ardor; irritación; quemazon"
+    },
+    {
+      "entryId": "1318650",
+      "spelling": "自閉症",
+      "reading": "じへいしょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "自閉症【じへいしょう】",
+      "meaning": "autismo"
+    },
+    {
+      "entryId": "1556660",
+      "spelling": "冷え症",
+      "reading": "ひえしょう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "冷え症【ひえしょう】",
+      "meaning": "sensibilidad al frío"
+    },
+    {
+      "entryId": "1930070",
+      "spelling": "依存症",
+      "reading": "いそんしょう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "依存症【いそんしょう】",
+      "meaning": "(alcohol, droga) dependencia; dependencia morbosa (del alcohol)"
+    },
+    {
+      "entryId": "1930070",
+      "spelling": "依存症",
+      "reading": "いぞんしょう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "依存症【いぞんしょう】",
+      "meaning": "(alcohol, droga) dependencia; dependencia morbosa (del alcohol)"
+    },
+    {
+      "entryId": "1236760",
+      "spelling": "恐怖症",
+      "reading": "きょうふしょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "恐怖症【きょうふしょう】",
+      "meaning": "fobia; miedo patológico; temor irracional"
+    },
+    {
+      "entryId": "1283460",
+      "spelling": "高血圧症",
+      "reading": "こうけつあつしょう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "高血圧症【こうけつあつしょう】",
+      "meaning": "hipertensión"
+    },
+    {
+      "entryId": "1351010",
+      "spelling": "症候",
+      "reading": "しょうこう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "症候【しょうこう】",
+      "meaning": "síntomas"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

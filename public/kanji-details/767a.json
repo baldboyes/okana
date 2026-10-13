@@ -1,0 +1,240 @@
+{
+  "character": "発",
+  "meanings": "abrir, exponer, suceder",
+  "words": [
+    {
+      "entryId": "1202880",
+      "spelling": "開発",
+      "reading": "かいはつ",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "開発【かいはつ】",
+      "meaning": "desarrollo; explotación"
+    },
+    {
+      "entryId": "1202880",
+      "spelling": "開発",
+      "reading": "かいほつ",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "開発【かいほつ】",
+      "meaning": "desarrollo; explotación"
+    },
+    {
+      "entryId": "1477350",
+      "spelling": "発言",
+      "reading": "はつげん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "発言【はつげん】",
+      "meaning": "opinión; comentario"
+    },
+    {
+      "entryId": "1477390",
+      "spelling": "発行",
+      "reading": "はっこう",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "発行【はっこう】",
+      "meaning": "publicar; editar; publicación"
+    },
+    {
+      "entryId": "1477720",
+      "spelling": "発展",
+      "reading": "はってん",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "発展【はってん】",
+      "meaning": "crecer; desarrollarse; expandirse; desarrollo; crecimiento"
+    },
+    {
+      "entryId": "1477840",
+      "spelling": "発表",
+      "reading": "はっぴょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "発表【はっぴょう】",
+      "meaning": "publicar; declarar; hacer público; decir en público; anuncio; publicación; presentación"
+    },
+    {
+      "entryId": "1480890",
+      "spelling": "反発",
+      "reading": "はんぱつ",
+      "senseNumbers": [
+        21
+      ],
+      "japanese": "反発【はんぱつ】",
+      "meaning": "oposición; rechazar; reacción"
+    },
+    {
+      "entryId": "1208410",
+      "spelling": "活発",
+      "reading": "かっぱつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "活発【かっぱつ】",
+      "meaning": "vigor; activo; vivo; alegre; animado"
+    },
+    {
+      "entryId": "1477620",
+      "spelling": "発生",
+      "reading": "はっせい",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "発生【はっせい】",
+      "meaning": "brote; acontecimiento"
+    },
+    {
+      "entryId": "1477810",
+      "spelling": "発売",
+      "reading": "はつばい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "発売【はつばい】",
+      "meaning": "venta"
+    },
+    {
+      "entryId": "1583130",
+      "spelling": "発足",
+      "reading": "はっそく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "発足【はっそく】",
+      "meaning": "apertura; inauguración"
+    },
+    {
+      "entryId": "1583130",
+      "spelling": "発足",
+      "reading": "ほっそく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "発足【ほっそく】",
+      "meaning": "apertura; inauguración"
+    },
+    {
+      "entryId": "1475910",
+      "spelling": "爆発",
+      "reading": "ばくはつ",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "爆発【ばくはつ】",
+      "meaning": "explosión; detonación; erupción; explotar; explosionar; hacer explosión"
+    },
+    {
+      "entryId": "1477310",
+      "spelling": "発見",
+      "reading": "はっけん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "発見【はっけん】",
+      "meaning": "descubrir; descubrimiento; detección; búsqueda"
+    },
+    {
+      "entryId": "1477660",
+      "spelling": "発想",
+      "reading": "はっそう",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "発想【はっそう】",
+      "meaning": "idea; conceptualización"
+    },
+    {
+      "entryId": "1340000",
+      "spelling": "出発",
+      "reading": "しゅっぱつ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "出発【しゅっぱつ】",
+      "meaning": "partida (de irse)"
+    },
+    {
+      "entryId": "1477750",
+      "spelling": "発電",
+      "reading": "はつでん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "発電【はつでん】",
+      "meaning": "generación (e.g. energía)"
+    },
+    {
+      "entryId": "1477770",
+      "spelling": "発電所",
+      "reading": "はつでんしょ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "発電所【はつでんしょ】",
+      "meaning": "planta generadora de energía; estación eléctrica"
+    },
+    {
+      "entryId": "1477710",
+      "spelling": "発注",
+      "reading": "はっちゅう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "発注【はっちゅう】",
+      "meaning": "emisión de un pedido; emisión de un encargo"
+    },
+    {
+      "entryId": "1477710",
+      "spelling": "発註",
+      "reading": "はっちゅう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "発註【はっちゅう】",
+      "meaning": "emisión de un pedido; emisión de un encargo"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

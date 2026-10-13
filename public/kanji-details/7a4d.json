@@ -1,0 +1,242 @@
+{
+  "character": "積",
+  "meanings": "amontonar, apilar, amplitud, producto (matemáticas)",
+  "words": [
+    {
+      "entryId": "1383030",
+      "spelling": "積極的",
+      "reading": "せっきょくてき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "積極的【せっきょくてき】",
+      "meaning": "asertivo; positivo; activo; proactivo"
+    },
+    {
+      "entryId": "1533500",
+      "spelling": "面積",
+      "reading": "めんせき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "面積【めんせき】",
+      "meaning": "área"
+    },
+    {
+      "entryId": "1556030",
+      "spelling": "累積",
+      "reading": "るいせき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "累積【るいせき】",
+      "meaning": "acumulación"
+    },
+    {
+      "entryId": "1333710",
+      "spelling": "集積",
+      "reading": "しゅうせき",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "集積【しゅうせき】",
+      "meaning": "acumulación"
+    },
+    {
+      "entryId": "1422440",
+      "spelling": "蓄積",
+      "reading": "ちくせき",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "蓄積【ちくせき】",
+      "meaning": "acumulación"
+    },
+    {
+      "entryId": "1382870",
+      "spelling": "積",
+      "reading": "せき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "積【せき】",
+      "meaning": "producto (matemáticas); multiplicación"
+    },
+    {
+      "entryId": "1382970",
+      "spelling": "積む",
+      "reading": "つむ",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "積む【つむ】",
+      "meaning": "intensificar; apilar"
+    },
+    {
+      "entryId": "1383060",
+      "spelling": "積雪",
+      "reading": "せきせつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "積雪【せきせつ】",
+      "meaning": "nieve caída"
+    },
+    {
+      "entryId": "1545420",
+      "spelling": "容積",
+      "reading": "ようせき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "容積【ようせき】",
+      "meaning": "capacidad; volumen"
+    },
+    {
+      "entryId": "1604590",
+      "spelling": "見積",
+      "reading": "みつもり",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "見積【みつもり】",
+      "meaning": "cotización; estimación; evaluación; avalúo"
+    },
+    {
+      "entryId": "1604590",
+      "spelling": "見積もり",
+      "reading": "みつもり",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "見積もり【みつもり】",
+      "meaning": "cotización; estimación; evaluación; avalúo"
+    },
+    {
+      "entryId": "1604590",
+      "spelling": "見積り",
+      "reading": "みつもり",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "見積り【みつもり】",
+      "meaning": "cotización; estimación; evaluación; avalúo"
+    },
+    {
+      "entryId": "1609830",
+      "spelling": "山積",
+      "reading": "さんせき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "山積【さんせき】",
+      "meaning": "montón; apilamiento; hacinamiento"
+    },
+    {
+      "entryId": "1382950",
+      "spelling": "積み立て",
+      "reading": "つみたて",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "積み立て【つみたて】",
+      "meaning": "ahorros"
+    },
+    {
+      "entryId": "1382950",
+      "spelling": "積立",
+      "reading": "つみたて",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "積立【つみたて】",
+      "meaning": "ahorros"
+    },
+    {
+      "entryId": "1382950",
+      "spelling": "積立て",
+      "reading": "つみたて",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "積立て【つみたて】",
+      "meaning": "ahorros"
+    },
+    {
+      "entryId": "1409560",
+      "spelling": "体積",
+      "reading": "たいせき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "体積【たいせき】",
+      "meaning": "capacidad; volumen"
+    },
+    {
+      "entryId": "1409780",
+      "spelling": "堆積",
+      "reading": "たいせき",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "堆積【たいせき】",
+      "meaning": "apilamiento; sedimento"
+    },
+    {
+      "entryId": "1382980",
+      "spelling": "積もり",
+      "reading": "つもり",
+      "senseNumbers": [
+        14,
+        15
+      ],
+      "japanese": "積もり【つもり】",
+      "meaning": "intención; plan; convicción; creencia"
+    },
+    {
+      "entryId": "1382980",
+      "spelling": "積り",
+      "reading": "つもり",
+      "senseNumbers": [
+        14,
+        15
+      ],
+      "japanese": "積り【つもり】",
+      "meaning": "intención; plan; convicción; creencia"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "character": "覚",
+  "meanings": "memorizar, recordar, despertarse, comprender, aclararse",
+  "words": [
+    {
+      "entryId": "1212330",
+      "spelling": "感覚",
+      "reading": "かんかく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "感覚【かんかく】",
+      "meaning": "sensación; sentido; sensibilidad"
+    },
+    {
+      "entryId": "1206080",
+      "spelling": "覚悟",
+      "reading": "かくご",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "覚悟【かくご】",
+      "meaning": "determinación; resignación; (~suru) estar listo"
+    },
+    {
+      "entryId": "1609510",
+      "spelling": "覚せい剤",
+      "reading": "かくせいざい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "覚せい剤【かくせいざい】",
+      "meaning": "estimulante"
+    },
+    {
+      "entryId": "1609510",
+      "spelling": "覚醒剤",
+      "reading": "かくせいざい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "覚醒剤【かくせいざい】",
+      "meaning": "estimulante"
+    },
+    {
+      "entryId": "1317490",
+      "spelling": "自覚",
+      "reading": "じかく",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "自覚【じかく】",
+      "meaning": "autoconciencia; conciencia de uno mismo"
+    },
+    {
+      "entryId": "1312010",
+      "spelling": "視覚",
+      "reading": "しかく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "視覚【しかく】",
+      "meaning": "sentido de la vista; visión"
+    },
+    {
+      "entryId": "1477200",
+      "spelling": "発覚",
+      "reading": "はっかく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "発覚【はっかく】",
+      "meaning": "descubrimiento; salir a la luz"
+    },
+    {
+      "entryId": "1589300",
+      "spelling": "覚え書",
+      "reading": "おぼえがき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "覚え書【おぼえがき】",
+      "meaning": "nota"
+    },
+    {
+      "entryId": "1589300",
+      "spelling": "覚え書き",
+      "reading": "おぼえがき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "覚え書き【おぼえがき】",
+      "meaning": "nota"
+    },
+    {
+      "entryId": "1589300",
+      "spelling": "覚書",
+      "reading": "おぼえがき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "覚書【おぼえがき】",
+      "meaning": "nota"
+    },
+    {
+      "entryId": "1589300",
+      "spelling": "覚書き",
+      "reading": "おぼえがき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "覚書き【おぼえがき】",
+      "meaning": "nota"
+    },
+    {
+      "entryId": "1206040",
+      "spelling": "覚え",
+      "reading": "おぼえ",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "覚え【おぼえ】",
+      "meaning": "memoria; experiencia; sentido"
+    },
+    {
+      "entryId": "1527020",
+      "spelling": "味覚",
+      "reading": "みかく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "味覚【みかく】",
+      "meaning": "gusto; sentido del gusto"
+    },
+    {
+      "entryId": "1428880",
+      "spelling": "聴覚",
+      "reading": "ちょうかく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "聴覚【ちょうかく】",
+      "meaning": "escucha; sentido del oido"
+    },
+    {
+      "entryId": "1298400",
+      "spelling": "錯覚",
+      "reading": "さっかく",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "錯覚【さっかく】",
+      "meaning": "ilusión óptica; alucinación"
+    },
+    {
+      "entryId": "1206050",
+      "spelling": "覚える",
+      "reading": "おぼえる",
+      "senseNumbers": [
+        21,
+        22
+      ],
+      "japanese": "覚える【おぼえる】",
+      "meaning": "recordar; recolectar; memorizar; sentir"
+    },
+    {
+      "entryId": "1420510",
+      "spelling": "智覚",
+      "reading": "ちかく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "智覚【ちかく】",
+      "meaning": "percepción"
+    },
+    {
+      "entryId": "1420510",
+      "spelling": "知覚",
+      "reading": "ちかく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "知覚【ちかく】",
+      "meaning": "percepción"
+    },
+    {
+      "entryId": "1262910",
+      "spelling": "幻覚",
+      "reading": "げんかく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "幻覚【げんかく】",
+      "meaning": "alucinación; ilusión"
+    },
+    {
+      "entryId": "1535350",
+      "spelling": "目覚める",
+      "reading": "めざめる",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "目覚める【めざめる】",
+      "meaning": "despertar"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

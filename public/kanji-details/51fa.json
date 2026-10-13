@@ -1,0 +1,247 @@
+{
+  "character": "出",
+  "meanings": "salir, dejar, sacar",
+  "words": [
+    {
+      "entryId": "1339260",
+      "spelling": "出身",
+      "reading": "しゅっしん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "出身【しゅっしん】",
+      "meaning": "procedencia; origen"
+    },
+    {
+      "entryId": "1538820",
+      "spelling": "輸出",
+      "reading": "しゅしゅつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "輸出【しゅしゅつ】",
+      "meaning": "exportación; exportar"
+    },
+    {
+      "entryId": "1538820",
+      "spelling": "輸出",
+      "reading": "ゆしゅつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "輸出【ゆしゅつ】",
+      "meaning": "exportación; exportar"
+    },
+    {
+      "entryId": "1339220",
+      "spelling": "出場",
+      "reading": "しゅつじょう",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "出場【しゅつじょう】",
+      "meaning": "participación; aparición"
+    },
+    {
+      "entryId": "1366080",
+      "spelling": "進出",
+      "reading": "しんしゅつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "進出【しんしゅつ】",
+      "meaning": "avance"
+    },
+    {
+      "entryId": "1176950",
+      "spelling": "演出",
+      "reading": "えんしゅつ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "演出【えんしゅつ】",
+      "meaning": "dirección artistica; dirección de interpretación; representar; interpretar"
+    },
+    {
+      "entryId": "1338180",
+      "spelling": "出す",
+      "reading": "だす",
+      "senseNumbers": [
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "japanese": "出す【だす】",
+      "meaning": "salir; sacar; publicar; revelar; mostrar; presentar (ej. tesis); entregar; hacer público; enviar (carta); iniciar (fuego); servir (comida); empezar a; echar a"
+    },
+    {
+      "entryId": "1338290",
+      "spelling": "出演",
+      "reading": "しゅつえん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "出演【しゅつえん】",
+      "meaning": "actuación; aparición en escena"
+    },
+    {
+      "entryId": "1339460",
+      "spelling": "出席",
+      "reading": "しゅっせき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "出席【しゅっせき】",
+      "meaning": "asistencia; presencia"
+    },
+    {
+      "entryId": "1340030",
+      "spelling": "出板",
+      "reading": "しゅっぱん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "出板【しゅっぱん】",
+      "meaning": "publicar; editar; publicación"
+    },
+    {
+      "entryId": "1340030",
+      "spelling": "出版",
+      "reading": "しゅっぱん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "出版【しゅっぱん】",
+      "meaning": "publicar; editar; publicación"
+    },
+    {
+      "entryId": "1436410",
+      "spelling": "堤出",
+      "reading": "ていしゅつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "堤出【ていしゅつ】",
+      "meaning": "entrega; presentación"
+    },
+    {
+      "entryId": "1436410",
+      "spelling": "提出",
+      "reading": "ていしゅつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "提出【ていしゅつ】",
+      "meaning": "entrega; presentación"
+    },
+    {
+      "entryId": "1339980",
+      "spelling": "出馬",
+      "reading": "しゅつば",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "出馬【しゅつば】",
+      "meaning": "presentarse como candidato"
+    },
+    {
+      "entryId": "1310180",
+      "spelling": "支出",
+      "reading": "ししゅつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "支出【ししゅつ】",
+      "meaning": "gastos; desembolsos"
+    },
+    {
+      "entryId": "1339010",
+      "spelling": "出産",
+      "reading": "しゅっさん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "出産【しゅっさん】",
+      "meaning": "parto; entrega; producción (de mercancías); parir; dar a luz; alumbrar"
+    },
+    {
+      "entryId": "1340000",
+      "spelling": "出発",
+      "reading": "しゅっぱつ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "出発【しゅっぱつ】",
+      "meaning": "partida (de irse)"
+    },
+    {
+      "entryId": "1392280",
+      "spelling": "選出",
+      "reading": "せんしゅつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "選出【せんしゅつ】",
+      "meaning": "elección"
+    },
+    {
+      "entryId": "1594870",
+      "spelling": "出版社",
+      "reading": "しゅっぱんしゃ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "出版社【しゅっぱんしゃ】",
+      "meaning": "casa editorial"
+    },
+    {
+      "entryId": "1594870",
+      "spelling": "出版者",
+      "reading": "しゅっぱんしゃ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "出版者【しゅっぱんしゃ】",
+      "meaning": "casa editorial"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "character": "街",
+  "meanings": "avenida, calle, ciudad",
+  "words": [
+    {
+      "entryId": "1603990",
+      "spelling": "街",
+      "reading": "まち",
+      "senseNumbers": [
+        24,
+        25
+      ],
+      "japanese": "街【まち】",
+      "meaning": "pueblo; calle; camino; calles principales; avenidas; calles céntricas; zona comercial; barrio comercial; barrio animado y bullicioso"
+    },
+    {
+      "entryId": "1204640",
+      "spelling": "街頭",
+      "reading": "がいとう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "街頭【がいとう】",
+      "meaning": "en la calle"
+    },
+    {
+      "entryId": "1308190",
+      "spelling": "市街",
+      "reading": "しがい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "市街【しがい】",
+      "meaning": "calles de la ciudad"
+    },
+    {
+      "entryId": "1334160",
+      "spelling": "住宅街",
+      "reading": "じゅうたくがい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "住宅街【じゅうたくがい】",
+      "meaning": "área residencial"
+    },
+    {
+      "entryId": "1204650",
+      "spelling": "街道",
+      "reading": "かいどう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "街道【かいどう】",
+      "meaning": "caminos y carreteras; avenidas"
+    },
+    {
+      "entryId": "1204580",
+      "spelling": "街角",
+      "reading": "まちかど",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "街角【まちかど】",
+      "meaning": "esquina de la calle"
+    },
+    {
+      "entryId": "1604000",
+      "spelling": "街並",
+      "reading": "まちなみ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "街並【まちなみ】",
+      "meaning": "calles; ciudad"
+    },
+    {
+      "entryId": "1604000",
+      "spelling": "街並み",
+      "reading": "まちなみ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "街並み【まちなみ】",
+      "meaning": "calles; ciudad"
+    },
+    {
+      "entryId": "1611620",
+      "spelling": "街なか",
+      "reading": "まちなか",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "街なか【まちなか】",
+      "meaning": "el centro (ciudad)"
+    },
+    {
+      "entryId": "1611620",
+      "spelling": "街中",
+      "reading": "まちなか",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "街中【まちなか】",
+      "meaning": "el centro (ciudad)"
+    },
+    {
+      "entryId": "1204570",
+      "spelling": "街",
+      "reading": "がい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "街【がい】",
+      "meaning": "sufijo: avenida, gran vía, bulevar"
+    },
+    {
+      "entryId": "1347190",
+      "spelling": "商店街",
+      "reading": "しょうてんがい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "商店街【しょうてんがい】",
+      "meaning": "sector comercial; calle donde se encuentra con exclusividad tiendas"
+    },
+    {
+      "entryId": "1423570",
+      "spelling": "中華街",
+      "reading": "ちゅうかがい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "中華街【ちゅうかがい】",
+      "meaning": "barrio chino"
+    },
+    {
+      "entryId": "1428760",
+      "spelling": "街はずれ",
+      "reading": "まちはずれ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "街はずれ【まちはずれ】",
+      "meaning": "afueras; alrededores de la ciudad; etc"
+    },
+    {
+      "entryId": "1428760",
+      "spelling": "街外れ",
+      "reading": "まちはずれ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "街外れ【まちはずれ】",
+      "meaning": "afueras; alrededores de la ciudad; etc"
+    },
+    {
+      "entryId": "1613010",
+      "spelling": "ウォール街",
+      "reading": "ウォールがい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "ウォール街【ウォールがい】",
+      "meaning": "Wall Street"
+    },
+    {
+      "entryId": "1204620",
+      "spelling": "街灯",
+      "reading": "がいとう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "街灯【がいとう】",
+      "meaning": "luz de la calle"
+    },
+    {
+      "entryId": "1204620",
+      "spelling": "街燈",
+      "reading": "がいとう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "街燈【がいとう】",
+      "meaning": "luz de la calle"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

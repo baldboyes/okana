@@ -1,0 +1,220 @@
+{
+  "character": "暖",
+  "meanings": "templado, cálido, caliente, calentar",
+  "words": [
+    {
+      "entryId": "1183480",
+      "spelling": "温暖",
+      "reading": "おんだん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "温暖【おんだん】",
+      "meaning": "calor; calidez"
+    },
+    {
+      "entryId": "1419860",
+      "spelling": "暖房",
+      "reading": "だんぼう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "暖房【だんぼう】",
+      "meaning": "calefacción"
+    },
+    {
+      "entryId": "1586420",
+      "spelling": "暖い",
+      "reading": "あたたかい",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "暖い【あたたかい】",
+      "meaning": "cálido; afable; cordial; apacible; suave; templado"
+    },
+    {
+      "entryId": "1586420",
+      "spelling": "暖かい",
+      "reading": "あたたかい",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "暖かい【あたたかい】",
+      "meaning": "cálido; afable; cordial; apacible; suave; templado"
+    },
+    {
+      "entryId": "1586430",
+      "spelling": "暖まる",
+      "reading": "あたたまる",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "暖まる【あたたまる】",
+      "meaning": "calentarse; calentarse (clima, ambiente), caldearse; asolearse"
+    },
+    {
+      "entryId": "1210480",
+      "spelling": "寒暖計",
+      "reading": "かんだんけい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "寒暖計【かんだんけい】",
+      "meaning": "termómetro"
+    },
+    {
+      "entryId": "1419890",
+      "spelling": "暖簾",
+      "reading": "のうれん",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "暖簾【のうれん】",
+      "meaning": "noren; cortina corta (usada como separador)"
+    },
+    {
+      "entryId": "1419890",
+      "spelling": "暖簾",
+      "reading": "のれん",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "暖簾【のれん】",
+      "meaning": "noren; cortina corta (usada como separador)"
+    },
+    {
+      "entryId": "1419890",
+      "spelling": "暖簾",
+      "reading": "のんれん",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "暖簾【のんれん】",
+      "meaning": "noren; cortina corta (usada como separador)"
+    },
+    {
+      "entryId": "1420980",
+      "spelling": "地球温暖化",
+      "reading": "ちきゅうおんだんか",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "地球温暖化【ちきゅうおんだんか】",
+      "meaning": "calentamiento global"
+    },
+    {
+      "entryId": "1586420",
+      "spelling": "暖かい",
+      "reading": "あったかい",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "暖かい【あったかい】",
+      "meaning": "cálido; afable; cordial; apacible; suave; templado"
+    },
+    {
+      "entryId": "1586420",
+      "spelling": "暖かい",
+      "reading": "あったけー",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "暖かい【あったけー】",
+      "meaning": "cálido; afable; cordial; apacible; suave; templado"
+    },
+    {
+      "entryId": "1586430",
+      "spelling": "暖まる",
+      "reading": "あったまる",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "暖まる【あったまる】",
+      "meaning": "calentarse; calentarse (clima, ambiente), caldearse; asolearse"
+    },
+    {
+      "entryId": "1586440",
+      "spelling": "暖める",
+      "reading": "あたためる",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "暖める【あたためる】",
+      "meaning": "calentar; caldear"
+    },
+    {
+      "entryId": "1586440",
+      "spelling": "暖める",
+      "reading": "あっためる",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "暖める【あっためる】",
+      "meaning": "calentar; caldear"
+    },
+    {
+      "entryId": "1600560",
+      "spelling": "暖気",
+      "reading": "のんき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "暖気【のんき】",
+      "meaning": "despreocupado; indiferente"
+    },
+    {
+      "entryId": "1714830",
+      "spelling": "寒暖",
+      "reading": "かんだん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "寒暖【かんだん】",
+      "meaning": "frío y calor"
+    },
+    {
+      "entryId": "1419900",
+      "spelling": "暖炉",
+      "reading": "だんろ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "暖炉【だんろ】",
+      "meaning": "chimenea"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

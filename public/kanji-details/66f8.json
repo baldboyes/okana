@@ -1,0 +1,240 @@
+{
+  "character": "書",
+  "meanings": "escritura, escrito, escribir",
+  "words": [
+    {
+      "entryId": "1344000",
+      "spelling": "書記",
+      "reading": "しょき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "書記【しょき】",
+      "meaning": "oficinista; secretario"
+    },
+    {
+      "entryId": "1484060",
+      "spelling": "秘書",
+      "reading": "ひしょ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "秘書【ひしょ】",
+      "meaning": "secretario (privado)"
+    },
+    {
+      "entryId": "1583840",
+      "spelling": "文書",
+      "reading": "ぶんしょ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "文書【ぶんしょ】",
+      "meaning": "documento; escrito; carta; papeleo; trabajo administrativo; nota; registros; archivos"
+    },
+    {
+      "entryId": "1583840",
+      "spelling": "文書",
+      "reading": "ぶんじょ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "文書【ぶんじょ】",
+      "meaning": "documento; escrito; carta; papeleo; trabajo administrativo; nota; registros; archivos"
+    },
+    {
+      "entryId": "1583840",
+      "spelling": "文書",
+      "reading": "もんじょ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "文書【もんじょ】",
+      "meaning": "documento; escrito; carta; papeleo; trabajo administrativo; nota; registros; archivos"
+    },
+    {
+      "entryId": "1515690",
+      "spelling": "報告書",
+      "reading": "ほうこくしょ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "報告書【ほうこくしょ】",
+      "meaning": "informe (escrito)"
+    },
+    {
+      "entryId": "1237020",
+      "spelling": "教料書",
+      "reading": "きょうかしょ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "教料書【きょうかしょ】",
+      "meaning": "libro de texto"
+    },
+    {
+      "entryId": "1237020",
+      "spelling": "教科書",
+      "reading": "きょうかしょ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "教科書【きょうかしょ】",
+      "meaning": "libro de texto"
+    },
+    {
+      "entryId": "1344120",
+      "spelling": "書店",
+      "reading": "しょてん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "書店【しょてん】",
+      "meaning": "librería"
+    },
+    {
+      "entryId": "1427140",
+      "spelling": "著書",
+      "reading": "ちょしょ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "著書【ちょしょ】",
+      "meaning": "libro; escrito; obra escrita"
+    },
+    {
+      "entryId": "1475220",
+      "spelling": "白書",
+      "reading": "はくしょ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "白書【はくしょ】",
+      "meaning": "papel blanco"
+    },
+    {
+      "entryId": "1344200",
+      "spelling": "書類",
+      "reading": "しょるい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "書類【しょるい】",
+      "meaning": "documentos; papeles oficiales"
+    },
+    {
+      "entryId": "1370420",
+      "spelling": "図書館",
+      "reading": "ずしょかん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "図書館【ずしょかん】",
+      "meaning": "biblioteca"
+    },
+    {
+      "entryId": "1370420",
+      "spelling": "図書館",
+      "reading": "としょかん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "図書館【としょかん】",
+      "meaning": "biblioteca"
+    },
+    {
+      "entryId": "1456420",
+      "spelling": "読書",
+      "reading": "とくしょ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "読書【とくしょ】",
+      "meaning": "la lectura (el leer); lectura"
+    },
+    {
+      "entryId": "1456420",
+      "spelling": "読書",
+      "reading": "どくしょ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "読書【どくしょ】",
+      "meaning": "la lectura (el leer); lectura"
+    },
+    {
+      "entryId": "1456420",
+      "spelling": "讀書",
+      "reading": "どくしょ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "讀書【どくしょ】",
+      "meaning": "la lectura (el leer); lectura"
+    },
+    {
+      "entryId": "1344130",
+      "spelling": "書道",
+      "reading": "しょどう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "書道【しょどう】",
+      "meaning": "caligrafía (esp. China)"
+    },
+    {
+      "entryId": "1351650",
+      "spelling": "証書",
+      "reading": "しょうしょ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "証書【しょうしょ】",
+      "meaning": "certificado; documento notariado; constancia"
+    },
+    {
+      "entryId": "1344160",
+      "spelling": "書房",
+      "reading": "しょぼう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "書房【しょぼう】",
+      "meaning": "librería"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

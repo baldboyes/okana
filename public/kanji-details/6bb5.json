@@ -1,0 +1,243 @@
+{
+  "character": "段",
+  "meanings": "escalón, escalera, grado",
+  "words": [
+    {
+      "entryId": "1419950",
+      "spelling": "段階",
+      "reading": "だんかい",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "段階【だんかい】",
+      "meaning": "etapa; fase; escalón; nivel"
+    },
+    {
+      "entryId": "1328110",
+      "spelling": "手段",
+      "reading": "しゅだん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "手段【しゅだん】",
+      "meaning": "método; sistema; modo"
+    },
+    {
+      "entryId": "1600160",
+      "spelling": "値段",
+      "reading": "ねだん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "値段【ねだん】",
+      "meaning": "precio; coste; (am) costo"
+    },
+    {
+      "entryId": "1600160",
+      "spelling": "直段",
+      "reading": "ねだん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "直段【ねだん】",
+      "meaning": "precio; coste; (am) costo"
+    },
+    {
+      "entryId": "1164690",
+      "spelling": "一段",
+      "reading": "いちだん",
+      "senseNumbers": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "japanese": "一段【いちだん】",
+      "meaning": "más; mucho más; aun más; parte (de una platica); tipo de verbo japonés; primer rango (artes marciales, etc); más grande (comparativo)"
+    },
+    {
+      "entryId": "1203090",
+      "spelling": "階段",
+      "reading": "かいだん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "階段【かいだん】",
+      "meaning": "escaleras"
+    },
+    {
+      "entryId": "1497180",
+      "spelling": "普段",
+      "reading": "ふだん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "普段【ふだん】",
+      "meaning": "común; ordinario; habitual; siempre"
+    },
+    {
+      "entryId": "1419930",
+      "spelling": "段ボール",
+      "reading": "だんボール",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "段ボール【だんボール】",
+      "meaning": "cartón (ondulado) (eng: cardboard); cartón (ondulado)"
+    },
+    {
+      "entryId": "1164710",
+      "spelling": "一段落",
+      "reading": "いちだんらく",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "一段落【いちだんらく】",
+      "meaning": "completar la primera etapa; alcanzar un punto donde uno puede pausar"
+    },
+    {
+      "entryId": "1164710",
+      "spelling": "一段落",
+      "reading": "ひとだんらく",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "一段落【ひとだんらく】",
+      "meaning": "completar la primera etapa; alcanzar un punto donde uno puede pausar"
+    },
+    {
+      "entryId": "1419970",
+      "spelling": "段どり",
+      "reading": "だんどり",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "段どり【だんどり】",
+      "meaning": "plan; esquema"
+    },
+    {
+      "entryId": "1419970",
+      "spelling": "段取り",
+      "reading": "だんどり",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "段取り【だんどり】",
+      "meaning": "plan; esquema"
+    },
+    {
+      "entryId": "1633690",
+      "spelling": "段",
+      "reading": "だん",
+      "senseNumbers": [
+        30
+      ],
+      "japanese": "段【だん】",
+      "meaning": "etapa; fase; escalón; nivel"
+    },
+    {
+      "entryId": "1602740",
+      "spelling": "普段着",
+      "reading": "ふだんぎ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "普段着【ふだんぎ】",
+      "meaning": "ropa casual; ropa informal"
+    },
+    {
+      "entryId": "1455160",
+      "spelling": "特段",
+      "reading": "とくだん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "特段【とくだん】",
+      "meaning": "especial"
+    },
+    {
+      "entryId": "1597350",
+      "spelling": "段々",
+      "reading": "だんだん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "段々【だんだん】",
+      "meaning": "gradualmente"
+    },
+    {
+      "entryId": "1597350",
+      "spelling": "段段",
+      "reading": "だんだん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "段段【だんだん】",
+      "meaning": "gradualmente"
+    },
+    {
+      "entryId": "1074260",
+      "spelling": "段袋",
+      "reading": "ズボン",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "段袋【ズボン】",
+      "meaning": "pantalón (fre: jupon); pantalones"
+    },
+    {
+      "entryId": "1419980",
+      "spelling": "段落",
+      "reading": "だんらく",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "段落【だんらく】",
+      "meaning": "párrafo"
+    },
+    {
+      "entryId": "1342920",
+      "spelling": "初段",
+      "reading": "しょだん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "初段【しょだん】",
+      "meaning": "primer dan (artes marciales)"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

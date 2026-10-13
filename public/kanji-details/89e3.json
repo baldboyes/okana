@@ -1,0 +1,240 @@
+{
+  "character": "解",
+  "meanings": "desenredar, desatar, liberar, aclarar, resolver, peinarse, aflojar",
+  "words": [
+    {
+      "entryId": "1198960",
+      "spelling": "解決",
+      "reading": "かいけつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "解決【かいけつ】",
+      "meaning": "solucionar; resolver; solventar; arreglo; acuerdo; resolución"
+    },
+    {
+      "entryId": "1199000",
+      "spelling": "解散",
+      "reading": "かいさん",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "解散【かいさん】",
+      "meaning": "disolución"
+    },
+    {
+      "entryId": "1259390",
+      "spelling": "見解",
+      "reading": "けんかい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "見解【けんかい】",
+      "meaning": "opinión; punto de vista; posición"
+    },
+    {
+      "entryId": "1549910",
+      "spelling": "理解",
+      "reading": "りかい",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "理解【りかい】",
+      "meaning": "comprensión"
+    },
+    {
+      "entryId": "1199030",
+      "spelling": "解除",
+      "reading": "かいじょ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "解除【かいじょ】",
+      "meaning": "cancelación; anulación; abolición; nulidad"
+    },
+    {
+      "entryId": "1199250",
+      "spelling": "解放",
+      "reading": "かいほう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "解放【かいほう】",
+      "meaning": "liberación; emancipación; alivio; descanso; sosiego"
+    },
+    {
+      "entryId": "1562030",
+      "spelling": "和解",
+      "reading": "わかい",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "和解【わかい】",
+      "meaning": "acomodación; compromiso; mediación; reconciliación; arreglo; solución"
+    },
+    {
+      "entryId": "1562030",
+      "spelling": "和解",
+      "reading": "わげ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "和解【わげ】",
+      "meaning": "acomodación; compromiso; mediación; reconciliación; arreglo; solución"
+    },
+    {
+      "entryId": "1199290",
+      "spelling": "解明",
+      "reading": "かいめい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "解明【かいめい】",
+      "meaning": "esclarecer; aclarar; dilucidar; esclarecimiento; aclaración"
+    },
+    {
+      "entryId": "1199040",
+      "spelling": "解消",
+      "reading": "かいしょう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "解消【かいしょう】",
+      "meaning": "saldo; liquidación; cancelación; anulación; abolición; nulidad"
+    },
+    {
+      "entryId": "1199080",
+      "spelling": "解説",
+      "reading": "かいせつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "解説【かいせつ】",
+      "meaning": "explicación; aclaración; descripción; exposición; instrucción"
+    },
+    {
+      "entryId": "1199120",
+      "spelling": "解体",
+      "reading": "かいたい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "解体【かいたい】",
+      "meaning": "desmontar; desarmar; desensamblar; demoler; desguazar; desmantelamiento"
+    },
+    {
+      "entryId": "1199010",
+      "spelling": "解釈",
+      "reading": "かいしゃく",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "解釈【かいしゃく】",
+      "meaning": "explicación; interpretación"
+    },
+    {
+      "entryId": "1271310",
+      "spelling": "誤解",
+      "reading": "ごかい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "誤解【ごかい】",
+      "meaning": "entender mal; interpretar erróneamente; juzgar de modo equivocado; malentendido"
+    },
+    {
+      "entryId": "1553310",
+      "spelling": "了解",
+      "reading": "りょうかい",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "了解【りょうかい】",
+      "meaning": "entendimiento; comprensión"
+    },
+    {
+      "entryId": "1553310",
+      "spelling": "諒解",
+      "reading": "りょうかい",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "諒解【りょうかい】",
+      "meaning": "entendimiento; comprensión"
+    },
+    {
+      "entryId": "1553310",
+      "spelling": "領解",
+      "reading": "りょうかい",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "領解【りょうかい】",
+      "meaning": "entendimiento; comprensión"
+    },
+    {
+      "entryId": "1198980",
+      "spelling": "解雇",
+      "reading": "かいこ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "解雇【かいこ】",
+      "meaning": "despedir; destituir; exoneración; despido; recorte laboral"
+    },
+    {
+      "entryId": "1198950",
+      "spelling": "解禁",
+      "reading": "かいきん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "解禁【かいきん】",
+      "meaning": "levantamiento de una prohibición"
+    },
+    {
+      "entryId": "1502940",
+      "spelling": "解り",
+      "reading": "わかり",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "解り【わかり】",
+      "meaning": "comprensión"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

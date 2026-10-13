@@ -1,0 +1,240 @@
+{
+  "character": "野",
+  "meanings": "campo, llano, extensión, rango, natural, civil, no oficial",
+  "words": [
+    {
+      "entryId": "1504330",
+      "spelling": "分野",
+      "reading": "ぶんや",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "分野【ぶんや】",
+      "meaning": "ámbito (campo; área; dominio; división; terreno; esfera)"
+    },
+    {
+      "entryId": "1537300",
+      "spelling": "野球",
+      "reading": "やきゅう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "野球【やきゅう】",
+      "meaning": "béisbol"
+    },
+    {
+      "entryId": "1537580",
+      "spelling": "野党",
+      "reading": "やとう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "野党【やとう】",
+      "meaning": "partido de oposición"
+    },
+    {
+      "entryId": "1537370",
+      "spelling": "野菜",
+      "reading": "やさい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "野菜【やさい】",
+      "meaning": "verdura; hortaliza"
+    },
+    {
+      "entryId": "1537250",
+      "spelling": "野",
+      "reading": "の",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "野【の】",
+      "meaning": "campo; terreno; ámbito; esfera"
+    },
+    {
+      "entryId": "1312140",
+      "spelling": "視野",
+      "reading": "しや",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "視野【しや】",
+      "meaning": "campo visual; perspectiva"
+    },
+    {
+      "entryId": "1537470",
+      "spelling": "野生",
+      "reading": "やせい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "野生【やせい】",
+      "meaning": "silvestre (o salvaje)"
+    },
+    {
+      "entryId": "1508030",
+      "spelling": "平野",
+      "reading": "へいや",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "平野【へいや】",
+      "meaning": "llanura; planicie; campo abierto"
+    },
+    {
+      "entryId": "1537570",
+      "spelling": "野鳥",
+      "reading": "やちょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "野鳥【やちょう】",
+      "meaning": "ave silvestre"
+    },
+    {
+      "entryId": "1537270",
+      "spelling": "野外",
+      "reading": "やがい",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "野外【やがい】",
+      "meaning": "al aire libre; en exteriores; de campo"
+    },
+    {
+      "entryId": "1537430",
+      "spelling": "野心",
+      "reading": "やしん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "野心【やしん】",
+      "meaning": "ambición; aspiración; intención; traición"
+    },
+    {
+      "entryId": "1537650",
+      "spelling": "野望",
+      "reading": "やぼう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "野望【やぼう】",
+      "meaning": "ambición; aspiración; intención; traición"
+    },
+    {
+      "entryId": "1537360",
+      "spelling": "野原",
+      "reading": "のはら",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "野原【のはら】",
+      "meaning": "campo"
+    },
+    {
+      "entryId": "1838510",
+      "spelling": "林野",
+      "reading": "りんや",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "林野【りんや】",
+      "meaning": "bosques y campos"
+    },
+    {
+      "entryId": "1537590",
+      "spelling": "野蛮",
+      "reading": "やばん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "野蛮【やばん】",
+      "meaning": "salvaje; bárbaro; incivilizado"
+    },
+    {
+      "entryId": "1586770",
+      "spelling": "曠野",
+      "reading": "こうや",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "曠野【こうや】",
+      "meaning": "campo asolado; terreno devastado"
+    },
+    {
+      "entryId": "1586770",
+      "spelling": "荒野",
+      "reading": "あらの",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "荒野【あらの】",
+      "meaning": "campo asolado; terreno devastado"
+    },
+    {
+      "entryId": "1586770",
+      "spelling": "荒野",
+      "reading": "あれの",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "荒野【あれの】",
+      "meaning": "campo asolado; terreno devastado"
+    },
+    {
+      "entryId": "1586770",
+      "spelling": "荒野",
+      "reading": "こうや",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "荒野【こうや】",
+      "meaning": "campo asolado; terreno devastado"
+    },
+    {
+      "entryId": "1537460",
+      "spelling": "野性",
+      "reading": "やせい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "野性【やせい】",
+      "meaning": "silvestre; salvaje"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

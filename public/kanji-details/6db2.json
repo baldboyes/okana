@@ -1,0 +1,180 @@
+{
+  "character": "液",
+  "meanings": "líquido, fluido",
+  "words": [
+    {
+      "entryId": "1255120",
+      "spelling": "血液",
+      "reading": "けつえき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "血液【けつえき】",
+      "meaning": "sangre"
+    },
+    {
+      "entryId": "1175000",
+      "spelling": "液晶",
+      "reading": "えきしょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "液晶【えきしょう】",
+      "meaning": "cristal líquido"
+    },
+    {
+      "entryId": "1175030",
+      "spelling": "液体",
+      "reading": "えきたい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "液体【えきたい】",
+      "meaning": "líquido; fluido"
+    },
+    {
+      "entryId": "1255150",
+      "spelling": "血液型",
+      "reading": "けつえきがた",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "血液型【けつえきがた】",
+      "meaning": "grupo sanguíneo"
+    },
+    {
+      "entryId": "1174970",
+      "spelling": "液",
+      "reading": "えき",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "液【えき】",
+      "meaning": "líquido; fluido"
+    },
+    {
+      "entryId": "1174980",
+      "spelling": "液化",
+      "reading": "えきか",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "液化【えきか】",
+      "meaning": "licuefacción"
+    },
+    {
+      "entryId": "1546100",
+      "spelling": "溶液",
+      "reading": "ようえき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "溶液【ようえき】",
+      "meaning": "solución (liquida)"
+    },
+    {
+      "entryId": "1918140",
+      "spelling": "液状化",
+      "reading": "えきじょうか",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "液状化【えきじょうか】",
+      "meaning": "licuefacción; licuar"
+    },
+    {
+      "entryId": "1379890",
+      "spelling": "精液",
+      "reading": "せいえき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "精液【せいえき】",
+      "meaning": "semen"
+    },
+    {
+      "entryId": "1175010",
+      "spelling": "液状",
+      "reading": "えきじょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "液状【えきじょう】",
+      "meaning": "estado liquido"
+    },
+    {
+      "entryId": "1692520",
+      "spelling": "樹液",
+      "reading": "じゅえき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "樹液【じゅえき】",
+      "meaning": "savia"
+    },
+    {
+      "entryId": "1739850",
+      "spelling": "液体酸素",
+      "reading": "えきたいさんそ",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "液体酸素【えきたいさんそ】",
+      "meaning": "oxigeno liquido"
+    },
+    {
+      "entryId": "1739870",
+      "spelling": "液肥",
+      "reading": "えきひ",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "液肥【えきひ】",
+      "meaning": "liquido fertilizante"
+    },
+    {
+      "entryId": "1464990",
+      "spelling": "乳液",
+      "reading": "にゅうえき",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "乳液【にゅうえき】",
+      "meaning": "látex"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

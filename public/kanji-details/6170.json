@@ -1,0 +1,130 @@
+{
+  "character": "慰",
+  "meanings": "consolar, confortar, aliviar, alegrar",
+  "words": [
+    {
+      "entryId": "1156900",
+      "spelling": "慰安",
+      "reading": "いあん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "慰安【いあん】",
+      "meaning": "consuelo; relajación"
+    },
+    {
+      "entryId": "1613270",
+      "spelling": "慰霊",
+      "reading": "いれい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "慰霊【いれい】",
+      "meaning": "confort del espíritu (de la muerte)"
+    },
+    {
+      "entryId": "1587210",
+      "spelling": "慰藉",
+      "reading": "いしゃ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "慰藉【いしゃ】",
+      "meaning": "consolación"
+    },
+    {
+      "entryId": "1587210",
+      "spelling": "慰謝",
+      "reading": "いしゃ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "慰謝【いしゃ】",
+      "meaning": "consolación"
+    },
+    {
+      "entryId": "1156970",
+      "spelling": "慰霊祭",
+      "reading": "いれいさい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "慰霊祭【いれいさい】",
+      "meaning": "servicio conmemorativo"
+    },
+    {
+      "entryId": "1156890",
+      "spelling": "慰める",
+      "reading": "なぐさめる",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "慰める【なぐさめる】",
+      "meaning": "confortar; consolar; entretener; divertir"
+    },
+    {
+      "entryId": "1156950",
+      "spelling": "慰問",
+      "reading": "いもん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "慰問【いもん】",
+      "meaning": "condolencias; llamada de compasión"
+    },
+    {
+      "entryId": "1156960",
+      "spelling": "慰留",
+      "reading": "いりゅう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "慰留【いりゅう】",
+      "meaning": "disuasión de la renuncia o abandono"
+    },
+    {
+      "entryId": "1156980",
+      "spelling": "慰労",
+      "reading": "いろう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "慰労【いろう】",
+      "meaning": "reconocimiento de los servicios"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

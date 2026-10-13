@@ -1,0 +1,240 @@
+{
+  "character": "南",
+  "meanings": "Sur",
+  "words": [
+    {
+      "entryId": "1459870",
+      "spelling": "南",
+      "reading": "みなみ",
+      "senseNumbers": [
+        22
+      ],
+      "japanese": "南【みなみ】",
+      "meaning": "sur; procedente del sur"
+    },
+    {
+      "entryId": "1460600",
+      "spelling": "南北",
+      "reading": "なんぼく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "南北【なんぼく】",
+      "meaning": "sur y norte"
+    },
+    {
+      "entryId": "1448030",
+      "spelling": "東南",
+      "reading": "とうなん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "東南【とうなん】",
+      "meaning": "sureste"
+    },
+    {
+      "entryId": "1448030",
+      "spelling": "東南",
+      "reading": "ひがしみなみ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "東南【ひがしみなみ】",
+      "meaning": "sureste"
+    },
+    {
+      "entryId": "1460530",
+      "spelling": "南部",
+      "reading": "なんぶ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "南部【なんぶ】",
+      "meaning": "sureño"
+    },
+    {
+      "entryId": "1582600",
+      "spelling": "南西",
+      "reading": "なんせい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "南西【なんせい】",
+      "meaning": "suroeste"
+    },
+    {
+      "entryId": "1582600",
+      "spelling": "南西",
+      "reading": "みなみにし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "南西【みなみにし】",
+      "meaning": "suroeste"
+    },
+    {
+      "entryId": "1459890",
+      "spelling": "南アフリカ",
+      "reading": "みなみアフリカ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "南アフリカ【みなみアフリカ】",
+      "meaning": "Sudáfrica"
+    },
+    {
+      "entryId": "1425170",
+      "spelling": "中南米",
+      "reading": "ちゅうなんべい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "中南米【ちゅうなんべい】",
+      "meaning": "América Central y Sur"
+    },
+    {
+      "entryId": "1460570",
+      "spelling": "南米",
+      "reading": "なんべい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "南米【なんべい】",
+      "meaning": "América del Sur; Sudamérica"
+    },
+    {
+      "entryId": "1460180",
+      "spelling": "南極",
+      "reading": "なんきょく",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "南極【なんきょく】",
+      "meaning": "polo sur; Antártico"
+    },
+    {
+      "entryId": "1582620",
+      "spelling": "南東",
+      "reading": "なんとう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "南東【なんとう】",
+      "meaning": "sureste"
+    },
+    {
+      "entryId": "1582620",
+      "spelling": "南東",
+      "reading": "みなみひがし",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "南東【みなみひがし】",
+      "meaning": "sureste"
+    },
+    {
+      "entryId": "1464050",
+      "spelling": "日南",
+      "reading": "ひなた",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "日南【ひなた】",
+      "meaning": "lugar soleado"
+    },
+    {
+      "entryId": "1582630",
+      "spelling": "南氷洋",
+      "reading": "なんひょうよう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "南氷洋【なんひょうよう】",
+      "meaning": "Océano Antártico"
+    },
+    {
+      "entryId": "1582630",
+      "spelling": "南氷洋",
+      "reading": "なんぴょうよう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "南氷洋【なんぴょうよう】",
+      "meaning": "Océano Antártico"
+    },
+    {
+      "entryId": "1460280",
+      "spelling": "南口",
+      "reading": "みなみぐち",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "南口【みなみぐち】",
+      "meaning": "entrada sur"
+    },
+    {
+      "entryId": "1582580",
+      "spelling": "南瓜",
+      "reading": "かぼちゃ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "南瓜【かぼちゃ】",
+      "meaning": "calabaza (japonesa)"
+    },
+    {
+      "entryId": "1582580",
+      "spelling": "南瓜",
+      "reading": "なんか",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "南瓜【なんか】",
+      "meaning": "calabaza (japonesa)"
+    },
+    {
+      "entryId": "1582580",
+      "spelling": "南瓜",
+      "reading": "ぼうぶら",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "南瓜【ぼうぶら】",
+      "meaning": "calabaza (japonesa)"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

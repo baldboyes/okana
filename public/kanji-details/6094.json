@@ -1,0 +1,120 @@
+{
+  "character": "悔",
+  "meanings": "arrepentirse, lamentar, sentir, llevar luto, lamentable",
+  "words": [
+    {
+      "entryId": "1200390",
+      "spelling": "悔い",
+      "reading": "くい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "悔い【くい】",
+      "meaning": "remordimiento; arrepentimiento"
+    },
+    {
+      "entryId": "1269510",
+      "spelling": "後悔",
+      "reading": "こうかい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "後悔【こうかい】",
+      "meaning": "arrepentirse; sentir remordimientos; remordimiento; arrepentimiento"
+    },
+    {
+      "entryId": "1592350",
+      "spelling": "悔しい",
+      "reading": "くやしい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "悔しい【くやしい】",
+      "meaning": "lamentable; humillante; irritante"
+    },
+    {
+      "entryId": "1592350",
+      "spelling": "悔しい",
+      "reading": "くやしーい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "悔しい【くやしーい】",
+      "meaning": "lamentable; humillante; irritante"
+    },
+    {
+      "entryId": "1592350",
+      "spelling": "悔やしい",
+      "reading": "くやしい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "悔やしい【くやしい】",
+      "meaning": "lamentable; humillante; irritante"
+    },
+    {
+      "entryId": "1200450",
+      "spelling": "悔む",
+      "reading": "くやむ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "悔む【くやむ】",
+      "meaning": "sentir; lamentar"
+    },
+    {
+      "entryId": "1200450",
+      "spelling": "悔やむ",
+      "reading": "くやむ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "悔やむ【くやむ】",
+      "meaning": "sentir; lamentar"
+    },
+    {
+      "entryId": "1200400",
+      "spelling": "悔いる",
+      "reading": "くいる",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "悔いる【くいる】",
+      "meaning": "arrepentirse"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

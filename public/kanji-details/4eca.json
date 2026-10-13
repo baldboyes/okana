@@ -1,0 +1,240 @@
+{
+  "character": "今",
+  "meanings": "ahora, momento actual",
+  "words": [
+    {
+      "entryId": "1289070",
+      "spelling": "今回",
+      "reading": "こんかい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "今回【こんかい】",
+      "meaning": "ahora; esta vez; últimamente"
+    },
+    {
+      "entryId": "1289100",
+      "spelling": "今月",
+      "reading": "こんげつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "今月【こんげつ】",
+      "meaning": "este mes"
+    },
+    {
+      "entryId": "1289140",
+      "spelling": "今後",
+      "reading": "こんご",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "今後【こんご】",
+      "meaning": "de ahora en adelante"
+    },
+    {
+      "entryId": "1579130",
+      "spelling": "今年",
+      "reading": "ことし",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "今年【ことし】",
+      "meaning": "este año"
+    },
+    {
+      "entryId": "1579130",
+      "spelling": "今年",
+      "reading": "こんねん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "今年【こんねん】",
+      "meaning": "este año"
+    },
+    {
+      "entryId": "1289370",
+      "spelling": "今度",
+      "reading": "こんど",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "今度【こんど】",
+      "meaning": "ahora; esta vez; la próxima vez; en otra ocasión"
+    },
+    {
+      "entryId": "1579110",
+      "spelling": "今日",
+      "reading": "きょう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "今日【きょう】",
+      "meaning": "hoy; este día"
+    },
+    {
+      "entryId": "1579110",
+      "spelling": "今日",
+      "reading": "こんじつ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "今日【こんじつ】",
+      "meaning": "hoy; este día"
+    },
+    {
+      "entryId": "1579110",
+      "spelling": "今日",
+      "reading": "こんち",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "今日【こんち】",
+      "meaning": "hoy; este día"
+    },
+    {
+      "entryId": "1579110",
+      "spelling": "今日",
+      "reading": "こんにち",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "今日【こんにち】",
+      "meaning": "hoy; este día"
+    },
+    {
+      "entryId": "1657600",
+      "spelling": "今年度",
+      "reading": "こんねんど",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "今年度【こんねんど】",
+      "meaning": "este año"
+    },
+    {
+      "entryId": "1289220",
+      "spelling": "今週",
+      "reading": "こんしゅう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "今週【こんしゅう】",
+      "meaning": "esta semana"
+    },
+    {
+      "entryId": "1289000",
+      "spelling": "今や",
+      "reading": "いまや",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "今や【いまや】",
+      "meaning": "ahora"
+    },
+    {
+      "entryId": "1288850",
+      "spelling": "今",
+      "reading": "いま",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "今【いま】",
+      "meaning": "ahora; ya (tiempo); tiempo presente; justo ahora; pronto; más (uno)"
+    },
+    {
+      "entryId": "1289060",
+      "spelling": "今夏",
+      "reading": "こんか",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "今夏【こんか】",
+      "meaning": "este verano"
+    },
+    {
+      "entryId": "1587590",
+      "spelling": "今まで",
+      "reading": "いままで",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "今まで【いままで】",
+      "meaning": "hasta ahora; hasta el presente"
+    },
+    {
+      "entryId": "1587590",
+      "spelling": "今迄",
+      "reading": "いままで",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "今迄【いままで】",
+      "meaning": "hasta ahora; hasta el presente"
+    },
+    {
+      "entryId": "1298210",
+      "spelling": "昨今",
+      "reading": "さくこん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "昨今【さくこん】",
+      "meaning": "hoy en día (actualmente); actual (de hoy en día)"
+    },
+    {
+      "entryId": "1298210",
+      "spelling": "昨今",
+      "reading": "さっこん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "昨今【さっこん】",
+      "meaning": "hoy en día (actualmente); actual (de hoy en día)"
+    },
+    {
+      "entryId": "2773910",
+      "spelling": "今ひとつ",
+      "reading": "いまひとつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "今ひとつ【いまひとつ】",
+      "meaning": "ligeramente insatisfactorio; un pelín insuficiente; que deja un poco que desear"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

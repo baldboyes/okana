@@ -1,0 +1,231 @@
+{
+  "character": "威",
+  "meanings": "dignidad, majestad, amenazar, intimidar, fuerza",
+  "words": [
+    {
+      "entryId": "1238090",
+      "spelling": "脅威",
+      "reading": "きょうい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "脅威【きょうい】",
+      "meaning": "amenaza"
+    },
+    {
+      "entryId": "1258090",
+      "spelling": "権威",
+      "reading": "けんい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "権威【けんい】",
+      "meaning": "autoridad; poder; influencia"
+    },
+    {
+      "entryId": "1587770",
+      "spelling": "威力",
+      "reading": "いりょく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "威力【いりょく】",
+      "meaning": "poder; autoridad; influencia; fuerza"
+    },
+    {
+      "entryId": "1156290",
+      "spelling": "威信",
+      "reading": "いしん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "威信【いしん】",
+      "meaning": "dignidad"
+    },
+    {
+      "entryId": "1238700",
+      "spelling": "驚威",
+      "reading": "きょうい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "驚威【きょうい】",
+      "meaning": "maravilla"
+    },
+    {
+      "entryId": "1630260",
+      "spelling": "威し",
+      "reading": "おどし",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "威し【おどし】",
+      "meaning": "amenaza"
+    },
+    {
+      "entryId": "1578070",
+      "spelling": "威かす",
+      "reading": "おどかす",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "威かす【おどかす】",
+      "meaning": "espantar; intimidar; asustar; amedrentar; amenazar; sorprender"
+    },
+    {
+      "entryId": "1156220",
+      "spelling": "威嚇",
+      "reading": "いかく",
+      "senseNumbers": [
+        8,
+        9
+      ],
+      "japanese": "威嚇【いかく】",
+      "meaning": "amenaza; intimidación; amenazar; intimidar"
+    },
+    {
+      "entryId": "1156300",
+      "spelling": "威勢",
+      "reading": "いせい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "威勢【いせい】",
+      "meaning": "poder; fuerzas; autoridad"
+    },
+    {
+      "entryId": "1238070",
+      "spelling": "威す",
+      "reading": "おどす",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "威す【おどす】",
+      "meaning": "amenazar; intimidar; asustar"
+    },
+    {
+      "entryId": "1156320",
+      "spelling": "威張る",
+      "reading": "いばる",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "威張る【いばる】",
+      "meaning": "enorgullecerse; pavonearse; vanagloriarse"
+    },
+    {
+      "entryId": "1156320",
+      "spelling": "威張る",
+      "reading": "えばる",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "威張る【えばる】",
+      "meaning": "enorgullecerse; pavonearse; vanagloriarse"
+    },
+    {
+      "entryId": "1043550",
+      "spelling": "科威都",
+      "reading": "クウェート",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "科威都【クウェート】",
+      "meaning": "Kuwait"
+    },
+    {
+      "entryId": "1156210",
+      "spelling": "威圧",
+      "reading": "いあつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "威圧【いあつ】",
+      "meaning": "coerción"
+    },
+    {
+      "entryId": "1156270",
+      "spelling": "威厳",
+      "reading": "いげん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "威厳【いげん】",
+      "meaning": "dignidad"
+    },
+    {
+      "entryId": "1156280",
+      "spelling": "威光",
+      "reading": "いこう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "威光【いこう】",
+      "meaning": "poder; autoridad; influencia"
+    },
+    {
+      "entryId": "1286110",
+      "spelling": "国威",
+      "reading": "こくい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "国威【こくい】",
+      "meaning": "prestigio nacional"
+    },
+    {
+      "entryId": "1587680",
+      "spelling": "威容",
+      "reading": "いよう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "威容【いよう】",
+      "meaning": "dignidad; apariencia majestuosa"
+    },
+    {
+      "entryId": "1156350",
+      "spelling": "威風",
+      "reading": "いふう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "威風【いふう】",
+      "meaning": "majestad; dignidad"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

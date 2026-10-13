@@ -1,0 +1,242 @@
+{
+  "character": "混",
+  "meanings": "mezclar, mezclarse, confundir, estar mezclado, agitar",
+  "words": [
+    {
+      "entryId": "1290560",
+      "spelling": "混乱",
+      "reading": "こんらん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "混乱【こんらん】",
+      "meaning": "caos; desorden"
+    },
+    {
+      "entryId": "1290540",
+      "spelling": "混迷",
+      "reading": "こんめい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "混迷【こんめい】",
+      "meaning": "caos; confusión; desorden"
+    },
+    {
+      "entryId": "1290460",
+      "spelling": "混戦",
+      "reading": "こんせん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "混戦【こんせん】",
+      "meaning": "riña tumultuaria; lucha todos contra todos"
+    },
+    {
+      "entryId": "1290390",
+      "spelling": "混雑",
+      "reading": "こんざつ",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "混雑【こんざつ】",
+      "meaning": "congestión; embotellamiento; aglomeración"
+    },
+    {
+      "entryId": "1290360",
+      "spelling": "混合",
+      "reading": "こんごう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "混合【こんごう】",
+      "meaning": "mezcla; compuesto; amalgama"
+    },
+    {
+      "entryId": "1271660",
+      "spelling": "混える",
+      "reading": "まじえる",
+      "senseNumbers": [
+        13,
+        14,
+        15
+      ],
+      "japanese": "混える【まじえる】",
+      "meaning": "mezclar; combinar; intercambiar (palabras, fuego, etc); cruzar (espadas)"
+    },
+    {
+      "entryId": "1290330",
+      "spelling": "混血",
+      "reading": "こんけつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "混血【こんけつ】",
+      "meaning": "cruza; mezcla"
+    },
+    {
+      "entryId": "1290480",
+      "spelling": "混同",
+      "reading": "こんどう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "混同【こんどう】",
+      "meaning": "confusión"
+    },
+    {
+      "entryId": "1367680",
+      "spelling": "人混",
+      "reading": "ひとごみ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "人混【ひとごみ】",
+      "meaning": "multitud; muchedumbre"
+    },
+    {
+      "entryId": "1367680",
+      "spelling": "人混み",
+      "reading": "ひとごみ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "人混み【ひとごみ】",
+      "meaning": "multitud; muchedumbre"
+    },
+    {
+      "entryId": "1603930",
+      "spelling": "混じる",
+      "reading": "まじる",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "混じる【まじる】",
+      "meaning": "mezclarse; combinarse con; mezclar; revolver; combinar"
+    },
+    {
+      "entryId": "1603930",
+      "spelling": "混る",
+      "reading": "まじる",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "混る【まじる】",
+      "meaning": "mezclarse; combinarse con; mezclar; revolver; combinar"
+    },
+    {
+      "entryId": "1290310",
+      "spelling": "混ぜる",
+      "reading": "まぜる",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "混ぜる【まぜる】",
+      "meaning": "mezclarse; combinarse con; mezclar"
+    },
+    {
+      "entryId": "1603920",
+      "spelling": "混ざる",
+      "reading": "まざる",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "混ざる【まざる】",
+      "meaning": "mezclarse; combinarse con; revolverse; combinarse"
+    },
+    {
+      "entryId": "1051860",
+      "spelling": "混凝土",
+      "reading": "コンクリート",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "混凝土【コンクリート】",
+      "meaning": "(eng: concrete) cemento; concreto"
+    },
+    {
+      "entryId": "2849867",
+      "spelling": "混む",
+      "reading": "こむ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "混む【こむ】",
+      "meaning": "colmarse; llenarse"
+    },
+    {
+      "entryId": "1587750",
+      "spelling": "入り混じる",
+      "reading": "いりまじる",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "入り混じる【いりまじる】",
+      "meaning": "mezclarse; entremezclarse"
+    },
+    {
+      "entryId": "1290490",
+      "spelling": "混とん",
+      "reading": "こんとん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "混とん【こんとん】",
+      "meaning": "confusión; caos; desorden"
+    },
+    {
+      "entryId": "1290490",
+      "spelling": "混沌",
+      "reading": "こんとん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "混沌【こんとん】",
+      "meaning": "confusión; caos; desorden"
+    },
+    {
+      "entryId": "1290380",
+      "spelling": "混在",
+      "reading": "こんざい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "混在【こんざい】",
+      "meaning": "mezcla"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

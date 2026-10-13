@@ -1,0 +1,220 @@
+{
+  "character": "縮",
+  "meanings": "acortar, reducir, restringir, encoger, contraerse, estar rizado, rizar",
+  "words": [
+    {
+      "entryId": "1248470",
+      "spelling": "軍縮",
+      "reading": "ぐんしゅく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "軍縮【ぐんしゅく】",
+      "meaning": "desarme; desarmamiento"
+    },
+    {
+      "entryId": "1337630",
+      "spelling": "縮小",
+      "reading": "しゅくしょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "縮小【しゅくしょう】",
+      "meaning": "reducción; encogimiento"
+    },
+    {
+      "entryId": "1337630",
+      "spelling": "縮少",
+      "reading": "しゅくしょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "縮少【しゅくしょう】",
+      "meaning": "reducción; encogimiento"
+    },
+    {
+      "entryId": "1418740",
+      "spelling": "短縮",
+      "reading": "たんしゅく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "短縮【たんしゅく】",
+      "meaning": "reducción"
+    },
+    {
+      "entryId": "1153080",
+      "spelling": "圧縮",
+      "reading": "あっしゅく",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "圧縮【あっしゅく】",
+      "meaning": "comprimir; condensar; compresión; condensación"
+    },
+    {
+      "entryId": "1469930",
+      "spelling": "濃縮",
+      "reading": "のうしゅく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "濃縮【のうしゅく】",
+      "meaning": "condensación; concentración"
+    },
+    {
+      "entryId": "1241870",
+      "spelling": "緊縮",
+      "reading": "きんしゅく",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "緊縮【きんしゅく】",
+      "meaning": "restricción; reducción; limitación"
+    },
+    {
+      "entryId": "1587220",
+      "spelling": "委縮",
+      "reading": "いしゅく",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "委縮【いしゅく】",
+      "meaning": "seco; marchito; atrofia; contracción; enano"
+    },
+    {
+      "entryId": "1587220",
+      "spelling": "萎縮",
+      "reading": "いしゅく",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "萎縮【いしゅく】",
+      "meaning": "seco; marchito; atrofia; contracción; enano"
+    },
+    {
+      "entryId": "1239190",
+      "spelling": "凝縮",
+      "reading": "ぎょうしゅく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "凝縮【ぎょうしゅく】",
+      "meaning": "condensación"
+    },
+    {
+      "entryId": "1330670",
+      "spelling": "収縮",
+      "reading": "しゅうしゅく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "収縮【しゅうしゅく】",
+      "meaning": "contraerse; encogerse; retraerse"
+    },
+    {
+      "entryId": "1236740",
+      "spelling": "恐縮",
+      "reading": "きょうしゅく",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "恐縮【きょうしゅく】",
+      "meaning": "vergüenza"
+    },
+    {
+      "entryId": "1337560",
+      "spelling": "縮む",
+      "reading": "ちじむ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "縮む【ちじむ】",
+      "meaning": "encogerse; reducirse; contraerse"
+    },
+    {
+      "entryId": "1337560",
+      "spelling": "縮む",
+      "reading": "ちぢむ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "縮む【ちぢむ】",
+      "meaning": "encogerse; reducirse; contraerse"
+    },
+    {
+      "entryId": "1610320",
+      "spelling": "縮み",
+      "reading": "ちぢみ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "縮み【ちぢみ】",
+      "meaning": "encogimiento"
+    },
+    {
+      "entryId": "1337540",
+      "spelling": "縮まる",
+      "reading": "ちぢまる",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "縮まる【ちぢまる】",
+      "meaning": "encogerse; reducirse; contraerse"
+    },
+    {
+      "entryId": "1337570",
+      "spelling": "縮める",
+      "reading": "ちぢめる",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "縮める【ちぢめる】",
+      "meaning": "acortar; recortar; reducir"
+    },
+    {
+      "entryId": "1337590",
+      "spelling": "縮れる",
+      "reading": "ちぢれる",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "縮れる【ちぢれる】",
+      "meaning": "rizarse; arrugarse"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

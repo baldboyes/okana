@@ -1,0 +1,240 @@
+{
+  "character": "官",
+  "meanings": "gobierno, gubernamental (lugar, persona), órgano del cuerpo",
+  "words": [
+    {
+      "entryId": "1211750",
+      "spelling": "官邸",
+      "reading": "かんてい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "官邸【かんてい】",
+      "meaning": "residencia oficial"
+    },
+    {
+      "entryId": "1211860",
+      "spelling": "官僚",
+      "reading": "かんりょう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "官僚【かんりょう】",
+      "meaning": "burócrata; burocracia"
+    },
+    {
+      "entryId": "1211820",
+      "spelling": "官房長官",
+      "reading": "かんぼうちょうかん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "官房長官【かんぼうちょうかん】",
+      "meaning": "secretario jefe del gabinete; portavoz del gobierno"
+    },
+    {
+      "entryId": "1211800",
+      "spelling": "官房",
+      "reading": "かんぼう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "官房【かんぼう】",
+      "meaning": "secretaría (oficina pública)"
+    },
+    {
+      "entryId": "1287150",
+      "spelling": "国務長官",
+      "reading": "こくむちょうかん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "国務長官【こくむちょうかん】",
+      "meaning": "Secretario de Estado"
+    },
+    {
+      "entryId": "1211730",
+      "spelling": "官庁",
+      "reading": "かんちょう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "官庁【かんちょう】",
+      "meaning": "autoridades gubernamentales"
+    },
+    {
+      "entryId": "1252330",
+      "spelling": "警官",
+      "reading": "けいかん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "警官【けいかん】",
+      "meaning": "hombre policía"
+    },
+    {
+      "entryId": "1203560",
+      "spelling": "外交官",
+      "reading": "がいこうかん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "外交官【がいこうかん】",
+      "meaning": "diplomático"
+    },
+    {
+      "entryId": "1296130",
+      "spelling": "裁判官",
+      "reading": "さいばんかん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "裁判官【さいばんかん】",
+      "meaning": "juez"
+    },
+    {
+      "entryId": "1513130",
+      "spelling": "弁務官",
+      "reading": "べんむかん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "弁務官【べんむかん】",
+      "meaning": "comisionado"
+    },
+    {
+      "entryId": "1513130",
+      "spelling": "辨務官",
+      "reading": "べんむかん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "辨務官【べんむかん】",
+      "meaning": "comisionado"
+    },
+    {
+      "entryId": "1614160",
+      "spelling": "官民",
+      "reading": "かんみん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "官民【かんみん】",
+      "meaning": "autoridad y pueblo; el gobierno y el pueblo"
+    },
+    {
+      "entryId": "1630740",
+      "spelling": "検察官",
+      "reading": "けんさつかん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "検察官【けんさつかん】",
+      "meaning": "fiscal"
+    },
+    {
+      "entryId": "1307430",
+      "spelling": "士官",
+      "reading": "しかん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "士官【しかん】",
+      "meaning": "oficial (del ejército o de la policía)"
+    },
+    {
+      "entryId": "1701860",
+      "spelling": "書記官",
+      "reading": "しょきかん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "書記官【しょきかん】",
+      "meaning": "secretario"
+    },
+    {
+      "entryId": "1211640",
+      "spelling": "官海",
+      "reading": "かんかい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "官海【かんかい】",
+      "meaning": "burocracia"
+    },
+    {
+      "entryId": "1211640",
+      "spelling": "官界",
+      "reading": "かんかい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "官界【かんかい】",
+      "meaning": "burocracia"
+    },
+    {
+      "entryId": "1211790",
+      "spelling": "官報",
+      "reading": "かんぽう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "官報【かんぽう】",
+      "meaning": "boletín oficial; diario oficial"
+    },
+    {
+      "entryId": "1218910",
+      "spelling": "器官",
+      "reading": "きかん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "器官【きかん】",
+      "meaning": "órgano (del cuerpo); instrumento"
+    },
+    {
+      "entryId": "1252400",
+      "spelling": "警察官",
+      "reading": "けいさつかん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "警察官【けいさつかん】",
+      "meaning": "policía; agente de policía; policías"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "character": "気",
+  "meanings": "espíritu, mente",
+  "words": [
+    {
+      "entryId": "1221520",
+      "spelling": "気",
+      "reading": "き",
+      "senseNumbers": [
+        29
+      ],
+      "japanese": "気【き】",
+      "meaning": "energía; aire; atmósfera; esencia"
+    },
+    {
+      "entryId": "1250830",
+      "spelling": "景気",
+      "reading": "けいき",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "景気【けいき】",
+      "meaning": "condiciones económicas; situación económica"
+    },
+    {
+      "entryId": "1367010",
+      "spelling": "人気",
+      "reading": "にんき",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "人気【にんき】",
+      "meaning": "popularidad"
+    },
+    {
+      "entryId": "1591430",
+      "spelling": "気持",
+      "reading": "きもち",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "気持【きもち】",
+      "meaning": "sentimiento; sensación"
+    },
+    {
+      "entryId": "1591430",
+      "spelling": "気持ち",
+      "reading": "きもち",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "気持ち【きもち】",
+      "meaning": "sentimiento; sensación"
+    },
+    {
+      "entryId": "1443000",
+      "spelling": "電気",
+      "reading": "でんき",
+      "senseNumbers": [
+        11,
+        12
+      ],
+      "japanese": "電気【でんき】",
+      "meaning": "electricidad; luz (eléctrica)"
+    },
+    {
+      "entryId": "1490230",
+      "spelling": "病気",
+      "reading": "びょうき",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "病気【びょうき】",
+      "meaning": "enfermedad"
+    },
+    {
+      "entryId": "1490230",
+      "spelling": "病気",
+      "reading": "ビョーキ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "病気【ビョーキ】",
+      "meaning": "enfermedad"
+    },
+    {
+      "entryId": "1222590",
+      "spelling": "気分",
+      "reading": "きぶん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "気分【きぶん】",
+      "meaning": "sentimiento; humor (e.g. buen humor, mal humor, etc.)"
+    },
+    {
+      "entryId": "1245470",
+      "spelling": "空気",
+      "reading": "くうき",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "空気【くうき】",
+      "meaning": "aire; atmósfera"
+    },
+    {
+      "entryId": "1505070",
+      "spelling": "ふいん気",
+      "reading": "ふんいき",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "ふいん気【ふんいき】",
+      "meaning": "atmósfera (ej. musical); ambiente"
+    },
+    {
+      "entryId": "1505070",
+      "spelling": "ふんい気",
+      "reading": "ふんいき",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "ふんい気【ふんいき】",
+      "meaning": "atmósfera (ej. musical); ambiente"
+    },
+    {
+      "entryId": "1505070",
+      "spelling": "ふん囲気",
+      "reading": "ふんいき",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "ふん囲気【ふんいき】",
+      "meaning": "atmósfera (ej. musical); ambiente"
+    },
+    {
+      "entryId": "1505070",
+      "spelling": "雰囲気",
+      "reading": "ふいんき",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "雰囲気【ふいんき】",
+      "meaning": "atmósfera (ej. musical); ambiente"
+    },
+    {
+      "entryId": "1505070",
+      "spelling": "雰囲気",
+      "reading": "ふんいき",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "雰囲気【ふんいき】",
+      "meaning": "atmósfera (ej. musical); ambiente"
+    },
+    {
+      "entryId": "1161720",
+      "spelling": "一気",
+      "reading": "いっき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "一気【いっき】",
+      "meaning": "¡beban! (dicho repetidamente por el animador de la fiesta)"
+    },
+    {
+      "entryId": "1221950",
+      "spelling": "気温",
+      "reading": "きおん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "気温【きおん】",
+      "meaning": "temperatura atmosférica"
+    },
+    {
+      "entryId": "1413330",
+      "spelling": "大気",
+      "reading": "たいき",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "大気【たいき】",
+      "meaning": "atmósfera"
+    },
+    {
+      "entryId": "1222300",
+      "spelling": "気象庁",
+      "reading": "きしょうちょう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "気象庁【きしょうちょう】",
+      "meaning": "servicio meteorológico nacional"
+    },
+    {
+      "entryId": "1222270",
+      "spelling": "気象",
+      "reading": "きしょう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "気象【きしょう】",
+      "meaning": "tiempo (atmosférico); clima"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

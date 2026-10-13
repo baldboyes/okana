@@ -1,0 +1,240 @@
+{
+  "character": "示",
+  "meanings": "mostrar, enseñar, indicar, revelar",
+  "words": [
+    {
+      "entryId": "1309800",
+      "spelling": "指示",
+      "reading": "しし",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "指示【しし】",
+      "meaning": "indicación; instrucción"
+    },
+    {
+      "entryId": "1309800",
+      "spelling": "指示",
+      "reading": "しじ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "指示【しじ】",
+      "meaning": "indicación; instrucción"
+    },
+    {
+      "entryId": "1489610",
+      "spelling": "標示",
+      "reading": "ひょうじ",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "標示【ひょうじ】",
+      "meaning": "presentación; display"
+    },
+    {
+      "entryId": "1489610",
+      "spelling": "表示",
+      "reading": "ひょうじ",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "表示【ひょうじ】",
+      "meaning": "presentación; display"
+    },
+    {
+      "entryId": "1317110",
+      "spelling": "示す",
+      "reading": "しめす",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "示す【しめす】",
+      "meaning": "indicar; mostrar; manifestar"
+    },
+    {
+      "entryId": "1440610",
+      "spelling": "展示",
+      "reading": "てんじ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "展示【てんじ】",
+      "meaning": "muestra; exhibición"
+    },
+    {
+      "entryId": "1286010",
+      "spelling": "告示",
+      "reading": "こくじ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "告示【こくじ】",
+      "meaning": "noticia; boletín"
+    },
+    {
+      "entryId": "1273810",
+      "spelling": "公示",
+      "reading": "こうし",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "公示【こうし】",
+      "meaning": "publicidad"
+    },
+    {
+      "entryId": "1273810",
+      "spelling": "公示",
+      "reading": "こうじ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "公示【こうじ】",
+      "meaning": "publicidad"
+    },
+    {
+      "entryId": "1436400",
+      "spelling": "提示",
+      "reading": "ていじ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "提示【ていじ】",
+      "meaning": "mostrar; presentar"
+    },
+    {
+      "entryId": "1156630",
+      "spelling": "意志表示",
+      "reading": "いしひょうじ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "意志表示【いしひょうじ】",
+      "meaning": "declaración de intención"
+    },
+    {
+      "entryId": "1156630",
+      "spelling": "意思表示",
+      "reading": "いしひょうじ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "意思表示【いしひょうじ】",
+      "meaning": "declaración de intención"
+    },
+    {
+      "entryId": "1250620",
+      "spelling": "掲示",
+      "reading": "けいじ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "掲示【けいじ】",
+      "meaning": "noticia; boletín"
+    },
+    {
+      "entryId": "1440620",
+      "spelling": "展示会",
+      "reading": "てんじかい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "展示会【てんじかい】",
+      "meaning": "exposición"
+    },
+    {
+      "entryId": "1317130",
+      "spelling": "示唆",
+      "reading": "しさ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "示唆【しさ】",
+      "meaning": "sugerencia; recomendación"
+    },
+    {
+      "entryId": "1154550",
+      "spelling": "暗示",
+      "reading": "あんじ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "暗示【あんじ】",
+      "meaning": "sugestión; sugerir; aludir; insinuar; sugestionar"
+    },
+    {
+      "entryId": "1250630",
+      "spelling": "掲示板",
+      "reading": "けいじばん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "掲示板【けいじばん】",
+      "meaning": "cartelera; tablero; anuncio"
+    },
+    {
+      "entryId": "1370390",
+      "spelling": "図示",
+      "reading": "ずし",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "図示【ずし】",
+      "meaning": "ilustración; diagrama; gráfica"
+    },
+    {
+      "entryId": "1267770",
+      "spelling": "誇示",
+      "reading": "こじ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "誇示【こじ】",
+      "meaning": "ostentación; exhibición"
+    },
+    {
+      "entryId": "1250030",
+      "spelling": "啓示",
+      "reading": "けいじ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "啓示【けいじ】",
+      "meaning": "apocalipsis; revelación"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

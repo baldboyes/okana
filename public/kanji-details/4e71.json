@@ -1,0 +1,240 @@
+{
+  "character": "乱",
+  "meanings": "disturbio, desorden, confusión, absurdamente, irrazonablemente, guerra, confundirse, estar desordenado, ser molestado, confundir, desordenar, molestar",
+  "words": [
+    {
+      "entryId": "1290560",
+      "spelling": "混乱",
+      "reading": "こんらん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "混乱【こんらん】",
+      "meaning": "caos; desorden"
+    },
+    {
+      "entryId": "1481090",
+      "spelling": "反乱",
+      "reading": "はんらん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "反乱【はんらん】",
+      "meaning": "rebelión"
+    },
+    {
+      "entryId": "1481090",
+      "spelling": "叛乱",
+      "reading": "はんらん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "叛乱【はんらん】",
+      "meaning": "rebelión"
+    },
+    {
+      "entryId": "1601100",
+      "spelling": "波乱",
+      "reading": "はらん",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "波乱【はらん】",
+      "meaning": "inestabilidad; desorden; alboroto"
+    },
+    {
+      "entryId": "1549120",
+      "spelling": "乱用",
+      "reading": "らんよう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "乱用【らんよう】",
+      "meaning": "abuso"
+    },
+    {
+      "entryId": "1451640",
+      "spelling": "動乱",
+      "reading": "どうらん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "動乱【どうらん】",
+      "meaning": "disturbio; alboroto; desorden"
+    },
+    {
+      "entryId": "1548940",
+      "spelling": "乱れる",
+      "reading": "みだれる",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "乱れる【みだれる】",
+      "meaning": "confundirse; estar desordenado; estar inquieto"
+    },
+    {
+      "entryId": "1549100",
+      "spelling": "乱暴",
+      "reading": "らんぼう",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "乱暴【らんぼう】",
+      "meaning": "maleducado; grosero; violento; rudo; desobediente; irracional; temerario"
+    },
+    {
+      "entryId": "1370780",
+      "spelling": "乱吹",
+      "reading": "ふぶき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "乱吹【ふぶき】",
+      "meaning": "tormenta de nieve; ventisca (con nieve)"
+    },
+    {
+      "entryId": "1459460",
+      "spelling": "内乱",
+      "reading": "ないらん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "内乱【ないらん】",
+      "meaning": "guerra civil; rebelión"
+    },
+    {
+      "entryId": "1606200",
+      "spelling": "乱獲",
+      "reading": "らんかく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "乱獲【らんかく】",
+      "meaning": "exceso de pesca; la sobrepesca"
+    },
+    {
+      "entryId": "1237660",
+      "spelling": "狂乱",
+      "reading": "きょうらん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "狂乱【きょうらん】",
+      "meaning": "locura; desenfreno"
+    },
+    {
+      "entryId": "1548930",
+      "spelling": "乱す",
+      "reading": "みだす",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "乱す【みだす】",
+      "meaning": "desordenar; desorganizar; desarreglar"
+    },
+    {
+      "entryId": "1548990",
+      "spelling": "乱雑",
+      "reading": "らんざつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "乱雑【らんざつ】",
+      "meaning": "desordenado"
+    },
+    {
+      "entryId": "1465570",
+      "spelling": "入り乱れる",
+      "reading": "いりみだれる",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "入り乱れる【いりみだれる】",
+      "meaning": "enmarañarse; embrollarse"
+    },
+    {
+      "entryId": "1163610",
+      "spelling": "一心不乱",
+      "reading": "いっしんふらん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "一心不乱【いっしんふらん】",
+      "meaning": "con toda la atención; con intensa concentración"
+    },
+    {
+      "entryId": "1383080",
+      "spelling": "積乱雲",
+      "reading": "せきらんうん",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "積乱雲【せきらんうん】",
+      "meaning": "cumulonimbo"
+    },
+    {
+      "entryId": "1821910",
+      "spelling": "乱取",
+      "reading": "らんどり",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "乱取【らんどり】",
+      "meaning": "\"randori\": combate de entrenamiento en judo"
+    },
+    {
+      "entryId": "1821910",
+      "spelling": "乱取り",
+      "reading": "らんどり",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "乱取り【らんどり】",
+      "meaning": "\"randori\": combate de entrenamiento en judo"
+    },
+    {
+      "entryId": "1821910",
+      "spelling": "乱捕",
+      "reading": "らんどり",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "乱捕【らんどり】",
+      "meaning": "\"randori\": combate de entrenamiento en judo"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

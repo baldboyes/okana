@@ -1,0 +1,240 @@
+{
+  "character": "千",
+  "meanings": "mil, muchos",
+  "words": [
+    {
+      "entryId": "1388740",
+      "spelling": "千",
+      "reading": "せん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "千【せん】",
+      "meaning": "1.000; mil; mil (usado en documentos legales)"
+    },
+    {
+      "entryId": "1388740",
+      "spelling": "千",
+      "reading": "ち",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "千【ち】",
+      "meaning": "1.000; mil; mil (usado en documentos legales)"
+    },
+    {
+      "entryId": "1301110",
+      "spelling": "三千",
+      "reading": "さんぜん",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "三千【さんぜん】",
+      "meaning": "tres mil; 3000; muchos"
+    },
+    {
+      "entryId": "1301110",
+      "spelling": "３千",
+      "reading": "さんぜん",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "３千【さんぜん】",
+      "meaning": "tres mil; 3000; muchos"
+    },
+    {
+      "entryId": "1766960",
+      "spelling": "四千",
+      "reading": "よんせん",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "四千【よんせん】",
+      "meaning": "cuatro mil; 4000"
+    },
+    {
+      "entryId": "1766960",
+      "spelling": "４千",
+      "reading": "よんせん",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "４千【よんせん】",
+      "meaning": "cuatro mil; 4000"
+    },
+    {
+      "entryId": "1766960",
+      "spelling": "四千",
+      "reading": "しせん",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "四千【しせん】",
+      "meaning": "cuatro mil; 4000"
+    },
+    {
+      "entryId": "1389100",
+      "spelling": "千島",
+      "reading": "ちしま",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "千島【ちしま】",
+      "meaning": "islas Kuriles"
+    },
+    {
+      "entryId": "1189120",
+      "spelling": "何千",
+      "reading": "なんぜん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "何千【なんぜん】",
+      "meaning": "muchos miles"
+    },
+    {
+      "entryId": "1476870",
+      "spelling": "八千代",
+      "reading": "やちよ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "八千代【やちよ】",
+      "meaning": "eternidad; miles de años"
+    },
+    {
+      "entryId": "1164250",
+      "spelling": "一千",
+      "reading": "いっせん",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "一千【いっせん】",
+      "meaning": "mil; 1000"
+    },
+    {
+      "entryId": "1164250",
+      "spelling": "１千",
+      "reading": "いっせん",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "１千【いっせん】",
+      "meaning": "mil; 1000"
+    },
+    {
+      "entryId": "1389070",
+      "spelling": "千鳥",
+      "reading": "ちどり",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "千鳥【ちどり】",
+      "meaning": "chorlito (ave)"
+    },
+    {
+      "entryId": "1813070",
+      "spelling": "千島列島",
+      "reading": "ちしまれっとう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "千島列島【ちしまれっとう】",
+      "meaning": "islas Kuriles"
+    },
+    {
+      "entryId": "1388780",
+      "spelling": "千円",
+      "reading": "せんえん",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "千円【せんえん】",
+      "meaning": "1000 yen"
+    },
+    {
+      "entryId": "1388790",
+      "spelling": "千円札",
+      "reading": "せんえんさつ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "千円札【せんえんさつ】",
+      "meaning": "billete de 1000 yenes"
+    },
+    {
+      "entryId": "1389020",
+      "spelling": "千切る",
+      "reading": "ちぎる",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "千切る【ちぎる】",
+      "meaning": "trizar; despedazar"
+    },
+    {
+      "entryId": "1610310",
+      "spelling": "千切れる",
+      "reading": "ちぎれる",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "千切れる【ちぎれる】",
+      "meaning": "despedazarse; trizarse"
+    },
+    {
+      "entryId": "2164690",
+      "spelling": "千葉",
+      "reading": "ちば",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "千葉【ちば】",
+      "meaning": "Chiba (ciudad)"
+    },
+    {
+      "entryId": "1388840",
+      "spelling": "千差万別",
+      "reading": "せんさばんべつ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "千差万別【せんさばんべつ】",
+      "meaning": "todas las cosas son distintas, en este mundo hay millones de cosas y todas son diferentes"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "character": "放",
+  "meanings": "dejar libre, soltar, liberar, emitir, separarse, abandonar",
+  "words": [
+    {
+      "entryId": "1516750",
+      "spelling": "放送",
+      "reading": "ほうそう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "放送【ほうそう】",
+      "meaning": "emitir; transmitir; retransmitir; difundir; emisión; retransmisión"
+    },
+    {
+      "entryId": "1202950",
+      "spelling": "開放",
+      "reading": "かいほう",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "開放【かいほう】",
+      "meaning": "abierto; espacioso"
+    },
+    {
+      "entryId": "1199250",
+      "spelling": "解放",
+      "reading": "かいほう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "解放【かいほう】",
+      "meaning": "liberación; emancipación; alivio; descanso; sosiego"
+    },
+    {
+      "entryId": "1911120",
+      "spelling": "民放",
+      "reading": "みんぽう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "民放【みんぽう】",
+      "meaning": "canal comercial (vg tv)"
+    },
+    {
+      "entryId": "1432670",
+      "spelling": "追放",
+      "reading": "ついほう",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "追放【ついほう】",
+      "meaning": "exilio; destierro"
+    },
+    {
+      "entryId": "1516530",
+      "spelling": "放る",
+      "reading": "ほうる",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "放る【ほうる】",
+      "meaning": "dejar ir"
+    },
+    {
+      "entryId": "1516530",
+      "spelling": "放る",
+      "reading": "ほる",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "放る【ほる】",
+      "meaning": "dejar ir"
+    },
+    {
+      "entryId": "1516690",
+      "spelling": "放射能",
+      "reading": "ほうしゃのう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "放射能【ほうしゃのう】",
+      "meaning": "radiactividad"
+    },
+    {
+      "entryId": "1516610",
+      "spelling": "放射性",
+      "reading": "ほうしゃせい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "放射性【ほうしゃせい】",
+      "meaning": "radioactivo; radiactivo"
+    },
+    {
+      "entryId": "1516630",
+      "spelling": "放射線",
+      "reading": "ほうしゃせん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "放射線【ほうしゃせん】",
+      "meaning": "radiación"
+    },
+    {
+      "entryId": "1324260",
+      "spelling": "釈放",
+      "reading": "しゃくほう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "釈放【しゃくほう】",
+      "meaning": "excarcelación; liberación; liberar"
+    },
+    {
+      "entryId": "1516560",
+      "spelling": "放火",
+      "reading": "ほうか",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "放火【ほうか】",
+      "meaning": "incendio provocado"
+    },
+    {
+      "entryId": "1516580",
+      "spelling": "放棄",
+      "reading": "ほうき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "放棄【ほうき】",
+      "meaning": "renunciar a; abandonar; dejar; hacer dejación de; desistir; abdicar; renuncia; abandono; abdicación; desistimiento"
+    },
+    {
+      "entryId": "1516710",
+      "spelling": "放出",
+      "reading": "ほうしゅつ",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "放出【ほうしゅつ】",
+      "meaning": "soltar; liberar; emitir"
+    },
+    {
+      "entryId": "1516770",
+      "spelling": "放題",
+      "reading": "ほうだい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "放題【ほうだい】",
+      "meaning": "tanto como te gustaría"
+    },
+    {
+      "entryId": "1516600",
+      "spelling": "放射",
+      "reading": "ほうしゃ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "放射【ほうしゃ】",
+      "meaning": "radiación; emisión"
+    },
+    {
+      "entryId": "1516780",
+      "spelling": "放置",
+      "reading": "ほうち",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "放置【ほうち】",
+      "meaning": "algo abandonado"
+    },
+    {
+      "entryId": "1516570",
+      "spelling": "放課後",
+      "reading": "ほうかご",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "放課後【ほうかご】",
+      "meaning": "después de la escuela"
+    },
+    {
+      "entryId": "1522120",
+      "spelling": "奔放",
+      "reading": "ほんぽう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "奔放【ほんぽう】",
+      "meaning": "salvaje; desinhibido; desenfrenado; extravagante"
+    },
+    {
+      "entryId": "1516490",
+      "spelling": "放つ",
+      "reading": "はなつ",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "放つ【はなつ】",
+      "meaning": "liberar; soltar; pegar fuego a"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

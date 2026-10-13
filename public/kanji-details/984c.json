@@ -1,0 +1,232 @@
+{
+  "character": "題",
+  "meanings": "objeto, tema, materia",
+  "words": [
+    {
+      "entryId": "1195820",
+      "spelling": "課題",
+      "reading": "かだい",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "課題【かだい】",
+      "meaning": "tema; cuestiones; problemas"
+    },
+    {
+      "entryId": "1536010",
+      "spelling": "問題",
+      "reading": "もんだい",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "問題【もんだい】",
+      "meaning": "problema; pregunta"
+    },
+    {
+      "entryId": "1562400",
+      "spelling": "話題",
+      "reading": "わだい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "話題【わだい】",
+      "meaning": "tema; asunto"
+    },
+    {
+      "entryId": "1226130",
+      "spelling": "議題",
+      "reading": "ぎだい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "議題【ぎだい】",
+      "meaning": "tema de debate; orden del día"
+    },
+    {
+      "entryId": "1658870",
+      "spelling": "社会問題",
+      "reading": "しゃかいもんだい",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "社会問題【しゃかいもんだい】",
+      "meaning": "problema social"
+    },
+    {
+      "entryId": "1325870",
+      "spelling": "主題",
+      "reading": "しゅだい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "主題【しゅだい】",
+      "meaning": "tema"
+    },
+    {
+      "entryId": "1337270",
+      "spelling": "宿題",
+      "reading": "しゅくだい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "宿題【しゅくだい】",
+      "meaning": "deberes; tareas escolares"
+    },
+    {
+      "entryId": "1415490",
+      "spelling": "題名",
+      "reading": "だいめい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "題名【だいめい】",
+      "meaning": "título"
+    },
+    {
+      "entryId": "1461020",
+      "spelling": "難題",
+      "reading": "なんだい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "難題【なんだい】",
+      "meaning": "reto; desafío; problema difícil"
+    },
+    {
+      "entryId": "1415470",
+      "spelling": "題",
+      "reading": "だい",
+      "senseNumbers": [
+        16,
+        17,
+        18
+      ],
+      "japanese": "題【だい】",
+      "meaning": "título; materia; tema; tópico; problema (en un examen); pregunta; contador para interrogaciones; preguntas"
+    },
+    {
+      "entryId": "1516770",
+      "spelling": "放題",
+      "reading": "ほうだい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "放題【ほうだい】",
+      "meaning": "tanto como te gustaría"
+    },
+    {
+      "entryId": "1339620",
+      "spelling": "出題",
+      "reading": "しゅつだい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "出題【しゅつだい】",
+      "meaning": "formular cuestiones; plantear problemas; cuestionario; temario; cuestión; tema"
+    },
+    {
+      "entryId": "1510210",
+      "spelling": "別問題",
+      "reading": "べつもんだい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "別問題【べつもんだい】",
+      "meaning": "tema por separado"
+    },
+    {
+      "entryId": "1983720",
+      "spelling": "題する",
+      "reading": "だいする",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "題する【だいする】",
+      "meaning": "titularse (ej. un libro); nombrarse"
+    },
+    {
+      "entryId": "1718210",
+      "spelling": "仮題",
+      "reading": "かだい",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "仮題【かだい】",
+      "meaning": "título provisional"
+    },
+    {
+      "entryId": "1556550",
+      "spelling": "例題",
+      "reading": "れいだい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "例題【れいだい】",
+      "meaning": "ejercicio; modelo; ejemplo"
+    },
+    {
+      "entryId": "1169840",
+      "spelling": "飲み放題",
+      "reading": "のみほうだい",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "飲み放題【のみほうだい】",
+      "meaning": "todo lo que puedas beber; copa sin fondo"
+    },
+    {
+      "entryId": "1177000",
+      "spelling": "演題",
+      "reading": "えんだい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "演題【えんだい】",
+      "meaning": "titulo de un discurso (de una conferencia)"
+    },
+    {
+      "entryId": "1531020",
+      "spelling": "無理難題",
+      "reading": "むりなんだい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "無理難題【むりなんだい】",
+      "meaning": "petición poco razonable"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

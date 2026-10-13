@@ -1,0 +1,243 @@
+{
+  "character": "形",
+  "meanings": "forma, figura, tipo",
+  "words": [
+    {
+      "entryId": "1250220",
+      "spelling": "形",
+      "reading": "かたち",
+      "senseNumbers": [
+        18,
+        19
+      ],
+      "japanese": "形【かたち】",
+      "meaning": "forma; figura; cara; semblante"
+    },
+    {
+      "entryId": "1413530",
+      "spelling": "大形",
+      "reading": "おおがた",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "大形【おおがた】",
+      "meaning": "modelo a gran escala"
+    },
+    {
+      "entryId": "1250310",
+      "spelling": "形式",
+      "reading": "けいしき",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "形式【けいしき】",
+      "meaning": "forma"
+    },
+    {
+      "entryId": "1250360",
+      "spelling": "形成",
+      "reading": "けいせい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "形成【けいせい】",
+      "meaning": "formación; moldeado"
+    },
+    {
+      "entryId": "1367120",
+      "spelling": "人形",
+      "reading": "にんぎょう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "人形【にんぎょう】",
+      "meaning": "muñeco; títere; figura"
+    },
+    {
+      "entryId": "1620810",
+      "spelling": "小形",
+      "reading": "こがた",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "小形【こがた】",
+      "meaning": "mini-"
+    },
+    {
+      "entryId": "1250390",
+      "spelling": "形体",
+      "reading": "けいたい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "形体【けいたい】",
+      "meaning": "forma; figura"
+    },
+    {
+      "entryId": "1250390",
+      "spelling": "形態",
+      "reading": "けいたい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "形態【けいたい】",
+      "meaning": "forma; figura"
+    },
+    {
+      "entryId": "1361770",
+      "spelling": "新形",
+      "reading": "しんがた",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "新形【しんがた】",
+      "meaning": "nuevo estilo; nuevo modelo"
+    },
+    {
+      "entryId": "1327520",
+      "spelling": "手形",
+      "reading": "てがた",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "手形【てがた】",
+      "meaning": "pagaré; letra de cambio; cheque"
+    },
+    {
+      "entryId": "1658620",
+      "spelling": "自由形",
+      "reading": "じゆうがた",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "自由形【じゆうがた】",
+      "meaning": "estilo libre (natación)"
+    },
+    {
+      "entryId": "1576590",
+      "spelling": "円形",
+      "reading": "えんけい",
+      "senseNumbers": [
+        8,
+        9
+      ],
+      "japanese": "円形【えんけい】",
+      "meaning": "circulo; redondo; forma circular; circular"
+    },
+    {
+      "entryId": "1576590",
+      "spelling": "円形",
+      "reading": "まるがた",
+      "senseNumbers": [
+        8,
+        9
+      ],
+      "japanese": "円形【まるがた】",
+      "meaning": "circulo; redondo; forma circular; circular"
+    },
+    {
+      "entryId": "1421030",
+      "spelling": "地形",
+      "reading": "じぎょう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "地形【じぎょう】",
+      "meaning": "topografía"
+    },
+    {
+      "entryId": "1421030",
+      "spelling": "地形",
+      "reading": "ちけい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "地形【ちけい】",
+      "meaning": "topografía"
+    },
+    {
+      "entryId": "1510980",
+      "spelling": "変形",
+      "reading": "へんけい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "変形【へんけい】",
+      "meaning": "transformación; variación; metamorfosis; modificación; deformación; deformidad; monstruo"
+    },
+    {
+      "entryId": "1424010",
+      "spelling": "中形",
+      "reading": "ちゅうがた",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "中形【ちゅうがた】",
+      "meaning": "tamaño mediano"
+    },
+    {
+      "entryId": "1222250",
+      "spelling": "形気",
+      "reading": "かたぎ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "形気【かたぎ】",
+      "meaning": "talante; espíritu; mentalidad; temperamento; aptitud; temple; cualidad; esencia"
+    },
+    {
+      "entryId": "1250370",
+      "spelling": "形跡",
+      "reading": "けいせき",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "形跡【けいせき】",
+      "meaning": "rastros; señales; indicios"
+    },
+    {
+      "entryId": "1250340",
+      "spelling": "形状",
+      "reading": "けいじょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "形状【けいじょう】",
+      "meaning": "forma; figura"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "character": "吹",
+  "meanings": "soplar, exhalar, respirar",
+  "words": [
+    {
+      "entryId": "1370780",
+      "spelling": "乱吹",
+      "reading": "ふぶき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "乱吹【ふぶき】",
+      "meaning": "tormenta de nieve; ventisca (con nieve)"
+    },
+    {
+      "entryId": "1370780",
+      "spelling": "吹雪",
+      "reading": "ふぶき",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "吹雪【ふぶき】",
+      "meaning": "tormenta de nieve; ventisca (con nieve)"
+    },
+    {
+      "entryId": "1404410",
+      "spelling": "息吹",
+      "reading": "いぶき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "息吹【いぶき】",
+      "meaning": "aliento"
+    },
+    {
+      "entryId": "1404410",
+      "spelling": "息吹き",
+      "reading": "いぶき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "息吹き【いぶき】",
+      "meaning": "aliento"
+    },
+    {
+      "entryId": "1404410",
+      "spelling": "気吹",
+      "reading": "いぶき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "気吹【いぶき】",
+      "meaning": "aliento"
+    },
+    {
+      "entryId": "1602500",
+      "spelling": "吹きだす",
+      "reading": "ふきだす",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "吹きだす【ふきだす】",
+      "meaning": "brotar; soplar hacia afuera; empezar a soplar"
+    },
+    {
+      "entryId": "1602500",
+      "spelling": "吹き出す",
+      "reading": "ふきだす",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "吹き出す【ふきだす】",
+      "meaning": "brotar; soplar hacia afuera; empezar a soplar"
+    },
+    {
+      "entryId": "1602500",
+      "spelling": "吹出す",
+      "reading": "ふきだす",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "吹出す【ふきだす】",
+      "meaning": "brotar; soplar hacia afuera; empezar a soplar"
+    },
+    {
+      "entryId": "1370590",
+      "spelling": "吹きこむ",
+      "reading": "ふきこむ",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "吹きこむ【ふきこむ】",
+      "meaning": "soplar hacia adentro; infundir; inspirar"
+    },
+    {
+      "entryId": "1370590",
+      "spelling": "吹き込む",
+      "reading": "ふきこむ",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "吹き込む【ふきこむ】",
+      "meaning": "soplar hacia adentro; infundir; inspirar"
+    },
+    {
+      "entryId": "1370590",
+      "spelling": "吹込む",
+      "reading": "ふきこむ",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "吹込む【ふきこむ】",
+      "meaning": "soplar hacia adentro; infundir; inspirar"
+    },
+    {
+      "entryId": "1370760",
+      "spelling": "吹く",
+      "reading": "ふく",
+      "senseNumbers": [
+        26
+      ],
+      "japanese": "吹く【ふく】",
+      "meaning": "soplar"
+    },
+    {
+      "entryId": "1611410",
+      "spelling": "吹きだまり",
+      "reading": "ふきだまり",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "吹きだまり【ふきだまり】",
+      "meaning": "estancamiento por viento o agua; atascadero de vagos"
+    },
+    {
+      "entryId": "1611410",
+      "spelling": "吹き溜まり",
+      "reading": "ふきだまり",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "吹き溜まり【ふきだまり】",
+      "meaning": "estancamiento por viento o agua; atascadero de vagos"
+    },
+    {
+      "entryId": "1611410",
+      "spelling": "吹き溜り",
+      "reading": "ふきだまり",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "吹き溜り【ふきだまり】",
+      "meaning": "estancamiento por viento o agua; atascadero de vagos"
+    },
+    {
+      "entryId": "1010980",
+      "spelling": "吹かす",
+      "reading": "ふかす",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "吹かす【ふかす】",
+      "meaning": "fumar; comportarse como; acelerar; revertir"
+    },
+    {
+      "entryId": "1602490",
+      "spelling": "吹き替え",
+      "reading": "ふきかえ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "吹き替え【ふきかえ】",
+      "meaning": "doblaje de una película"
+    },
+    {
+      "entryId": "1602490",
+      "spelling": "吹替",
+      "reading": "ふきかえ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "吹替【ふきかえ】",
+      "meaning": "doblaje de una película"
+    },
+    {
+      "entryId": "1602490",
+      "spelling": "吹替え",
+      "reading": "ふきかえ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "吹替え【ふきかえ】",
+      "meaning": "doblaje de una película"
+    },
+    {
+      "entryId": "1371090",
+      "spelling": "吹挙",
+      "reading": "すいきょ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "吹挙【すいきょ】",
+      "meaning": "recomendación"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "character": "浸",
+  "meanings": "empapar, remojar, humedecer",
+  "words": [
+    {
+      "entryId": "1362630",
+      "spelling": "浸透",
+      "reading": "しんとう",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "浸透【しんとう】",
+      "meaning": "ósmosis; osmosis"
+    },
+    {
+      "entryId": "1433680",
+      "spelling": "浸ける",
+      "reading": "つける",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "浸ける【つける】",
+      "meaning": "empapar; humedecer; encurtir"
+    },
+    {
+      "entryId": "1362610",
+      "spelling": "浸水",
+      "reading": "しんすい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "浸水【しんすい】",
+      "meaning": "inundación"
+    },
+    {
+      "entryId": "1362570",
+      "spelling": "浸る",
+      "reading": "ひたる",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "浸る【ひたる】",
+      "meaning": "bañarse; sumergirse; zambullirse"
+    },
+    {
+      "entryId": "1391120",
+      "spelling": "浸みる",
+      "reading": "しみる",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "浸みる【しみる】",
+      "meaning": "impregnarse; absorberse"
+    },
+    {
+      "entryId": "1433670",
+      "spelling": "浸かる",
+      "reading": "つかる",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "浸かる【つかる】",
+      "meaning": "sumergirse; remojarse; curtir"
+    },
+    {
+      "entryId": "1362560",
+      "spelling": "浸す",
+      "reading": "ひたす",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "浸す【ひたす】",
+      "meaning": "remojar"
+    },
+    {
+      "entryId": "1595160",
+      "spelling": "浸蝕",
+      "reading": "しんしょく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "浸蝕【しんしょく】",
+      "meaning": "erosión; corrosión"
+    },
+    {
+      "entryId": "1595160",
+      "spelling": "浸食",
+      "reading": "しんしょく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "浸食【しんしょく】",
+      "meaning": "erosión; corrosión"
+    },
+    {
+      "entryId": "1391140",
+      "spelling": "浸みこむ",
+      "reading": "しみこむ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "浸みこむ【しみこむ】",
+      "meaning": "infiltrarse; penetrar"
+    },
+    {
+      "entryId": "1391140",
+      "spelling": "浸み込む",
+      "reading": "しみこむ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "浸み込む【しみこむ】",
+      "meaning": "infiltrarse; penetrar"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

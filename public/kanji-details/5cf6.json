@@ -1,0 +1,242 @@
+{
+  "character": "島",
+  "meanings": "isla",
+  "words": [
+    {
+      "entryId": "1446760",
+      "spelling": "島",
+      "reading": "しま",
+      "senseNumbers": [
+        16,
+        17
+      ],
+      "japanese": "島【しま】",
+      "meaning": "isla; territorio (de una prostituta, organización criminal, etc.); césped"
+    },
+    {
+      "entryId": "1446760",
+      "spelling": "島",
+      "reading": "シマ",
+      "senseNumbers": [
+        16,
+        17
+      ],
+      "japanese": "島【シマ】",
+      "meaning": "isla; territorio (de una prostituta, organización criminal, etc.); césped"
+    },
+    {
+      "entryId": "1428450",
+      "spelling": "朝鮮半島",
+      "reading": "ちょうせんはんとう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "朝鮮半島【ちょうせんはんとう】",
+      "meaning": "península de Corea"
+    },
+    {
+      "entryId": "1479770",
+      "spelling": "半島",
+      "reading": "はんとう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "半島【はんとう】",
+      "meaning": "península"
+    },
+    {
+      "entryId": "1558390",
+      "spelling": "列島",
+      "reading": "れっとう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "列島【れっとう】",
+      "meaning": "archipiélago"
+    },
+    {
+      "entryId": "1348550",
+      "spelling": "小島",
+      "reading": "おじま",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "小島【おじま】",
+      "meaning": "isla pequeña; islote"
+    },
+    {
+      "entryId": "1348550",
+      "spelling": "小島",
+      "reading": "こじま",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "小島【こじま】",
+      "meaning": "isla pequeña; islote"
+    },
+    {
+      "entryId": "1348550",
+      "spelling": "小島",
+      "reading": "しょうとう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "小島【しょうとう】",
+      "meaning": "isla pequeña; islote"
+    },
+    {
+      "entryId": "1446810",
+      "spelling": "島根",
+      "reading": "しまね",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "島根【しまね】",
+      "meaning": "país insular"
+    },
+    {
+      "entryId": "1389100",
+      "spelling": "千島",
+      "reading": "ちしま",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "千島【ちしま】",
+      "meaning": "islas Kuriles"
+    },
+    {
+      "entryId": "1582260",
+      "spelling": "島国",
+      "reading": "しまぐに",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "島国【しまぐに】",
+      "meaning": "país insular (a veces se usa como sinónimo de Japón)"
+    },
+    {
+      "entryId": "1582260",
+      "spelling": "島国",
+      "reading": "とうごく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "島国【とうごく】",
+      "meaning": "país insular (a veces se usa como sinónimo de Japón)"
+    },
+    {
+      "entryId": "1594540",
+      "spelling": "島々",
+      "reading": "しまじま",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "島々【しまじま】",
+      "meaning": "islas"
+    },
+    {
+      "entryId": "1594540",
+      "spelling": "島じま",
+      "reading": "しまじま",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "島じま【しまじま】",
+      "meaning": "islas"
+    },
+    {
+      "entryId": "1594540",
+      "spelling": "島島",
+      "reading": "しまじま",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "島島【しまじま】",
+      "meaning": "islas"
+    },
+    {
+      "entryId": "1247590",
+      "spelling": "群島",
+      "reading": "ぐんとう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "群島【ぐんとう】",
+      "meaning": "grupo de islas; archipiélago"
+    },
+    {
+      "entryId": "1813070",
+      "spelling": "千島列島",
+      "reading": "ちしまれっとう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "千島列島【ちしまれっとう】",
+      "meaning": "islas Kuriles"
+    },
+    {
+      "entryId": "2164670",
+      "spelling": "広島",
+      "reading": "ひろしま",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "広島【ひろしま】",
+      "meaning": "hiroshima"
+    },
+    {
+      "entryId": "2164670",
+      "spelling": "廣島",
+      "reading": "ひろしま",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "廣島【ひろしま】",
+      "meaning": "hiroshima"
+    },
+    {
+      "entryId": "1266840",
+      "spelling": "孤島",
+      "reading": "ことう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "孤島【ことう】",
+      "meaning": "isla solitaria"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

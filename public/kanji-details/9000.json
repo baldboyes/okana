@@ -1,0 +1,240 @@
+{
+  "character": "退",
+  "meanings": "retroceder, retirarse, renunciar, dimitir, destruir, negar, rechazar, rehusar",
+  "words": [
+    {
+      "entryId": "1411420",
+      "spelling": "退職",
+      "reading": "たいしょく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "退職【たいしょく】",
+      "meaning": "jubilación"
+    },
+    {
+      "entryId": "1169610",
+      "spelling": "引退",
+      "reading": "いんたい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "引退【いんたい】",
+      "meaning": "retirarse; retiro"
+    },
+    {
+      "entryId": "1269880",
+      "spelling": "後退",
+      "reading": "こうたい",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "後退【こうたい】",
+      "meaning": "retroceso; marcha atrás; reculada; regresión; retirada"
+    },
+    {
+      "entryId": "1416570",
+      "spelling": "脱退",
+      "reading": "だったい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "脱退【だったい】",
+      "meaning": "retirada"
+    },
+    {
+      "entryId": "1424880",
+      "spelling": "中退",
+      "reading": "ちゅうたい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "中退【ちゅうたい】",
+      "meaning": "deserción (de una escuela)"
+    },
+    {
+      "entryId": "1318990",
+      "spelling": "辞退",
+      "reading": "じたい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "辞退【じたい】",
+      "meaning": "rechazar; declinar; rehusar; abstención; moderación; recato"
+    },
+    {
+      "entryId": "1411300",
+      "spelling": "退院",
+      "reading": "たいいん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "退院【たいいん】",
+      "meaning": "alta de un hospital"
+    },
+    {
+      "entryId": "1411340",
+      "spelling": "退学",
+      "reading": "たいがく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "退学【たいがく】",
+      "meaning": "expulsión; deserción de una escuela"
+    },
+    {
+      "entryId": "1838160",
+      "spelling": "立ち退き",
+      "reading": "たちのき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "立ち退き【たちのき】",
+      "meaning": "desahucio; desalojo"
+    },
+    {
+      "entryId": "1838160",
+      "spelling": "立退き",
+      "reading": "たちのき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "立退き【たちのき】",
+      "meaning": "desahucio; desalojo"
+    },
+    {
+      "entryId": "1411390",
+      "spelling": "退治",
+      "reading": "たいじ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "退治【たいじ】",
+      "meaning": "exterminio"
+    },
+    {
+      "entryId": "1184160",
+      "spelling": "退がる",
+      "reading": "さがる",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "退がる【さがる】",
+      "meaning": "colgarse; disminuir; retirarse; caerse; volverse atrás; bajar; menguar; amainar; retirar; caer; retroceder"
+    },
+    {
+      "entryId": "1596770",
+      "spelling": "退廃",
+      "reading": "たいはい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "退廃【たいはい】",
+      "meaning": "deterioro; decadencia"
+    },
+    {
+      "entryId": "1411450",
+      "spelling": "退避",
+      "reading": "たいひ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "退避【たいひ】",
+      "meaning": "evacuación; refugio"
+    },
+    {
+      "entryId": "1318950",
+      "spelling": "退める",
+      "reading": "やめる",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "退める【やめる】",
+      "meaning": "dejar de; renunciar a; dimitir; cesar en un puesto o actividad; abandonar; retirar"
+    },
+    {
+      "entryId": "1596750",
+      "spelling": "退屈",
+      "reading": "たいくつ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "退屈【たいくつ】",
+      "meaning": "aburrirse; tedio; aburrimiento"
+    },
+    {
+      "entryId": "1400310",
+      "spelling": "早退",
+      "reading": "そうたい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "早退【そうたい】",
+      "meaning": "salida prematura"
+    },
+    {
+      "entryId": "1595080",
+      "spelling": "退く",
+      "reading": "どく",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "退く【どく】",
+      "meaning": "recular; hacerse a un lado; retirarse; retroceder; ceder"
+    },
+    {
+      "entryId": "1595080",
+      "spelling": "退く",
+      "reading": "のく",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "退く【のく】",
+      "meaning": "recular; hacerse a un lado; retirarse; retroceder; ceder"
+    },
+    {
+      "entryId": "1411270",
+      "spelling": "退ける",
+      "reading": "のける",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "退ける【のける】",
+      "meaning": "alejar; repeler; rechazar; remover"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

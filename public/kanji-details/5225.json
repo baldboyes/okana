@@ -1,0 +1,241 @@
+{
+  "character": "別",
+  "meanings": "separar, aparte, distinto, dividirse",
+  "words": [
+    {
+      "entryId": "1455280",
+      "spelling": "特別",
+      "reading": "とくべつ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "特別【とくべつ】",
+      "meaning": "especial"
+    },
+    {
+      "entryId": "1291410",
+      "spelling": "差別",
+      "reading": "さべつ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "差別【さべつ】",
+      "meaning": "discriminación; racismo; segregación"
+    },
+    {
+      "entryId": "1291410",
+      "spelling": "差別",
+      "reading": "しゃべち",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "差別【しゃべち】",
+      "meaning": "discriminación; racismo; segregación"
+    },
+    {
+      "entryId": "1291410",
+      "spelling": "差別",
+      "reading": "しゃべつ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "差別【しゃべつ】",
+      "meaning": "discriminación; racismo; segregación"
+    },
+    {
+      "entryId": "1265000",
+      "spelling": "個別",
+      "reading": "こべつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "個別【こべつ】",
+      "meaning": "separado; aparte"
+    },
+    {
+      "entryId": "1265000",
+      "spelling": "箇別",
+      "reading": "こべつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "箇別【こべつ】",
+      "meaning": "separado; aparte"
+    },
+    {
+      "entryId": "1509480",
+      "spelling": "別に",
+      "reading": "べつに",
+      "senseNumbers": [
+        12,
+        13
+      ],
+      "japanese": "別に【べつに】",
+      "meaning": "nada; nada en particular; por separado; aparte"
+    },
+    {
+      "entryId": "1503000",
+      "spelling": "別ける",
+      "reading": "わける",
+      "senseNumbers": [
+        23
+      ],
+      "japanese": "別ける【わける】",
+      "meaning": "dividir; separar"
+    },
+    {
+      "entryId": "1509490",
+      "spelling": "別れ",
+      "reading": "わかれ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "別れ【わかれ】",
+      "meaning": "separación; despedida; adiós"
+    },
+    {
+      "entryId": "1509970",
+      "spelling": "別荘",
+      "reading": "べっそう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "別荘【べっそう】",
+      "meaning": "casa de vacaciones; villa"
+    },
+    {
+      "entryId": "1375520",
+      "spelling": "性別",
+      "reading": "せいべつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "性別【せいべつ】",
+      "meaning": "distinción por sexo; sexo; género"
+    },
+    {
+      "entryId": "1244250",
+      "spelling": "区別",
+      "reading": "くべつ",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "区別【くべつ】",
+      "meaning": "juicio; discernimiento; distinguir; diferenciar; discernir"
+    },
+    {
+      "entryId": "1244250",
+      "spelling": "區別",
+      "reading": "くべつ",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "區別【くべつ】",
+      "meaning": "juicio; discernimiento; distinguir; diferenciar; discernir"
+    },
+    {
+      "entryId": "1603290",
+      "spelling": "別々",
+      "reading": "べつべつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "別々【べつべつ】",
+      "meaning": "aparte; por separado"
+    },
+    {
+      "entryId": "1603290",
+      "spelling": "別別",
+      "reading": "べつべつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "別別【べつべつ】",
+      "meaning": "aparte; por separado"
+    },
+    {
+      "entryId": "1509710",
+      "spelling": "別個",
+      "reading": "べっこ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "別個【べっこ】",
+      "meaning": "aparte; por separado"
+    },
+    {
+      "entryId": "1509710",
+      "spelling": "別箇",
+      "reading": "べっこ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "別箇【べっこ】",
+      "meaning": "aparte; por separado"
+    },
+    {
+      "entryId": "1502920",
+      "spelling": "別つ",
+      "reading": "わかつ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "別つ【わかつ】",
+      "meaning": "dividir; separar; distinguir"
+    },
+    {
+      "entryId": "1529970",
+      "spelling": "無差別",
+      "reading": "むさべつ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "無差別【むさべつ】",
+      "meaning": "falta de distinción; indiscriminación"
+    },
+    {
+      "entryId": "1509650",
+      "spelling": "別居",
+      "reading": "べっきょ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "別居【べっきょ】",
+      "meaning": "separación; vivir separados"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

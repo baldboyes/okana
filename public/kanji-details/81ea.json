@@ -1,0 +1,240 @@
+{
+  "character": "自",
+  "meanings": "uno mismo, por sí mismo, auto-",
+  "words": [
+    {
+      "entryId": "1317340",
+      "spelling": "自ら",
+      "reading": "みずから",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "自ら【みずから】",
+      "meaning": "para uno mismo; personalmente"
+    },
+    {
+      "entryId": "1317410",
+      "spelling": "自衛隊",
+      "reading": "じえいたい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "自衛隊【じえいたい】",
+      "meaning": "Fuerzas de Autodefensa de Japón"
+    },
+    {
+      "entryId": "1318000",
+      "spelling": "自身",
+      "reading": "じしん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "自身【じしん】",
+      "meaning": "por uno mismo; personalmente"
+    },
+    {
+      "entryId": "1318090",
+      "spelling": "自然",
+      "reading": "しぜん",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "自然【しぜん】",
+      "meaning": "naturaleza; espontáneo; naturalmente"
+    },
+    {
+      "entryId": "1318260",
+      "spelling": "自宅",
+      "reading": "じたく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "自宅【じたく】",
+      "meaning": "la casa propia"
+    },
+    {
+      "entryId": "1318400",
+      "spelling": "自動車",
+      "reading": "じどうしゃ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "自動車【じどうしゃ】",
+      "meaning": "automóvil"
+    },
+    {
+      "entryId": "1318610",
+      "spelling": "自分",
+      "reading": "じぶん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "自分【じぶん】",
+      "meaning": "mismo; propio"
+    },
+    {
+      "entryId": "1318720",
+      "spelling": "自由",
+      "reading": "じゆう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "自由【じゆう】",
+      "meaning": "libertad; como te plazca"
+    },
+    {
+      "entryId": "1317580",
+      "spelling": "自己",
+      "reading": "じこ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "自己【じこ】",
+      "meaning": "uno mismo"
+    },
+    {
+      "entryId": "1317810",
+      "spelling": "自治",
+      "reading": "じち",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "自治【じち】",
+      "meaning": "soberanía; autonomía"
+    },
+    {
+      "entryId": "1317970",
+      "spelling": "自信",
+      "reading": "じしん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "自信【じしん】",
+      "meaning": "autoconfianza"
+    },
+    {
+      "entryId": "1455810",
+      "spelling": "独自",
+      "reading": "どくじ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "独自【どくじ】",
+      "meaning": "personal; original; propio"
+    },
+    {
+      "entryId": "1317860",
+      "spelling": "自主",
+      "reading": "じしゅ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "自主【じしゅ】",
+      "meaning": "independencia; autonomía"
+    },
+    {
+      "entryId": "1318290",
+      "spelling": "自転車",
+      "reading": "じてんしゃ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "自転車【じてんしゃ】",
+      "meaning": "bicicleta"
+    },
+    {
+      "entryId": "1318290",
+      "spelling": "自転車",
+      "reading": "じでんしゃ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "自転車【じでんしゃ】",
+      "meaning": "bicicleta"
+    },
+    {
+      "entryId": "1318340",
+      "spelling": "自働",
+      "reading": "じどう",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "自働【じどう】",
+      "meaning": "automático; que se mueve por sí mismo"
+    },
+    {
+      "entryId": "1318340",
+      "spelling": "自動",
+      "reading": "じどう",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "自動【じどう】",
+      "meaning": "automático; que se mueve por sí mismo"
+    },
+    {
+      "entryId": "1317710",
+      "spelling": "自国",
+      "reading": "じこく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "自国【じこく】",
+      "meaning": "país de origen; país natal"
+    },
+    {
+      "entryId": "1317770",
+      "spelling": "自殺",
+      "reading": "じさつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "自殺【じさつ】",
+      "meaning": "suicidio; suicidarse; quitarse la vida"
+    },
+    {
+      "entryId": "1318880",
+      "spelling": "自立",
+      "reading": "じりつ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "自立【じりつ】",
+      "meaning": "independencia; autosuficiencia"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "character": "像",
+  "meanings": "estatua, imagen, figura",
+  "words": [
+    {
+      "entryId": "1173800",
+      "spelling": "映像",
+      "reading": "えいぞう",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "映像【えいぞう】",
+      "meaning": "imagen; reflejo"
+    },
+    {
+      "entryId": "1197390",
+      "spelling": "画像",
+      "reading": "がぞう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "画像【がぞう】",
+      "meaning": "imagen; retrato"
+    },
+    {
+      "entryId": "1399610",
+      "spelling": "想像",
+      "reading": "そうぞう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "想像【そうぞう】",
+      "meaning": "imaginar; imaginación; conjetura"
+    },
+    {
+      "entryId": "1351460",
+      "spelling": "肖像",
+      "reading": "しょうぞう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "肖像【しょうぞう】",
+      "meaning": "retrato"
+    },
+    {
+      "entryId": "1502190",
+      "spelling": "仏像",
+      "reading": "ぶつぞう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "仏像【ぶつぞう】",
+      "meaning": "estatua de Buda"
+    },
+    {
+      "entryId": "1502190",
+      "spelling": "佛像",
+      "reading": "ぶつぞう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "佛像【ぶつぞう】",
+      "meaning": "estatua de Buda"
+    },
+    {
+      "entryId": "1635360",
+      "spelling": "実像",
+      "reading": "じつぞう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "実像【じつぞう】",
+      "meaning": "imagen real; apariencia verdadera"
+    },
+    {
+      "entryId": "1247570",
+      "spelling": "群像",
+      "reading": "ぐんぞう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "群像【ぐんぞう】",
+      "meaning": "grupo escultórico"
+    },
+    {
+      "entryId": "1454380",
+      "spelling": "胴像",
+      "reading": "どうぞう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "胴像【どうぞう】",
+      "meaning": "estatua de bronce"
+    },
+    {
+      "entryId": "1454380",
+      "spelling": "銅像",
+      "reading": "どうぞう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "銅像【どうぞう】",
+      "meaning": "estatua de bronce"
+    },
+    {
+      "entryId": "1329900",
+      "spelling": "受像",
+      "reading": "じゅぞう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "受像【じゅぞう】",
+      "meaning": "recepción (televisión)"
+    },
+    {
+      "entryId": "1263800",
+      "spelling": "現像",
+      "reading": "げんぞう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "現像【げんぞう】",
+      "meaning": "revelar (películas o fotografías); fenómeno; revelado"
+    },
+    {
+      "entryId": "1246280",
+      "spelling": "偶像",
+      "reading": "ぐうぞう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "偶像【ぐうぞう】",
+      "meaning": "imagen; ídolo; estatua"
+    },
+    {
+      "entryId": "1317480",
+      "spelling": "自画像",
+      "reading": "じがぞう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "自画像【じがぞう】",
+      "meaning": "autorretrato"
+    },
+    {
+      "entryId": "1232780",
+      "spelling": "虚像",
+      "reading": "きょぞう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "虚像【きょぞう】",
+      "meaning": "imagen virtual; imagen falsa; apariencia irreal; ficción; ilusión"
+    },
+    {
+      "entryId": "1237940",
+      "spelling": "胸像",
+      "reading": "きょうぞう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "胸像【きょうぞう】",
+      "meaning": "busto (estatua)"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

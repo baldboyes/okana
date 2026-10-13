@@ -1,0 +1,240 @@
+{
+  "character": "息",
+  "meanings": "respiración, aliento, hijo, interés (en dinero), tono",
+  "words": [
+    {
+      "entryId": "1404390",
+      "spelling": "息",
+      "reading": "むすこ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "息【むすこ】",
+      "meaning": "hijo (varón)"
+    },
+    {
+      "entryId": "1404390",
+      "spelling": "息子",
+      "reading": "むすこ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "息子【むすこ】",
+      "meaning": "hijo (varón)"
+    },
+    {
+      "entryId": "1404390",
+      "spelling": "息子",
+      "reading": "ムスコ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "息子【ムスコ】",
+      "meaning": "hijo (varón)"
+    },
+    {
+      "entryId": "1404320",
+      "spelling": "息",
+      "reading": "いき",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "息【いき】",
+      "meaning": "respiro"
+    },
+    {
+      "entryId": "1549600",
+      "spelling": "利息",
+      "reading": "りそく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "利息【りそく】",
+      "meaning": "intereses bancarios"
+    },
+    {
+      "entryId": "1350250",
+      "spelling": "消息",
+      "reading": "しょうそく",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "消息【しょうそく】",
+      "meaning": "paradero; acontecimiento; noticias"
+    },
+    {
+      "entryId": "1350250",
+      "spelling": "消息",
+      "reading": "しょうそこ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "消息【しょうそこ】",
+      "meaning": "paradero; acontecimiento; noticias"
+    },
+    {
+      "entryId": "1940310",
+      "spelling": "栖息地",
+      "reading": "せいそくち",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "栖息地【せいそくち】",
+      "meaning": "hábitat"
+    },
+    {
+      "entryId": "1940310",
+      "spelling": "棲息地",
+      "reading": "せいそくち",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "棲息地【せいそくち】",
+      "meaning": "hábitat"
+    },
+    {
+      "entryId": "1940310",
+      "spelling": "生息地",
+      "reading": "せいそくち",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "生息地【せいそくち】",
+      "meaning": "hábitat"
+    },
+    {
+      "entryId": "1422540",
+      "spelling": "窒息",
+      "reading": "ちっそく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "窒息【ちっそく】",
+      "meaning": "ahogo; asfixia"
+    },
+    {
+      "entryId": "1307980",
+      "spelling": "子息",
+      "reading": "しそく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "子息【しそく】",
+      "meaning": "hijo"
+    },
+    {
+      "entryId": "1163790",
+      "spelling": "ひとり息子",
+      "reading": "ひとりむすこ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "ひとり息子【ひとりむすこ】",
+      "meaning": "un sólo hijo"
+    },
+    {
+      "entryId": "1163790",
+      "spelling": "一人息子",
+      "reading": "ひとりむすこ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "一人息子【ひとりむすこ】",
+      "meaning": "un sólo hijo"
+    },
+    {
+      "entryId": "1163790",
+      "spelling": "１人息子",
+      "reading": "ひとりむすこ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "１人息子【ひとりむすこ】",
+      "meaning": "un sólo hijo"
+    },
+    {
+      "entryId": "1404410",
+      "spelling": "息吹",
+      "reading": "いぶき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "息吹【いぶき】",
+      "meaning": "aliento"
+    },
+    {
+      "entryId": "1404410",
+      "spelling": "息吹き",
+      "reading": "いぶき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "息吹き【いぶき】",
+      "meaning": "aliento"
+    },
+    {
+      "entryId": "1227940",
+      "spelling": "休息",
+      "reading": "きゅうそく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "休息【きゅうそく】",
+      "meaning": "reposar; descansar; descanso; receso; reposo"
+    },
+    {
+      "entryId": "1164390",
+      "spelling": "ひと息",
+      "reading": "ひといき",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "ひと息【ひといき】",
+      "meaning": "respiro; pausa; esfuerzo"
+    },
+    {
+      "entryId": "1164390",
+      "spelling": "一息",
+      "reading": "ひといき",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "一息【ひといき】",
+      "meaning": "respiro; pausa; esfuerzo"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

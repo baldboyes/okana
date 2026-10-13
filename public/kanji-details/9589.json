@@ -1,0 +1,240 @@
+{
+  "character": "閉",
+  "meanings": "cerrar, finalizar, dejar de hacer, guardar",
+  "words": [
+    {
+      "entryId": "1508670",
+      "spelling": "閉鎖",
+      "reading": "へいさ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "閉鎖【へいさ】",
+      "meaning": "cierre; clausura; (~suru) hacer el cierre; ser cerrado"
+    },
+    {
+      "entryId": "1594590",
+      "spelling": "閉め切り",
+      "reading": "しめきり",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "閉め切り【しめきり】",
+      "meaning": "cierre; límite; final; plazo; Cerrado; No entrar"
+    },
+    {
+      "entryId": "1594590",
+      "spelling": "閉切り",
+      "reading": "しめきり",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "閉切り【しめきり】",
+      "meaning": "cierre; límite; final; plazo; Cerrado; No entrar"
+    },
+    {
+      "entryId": "1508600",
+      "spelling": "閉会",
+      "reading": "へいかい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "閉会【へいかい】",
+      "meaning": "cierre; clausura; (~suru) hacer el cierre"
+    },
+    {
+      "entryId": "1508540",
+      "spelling": "閉ざす",
+      "reading": "とざす",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "閉ざす【とざす】",
+      "meaning": "bloquear; cortar; impedir el paso; cerrar; encerrar"
+    },
+    {
+      "entryId": "1594600",
+      "spelling": "閉め切る",
+      "reading": "しめきる",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "閉め切る【しめきる】",
+      "meaning": "meter llave; atrancar; cerrar"
+    },
+    {
+      "entryId": "1594600",
+      "spelling": "閉切る",
+      "reading": "しめきる",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "閉切る【しめきる】",
+      "meaning": "meter llave; atrancar; cerrar"
+    },
+    {
+      "entryId": "1508720",
+      "spelling": "閉店",
+      "reading": "へいてん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "閉店【へいてん】",
+      "meaning": "cierre de los comercios; liquidación o cese del comercio"
+    },
+    {
+      "entryId": "1318650",
+      "spelling": "自閉症",
+      "reading": "じへいしょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "自閉症【じへいしょう】",
+      "meaning": "autismo"
+    },
+    {
+      "entryId": "1508550",
+      "spelling": "閉じる",
+      "reading": "とじる",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "閉じる【とじる】",
+      "meaning": "cerrar (libros, ojos, reunión, etc)"
+    },
+    {
+      "entryId": "1508590",
+      "spelling": "閉める",
+      "reading": "しめる",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "閉める【しめる】",
+      "meaning": "cerrar"
+    },
+    {
+      "entryId": "1508570",
+      "spelling": "閉じこもる",
+      "reading": "とじこもる",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "閉じこもる【とじこもる】",
+      "meaning": "encerrarse; recluirse"
+    },
+    {
+      "entryId": "1508570",
+      "spelling": "閉じ篭もる",
+      "reading": "とじこもる",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "閉じ篭もる【とじこもる】",
+      "meaning": "encerrarse; recluirse"
+    },
+    {
+      "entryId": "1508570",
+      "spelling": "閉じ篭る",
+      "reading": "とじこもる",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "閉じ篭る【とじこもる】",
+      "meaning": "encerrarse; recluirse"
+    },
+    {
+      "entryId": "1508570",
+      "spelling": "閉じ籠もる",
+      "reading": "とじこもる",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "閉じ籠もる【とじこもる】",
+      "meaning": "encerrarse; recluirse"
+    },
+    {
+      "entryId": "1508570",
+      "spelling": "閉じ籠る",
+      "reading": "とじこもる",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "閉じ籠る【とじこもる】",
+      "meaning": "encerrarse; recluirse"
+    },
+    {
+      "entryId": "1508570",
+      "spelling": "閉じ込もる",
+      "reading": "とじこもる",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "閉じ込もる【とじこもる】",
+      "meaning": "encerrarse; recluirse"
+    },
+    {
+      "entryId": "1508570",
+      "spelling": "閉篭もる",
+      "reading": "とじこもる",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "閉篭もる【とじこもる】",
+      "meaning": "encerrarse; recluirse"
+    },
+    {
+      "entryId": "1508570",
+      "spelling": "閉篭る",
+      "reading": "とじこもる",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "閉篭る【とじこもる】",
+      "meaning": "encerrarse; recluirse"
+    },
+    {
+      "entryId": "1508570",
+      "spelling": "閉籠もる",
+      "reading": "とじこもる",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "閉籠もる【とじこもる】",
+      "meaning": "encerrarse; recluirse"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

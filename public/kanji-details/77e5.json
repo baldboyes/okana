@@ -1,0 +1,240 @@
+{
+  "character": "知",
+  "meanings": "conocer, saber, entender",
+  "words": [
+    {
+      "entryId": "1420580",
+      "spelling": "知事",
+      "reading": "ちじ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "知事【ちじ】",
+      "meaning": "gobernador de la prefectura"
+    },
+    {
+      "entryId": "1420470",
+      "spelling": "知る",
+      "reading": "しる",
+      "senseNumbers": [
+        21
+      ],
+      "japanese": "知る【しる】",
+      "meaning": "saber; entender; estar al corriente de; sentir"
+    },
+    {
+      "entryId": "1258870",
+      "spelling": "県知事",
+      "reading": "けんちじ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "県知事【けんちじ】",
+      "meaning": "gobernador de la prefectura"
+    },
+    {
+      "entryId": "1420590",
+      "spelling": "知識",
+      "reading": "ちしき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "知識【ちしき】",
+      "meaning": "conocimiento; información"
+    },
+    {
+      "entryId": "1420620",
+      "spelling": "知人",
+      "reading": "ちじん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "知人【ちじん】",
+      "meaning": "amigo; conocido"
+    },
+    {
+      "entryId": "1420530",
+      "spelling": "知恵",
+      "reading": "ちえ",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "知恵【ちえ】",
+      "meaning": "sabiduría"
+    },
+    {
+      "entryId": "1420650",
+      "spelling": "知的",
+      "reading": "ちてき",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "知的【ちてき】",
+      "meaning": "intelectual"
+    },
+    {
+      "entryId": "1433470",
+      "spelling": "通知",
+      "reading": "つうち",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "通知【つうち】",
+      "meaning": "noticia; notificación"
+    },
+    {
+      "entryId": "1543220",
+      "spelling": "予知",
+      "reading": "よち",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "予知【よち】",
+      "meaning": "premonición; presagio; intuición; corazonada; conjetura; presentimiento"
+    },
+    {
+      "entryId": "1595070",
+      "spelling": "知りあい",
+      "reading": "しりあい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "知りあい【しりあい】",
+      "meaning": "conocido; persona conocida"
+    },
+    {
+      "entryId": "1595070",
+      "spelling": "知り合",
+      "reading": "しりあい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "知り合【しりあい】",
+      "meaning": "conocido; persona conocida"
+    },
+    {
+      "entryId": "1595070",
+      "spelling": "知り合い",
+      "reading": "しりあい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "知り合い【しりあい】",
+      "meaning": "conocido; persona conocida"
+    },
+    {
+      "entryId": "1595070",
+      "spelling": "知合",
+      "reading": "しりあい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "知合【しりあい】",
+      "meaning": "conocido; persona conocida"
+    },
+    {
+      "entryId": "1595070",
+      "spelling": "知合い",
+      "reading": "しりあい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "知合い【しりあい】",
+      "meaning": "conocido; persona conocida"
+    },
+    {
+      "entryId": "1349480",
+      "spelling": "承知",
+      "reading": "しょうち",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "承知【しょうち】",
+      "meaning": "concentimiento; aceptación; aceptar; asentir; acceder; prestar el consentimiento; mostrar conformidad; estar de acuerdo; saber bien; conocer bien"
+    },
+    {
+      "entryId": "1286050",
+      "spelling": "告知",
+      "reading": "こくち",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "告知【こくち】",
+      "meaning": "aviso; notificación"
+    },
+    {
+      "entryId": "1331210",
+      "spelling": "周知",
+      "reading": "しゅうち",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "周知【しゅうち】",
+      "meaning": "sabido; divulgado; conocido; notorio"
+    },
+    {
+      "entryId": "1800340",
+      "spelling": "知識人",
+      "reading": "ちしきじん",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "知識人【ちしきじん】",
+      "meaning": "intelectual"
+    },
+    {
+      "entryId": "1593570",
+      "spelling": "ご存知",
+      "reading": "ごぞんじ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "ご存知【ごぞんじ】",
+      "meaning": "lo sabe; lo conoce (usted); saber"
+    },
+    {
+      "entryId": "1593570",
+      "spelling": "御存知",
+      "reading": "ごぞんじ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "御存知【ごぞんじ】",
+      "meaning": "lo sabe; lo conoce (usted); saber"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "character": "姉",
+  "meanings": "hermana mayor",
+  "words": [
+    {
+      "entryId": "1307630",
+      "spelling": "姉",
+      "reading": "あね",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "姉【あね】",
+      "meaning": "hermana mayor"
+    },
+    {
+      "entryId": "1579490",
+      "spelling": "姉妹",
+      "reading": "きょうだい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "姉妹【きょうだい】",
+      "meaning": "hermanas"
+    },
+    {
+      "entryId": "1579490",
+      "spelling": "姉妹",
+      "reading": "しまい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "姉妹【しまい】",
+      "meaning": "hermanas"
+    },
+    {
+      "entryId": "1307640",
+      "spelling": "姉さん",
+      "reading": "あねさん",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "姉さん【あねさん】",
+      "meaning": "hermana mayor; camarera; muchacha; esposa quien es mayor que su esposo"
+    },
+    {
+      "entryId": "1307640",
+      "spelling": "姉さん",
+      "reading": "ねえさん",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "姉さん【ねえさん】",
+      "meaning": "hermana mayor; camarera; muchacha; esposa quien es mayor que su esposo"
+    },
+    {
+      "entryId": "1001990",
+      "spelling": "お姉さん",
+      "reading": "おねいさん",
+      "senseNumbers": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "japanese": "お姉さん【おねいさん】",
+      "meaning": "hermana mayor; (vocativo) jovencita; señora (a las camareras); madre (usado por las geishas para referirse a sus superioras); (vocativo) ¿Señora?"
+    },
+    {
+      "entryId": "1001990",
+      "spelling": "お姉さん",
+      "reading": "おねえさん",
+      "senseNumbers": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "japanese": "お姉さん【おねえさん】",
+      "meaning": "hermana mayor; (vocativo) jovencita; señora (a las camareras); madre (usado por las geishas para referirse a sus superioras); (vocativo) ¿Señora?"
+    },
+    {
+      "entryId": "1001990",
+      "spelling": "御姉さん",
+      "reading": "おねえさん",
+      "senseNumbers": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "japanese": "御姉さん【おねえさん】",
+      "meaning": "hermana mayor; (vocativo) jovencita; señora (a las camareras); madre (usado por las geishas para referirse a sus superioras); (vocativo) ¿Señora?"
+    },
+    {
+      "entryId": "1335310",
+      "spelling": "従姉妹",
+      "reading": "いとこ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "従姉妹【いとこ】",
+      "meaning": "prima"
+    },
+    {
+      "entryId": "1335310",
+      "spelling": "従姉妹",
+      "reading": "じゅうしまい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "従姉妹【じゅうしまい】",
+      "meaning": "prima"
+    },
+    {
+      "entryId": "1225800",
+      "spelling": "義姉",
+      "reading": "あね",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "義姉【あね】",
+      "meaning": "cuñada (mayor que uno)"
+    },
+    {
+      "entryId": "1225800",
+      "spelling": "義姉",
+      "reading": "ぎし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "義姉【ぎし】",
+      "meaning": "cuñada (mayor que uno)"
+    },
+    {
+      "entryId": "1249950",
+      "spelling": "兄姉",
+      "reading": "きょうだい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "兄姉【きょうだい】",
+      "meaning": "hermano y hermana"
+    },
+    {
+      "entryId": "1249950",
+      "spelling": "兄姉",
+      "reading": "けいし",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "兄姉【けいし】",
+      "meaning": "hermano y hermana"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

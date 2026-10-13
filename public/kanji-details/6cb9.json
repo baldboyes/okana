@@ -1,0 +1,241 @@
+{
+  "character": "油",
+  "meanings": "aceite, grasa",
+  "words": [
+    {
+      "entryId": "1382830",
+      "spelling": "石油",
+      "reading": "せきゆ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "石油【せきゆ】",
+      "meaning": "petróleo; queroseno; crudos"
+    },
+    {
+      "entryId": "1262430",
+      "spelling": "原油",
+      "reading": "げんゆ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "原油【げんゆ】",
+      "meaning": "petróleo (crudo)"
+    },
+    {
+      "entryId": "1538590",
+      "spelling": "油",
+      "reading": "あぶら",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "油【あぶら】",
+      "meaning": "aceite"
+    },
+    {
+      "entryId": "1538720",
+      "spelling": "油田",
+      "reading": "ゆでん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "油田【ゆでん】",
+      "meaning": "campo petrolífero; yacimiento petrolífero"
+    },
+    {
+      "entryId": "1951880",
+      "spelling": "産油国",
+      "reading": "さんゆこく",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "産油国【さんゆこく】",
+      "meaning": "países productores de petróleo"
+    },
+    {
+      "entryId": "1448760",
+      "spelling": "灯油",
+      "reading": "とうゆ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "灯油【とうゆ】",
+      "meaning": "queroseno"
+    },
+    {
+      "entryId": "1252890",
+      "spelling": "軽油",
+      "reading": "けいゆ",
+      "senseNumbers": [
+        9,
+        10
+      ],
+      "japanese": "軽油【けいゆ】",
+      "meaning": "aceite diesel; aceite ligero; gasolina"
+    },
+    {
+      "entryId": "1695140",
+      "spelling": "油彩",
+      "reading": "ゆさい",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "油彩【ゆさい】",
+      "meaning": "pintura al óleo"
+    },
+    {
+      "entryId": "1538630",
+      "spelling": "油画",
+      "reading": "あぶらえ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "油画【あぶらえ】",
+      "meaning": "pintura al óleo"
+    },
+    {
+      "entryId": "1538630",
+      "spelling": "油絵",
+      "reading": "あぶらえ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "油絵【あぶらえ】",
+      "meaning": "pintura al óleo"
+    },
+    {
+      "entryId": "1784910",
+      "spelling": "製油所",
+      "reading": "せいゆじょ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "製油所【せいゆじょ】",
+      "meaning": "refinería de petróleo"
+    },
+    {
+      "entryId": "1230340",
+      "spelling": "給油",
+      "reading": "きゅうゆ",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "給油【きゅうゆ】",
+      "meaning": "suministro de petróleo; echar gasolina; repostar; lubricación; engrase; suministrar combustible"
+    },
+    {
+      "entryId": "1538690",
+      "spelling": "油断",
+      "reading": "ゆだん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "油断【ゆだん】",
+      "meaning": "descuidarse; cometer un descuido; tener una falta de distracción; negligencia; falta de preparación"
+    },
+    {
+      "entryId": "1341830",
+      "spelling": "潤滑油",
+      "reading": "じゅんかつゆ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "潤滑油【じゅんかつゆ】",
+      "meaning": "aceite lubricante"
+    },
+    {
+      "entryId": "1595020",
+      "spelling": "しょう油",
+      "reading": "しょうゆ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "しょう油【しょうゆ】",
+      "meaning": "shoyu (un tipo de salsa de soja Japonesa)"
+    },
+    {
+      "entryId": "1595020",
+      "spelling": "正油",
+      "reading": "しょうゆ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "正油【しょうゆ】",
+      "meaning": "shoyu (un tipo de salsa de soja Japonesa)"
+    },
+    {
+      "entryId": "1595020",
+      "spelling": "醤油",
+      "reading": "しょうゆ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "醤油【しょうゆ】",
+      "meaning": "shoyu (un tipo de salsa de soja Japonesa)"
+    },
+    {
+      "entryId": "1595020",
+      "spelling": "醤油",
+      "reading": "しょうゆう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "醤油【しょうゆう】",
+      "meaning": "shoyu (un tipo de salsa de soja Japonesa)"
+    },
+    {
+      "entryId": "1595020",
+      "spelling": "醬油",
+      "reading": "しょうゆ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "醬油【しょうゆ】",
+      "meaning": "shoyu (un tipo de salsa de soja Japonesa)"
+    },
+    {
+      "entryId": "1577930",
+      "spelling": "給油所",
+      "reading": "きゅうゆしょ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "給油所【きゅうゆしょ】",
+      "meaning": "estación de servicio"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

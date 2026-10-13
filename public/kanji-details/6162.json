@@ -1,0 +1,130 @@
+{
+  "character": "慢",
+  "meanings": "pavonearse, estar orgulloso, holgazanear, vaguear, desatender, descuidar",
+  "words": [
+    {
+      "entryId": "1318680",
+      "spelling": "自慢",
+      "reading": "じまん",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "自慢【じまん】",
+      "meaning": "orgullo; jactarse; presumir; vanagloriarse; engreírse; ufanarse; fanfarronear; alardear; chulearse"
+    },
+    {
+      "entryId": "1526640",
+      "spelling": "慢性",
+      "reading": "まんせい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "慢性【まんせい】",
+      "meaning": "crónico"
+    },
+    {
+      "entryId": "1196970",
+      "spelling": "我慢",
+      "reading": "がまん",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "我慢【がまん】",
+      "meaning": "paciencia; aguante; resistencia; perseverancia; tolerancia; autocontrol"
+    },
+    {
+      "entryId": "1526650",
+      "spelling": "慢性的",
+      "reading": "まんせいてき",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "慢性的【まんせいてき】",
+      "meaning": "crónico"
+    },
+    {
+      "entryId": "1410740",
+      "spelling": "怠慢",
+      "reading": "たいまん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "怠慢【たいまん】",
+      "meaning": "negligencia"
+    },
+    {
+      "entryId": "1563960",
+      "spelling": "ごう慢",
+      "reading": "ごうまん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "ごう慢【ごうまん】",
+      "meaning": "arrogancia"
+    },
+    {
+      "entryId": "1563960",
+      "spelling": "傲慢",
+      "reading": "ごうまん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "傲慢【ごうまん】",
+      "meaning": "arrogancia"
+    },
+    {
+      "entryId": "1563960",
+      "spelling": "強慢",
+      "reading": "ごうまん",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "強慢【ごうまん】",
+      "meaning": "arrogancia"
+    },
+    {
+      "entryId": "1615850",
+      "spelling": "高慢",
+      "reading": "こうまん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "高慢【こうまん】",
+      "meaning": "arrogante"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "character": "刻",
+  "meanings": "grabar, esculpir, triste, angustiado, tiempo, afilar, cincelar",
+  "words": [
+    {
+      "entryId": "1362730",
+      "spelling": "深刻",
+      "reading": "しんこく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "深刻【しんこく】",
+      "meaning": "grave"
+    },
+    {
+      "entryId": "1315840",
+      "spelling": "刻",
+      "reading": "とき",
+      "senseNumbers": [
+        24,
+        25
+      ],
+      "japanese": "刻【とき】",
+      "meaning": "tiempo; hora; ocasión; momento"
+    },
+    {
+      "entryId": "1427980",
+      "spelling": "彫刻",
+      "reading": "ちょうこく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "彫刻【ちょうこく】",
+      "meaning": "tallado; labrado; esculpido; esculpir; tallar; cincelar"
+    },
+    {
+      "entryId": "1316220",
+      "spelling": "時刻",
+      "reading": "じこく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "時刻【じこく】",
+      "meaning": "tiempo; hora"
+    },
+    {
+      "entryId": "1162500",
+      "spelling": "一刻",
+      "reading": "いっこく",
+      "senseNumbers": [
+        11,
+        12
+      ],
+      "japanese": "一刻【いっこく】",
+      "meaning": "minuto; momento; un instante; testarudo; persona arrebatado"
+    },
+    {
+      "entryId": "1285890",
+      "spelling": "刻む",
+      "reading": "きざむ",
+      "senseNumbers": [
+        22
+      ],
+      "japanese": "刻む【きざむ】",
+      "meaning": "rajar; picar; cincelar; tallar"
+    },
+    {
+      "entryId": "1304600",
+      "spelling": "惨刻",
+      "reading": "ざんこく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "惨刻【ざんこく】",
+      "meaning": "crueldad; severidad"
+    },
+    {
+      "entryId": "1304600",
+      "spelling": "残刻",
+      "reading": "ざんこく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "残刻【ざんこく】",
+      "meaning": "crueldad; severidad"
+    },
+    {
+      "entryId": "1285820",
+      "spelling": "刻",
+      "reading": "こく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "刻【こく】",
+      "meaning": "victoria"
+    },
+    {
+      "entryId": "1285830",
+      "spelling": "刻々",
+      "reading": "こくこく",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "刻々【こくこく】",
+      "meaning": "momento a momento; hora a hora"
+    },
+    {
+      "entryId": "1285830",
+      "spelling": "刻々",
+      "reading": "こっこく",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "刻々【こっこく】",
+      "meaning": "momento a momento; hora a hora"
+    },
+    {
+      "entryId": "1285830",
+      "spelling": "刻刻",
+      "reading": "こっこく",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "刻刻【こっこく】",
+      "meaning": "momento a momento; hora a hora"
+    },
+    {
+      "entryId": "1422050",
+      "spelling": "遅刻",
+      "reading": "ちこく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "遅刻【ちこく】",
+      "meaning": "llegar tarde; retrasarse; llegar con retraso"
+    },
+    {
+      "entryId": "1316230",
+      "spelling": "時刻表",
+      "reading": "じこくひょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "時刻表【じこくひょう】",
+      "meaning": "horario"
+    },
+    {
+      "entryId": "1285900",
+      "spelling": "刻一刻",
+      "reading": "こくいっこく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "刻一刻【こくいっこく】",
+      "meaning": "cada momento; aproximarse inminentemente"
+    },
+    {
+      "entryId": "1005180",
+      "spelling": "先刻",
+      "reading": "さっき",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "先刻【さっき】",
+      "meaning": "hace un momento; hace un rato; ahora mismo; hace muy poco"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

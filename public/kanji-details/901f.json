@@ -1,0 +1,244 @@
+{
+  "character": "速",
+  "meanings": "rápido, veloz, darse prisa, velocidad",
+  "words": [
+    {
+      "entryId": "1228890",
+      "spelling": "急速",
+      "reading": "きゅうそく",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "急速【きゅうそく】",
+      "meaning": "veloz; rápido"
+    },
+    {
+      "entryId": "1283700",
+      "spelling": "高速",
+      "reading": "こうそく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "高速【こうそく】",
+      "meaning": "de alta velocidad"
+    },
+    {
+      "entryId": "1283720",
+      "spelling": "高速道路",
+      "reading": "こうそくどうろ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "高速道路【こうそくどうろ】",
+      "meaning": "autopista"
+    },
+    {
+      "entryId": "1263270",
+      "spelling": "減速",
+      "reading": "げんそく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "減速【げんそく】",
+      "meaning": "desaceleracion"
+    },
+    {
+      "entryId": "1316290",
+      "spelling": "時速",
+      "reading": "じそく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "時速【じそく】",
+      "meaning": "velocidad (por hora)"
+    },
+    {
+      "entryId": "1405050",
+      "spelling": "速度",
+      "reading": "そくど",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "速度【そくど】",
+      "meaning": "velocidad"
+    },
+    {
+      "entryId": "1405000",
+      "spelling": "速やか",
+      "reading": "すみやか",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "速やか【すみやか】",
+      "meaning": "velocidad"
+    },
+    {
+      "entryId": "1190370",
+      "spelling": "加速",
+      "reading": "かそく",
+      "senseNumbers": [
+        8,
+        9
+      ],
+      "japanese": "加速【かそく】",
+      "meaning": "acelerar; aceleración; acelerador"
+    },
+    {
+      "entryId": "1499950",
+      "spelling": "風速",
+      "reading": "ふうそく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "風速【ふうそく】",
+      "meaning": "velocidad del viento"
+    },
+    {
+      "entryId": "1601080",
+      "spelling": "速める",
+      "reading": "はやめる",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "速める【はやめる】",
+      "meaning": "apremiar; acelerar; apresurar; precipitar; apurar"
+    },
+    {
+      "entryId": "1404990",
+      "spelling": "速さ",
+      "reading": "はやさ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "速さ【はやさ】",
+      "meaning": "velocidad; rapidez"
+    },
+    {
+      "entryId": "1370160",
+      "spelling": "迅速",
+      "reading": "じんそく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "迅速【じんそく】",
+      "meaning": "rápido; ágil"
+    },
+    {
+      "entryId": "1397310",
+      "spelling": "す速い",
+      "reading": "すばやい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "す速い【すばやい】",
+      "meaning": "rápido; veloz; ligero; presto; pronto; listo; ágil"
+    },
+    {
+      "entryId": "1397310",
+      "spelling": "素速い",
+      "reading": "すばやい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "素速い【すばやい】",
+      "meaning": "rápido; veloz; ligero; presto; pronto; listo; ágil"
+    },
+    {
+      "entryId": "1404975",
+      "spelling": "速い",
+      "reading": "はやい",
+      "senseNumbers": [
+        14,
+        15
+      ],
+      "japanese": "速い【はやい】",
+      "meaning": "rápido; ágil; raudo; veloz; temprano"
+    },
+    {
+      "entryId": "1200080",
+      "spelling": "快速",
+      "reading": "かいそく",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "快速【かいそく】",
+      "meaning": "alta velocidad"
+    },
+    {
+      "entryId": "1400240",
+      "spelling": "速口",
+      "reading": "はやくち",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "速口【はやくち】",
+      "meaning": "trabalenguas"
+    },
+    {
+      "entryId": "1404880",
+      "spelling": "足速",
+      "reading": "あしばや",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "足速【あしばや】",
+      "meaning": "paso ligero; ritmo rápido de marcha"
+    },
+    {
+      "entryId": "1404975",
+      "spelling": "速い",
+      "reading": "はえー",
+      "senseNumbers": [
+        14,
+        15
+      ],
+      "japanese": "速い【はえー】",
+      "meaning": "rápido; ágil; raudo; veloz; temprano"
+    },
+    {
+      "entryId": "1404975",
+      "spelling": "速い",
+      "reading": "はっやい",
+      "senseNumbers": [
+        14,
+        15
+      ],
+      "japanese": "速い【はっやい】",
+      "meaning": "rápido; ágil; raudo; veloz; temprano"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

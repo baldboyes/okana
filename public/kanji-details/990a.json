@@ -1,0 +1,240 @@
+{
+  "character": "養",
+  "meanings": "criar, mantener, cultivarse",
+  "words": [
+    {
+      "entryId": "1173990",
+      "spelling": "営養",
+      "reading": "えいよう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "営養【えいよう】",
+      "meaning": "alimentación; nutrición"
+    },
+    {
+      "entryId": "1173990",
+      "spelling": "栄養",
+      "reading": "えいよう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "栄養【えいよう】",
+      "meaning": "alimentación; nutrición"
+    },
+    {
+      "entryId": "1547190",
+      "spelling": "養成",
+      "reading": "ようせい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "養成【ようせい】",
+      "meaning": "entrenamiento; formación"
+    },
+    {
+      "entryId": "1237370",
+      "spelling": "教養",
+      "reading": "きょうよう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "教養【きょうよう】",
+      "meaning": "educación; cultura"
+    },
+    {
+      "entryId": "1554480",
+      "spelling": "療養",
+      "reading": "りょうよう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "療養【りょうよう】",
+      "meaning": "recuperación; tratamiento médico"
+    },
+    {
+      "entryId": "1547180",
+      "spelling": "養殖",
+      "reading": "ようしょく",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "養殖【ようしょく】",
+      "meaning": "acuicultura"
+    },
+    {
+      "entryId": "1228100",
+      "spelling": "休養",
+      "reading": "きゅうよう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "休養【きゅうよう】",
+      "meaning": "convalecencia; recuperación"
+    },
+    {
+      "entryId": "1547150",
+      "spelling": "養子",
+      "reading": "ようし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "養子【ようし】",
+      "meaning": "niño adoptado"
+    },
+    {
+      "entryId": "1514000",
+      "spelling": "保養",
+      "reading": "ほよう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "保養【ほよう】",
+      "meaning": "restablecerse; curarse; mejorar; recuperarse; convalecer; recuperación; conservación de la salud"
+    },
+    {
+      "entryId": "1496990",
+      "spelling": "扶養",
+      "reading": "ふよう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "扶養【ふよう】",
+      "meaning": "manutención"
+    },
+    {
+      "entryId": "1174020",
+      "spelling": "栄養士",
+      "reading": "えいようし",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "栄養士【えいようし】",
+      "meaning": "nutricionista"
+    },
+    {
+      "entryId": "1174030",
+      "spelling": "栄養失調",
+      "reading": "えいようしっちょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "栄養失調【えいようしっちょう】",
+      "meaning": "desnutrición"
+    },
+    {
+      "entryId": "1794170",
+      "spelling": "養父母",
+      "reading": "ようふぼ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "養父母【ようふぼ】",
+      "meaning": "padres adoptivos"
+    },
+    {
+      "entryId": "1174040",
+      "spelling": "栄養素",
+      "reading": "えいようそ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "栄養素【えいようそ】",
+      "meaning": "nutriente"
+    },
+    {
+      "entryId": "1613560",
+      "spelling": "栄養学",
+      "reading": "えいようがく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "栄養学【えいようがく】",
+      "meaning": "dietética; ciencia nutricional"
+    },
+    {
+      "entryId": "1547090",
+      "spelling": "養う",
+      "reading": "やしなう",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "養う【やしなう】",
+      "meaning": "levantar; mantener; cultivar"
+    },
+    {
+      "entryId": "1547090",
+      "spelling": "養なう",
+      "reading": "やしなう",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "養なう【やしなう】",
+      "meaning": "levantar; mantener; cultivar"
+    },
+    {
+      "entryId": "1584010",
+      "spelling": "保養所",
+      "reading": "ほようしょ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "保養所【ほようしょ】",
+      "meaning": "sanatorio; casa de reposo"
+    },
+    {
+      "entryId": "1584010",
+      "spelling": "保養所",
+      "reading": "ほようじょ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "保養所【ほようじょ】",
+      "meaning": "sanatorio; casa de reposo"
+    },
+    {
+      "entryId": "1585190",
+      "spelling": "療養所",
+      "reading": "りょうようしょ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "療養所【りょうようしょ】",
+      "meaning": "sanatorio"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

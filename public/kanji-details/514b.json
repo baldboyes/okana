@@ -1,0 +1,141 @@
+{
+  "character": "克",
+  "meanings": "vencer, superar, ser capaz, ser diestro en",
+  "words": [
+    {
+      "entryId": "1285790",
+      "spelling": "克服",
+      "reading": "こくふく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "克服【こくふく】",
+      "meaning": "superar; vencer; subyugación; conquista; victoria"
+    },
+    {
+      "entryId": "1162500",
+      "spelling": "一克",
+      "reading": "いっこく",
+      "senseNumbers": [
+        11,
+        12
+      ],
+      "japanese": "一克【いっこく】",
+      "meaning": "minuto; momento; un instante; testarudo; persona arrebatado"
+    },
+    {
+      "entryId": "1285800",
+      "spelling": "克明",
+      "reading": "こくめい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "克明【こくめい】",
+      "meaning": "(na) meticuloso"
+    },
+    {
+      "entryId": "1346150",
+      "spelling": "克つ",
+      "reading": "かつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "克つ【かつ】",
+      "meaning": "ganar; vencer"
+    },
+    {
+      "entryId": "1605870",
+      "spelling": "克く",
+      "reading": "よく",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "克く【よく】",
+      "meaning": "bien; hábilmente; diestramente; mucho; a menudo; frecuentemente"
+    },
+    {
+      "entryId": "1026740",
+      "spelling": "宇克蘭",
+      "reading": "ウクライナ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "宇克蘭【ウクライナ】",
+      "meaning": "Ucrania (eng: Ukraine)"
+    },
+    {
+      "entryId": "1026740",
+      "spelling": "烏克蘭",
+      "reading": "ウクライナ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "烏克蘭【ウクライナ】",
+      "meaning": "Ucrania (eng: Ukraine)"
+    },
+    {
+      "entryId": "1091940",
+      "spelling": "新約克",
+      "reading": "ニューヨーク",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "新約克【ニューヨーク】",
+      "meaning": "Nueva York (eng: New York); nueva york; new york"
+    },
+    {
+      "entryId": "1408680",
+      "spelling": "打ち克つ",
+      "reading": "うちかつ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "打ち克つ【うちかつ】",
+      "meaning": "vencer; derrotar; superar; sobreponerse"
+    },
+    {
+      "entryId": "1408680",
+      "spelling": "打克つ",
+      "reading": "うちかつ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "打克つ【うちかつ】",
+      "meaning": "vencer; derrotar; superar; sobreponerse"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "character": "声",
+  "meanings": "voz, fama, reputación, rumor",
+  "words": [
+    {
+      "entryId": "1380440",
+      "spelling": "声",
+      "reading": "こえ",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "声【こえ】",
+      "meaning": "voz"
+    },
+    {
+      "entryId": "1380540",
+      "spelling": "声明",
+      "reading": "せいめい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "声明【せいめい】",
+      "meaning": "oraciones budistas"
+    },
+    {
+      "entryId": "1183880",
+      "spelling": "音声",
+      "reading": "おんせい",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "音声【おんせい】",
+      "meaning": "voz"
+    },
+    {
+      "entryId": "1380460",
+      "spelling": "声援",
+      "reading": "せいえん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "声援【せいえん】",
+      "meaning": "ánimo; vítores; animar; vitorear"
+    },
+    {
+      "entryId": "1380470",
+      "spelling": "声楽",
+      "reading": "せいがく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "声楽【せいがく】",
+      "meaning": "música vocal"
+    },
+    {
+      "entryId": "1607440",
+      "spelling": "歌声",
+      "reading": "うたごえ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "歌声【うたごえ】",
+      "meaning": "canto; voz"
+    },
+    {
+      "entryId": "1607440",
+      "spelling": "歌声",
+      "reading": "かせい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "歌声【かせい】",
+      "meaning": "canto; voz"
+    },
+    {
+      "entryId": "1380490",
+      "spelling": "声高",
+      "reading": "こわだか",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "声高【こわだか】",
+      "meaning": "con voz alta"
+    },
+    {
+      "entryId": "1531690",
+      "spelling": "名声",
+      "reading": "めいせい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "名声【めいせい】",
+      "meaning": "fama"
+    },
+    {
+      "entryId": "1477650",
+      "spelling": "発声",
+      "reading": "はっせい",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "発声【はっせい】",
+      "meaning": "vocalización; pronunciación; emisión vocal"
+    },
+    {
+      "entryId": "1351310",
+      "spelling": "笑い声",
+      "reading": "わらいごえ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "笑い声【わらいごえ】",
+      "meaning": "risa"
+    },
+    {
+      "entryId": "1235900",
+      "spelling": "さけび声",
+      "reading": "さけびごえ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "さけび声【さけびごえ】",
+      "meaning": "grito"
+    },
+    {
+      "entryId": "1235900",
+      "spelling": "叫び声",
+      "reading": "さけびごえ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "叫び声【さけびごえ】",
+      "meaning": "grito"
+    },
+    {
+      "entryId": "1639820",
+      "spelling": "小声",
+      "reading": "こごえ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "小声【こごえ】",
+      "meaning": "voz baja"
+    },
+    {
+      "entryId": "1229730",
+      "spelling": "なき声",
+      "reading": "なきごえ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "なき声【なきごえ】",
+      "meaning": "llanto"
+    },
+    {
+      "entryId": "1229730",
+      "spelling": "泣き声",
+      "reading": "なきごえ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "泣き声【なきごえ】",
+      "meaning": "llanto"
+    },
+    {
+      "entryId": "1229730",
+      "spelling": "泣声",
+      "reading": "なきごえ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "泣声【なきごえ】",
+      "meaning": "llanto"
+    },
+    {
+      "entryId": "1611240",
+      "spelling": "話し声",
+      "reading": "はなしごえ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "話し声【はなしごえ】",
+      "meaning": "voces; ruido de voces"
+    },
+    {
+      "entryId": "1611240",
+      "spelling": "話声",
+      "reading": "はなしごえ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "話声【はなしごえ】",
+      "meaning": "voces; ruido de voces"
+    },
+    {
+      "entryId": "1414300",
+      "spelling": "大声",
+      "reading": "おおごえ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "大声【おおごえ】",
+      "meaning": "voz alta"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

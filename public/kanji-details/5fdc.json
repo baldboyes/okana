@@ -1,0 +1,240 @@
+{
+  "character": "応",
+  "meanings": "contestar, responder, aceptar, apropiado, adecuado",
+  "words": [
+    {
+      "entryId": "1409840",
+      "spelling": "対応",
+      "reading": "たいおう",
+      "senseNumbers": [
+        26
+      ],
+      "japanese": "対応【たいおう】",
+      "meaning": "reciprocidad; correspondencia; equivalencia"
+    },
+    {
+      "entryId": "1179840",
+      "spelling": "応援",
+      "reading": "おうえん",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "応援【おうえん】",
+      "meaning": "apoyo"
+    },
+    {
+      "entryId": "1180030",
+      "spelling": "応募",
+      "reading": "おうぼ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "応募【おうぼ】",
+      "meaning": "solicitud"
+    },
+    {
+      "entryId": "1480210",
+      "spelling": "反応",
+      "reading": "はんおう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "反応【はんおう】",
+      "meaning": "reacción; respuesta"
+    },
+    {
+      "entryId": "1480210",
+      "spelling": "反応",
+      "reading": "はんのう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "反応【はんのう】",
+      "meaning": "reacción; respuesta"
+    },
+    {
+      "entryId": "1449530",
+      "spelling": "応え",
+      "reading": "こたえ",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "応え【こたえ】",
+      "meaning": "respuesta; contestación"
+    },
+    {
+      "entryId": "1179830",
+      "spelling": "応じる",
+      "reading": "おうじる",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "応じる【おうじる】",
+      "meaning": "responder; contestar"
+    },
+    {
+      "entryId": "1179810",
+      "spelling": "応える",
+      "reading": "こたえる",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "応える【こたえる】",
+      "meaning": "responder; contestar; dar en el blanco; tomar su peaje; recompensar"
+    },
+    {
+      "entryId": "1161170",
+      "spelling": "一応",
+      "reading": "いちおう",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "一応【いちおう】",
+      "meaning": "una vez; tentativamente; a grandes rasgos; por el momento; por si acaso"
+    },
+    {
+      "entryId": "1180060",
+      "spelling": "応用",
+      "reading": "おうよう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "応用【おうよう】",
+      "meaning": "~ aplicado"
+    },
+    {
+      "entryId": "1437350",
+      "spelling": "適応",
+      "reading": "てきおう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "適応【てきおう】",
+      "meaning": "adaptarse; aclimatarse; acomodarse; adaptación"
+    },
+    {
+      "entryId": "1180000",
+      "spelling": "応答",
+      "reading": "おうとう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "応答【おうとう】",
+      "meaning": "respuesta; contestación"
+    },
+    {
+      "entryId": "1179930",
+      "spelling": "応接",
+      "reading": "おうせつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "応接【おうせつ】",
+      "meaning": "recepción"
+    },
+    {
+      "entryId": "1179980",
+      "spelling": "応対",
+      "reading": "おうたい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "応対【おうたい】",
+      "meaning": "atención; servicio; atender (a clientes o invitados); dispensar atenciones; despachar"
+    },
+    {
+      "entryId": "1179980",
+      "spelling": "応待",
+      "reading": "おうたい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "応待【おうたい】",
+      "meaning": "atención; servicio; atender (a clientes o invitados); dispensar atenciones; despachar"
+    },
+    {
+      "entryId": "1179880",
+      "spelling": "応急",
+      "reading": "おうきゅう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "応急【おうきゅう】",
+      "meaning": "emergencia"
+    },
+    {
+      "entryId": "1179910",
+      "spelling": "応酬",
+      "reading": "おうしゅう",
+      "senseNumbers": [
+        16
+      ],
+      "japanese": "応酬【おうしゅう】",
+      "meaning": "respuesta; réplica"
+    },
+    {
+      "entryId": "1400840",
+      "spelling": "相応",
+      "reading": "そうおう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "相応【そうおう】",
+      "meaning": "adecuado; conforme a; en proporción a"
+    },
+    {
+      "entryId": "1232400",
+      "spelling": "拒絶反応",
+      "reading": "きょぜつはんのう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "拒絶反応【きょぜつはんのう】",
+      "meaning": "reacción de rechazo (medicina)"
+    },
+    {
+      "entryId": "1955870",
+      "spelling": "応札",
+      "reading": "おうさつ",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "応札【おうさつ】",
+      "meaning": "puja; oferta"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

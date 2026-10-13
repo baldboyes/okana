@@ -1,0 +1,150 @@
+{
+  "character": "喜",
+  "meanings": "alegría, júbilo, divertirse",
+  "words": [
+    {
+      "entryId": "1606140",
+      "spelling": "喜び",
+      "reading": "よろこび",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "喜び【よろこび】",
+      "meaning": "alegría; delicia; arrebato; placer; satisfacción; regocijo; felicitaciones"
+    },
+    {
+      "entryId": "1218770",
+      "spelling": "喜んで",
+      "reading": "よろこんで",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "喜んで【よろこんで】",
+      "meaning": "con mucho gusto; de mil amores; encantado"
+    },
+    {
+      "entryId": "1218810",
+      "spelling": "喜劇",
+      "reading": "きげき",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "喜劇【きげき】",
+      "meaning": "comedia teatral"
+    },
+    {
+      "entryId": "1218760",
+      "spelling": "喜ぶ",
+      "reading": "よろこぶ",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "喜ぶ【よろこぶ】",
+      "meaning": "deleitarse; alegrarse"
+    },
+    {
+      "entryId": "1612230",
+      "spelling": "喜ばす",
+      "reading": "よろこばす",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "喜ばす【よろこばす】",
+      "meaning": "deleitar; dar placer; alegrar"
+    },
+    {
+      "entryId": "1413310",
+      "spelling": "大喜",
+      "reading": "おおよろこび",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "大喜【おおよろこび】",
+      "meaning": "euforia; jubilo; alegría"
+    },
+    {
+      "entryId": "1413310",
+      "spelling": "大喜び",
+      "reading": "おおよろこび",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "大喜び【おおよろこび】",
+      "meaning": "euforia; jubilo; alegría"
+    },
+    {
+      "entryId": "1614400",
+      "spelling": "喜ばしい",
+      "reading": "よろこばしい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "喜ばしい【よろこばしい】",
+      "meaning": "placentero; agradable; grato"
+    },
+    {
+      "entryId": "1474440",
+      "spelling": "寿喜焼",
+      "reading": "すきやき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "寿喜焼【すきやき】",
+      "meaning": "sukiyaki; \"sukiyaki\": guiso tradicional a base de carne y verduras"
+    },
+    {
+      "entryId": "1161670",
+      "spelling": "一喜一憂",
+      "reading": "いっきいちゆう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "一喜一憂【いっきいちゆう】",
+      "meaning": "ahora regocijarse, ahora preocuparse; cambiar de la alegría a la pena, esperanza alternativa y miedo; incapaz de poner la mente en paz"
+    },
+    {
+      "entryId": "1218840",
+      "spelling": "喜寿",
+      "reading": "きじゅ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "喜寿【きじゅ】",
+      "meaning": "septuagésimo séptimo cumpleaños (77 años)"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

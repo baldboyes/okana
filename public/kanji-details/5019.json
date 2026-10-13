@@ -1,0 +1,160 @@
+{
+  "character": "候",
+  "meanings": "clima, tiempo, explorar, esperar algo, forma cortés del verbo ser y estar",
+  "words": [
+    {
+      "entryId": "1272730",
+      "spelling": "候補",
+      "reading": "こうほ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "候補【こうほ】",
+      "meaning": "candidatura"
+    },
+    {
+      "entryId": "1551650",
+      "spelling": "立候補",
+      "reading": "りっこうほ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "立候補【りっこうほ】",
+      "meaning": "candidatura"
+    },
+    {
+      "entryId": "1222170",
+      "spelling": "気候",
+      "reading": "きこう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "気候【きこう】",
+      "meaning": "clima"
+    },
+    {
+      "entryId": "1438970",
+      "spelling": "天候",
+      "reading": "てんこう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "天候【てんこう】",
+      "meaning": "tiempo (meteorológico)"
+    },
+    {
+      "entryId": "1597620",
+      "spelling": "兆候",
+      "reading": "ちょうこう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "兆候【ちょうこう】",
+      "meaning": "señal"
+    },
+    {
+      "entryId": "1597620",
+      "spelling": "微候",
+      "reading": "ちょうこう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "微候【ちょうこう】",
+      "meaning": "señal"
+    },
+    {
+      "entryId": "1597620",
+      "spelling": "徴候",
+      "reading": "ちょうこう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "徴候【ちょうこう】",
+      "meaning": "señal"
+    },
+    {
+      "entryId": "1351020",
+      "spelling": "症候群",
+      "reading": "しょうこうぐん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "症候群【しょうこうぐん】",
+      "meaning": "síndrome"
+    },
+    {
+      "entryId": "1152280",
+      "spelling": "悪天候",
+      "reading": "あくてんこう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "悪天候【あくてんこう】",
+      "meaning": "mal tiempo (borrascoso); mal clima; temporal; tempestad"
+    },
+    {
+      "entryId": "1404540",
+      "spelling": "測候所",
+      "reading": "そっこうじょ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "測候所【そっこうじょ】",
+      "meaning": "estación meteorológica"
+    },
+    {
+      "entryId": "1351010",
+      "spelling": "症候",
+      "reading": "しょうこう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "症候【しょうこう】",
+      "meaning": "síntomas"
+    },
+    {
+      "entryId": "1635010",
+      "spelling": "時候",
+      "reading": "じこう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "時候【じこう】",
+      "meaning": "estación; temporada"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

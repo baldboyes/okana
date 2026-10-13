@@ -1,0 +1,190 @@
+{
+  "character": "戯",
+  "meanings": "jugueteo, broma, diversión, teatro, función, juguetear, bromear, flirtear",
+  "words": [
+    {
+      "entryId": "1347640",
+      "spelling": "象戯",
+      "reading": "しょうぎ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "象戯【しょうぎ】",
+      "meaning": "ajedrez japonés"
+    },
+    {
+      "entryId": "1355540",
+      "spelling": "串戯",
+      "reading": "じょうだん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "串戯【じょうだん】",
+      "meaning": "broma"
+    },
+    {
+      "entryId": "1355540",
+      "spelling": "戯談",
+      "reading": "じょうだん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "戯談【じょうだん】",
+      "meaning": "broma"
+    },
+    {
+      "entryId": "1225010",
+      "spelling": "戯曲",
+      "reading": "ぎきょく",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "戯曲【ぎきょく】",
+      "meaning": "drama"
+    },
+    {
+      "entryId": "1229910",
+      "spelling": "球戯",
+      "reading": "きゅうぎ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "球戯【きゅうぎ】",
+      "meaning": "billar"
+    },
+    {
+      "entryId": "1224960",
+      "spelling": "戯れ",
+      "reading": "たわむれ",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "戯れ【たわむれ】",
+      "meaning": "jugueteo; coqueteo; broma"
+    },
+    {
+      "entryId": "1151580",
+      "spelling": "悪戯",
+      "reading": "いたずら",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "悪戯【いたずら】",
+      "meaning": "tomar el pelo; jugarreta; travesura; truco; broma pesada; malicia"
+    },
+    {
+      "entryId": "1151580",
+      "spelling": "悪戯",
+      "reading": "いたづら",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "悪戯【いたづら】",
+      "meaning": "tomar el pelo; jugarreta; travesura; truco; broma pesada; malicia"
+    },
+    {
+      "entryId": "1224970",
+      "spelling": "戯れる",
+      "reading": "ざれる",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "戯れる【ざれる】",
+      "meaning": "juguetear; enredar; tontear; retozar; travesear; triscar; flirtear; bromear"
+    },
+    {
+      "entryId": "1224970",
+      "spelling": "戯れる",
+      "reading": "たわむれる",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "戯れる【たわむれる】",
+      "meaning": "juguetear; enredar; tontear; retozar; travesear; triscar; flirtear; bromear"
+    },
+    {
+      "entryId": "1577830",
+      "spelling": "戯言",
+      "reading": "たわこと",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "戯言【たわこと】",
+      "meaning": "sinsentido; chorradas; tonterías; broma"
+    },
+    {
+      "entryId": "1577830",
+      "spelling": "戯言",
+      "reading": "たわごと",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "戯言【たわごと】",
+      "meaning": "sinsentido; chorradas; tonterías; broma"
+    },
+    {
+      "entryId": "1542190",
+      "spelling": "遊戯",
+      "reading": "ゆうぎ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "遊戯【ゆうぎ】",
+      "meaning": "juego; deporte"
+    },
+    {
+      "entryId": "1224990",
+      "spelling": "戯画",
+      "reading": "ぎが",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "戯画【ぎが】",
+      "meaning": "caricatura; historieta; cómic"
+    },
+    {
+      "entryId": "1152620",
+      "spelling": "悪巫山戯",
+      "reading": "わるふざけ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "悪巫山戯【わるふざけ】",
+      "meaning": "jugarreta; traesura; broma pesada; juego duro; truco malicioso; travesura"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

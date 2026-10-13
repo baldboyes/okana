@@ -1,0 +1,160 @@
+{
+  "character": "階",
+  "meanings": "piso, nivel, grado, posición",
+  "words": [
+    {
+      "entryId": "1419950",
+      "spelling": "段階",
+      "reading": "だんかい",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "段階【だんかい】",
+      "meaning": "etapa; fase; escalón; nivel"
+    },
+    {
+      "entryId": "1161380",
+      "spelling": "一階",
+      "reading": "いっかい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "一階【いっかい】",
+      "meaning": "un piso; primer piso"
+    },
+    {
+      "entryId": "1161380",
+      "spelling": "１階",
+      "reading": "いっかい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "１階【いっかい】",
+      "meaning": "un piso; primer piso"
+    },
+    {
+      "entryId": "1461420",
+      "spelling": "二階",
+      "reading": "にかい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "二階【にかい】",
+      "meaning": "piso segundo"
+    },
+    {
+      "entryId": "1461420",
+      "spelling": "２階",
+      "reading": "にかい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "２階【にかい】",
+      "meaning": "piso segundo"
+    },
+    {
+      "entryId": "1203040",
+      "spelling": "階級",
+      "reading": "かいきゅう",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "階級【かいきゅう】",
+      "meaning": "clase; rango; grado"
+    },
+    {
+      "entryId": "1203090",
+      "spelling": "階段",
+      "reading": "かいだん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "階段【かいだん】",
+      "meaning": "escaleras"
+    },
+    {
+      "entryId": "1203020",
+      "spelling": "階",
+      "reading": "かい",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "階【かい】",
+      "meaning": "piso; planta; contador para pisos de un edificio"
+    },
+    {
+      "entryId": "1203080",
+      "spelling": "階層",
+      "reading": "かいそう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "階層【かいそう】",
+      "meaning": "estrato"
+    },
+    {
+      "entryId": "1424370",
+      "spelling": "中産階級",
+      "reading": "ちゅうさんかいきゅう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "中産階級【ちゅうさんかいきゅう】",
+      "meaning": "clase media; burguesía"
+    },
+    {
+      "entryId": "1436480",
+      "spelling": "階子",
+      "reading": "はしご",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "階子【はしご】",
+      "meaning": "escaleras; escalones"
+    },
+    {
+      "entryId": "1183710",
+      "spelling": "音階",
+      "reading": "おんかい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "音階【おんかい】",
+      "meaning": "escala musical"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

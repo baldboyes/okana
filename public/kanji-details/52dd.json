@@ -1,0 +1,240 @@
+{
+  "character": "勝",
+  "meanings": "ganar, sobresalir",
+  "words": [
+    {
+      "entryId": "1539280",
+      "spelling": "優勝",
+      "reading": "ゆうしょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "優勝【ゆうしょう】",
+      "meaning": "quedar campeón; quedar el primero; obtener la victoria; triunfo; victoria"
+    },
+    {
+      "entryId": "1254320",
+      "spelling": "決勝",
+      "reading": "けっしょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "決勝【けっしょう】",
+      "meaning": "final de una competencia"
+    },
+    {
+      "entryId": "1346240",
+      "spelling": "勝利",
+      "reading": "しょうり",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "勝利【しょうり】",
+      "meaning": "ganar; vencer; triunfar; obtener la victoria; victoria; triunfo; conquista; éxito"
+    },
+    {
+      "entryId": "1346230",
+      "spelling": "勝負",
+      "reading": "しょうぶ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "勝負【しょうぶ】",
+      "meaning": "enfrentarse; competir; rivalizar; echar una partida; disputar un encuentro; victoria o derrota; combate; partido (de algún deporte); competición"
+    },
+    {
+      "entryId": "1603910",
+      "spelling": "勝る",
+      "reading": "まさる",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "勝る【まさる】",
+      "meaning": "sobresalir; sobrepasar; aventajar"
+    },
+    {
+      "entryId": "1609560",
+      "spelling": "勝ち",
+      "reading": "かち",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "勝ち【かち】",
+      "meaning": "victoria"
+    },
+    {
+      "entryId": "1341580",
+      "spelling": "準決勝",
+      "reading": "じゅんけっしょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "準決勝【じゅんけっしょう】",
+      "meaning": "semifinal (en deportes)"
+    },
+    {
+      "entryId": "1346090",
+      "spelling": "勝ち越し",
+      "reading": "かちこし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "勝ち越し【かちこし】",
+      "meaning": "más ganadas que perdidas (deportes)"
+    },
+    {
+      "entryId": "1346090",
+      "spelling": "勝越し",
+      "reading": "かちこし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "勝越し【かちこし】",
+      "meaning": "más ganadas que perdidas (deportes)"
+    },
+    {
+      "entryId": "1346220",
+      "spelling": "勝敗",
+      "reading": "しょうはい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "勝敗【しょうはい】",
+      "meaning": "victoria o derrota; asunto (de batalla)"
+    },
+    {
+      "entryId": "1153140",
+      "spelling": "圧勝",
+      "reading": "あっしょう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "圧勝【あっしょう】",
+      "meaning": "victoria absoluta"
+    },
+    {
+      "entryId": "1346180",
+      "spelling": "勝者",
+      "reading": "しょうしゃ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "勝者【しょうしゃ】",
+      "meaning": "ganador; vencedor"
+    },
+    {
+      "entryId": "1346210",
+      "spelling": "勝訴",
+      "reading": "しょうそ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "勝訴【しょうそ】",
+      "meaning": "ganar un juicio; ganar un pleito"
+    },
+    {
+      "entryId": "1346190",
+      "spelling": "勝手",
+      "reading": "かって",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "勝手【かって】",
+      "meaning": "egoísta; libertino; indiscreto; abusivo"
+    },
+    {
+      "entryId": "1706700",
+      "spelling": "勝ち星",
+      "reading": "かちぼし",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "勝ち星【かちぼし】",
+      "meaning": "(marca que indica un) ganador"
+    },
+    {
+      "entryId": "1487530",
+      "spelling": "必勝",
+      "reading": "ひっしょう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "必勝【ひっしょう】",
+      "meaning": "victoria segura"
+    },
+    {
+      "entryId": "1706730",
+      "spelling": "勝率",
+      "reading": "しょうりつ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "勝率【しょうりつ】",
+      "meaning": "porcentaje de ganancia"
+    },
+    {
+      "entryId": "1390310",
+      "spelling": "戦勝",
+      "reading": "せんしょう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "戦勝【せんしょう】",
+      "meaning": "victoria; triunfo"
+    },
+    {
+      "entryId": "1654570",
+      "spelling": "勝ち越す",
+      "reading": "かちこす",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "勝ち越す【かちこす】",
+      "meaning": "tener mas ganadas que perdidas; dejar (a alguien) por (tres) rondas"
+    },
+    {
+      "entryId": "1654570",
+      "spelling": "勝越す",
+      "reading": "かちこす",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "勝越す【かちこす】",
+      "meaning": "tener mas ganadas que perdidas; dejar (a alguien) por (tres) rondas"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

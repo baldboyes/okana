@@ -1,0 +1,240 @@
+{
+  "character": "土",
+  "meanings": "suelo, tierra, Turquía",
+  "words": [
+    {
+      "entryId": "1445470",
+      "spelling": "土地",
+      "reading": "とち",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "土地【とち】",
+      "meaning": "parcela de tierra; lote; tierra"
+    },
+    {
+      "entryId": "1445470",
+      "spelling": "土地",
+      "reading": "どおじ",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "土地【どおじ】",
+      "meaning": "parcela de tierra; lote; tierra"
+    },
+    {
+      "entryId": "1445470",
+      "spelling": "土地",
+      "reading": "どじ",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "土地【どじ】",
+      "meaning": "parcela de tierra; lote; tierra"
+    },
+    {
+      "entryId": "1445470",
+      "spelling": "土地",
+      "reading": "どち",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "土地【どち】",
+      "meaning": "parcela de tierra; lote; tierra"
+    },
+    {
+      "entryId": "1554790",
+      "spelling": "領土",
+      "reading": "りょうど",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "領土【りょうど】",
+      "meaning": "territorio; colonia; dominio"
+    },
+    {
+      "entryId": "1445270",
+      "spelling": "土",
+      "reading": "つち",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "土【つち】",
+      "meaning": "tierra; suelo"
+    },
+    {
+      "entryId": "1445580",
+      "spelling": "土曜",
+      "reading": "どよう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "土曜【どよう】",
+      "meaning": "sábado"
+    },
+    {
+      "entryId": "1286890",
+      "spelling": "国土",
+      "reading": "くにつち",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "国土【くにつち】",
+      "meaning": "territorio nacional"
+    },
+    {
+      "entryId": "1286890",
+      "spelling": "国土",
+      "reading": "こくど",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "国土【こくど】",
+      "meaning": "territorio nacional"
+    },
+    {
+      "entryId": "1445550",
+      "spelling": "土俵",
+      "reading": "どひょう",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "土俵【どひょう】",
+      "meaning": "ring; cancha"
+    },
+    {
+      "entryId": "1316140",
+      "spelling": "土圭",
+      "reading": "とけい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "土圭【とけい】",
+      "meaning": "reloj; reloj de mano"
+    },
+    {
+      "entryId": "1445570",
+      "spelling": "土木",
+      "reading": "どぼく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "土木【どぼく】",
+      "meaning": "obra pública"
+    },
+    {
+      "entryId": "1445380",
+      "spelling": "土壌",
+      "reading": "どじょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "土壌【どじょう】",
+      "meaning": "tierra"
+    },
+    {
+      "entryId": "1500020",
+      "spelling": "風土",
+      "reading": "ふうど",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "風土【ふうど】",
+      "meaning": "clima; tiempo"
+    },
+    {
+      "entryId": "1238510",
+      "spelling": "郷土",
+      "reading": "きょうど",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "郷土【きょうど】",
+      "meaning": "lugar de nacimiento; viejo hogar de uno"
+    },
+    {
+      "entryId": "1445360",
+      "spelling": "土産",
+      "reading": "みやげ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "土産【みやげ】",
+      "meaning": "regalo; souvenir; recuerdo (regalo de viaje)"
+    },
+    {
+      "entryId": "1445450",
+      "spelling": "土台",
+      "reading": "どだい",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "土台【どだい】",
+      "meaning": "base"
+    },
+    {
+      "entryId": "1624160",
+      "spelling": "土砂",
+      "reading": "どさ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "土砂【どさ】",
+      "meaning": "tierra y arena"
+    },
+    {
+      "entryId": "1624160",
+      "spelling": "土砂",
+      "reading": "どしゃ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "土砂【どしゃ】",
+      "meaning": "tierra y arena"
+    },
+    {
+      "entryId": "1627340",
+      "spelling": "本土",
+      "reading": "ほんど",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "本土【ほんど】",
+      "meaning": "Hondo (isla principal del Japón)"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "character": "鳥",
+  "meanings": "pájaro, ave",
+  "words": [
+    {
+      "entryId": "1430250",
+      "spelling": "鳥",
+      "reading": "とり",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "鳥【とり】",
+      "meaning": "pájaro; ave; corral"
+    },
+    {
+      "entryId": "1537570",
+      "spelling": "野鳥",
+      "reading": "やちょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "野鳥【やちょう】",
+      "meaning": "ave silvestre"
+    },
+    {
+      "entryId": "1475330",
+      "spelling": "白鳥",
+      "reading": "はくちょう",
+      "senseNumbers": [
+        10,
+        11
+      ],
+      "japanese": "白鳥【はくちょう】",
+      "meaning": "cisne; pájaro de plumas blancas"
+    },
+    {
+      "entryId": "1430330",
+      "spelling": "鳥類",
+      "reading": "ちょうるい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "鳥類【ちょうるい】",
+      "meaning": "pájaros"
+    },
+    {
+      "entryId": "1444650",
+      "spelling": "渡り鳥",
+      "reading": "わたりどり",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "渡り鳥【わたりどり】",
+      "meaning": "ave migratoria"
+    },
+    {
+      "entryId": "1348530",
+      "spelling": "小鳥",
+      "reading": "ことり",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "小鳥【ことり】",
+      "meaning": "pajarito"
+    },
+    {
+      "entryId": "1430280",
+      "spelling": "鳥居",
+      "reading": "とりい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "鳥居【とりい】",
+      "meaning": "torii (portal sagrado en templos Sinto)"
+    },
+    {
+      "entryId": "1164160",
+      "spelling": "一石二鳥",
+      "reading": "いっせきにちょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "一石二鳥【いっせきにちょう】",
+      "meaning": "matar dos pájaros con una piedra"
+    },
+    {
+      "entryId": "1253020",
+      "spelling": "鳥肉",
+      "reading": "とりにく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "鳥肉【とりにく】",
+      "meaning": "carne de pollo; carne de gallina"
+    },
+    {
+      "entryId": "1389070",
+      "spelling": "千鳥",
+      "reading": "ちどり",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "千鳥【ちどり】",
+      "meaning": "chorlito (ave)"
+    },
+    {
+      "entryId": "1605410",
+      "spelling": "焼き鳥",
+      "reading": "やきとり",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "焼き鳥【やきとり】",
+      "meaning": "pollo a la parrilla; pollo asado"
+    },
+    {
+      "entryId": "1605410",
+      "spelling": "焼鳥",
+      "reading": "やきとり",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "焼鳥【やきとり】",
+      "meaning": "pollo a la parrilla; pollo asado"
+    },
+    {
+      "entryId": "1163940",
+      "spelling": "鳥渡",
+      "reading": "ちょっと",
+      "senseNumbers": [
+        23,
+        24,
+        25
+      ],
+      "japanese": "鳥渡【ちょっと】",
+      "meaning": "un momento; algo; fácilmente; de buena gana; un poco; (antes de un verbo negativo) (no será) fácil; ¡oye!"
+    },
+    {
+      "entryId": "1577410",
+      "spelling": "海鳥",
+      "reading": "うみどり",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "海鳥【うみどり】",
+      "meaning": "ave marina"
+    },
+    {
+      "entryId": "1577410",
+      "spelling": "海鳥",
+      "reading": "かいちょう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "海鳥【かいちょう】",
+      "meaning": "ave marina"
+    },
+    {
+      "entryId": "1150970",
+      "spelling": "愛鳥",
+      "reading": "あいちょう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "愛鳥【あいちょう】",
+      "meaning": "pájaro querido"
+    },
+    {
+      "entryId": "1194800",
+      "spelling": "花鳥",
+      "reading": "かちょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "花鳥【かちょう】",
+      "meaning": "flores y pájaros"
+    },
+    {
+      "entryId": "1319520",
+      "spelling": "七面鳥",
+      "reading": "しちめんちょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "七面鳥【しちめんちょう】",
+      "meaning": "pavo (ave)"
+    },
+    {
+      "entryId": "1492610",
+      "spelling": "不死鳥",
+      "reading": "ふしちょう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "不死鳥【ふしちょう】",
+      "meaning": "ave fénix"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

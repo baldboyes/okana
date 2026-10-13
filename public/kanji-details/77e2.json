@@ -1,0 +1,170 @@
+{
+  "character": "矢",
+  "meanings": "flecha",
+  "words": [
+    {
+      "entryId": "1537760",
+      "spelling": "矢",
+      "reading": "さ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "矢【さ】",
+      "meaning": "flecha; saeta"
+    },
+    {
+      "entryId": "1537760",
+      "spelling": "矢",
+      "reading": "や",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "矢【や】",
+      "meaning": "flecha; saeta"
+    },
+    {
+      "entryId": "1531030",
+      "spelling": "無理矢理",
+      "reading": "むりやり",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "無理矢理【むりやり】",
+      "meaning": "a la fuerza; por la fuerza; de modo forzoso; de modo forzado; en contra de la voluntad de uno"
+    },
+    {
+      "entryId": "1537770",
+      "spelling": "矢印",
+      "reading": "やじるし",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "矢印【やじるし】",
+      "meaning": "flecha"
+    },
+    {
+      "entryId": "1012810",
+      "spelling": "矢っ張り",
+      "reading": "やっぱり",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "矢っ張り【やっぱり】",
+      "meaning": "además; tal y como pensaba; todavía; a pesar de; completamente; totalmente; por supuesto"
+    },
+    {
+      "entryId": "1531030",
+      "spelling": "無理矢理",
+      "reading": "ムリヤリ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "無理矢理【ムリヤリ】",
+      "meaning": "a la fuerza; por la fuerza; de modo forzoso; de modo forzado; en contra de la voluntad de uno"
+    },
+    {
+      "entryId": "1537780",
+      "spelling": "矢鱈",
+      "reading": "やたら",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "矢鱈【やたら】",
+      "meaning": "en exceso; a ciegas; al azar; a lo loco; a lo bestia; sin conocimiento; sin talento; pasarse de la raya"
+    },
+    {
+      "entryId": "2772770",
+      "spelling": "矢張",
+      "reading": "やはり",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "矢張【やはり】",
+      "meaning": "además; tal y como pensaba; todavía; a pesar de; completamente; totalmente; por supuesto"
+    },
+    {
+      "entryId": "2772770",
+      "spelling": "矢張り",
+      "reading": "やはり",
+      "senseNumbers": [
+        17
+      ],
+      "japanese": "矢張り【やはり】",
+      "meaning": "además; tal y como pensaba; todavía; a pesar de; completamente; totalmente; por supuesto"
+    },
+    {
+      "entryId": "1167070",
+      "spelling": "一矢",
+      "reading": "いっし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "一矢【いっし】",
+      "meaning": "una flecha; una réplica"
+    },
+    {
+      "entryId": "1559990",
+      "spelling": "矢倉",
+      "reading": "やぐら",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "矢倉【やぐら】",
+      "meaning": "polvorín; arsenal; armería; depósito de armas; atalaya; torre de vigía"
+    },
+    {
+      "entryId": "1228550",
+      "spelling": "弓矢",
+      "reading": "きゅうし",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "弓矢【きゅうし】",
+      "meaning": "arco y flecha"
+    },
+    {
+      "entryId": "1228550",
+      "spelling": "弓矢",
+      "reading": "ゆみや",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "弓矢【ゆみや】",
+      "meaning": "arco y flecha"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

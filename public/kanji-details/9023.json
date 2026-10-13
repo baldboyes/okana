@@ -1,0 +1,243 @@
+{
+  "character": "連",
+  "meanings": "unir, acompañar, estar junto, grupo, agrupar",
+  "words": [
+    {
+      "entryId": "1216060",
+      "spelling": "関連",
+      "reading": "かんれん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "関連【かんれん】",
+      "meaning": "relación; conexión; vínculo"
+    },
+    {
+      "entryId": "1287210",
+      "spelling": "国連",
+      "reading": "こくれん",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "国連【こくれん】",
+      "meaning": "la ONU (o UN; las Naciones Unidas)"
+    },
+    {
+      "entryId": "1559450",
+      "spelling": "連合",
+      "reading": "れんごう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "連合【れんごう】",
+      "meaning": "unión (alianza)"
+    },
+    {
+      "entryId": "1559610",
+      "spelling": "連続",
+      "reading": "れんぞく",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "連続【れんぞく】",
+      "meaning": "continuación"
+    },
+    {
+      "entryId": "1559790",
+      "spelling": "連邦",
+      "reading": "れんぽう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "連邦【れんぽう】",
+      "meaning": "federación; confederación"
+    },
+    {
+      "entryId": "1559960",
+      "spelling": "連立",
+      "reading": "れんりつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "連立【れんりつ】",
+      "meaning": "alianza; coalición"
+    },
+    {
+      "entryId": "1559900",
+      "spelling": "連らく",
+      "reading": "れんらく",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "連らく【れんらく】",
+      "meaning": "comunicar; contactar; avisar; poner en conocimiento de; ponerse en contacto con; llamar a; cruce; comunicación; conexión; coordinación"
+    },
+    {
+      "entryId": "1559900",
+      "spelling": "連絡",
+      "reading": "れんらく",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "連絡【れんらく】",
+      "meaning": "comunicar; contactar; avisar; poner en conocimiento de; ponerse en contacto con; llamar a; cruce; comunicación; conexión; coordinación"
+    },
+    {
+      "entryId": "1559870",
+      "spelling": "連盟",
+      "reading": "れんめい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "連盟【れんめい】",
+      "meaning": "asociación; alianza"
+    },
+    {
+      "entryId": "1167450",
+      "spelling": "一連",
+      "reading": "いちれん",
+      "senseNumbers": [
+        14,
+        15,
+        16,
+        17
+      ],
+      "japanese": "一連【いちれん】",
+      "meaning": "una serie; una cadena; dos resmas (40 manos de papel o 1000 hojas); verso; estrofa; dos resmas (ej.. 1000 hojas de papel)"
+    },
+    {
+      "entryId": "1559720",
+      "spelling": "連日",
+      "reading": "れんじつ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "連日【れんじつ】",
+      "meaning": "período; sucesión de dias; racha"
+    },
+    {
+      "entryId": "1559400",
+      "spelling": "連携",
+      "reading": "れんけい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "連携【れんけい】",
+      "meaning": "cooperación"
+    },
+    {
+      "entryId": "1559380",
+      "spelling": "連休",
+      "reading": "れんきゅう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "連休【れんきゅう】",
+      "meaning": "puente (festivo)"
+    },
+    {
+      "entryId": "1559660",
+      "spelling": "連帯",
+      "reading": "れんたい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "連帯【れんたい】",
+      "meaning": "solidaridad"
+    },
+    {
+      "entryId": "1559880",
+      "spelling": "連用",
+      "reading": "れんよう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "連用【れんよう】",
+      "meaning": "uso continuo"
+    },
+    {
+      "entryId": "1559700",
+      "spelling": "連中",
+      "reading": "れんじゅう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "連中【れんじゅう】",
+      "meaning": "grupo de gente"
+    },
+    {
+      "entryId": "1559700",
+      "spelling": "連中",
+      "reading": "れんちゅう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "連中【れんちゅう】",
+      "meaning": "grupo de gente"
+    },
+    {
+      "entryId": "1559700",
+      "spelling": "連中",
+      "reading": "れんぢゅう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "連中【れんぢゅう】",
+      "meaning": "grupo de gente"
+    },
+    {
+      "entryId": "1356200",
+      "spelling": "定連",
+      "reading": "じょうれん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "定連【じょうれん】",
+      "meaning": "cliente habitual"
+    },
+    {
+      "entryId": "1356200",
+      "spelling": "常連",
+      "reading": "じょうれん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "常連【じょうれん】",
+      "meaning": "cliente habitual"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

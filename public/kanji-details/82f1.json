@@ -1,0 +1,243 @@
+{
+  "character": "英",
+  "meanings": "Inglaterra, excelente",
+  "words": [
+    {
+      "entryId": "1174420",
+      "spelling": "英語",
+      "reading": "えいご",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "英語【えいご】",
+      "meaning": "Idioma Inglés; lengua inglesa"
+    },
+    {
+      "entryId": "1174680",
+      "spelling": "英雄",
+      "reading": "えいゆう",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "英雄【えいゆう】",
+      "meaning": "héroe; gran hombre"
+    },
+    {
+      "entryId": "1160610",
+      "spelling": "育英",
+      "reading": "いくえい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "育英【いくえい】",
+      "meaning": "educación"
+    },
+    {
+      "entryId": "1174620",
+      "spelling": "英文",
+      "reading": "えいぶん",
+      "senseNumbers": [
+        10,
+        11
+      ],
+      "japanese": "英文【えいぶん】",
+      "meaning": "texto en ingles; idioma ingles"
+    },
+    {
+      "entryId": "1174530",
+      "spelling": "英字",
+      "reading": "えいじ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "英字【えいじ】",
+      "meaning": "letras inglesas (en ingles); carácter alfabético"
+    },
+    {
+      "entryId": "1174720",
+      "spelling": "英和",
+      "reading": "えいわ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "英和【えいわ】",
+      "meaning": "Ingles-Japonés (ej. diccionario) (inglés)"
+    },
+    {
+      "entryId": "1613580",
+      "spelling": "英明",
+      "reading": "えいめい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "英明【えいめい】",
+      "meaning": "inteligente; sabio; juicioso; brillante; perspicaz"
+    },
+    {
+      "entryId": "1174630",
+      "spelling": "英文学",
+      "reading": "えいぶんがく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "英文学【えいぶんがく】",
+      "meaning": "literatura inglesa"
+    },
+    {
+      "entryId": "1174670",
+      "spelling": "英訳",
+      "reading": "えいやく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "英訳【えいやく】",
+      "meaning": "traducción al inglés"
+    },
+    {
+      "entryId": "1588680",
+      "spelling": "英智",
+      "reading": "えいち",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "英智【えいち】",
+      "meaning": "sabiduría; sensatez; inteligencia; intelecto"
+    },
+    {
+      "entryId": "1588680",
+      "spelling": "英知",
+      "reading": "えいち",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "英知【えいち】",
+      "meaning": "sabiduría; sensatez; inteligencia; intelecto"
+    },
+    {
+      "entryId": "1561970",
+      "spelling": "和英",
+      "reading": "わえい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "和英【わえい】",
+      "meaning": "japonés-inglés"
+    },
+    {
+      "entryId": "1021160",
+      "spelling": "英吉利",
+      "reading": "イギリス",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "英吉利【イギリス】",
+      "meaning": "Gran Bretaña (pt: Inglez); Reino Unido; Gran Bretaña"
+    },
+    {
+      "entryId": "1022250",
+      "spelling": "英蘭",
+      "reading": "イングランド",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "英蘭【イングランド】",
+      "meaning": "Inglaterra (eng: England)"
+    },
+    {
+      "entryId": "1126030",
+      "spelling": "英听",
+      "reading": "ポンド",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "英听【ポンド】",
+      "meaning": "libra (unidad de peso)"
+    },
+    {
+      "entryId": "1126030",
+      "spelling": "英斤",
+      "reading": "ポンド",
+      "senseNumbers": [
+        3
+      ],
+      "japanese": "英斤【ポンド】",
+      "meaning": "libra (unidad de peso)"
+    },
+    {
+      "entryId": "1174380",
+      "spelling": "英会話",
+      "reading": "えいかいわ",
+      "senseNumbers": [
+        9,
+        10
+      ],
+      "japanese": "英会話【えいかいわ】",
+      "meaning": "conversación(dialogo) en ingles; escuela de conversación en ingles"
+    },
+    {
+      "entryId": "1174390",
+      "spelling": "英気",
+      "reading": "えいき",
+      "senseNumbers": [
+        9,
+        10
+      ],
+      "japanese": "英気【えいき】",
+      "meaning": "gran sabiduría; excelente disposición; fuerza; vigor"
+    },
+    {
+      "entryId": "1174450",
+      "spelling": "英国",
+      "reading": "えいこく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "英国【えいこく】",
+      "meaning": "Inglaterra"
+    },
+    {
+      "entryId": "1174450",
+      "spelling": "英國",
+      "reading": "えいこく",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "英國【えいこく】",
+      "meaning": "Inglaterra"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

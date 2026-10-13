@@ -1,0 +1,240 @@
+{
+  "character": "明",
+  "meanings": "luz, brillo, claridad, listo, inteligente, claro, luminoso, iluminar, aclarar",
+  "words": [
+    {
+      "entryId": "1532310",
+      "spelling": "明らか",
+      "reading": "あきらか",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "明らか【あきらか】",
+      "meaning": "evidente; obvio; claro; cierto"
+    },
+    {
+      "entryId": "1380540",
+      "spelling": "声明",
+      "reading": "せいめい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "声明【せいめい】",
+      "meaning": "oraciones budistas"
+    },
+    {
+      "entryId": "1386460",
+      "spelling": "説明",
+      "reading": "せつめい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "説明【せつめい】",
+      "meaning": "explicar; aclarar; comentar; explicación; exposición"
+    },
+    {
+      "entryId": "1495060",
+      "spelling": "不明",
+      "reading": "ふめい",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "不明【ふめい】",
+      "meaning": "desconocido; oscuro; indistinto; incierto; ambiguo; ignorante; falta de sabiduría; anónimo; no identificado"
+    },
+    {
+      "entryId": "1532410",
+      "spelling": "明確",
+      "reading": "めいかく",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "明確【めいかく】",
+      "meaning": "claro; específico; definido"
+    },
+    {
+      "entryId": "1274850",
+      "spelling": "公明",
+      "reading": "こうめい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "公明【こうめい】",
+      "meaning": "justo; honrado"
+    },
+    {
+      "entryId": "1528050",
+      "spelling": "未明",
+      "reading": "みめい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "未明【みめい】",
+      "meaning": "de madrugada"
+    },
+    {
+      "entryId": "1611970",
+      "spelling": "明治",
+      "reading": "めいじ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "明治【めいじ】",
+      "meaning": "era Meiji (1868-1912)"
+    },
+    {
+      "entryId": "1199290",
+      "spelling": "解明",
+      "reading": "かいめい",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "解明【かいめい】",
+      "meaning": "esclarecer; aclarar; dilucidar; esclarecimiento; aclaración"
+    },
+    {
+      "entryId": "1494200",
+      "spelling": "不透明",
+      "reading": "ふとうめい",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "不透明【ふとうめい】",
+      "meaning": "opacidad; opaco"
+    },
+    {
+      "entryId": "1450590",
+      "spelling": "透明",
+      "reading": "とうめい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "透明【とうめい】",
+      "meaning": "transparencia; claridad; translucidez"
+    },
+    {
+      "entryId": "1505650",
+      "spelling": "文明",
+      "reading": "ぶんめい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "文明【ぶんめい】",
+      "meaning": "civilización; cultura"
+    },
+    {
+      "entryId": "1584660",
+      "spelling": "明日",
+      "reading": "あした",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "明日【あした】",
+      "meaning": "mañana"
+    },
+    {
+      "entryId": "1584660",
+      "spelling": "明日",
+      "reading": "あす",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "明日【あす】",
+      "meaning": "mañana"
+    },
+    {
+      "entryId": "1584660",
+      "spelling": "明日",
+      "reading": "みょうにち",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "明日【みょうにち】",
+      "meaning": "mañana"
+    },
+    {
+      "entryId": "1351680",
+      "spelling": "証明",
+      "reading": "しょうめい",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "証明【しょうめい】",
+      "meaning": "demostrar; probar; acreditar; evidenciar; certificar; prueba; testimonio; certificación"
+    },
+    {
+      "entryId": "1230050",
+      "spelling": "究明",
+      "reading": "きゅうめい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "究明【きゅうめい】",
+      "meaning": "investigación ( esp. en contextos académicos y científicos)"
+    },
+    {
+      "entryId": "1350990",
+      "spelling": "照明",
+      "reading": "しょうめい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "照明【しょうめい】",
+      "meaning": "iluminación"
+    },
+    {
+      "entryId": "1532350",
+      "spelling": "明い",
+      "reading": "あかるい",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "明い【あかるい】",
+      "meaning": "claro; luminoso; brillante; alegre; abierto; risueño; jovial; ser un entendido en..; saber (algo) al dedillo de…"
+    },
+    {
+      "entryId": "1532350",
+      "spelling": "明るい",
+      "reading": "あかるい",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "明るい【あかるい】",
+      "meaning": "claro; luminoso; brillante; alegre; abierto; risueño; jovial; ser un entendido en..; saber (algo) al dedillo de…"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

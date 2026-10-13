@@ -1,0 +1,240 @@
+{
+  "character": "者",
+  "meanings": "persona",
+  "words": [
+    {
+      "entryId": "1212210",
+      "spelling": "患者",
+      "reading": "かんじゃ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "患者【かんじゃ】",
+      "meaning": "(un) paciente"
+    },
+    {
+      "entryId": "1223250",
+      "spelling": "記者",
+      "reading": "きしゃ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "記者【きしゃ】",
+      "meaning": "reportero; periodista"
+    },
+    {
+      "entryId": "1239440",
+      "spelling": "業者",
+      "reading": "ぎょうしゃ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "業者【ぎょうしゃ】",
+      "meaning": "comercios; empresas"
+    },
+    {
+      "entryId": "1545390",
+      "spelling": "容疑者",
+      "reading": "ようぎしゃ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "容疑者【ようぎしゃ】",
+      "meaning": "sospechoso (persona)"
+    },
+    {
+      "entryId": "1215850",
+      "spelling": "関係者",
+      "reading": "かんけいしゃ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "関係者【かんけいしゃ】",
+      "meaning": "gente autorizada; personal autorizado; personas involucradas"
+    },
+    {
+      "entryId": "1324350",
+      "spelling": "若者",
+      "reading": "わかもの",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "若者【わかもの】",
+      "meaning": "joven; muchacho"
+    },
+    {
+      "entryId": "1324350",
+      "spelling": "若者",
+      "reading": "わかもん",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "若者【わかもん】",
+      "meaning": "joven; muchacho"
+    },
+    {
+      "entryId": "1350300",
+      "spelling": "消費者",
+      "reading": "しょうひしゃ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "消費者【しょうひしゃ】",
+      "meaning": "consumidor"
+    },
+    {
+      "entryId": "1560470",
+      "spelling": "労働者",
+      "reading": "ろうどうしゃ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "労働者【ろうどうしゃ】",
+      "meaning": "obreros; trabajadores"
+    },
+    {
+      "entryId": "1560470",
+      "spelling": "労動者",
+      "reading": "ろうどうしゃ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "労動者【ろうどうしゃ】",
+      "meaning": "obreros; trabajadores"
+    },
+    {
+      "entryId": "1206800",
+      "spelling": "学者",
+      "reading": "がくしゃ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "学者【がくしゃ】",
+      "meaning": "erudito; becario"
+    },
+    {
+      "entryId": "1310870",
+      "spelling": "死者",
+      "reading": "ししゃ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "死者【ししゃ】",
+      "meaning": "difunto; fallecido; muerto"
+    },
+    {
+      "entryId": "1427110",
+      "spelling": "著者",
+      "reading": "ちょしゃ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "著者【ちょしゃ】",
+      "meaning": "autor (norm. de un libro en concreto, etc.); escritor"
+    },
+    {
+      "entryId": "1541240",
+      "spelling": "有権者",
+      "reading": "ゆうけんしゃ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "有権者【ゆうけんしゃ】",
+      "meaning": "votantes"
+    },
+    {
+      "entryId": "1251200",
+      "spelling": "経営者",
+      "reading": "けいえいしゃ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "経営者【けいえいしゃ】",
+      "meaning": "empresario; patrón"
+    },
+    {
+      "entryId": "1302110",
+      "spelling": "参加者",
+      "reading": "さんかしゃ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "参加者【さんかしゃ】",
+      "meaning": "participante"
+    },
+    {
+      "entryId": "1418180",
+      "spelling": "担当者",
+      "reading": "たんとうしゃ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "担当者【たんとうしゃ】",
+      "meaning": "encargado; responsable; persona a cargo"
+    },
+    {
+      "entryId": "1456400",
+      "spelling": "読者",
+      "reading": "どくしゃ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "読者【どくしゃ】",
+      "meaning": "lector"
+    },
+    {
+      "entryId": "1225460",
+      "spelling": "犠牲者",
+      "reading": "ぎせいしゃ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "犠牲者【ぎせいしゃ】",
+      "meaning": "víctima"
+    },
+    {
+      "entryId": "1258590",
+      "spelling": "研究者",
+      "reading": "けんきゅうしゃ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "研究者【けんきゅうしゃ】",
+      "meaning": "investigador"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

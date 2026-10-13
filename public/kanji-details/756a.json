@@ -1,0 +1,242 @@
+{
+  "character": "番",
+  "meanings": "turno, orden, observar, guardar, proteger",
+  "words": [
+    {
+      "entryId": "1165970",
+      "spelling": "一番",
+      "reading": "いちばん",
+      "senseNumbers": [
+        28,
+        29
+      ],
+      "japanese": "一番【いちばん】",
+      "meaning": "(el) mejor; (el) número uno; juego; ronda; asalto; evento (en un encuentro)"
+    },
+    {
+      "entryId": "1165970",
+      "spelling": "１番",
+      "reading": "いちばん",
+      "senseNumbers": [
+        28,
+        29
+      ],
+      "japanese": "１番【いちばん】",
+      "meaning": "(el) mejor; (el) número uno; juego; ronda; asalto; evento (en un encuentro)"
+    },
+    {
+      "entryId": "1482340",
+      "spelling": "番組",
+      "reading": "ばんぐみ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "番組【ばんぐみ】",
+      "meaning": "programa (ej. TV)"
+    },
+    {
+      "entryId": "1482290",
+      "spelling": "番号",
+      "reading": "ばんごう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "番号【ばんごう】",
+      "meaning": "números; serie de dígitos"
+    },
+    {
+      "entryId": "1523150",
+      "spelling": "本番",
+      "reading": "ほんばん",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "本番【ほんばん】",
+      "meaning": "representación; actuación; toma real"
+    },
+    {
+      "entryId": "1462950",
+      "spelling": "二番",
+      "reading": "にばん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "二番【にばん】",
+      "meaning": "el segundo (el 2º)"
+    },
+    {
+      "entryId": "1462950",
+      "spelling": "２番",
+      "reading": "にばん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "２番【にばん】",
+      "meaning": "el segundo (el 2º)"
+    },
+    {
+      "entryId": "1342390",
+      "spelling": "順番",
+      "reading": "じゅんばん",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "順番【じゅんばん】",
+      "meaning": "orden; turno"
+    },
+    {
+      "entryId": "1552800",
+      "spelling": "るす番",
+      "reading": "るすばん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "るす番【るすばん】",
+      "meaning": "quedarse solo cuidando la casa"
+    },
+    {
+      "entryId": "1552800",
+      "spelling": "留守番",
+      "reading": "るすばん",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "留守番【るすばん】",
+      "meaning": "quedarse solo cuidando la casa"
+    },
+    {
+      "entryId": "1602160",
+      "spelling": "一一九番",
+      "reading": "ひゃくじゅうきゅうばん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "一一九番【ひゃくじゅうきゅうばん】",
+      "meaning": "No. de Tel. de ambulancia y brigada de fuego (en Japón); no. tel. de emergencia para ambulancia y bomberos (en Japón)"
+    },
+    {
+      "entryId": "1602160",
+      "spelling": "１１９番",
+      "reading": "ひゃくじゅうきゅうばん",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "１１９番【ひゃくじゅうきゅうばん】",
+      "meaning": "No. de Tel. de ambulancia y brigada de fuego (en Japón); no. tel. de emergencia para ambulancia y bomberos (en Japón)"
+    },
+    {
+      "entryId": "1272500",
+      "spelling": "交番",
+      "reading": "こうばん",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "交番【こうばん】",
+      "meaning": "puesto de policía"
+    },
+    {
+      "entryId": "1449220",
+      "spelling": "当番",
+      "reading": "とうばん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "当番【とうばん】",
+      "meaning": "guardia; turno"
+    },
+    {
+      "entryId": "1166000",
+      "spelling": "一番手",
+      "reading": "いちばんて",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "一番手【いちばんて】",
+      "meaning": "primer jugador; primer trabajador"
+    },
+    {
+      "entryId": "1166000",
+      "spelling": "１番手",
+      "reading": "いちばんて",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "１番手【いちばんて】",
+      "meaning": "primer jugador; primer trabajador"
+    },
+    {
+      "entryId": "1166010",
+      "spelling": "一番のり",
+      "reading": "いちばんのり",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "一番のり【いちばんのり】",
+      "meaning": "líder de ataque; primero en llegar"
+    },
+    {
+      "entryId": "1166010",
+      "spelling": "一番乗り",
+      "reading": "いちばんのり",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "一番乗り【いちばんのり】",
+      "meaning": "líder de ataque; primero en llegar"
+    },
+    {
+      "entryId": "1482360",
+      "spelling": "番地",
+      "reading": "ばんち",
+      "senseNumbers": [
+        13
+      ],
+      "japanese": "番地【ばんち】",
+      "meaning": "calle y número (dirección)"
+    },
+    {
+      "entryId": "1443940",
+      "spelling": "電話番号",
+      "reading": "でんわばんごう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "電話番号【でんわばんごう】",
+      "meaning": "número de telefóno"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

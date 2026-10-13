@@ -1,0 +1,241 @@
+{
+  "character": "投",
+  "meanings": "lanzar, arrojar",
+  "words": [
+    {
+      "entryId": "1447230",
+      "spelling": "投資",
+      "reading": "とうし",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "投資【とうし】",
+      "meaning": "invertir; hacer una inversión; inversión"
+    },
+    {
+      "entryId": "1447320",
+      "spelling": "投票",
+      "reading": "とうひょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "投票【とうひょう】",
+      "meaning": "voto"
+    },
+    {
+      "entryId": "1287110",
+      "spelling": "国民投票",
+      "reading": "こくみんとうひょう",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "国民投票【こくみんとうひょう】",
+      "meaning": "referéndum nacional"
+    },
+    {
+      "entryId": "1516530",
+      "spelling": "投る",
+      "reading": "ほうる",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "投る【ほうる】",
+      "meaning": "dejar ir"
+    },
+    {
+      "entryId": "1277770",
+      "spelling": "好投",
+      "reading": "こうとう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "好投【こうとう】",
+      "meaning": "buen picheo"
+    },
+    {
+      "entryId": "1447120",
+      "spelling": "投機",
+      "reading": "とうき",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "投機【とうき】",
+      "meaning": "especulación"
+    },
+    {
+      "entryId": "1447270",
+      "spelling": "投書",
+      "reading": "とうしょ",
+      "senseNumbers": [
+        12
+      ],
+      "japanese": "投書【とうしょ】",
+      "meaning": "carta; sugerencia; denuncia anónima"
+    },
+    {
+      "entryId": "1447180",
+      "spelling": "投稿",
+      "reading": "とうこう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "投稿【とうこう】",
+      "meaning": "contribución; aplicación; publicar(e.g. a un grupo de noticias o lista de correo)"
+    },
+    {
+      "entryId": "1447300",
+      "spelling": "投入",
+      "reading": "とうにゅう",
+      "senseNumbers": [
+        22
+      ],
+      "japanese": "投入【とうにゅう】",
+      "meaning": "insertar; inyectar"
+    },
+    {
+      "entryId": "1630660",
+      "spelling": "決戦投票",
+      "reading": "けっせんとうひょう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "決戦投票【けっせんとうひょう】",
+      "meaning": "voto decisivo"
+    },
+    {
+      "entryId": "1630660",
+      "spelling": "決選投票",
+      "reading": "けっせんとうひょう",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "決選投票【けっせんとうひょう】",
+      "meaning": "voto decisivo"
+    },
+    {
+      "entryId": "1447100",
+      "spelling": "投じる",
+      "reading": "とうじる",
+      "senseNumbers": [
+        25
+      ],
+      "japanese": "投じる【とうじる】",
+      "meaning": "lanzar; tirar; aventar; abandonar"
+    },
+    {
+      "entryId": "1353350",
+      "spelling": "上手投げ",
+      "reading": "うわてなげ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "上手投げ【うわてなげ】",
+      "meaning": "\"uwate-nage\" (proyección de sumo)"
+    },
+    {
+      "entryId": "1447370",
+      "spelling": "投薬",
+      "reading": "とうやく",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "投薬【とうやく】",
+      "meaning": "medicación"
+    },
+    {
+      "entryId": "1447040",
+      "spelling": "投げ出す",
+      "reading": "なげだす",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "投げ出す【なげだす】",
+      "meaning": "arrojar; lanzar; echar"
+    },
+    {
+      "entryId": "1447200",
+      "spelling": "投降",
+      "reading": "とうこう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "投降【とうこう】",
+      "meaning": "rendición"
+    },
+    {
+      "entryId": "1610500",
+      "spelling": "投射",
+      "reading": "とうしゃ",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "投射【とうしゃ】",
+      "meaning": "proyección"
+    },
+    {
+      "entryId": "1447110",
+      "spelling": "投影",
+      "reading": "とうえい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "投影【とうえい】",
+      "meaning": "proyección"
+    },
+    {
+      "entryId": "1447000",
+      "spelling": "投げる",
+      "reading": "なげる",
+      "senseNumbers": [
+        16,
+        17
+      ],
+      "japanese": "投げる【なげる】",
+      "meaning": "tirar; arrojar; enfrentar la derrota; rendirse"
+    },
+    {
+      "entryId": "1365780",
+      "spelling": "身投げ",
+      "reading": "みなげ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "身投げ【みなげ】",
+      "meaning": "suicidio arrojandose de un lugar alto"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

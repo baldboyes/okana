@@ -1,0 +1,240 @@
+{
+  "character": "父",
+  "meanings": "padre",
+  "words": [
+    {
+      "entryId": "1497610",
+      "spelling": "父",
+      "reading": "ちち",
+      "senseNumbers": [
+        15
+      ],
+      "japanese": "父【ちち】",
+      "meaning": "padre"
+    },
+    {
+      "entryId": "1497680",
+      "spelling": "父親",
+      "reading": "ちちおや",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "父親【ちちおや】",
+      "meaning": "padre"
+    },
+    {
+      "entryId": "1497680",
+      "spelling": "父親",
+      "reading": "てておや",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "父親【てておや】",
+      "meaning": "padre"
+    },
+    {
+      "entryId": "1497690",
+      "spelling": "父母",
+      "reading": "かぞいろ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "父母【かぞいろ】",
+      "meaning": "padres"
+    },
+    {
+      "entryId": "1497690",
+      "spelling": "父母",
+      "reading": "かぞいろは",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "父母【かぞいろは】",
+      "meaning": "padres"
+    },
+    {
+      "entryId": "1497690",
+      "spelling": "父母",
+      "reading": "ちちはは",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "父母【ちちはは】",
+      "meaning": "padres"
+    },
+    {
+      "entryId": "1497690",
+      "spelling": "父母",
+      "reading": "ててはは",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "父母【ててはは】",
+      "meaning": "padres"
+    },
+    {
+      "entryId": "1497690",
+      "spelling": "父母",
+      "reading": "ふぼ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "父母【ふぼ】",
+      "meaning": "padres"
+    },
+    {
+      "entryId": "1497690",
+      "spelling": "父母",
+      "reading": "ぶも",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "父母【ぶも】",
+      "meaning": "padres"
+    },
+    {
+      "entryId": "1002590",
+      "spelling": "お父さん",
+      "reading": "おとうさん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "お父さん【おとうさん】",
+      "meaning": "padre"
+    },
+    {
+      "entryId": "1002590",
+      "spelling": "お父さん",
+      "reading": "おとっさん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "お父さん【おとっさん】",
+      "meaning": "padre"
+    },
+    {
+      "entryId": "1002590",
+      "spelling": "御父さん",
+      "reading": "おとうさん",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "御父さん【おとうさん】",
+      "meaning": "padre"
+    },
+    {
+      "entryId": "1396840",
+      "spelling": "祖父",
+      "reading": "おおじ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "祖父【おおじ】",
+      "meaning": "abuelo"
+    },
+    {
+      "entryId": "1396840",
+      "spelling": "祖父",
+      "reading": "おじ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "祖父【おじ】",
+      "meaning": "abuelo"
+    },
+    {
+      "entryId": "1396840",
+      "spelling": "祖父",
+      "reading": "じい",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "祖父【じい】",
+      "meaning": "abuelo"
+    },
+    {
+      "entryId": "1396840",
+      "spelling": "祖父",
+      "reading": "じじ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "祖父【じじ】",
+      "meaning": "abuelo"
+    },
+    {
+      "entryId": "1396840",
+      "spelling": "祖父",
+      "reading": "そふ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "祖父【そふ】",
+      "meaning": "abuelo"
+    },
+    {
+      "entryId": "1396840",
+      "spelling": "祖父",
+      "reading": "そぶ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "祖父【そぶ】",
+      "meaning": "abuelo"
+    },
+    {
+      "entryId": "1225860",
+      "spelling": "義父",
+      "reading": "ぎふ",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "義父【ぎふ】",
+      "meaning": "suegro; padre adoptivo; padrastro"
+    },
+    {
+      "entryId": "1364860",
+      "spelling": "神父",
+      "reading": "しんぷ",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "神父【しんぷ】",
+      "meaning": "sacerdote católico; padre"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

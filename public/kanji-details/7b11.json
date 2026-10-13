@@ -1,0 +1,240 @@
+{
+  "character": "笑",
+  "meanings": "risa, sonrisa, reír, sonreír",
+  "words": [
+    {
+      "entryId": "1351280",
+      "spelling": "笑",
+      "reading": "わらい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "笑【わらい】",
+      "meaning": "risa"
+    },
+    {
+      "entryId": "1351280",
+      "spelling": "笑い",
+      "reading": "わらい",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "笑い【わらい】",
+      "meaning": "risa"
+    },
+    {
+      "entryId": "1351400",
+      "spelling": "笑顔",
+      "reading": "えがお",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "笑顔【えがお】",
+      "meaning": "rostro sonriente; sonrisa"
+    },
+    {
+      "entryId": "1190860",
+      "spelling": "可笑しい",
+      "reading": "おかしい",
+      "senseNumbers": [
+        20
+      ],
+      "japanese": "可笑しい【おかしい】",
+      "meaning": "extraño; cómico; ridículo; divertido; risible; falso"
+    },
+    {
+      "entryId": "1351370",
+      "spelling": "笑み",
+      "reading": "えみ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "笑み【えみ】",
+      "meaning": "sonrisa"
+    },
+    {
+      "entryId": "1485990",
+      "spelling": "微笑",
+      "reading": "びしょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "微笑【びしょう】",
+      "meaning": "sonrisa"
+    },
+    {
+      "entryId": "1351360",
+      "spelling": "笑う",
+      "reading": "わらう",
+      "senseNumbers": [
+        19
+      ],
+      "japanese": "笑う【わらう】",
+      "meaning": "reír; sonreír; flojear; debilitarse; quedarse sin fuerzas en; fallar las fuerzas en; burlarse de; mofarse de; reírse malintencionadamente de"
+    },
+    {
+      "entryId": "1351310",
+      "spelling": "笑い声",
+      "reading": "わらいごえ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "笑い声【わらいごえ】",
+      "meaning": "risa"
+    },
+    {
+      "entryId": "1244510",
+      "spelling": "苦笑い",
+      "reading": "にがわらい",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "苦笑い【にがわらい】",
+      "meaning": "sonrisa irónica"
+    },
+    {
+      "entryId": "1297310",
+      "spelling": "作り笑い",
+      "reading": "つくりわらい",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "作り笑い【つくりわらい】",
+      "meaning": "risa forzada"
+    },
+    {
+      "entryId": "1486030",
+      "spelling": "ほほ笑む",
+      "reading": "ほほえむ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "ほほ笑む【ほほえむ】",
+      "meaning": "sonreír"
+    },
+    {
+      "entryId": "1486030",
+      "spelling": "微笑む",
+      "reading": "ほおえむ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "微笑む【ほおえむ】",
+      "meaning": "sonreír"
+    },
+    {
+      "entryId": "1486030",
+      "spelling": "微笑む",
+      "reading": "ほほえむ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "微笑む【ほほえむ】",
+      "meaning": "sonreír"
+    },
+    {
+      "entryId": "1486030",
+      "spelling": "頬笑む",
+      "reading": "ほほえむ",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "頬笑む【ほほえむ】",
+      "meaning": "sonreír"
+    },
+    {
+      "entryId": "1574170",
+      "spelling": "笑窪",
+      "reading": "えくぼ",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "笑窪【えくぼ】",
+      "meaning": "hoyuelo"
+    },
+    {
+      "entryId": "1612790",
+      "spelling": "可笑しな",
+      "reading": "おかしな",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "可笑しな【おかしな】",
+      "meaning": "absurdo; ridículo; raro; extraño"
+    },
+    {
+      "entryId": "1420270",
+      "spelling": "談笑",
+      "reading": "だんしょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "談笑【だんしょう】",
+      "meaning": "conversación amistosa; charla amistosa"
+    },
+    {
+      "entryId": "1351350",
+      "spelling": "笑い話",
+      "reading": "わらいばなし",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "笑い話【わらいばなし】",
+      "meaning": "una historia divertida"
+    },
+    {
+      "entryId": "1163490",
+      "spelling": "一笑",
+      "reading": "いっしょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "一笑【いっしょう】",
+      "meaning": "risa; sonrisa"
+    },
+    {
+      "entryId": "1414120",
+      "spelling": "大笑い",
+      "reading": "おおわらい",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "大笑い【おおわらい】",
+      "meaning": "carcajada; risotada"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "character": "籠",
+  "meanings": "cesto, canasta, palanquín, confinarse, recluirse, confinar, recluir, engatusar, seducir",
+  "words": [
+    {
+      "entryId": "1590200",
+      "spelling": "籠",
+      "reading": "かご",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "籠【かご】",
+      "meaning": "cesto; cesta; canasta; canasto; jaula"
+    },
+    {
+      "entryId": "1508570",
+      "spelling": "閉じ籠もる",
+      "reading": "とじこもる",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "閉じ籠もる【とじこもる】",
+      "meaning": "encerrarse; recluirse"
+    },
+    {
+      "entryId": "1508570",
+      "spelling": "閉じ籠る",
+      "reading": "とじこもる",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "閉じ籠る【とじこもる】",
+      "meaning": "encerrarse; recluirse"
+    },
+    {
+      "entryId": "1508570",
+      "spelling": "閉籠もる",
+      "reading": "とじこもる",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "閉籠もる【とじこもる】",
+      "meaning": "encerrarse; recluirse"
+    },
+    {
+      "entryId": "1508570",
+      "spelling": "閉籠る",
+      "reading": "とじこもる",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "閉籠る【とじこもる】",
+      "meaning": "encerrarse; recluirse"
+    },
+    {
+      "entryId": "1276990",
+      "spelling": "口籠もる",
+      "reading": "くちごもる",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "口籠もる【くちごもる】",
+      "meaning": "balbucear; tartamudear"
+    },
+    {
+      "entryId": "1276990",
+      "spelling": "口籠る",
+      "reading": "くちごもる",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "口籠る【くちごもる】",
+      "meaning": "balbucear; tartamudear"
+    },
+    {
+      "entryId": "1288790",
+      "spelling": "籠める",
+      "reading": "こめる",
+      "senseNumbers": [
+        14
+      ],
+      "japanese": "籠める【こめる】",
+      "meaning": "meter; insertar; incluir; retacar"
+    },
+    {
+      "entryId": "1360540",
+      "spelling": "心を籠めて",
+      "reading": "こころをこめて",
+      "senseNumbers": [
+        4
+      ],
+      "japanese": "心を籠めて【こころをこめて】",
+      "meaning": "con todo el corazón; con todo cariño; afectuosamente; de todo corazón; con mucho interés"
+    },
+    {
+      "entryId": "1593430",
+      "spelling": "籠もる",
+      "reading": "こもる",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "籠もる【こもる】",
+      "meaning": "estar lleno de; recluirse; encerrarse"
+    },
+    {
+      "entryId": "1593430",
+      "spelling": "籠る",
+      "reading": "こもる",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "籠る【こもる】",
+      "meaning": "estar lleno de; recluirse; encerrarse"
+    },
+    {
+      "entryId": "1605780",
+      "spelling": "揺り籠",
+      "reading": "ゆりかご",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "揺り籠【ゆりかご】",
+      "meaning": "cuna"
+    },
+    {
+      "entryId": "1605780",
+      "spelling": "揺籠",
+      "reading": "ゆりかご",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "揺籠【ゆりかご】",
+      "meaning": "cuna"
+    },
+    {
+      "entryId": "1647900",
+      "spelling": "引き籠もり",
+      "reading": "ひきこもり",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "引き籠もり【ひきこもり】",
+      "meaning": "retirada social; rehuir de otra gente; gente que se retira de la sociedad (e.g.; retirarse del país); quedarse en casa; rechazar otra gente; gente que se retira de la sociedad (ej. retirarse del país); huir de otra gente"
+    },
+    {
+      "entryId": "1647900",
+      "spelling": "引き籠り",
+      "reading": "ひきこもり",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "引き籠り【ひきこもり】",
+      "meaning": "retirada social; rehuir de otra gente; gente que se retira de la sociedad (e.g.; retirarse del país); quedarse en casa; rechazar otra gente; gente que se retira de la sociedad (ej. retirarse del país); huir de otra gente"
+    },
+    {
+      "entryId": "1647900",
+      "spelling": "引籠もり",
+      "reading": "ひきこもり",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "引籠もり【ひきこもり】",
+      "meaning": "retirada social; rehuir de otra gente; gente que se retira de la sociedad (e.g.; retirarse del país); quedarse en casa; rechazar otra gente; gente que se retira de la sociedad (ej. retirarse del país); huir de otra gente"
+    },
+    {
+      "entryId": "1647900",
+      "spelling": "引籠り",
+      "reading": "ひきこもり",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "引籠り【ひきこもり】",
+      "meaning": "retirada social; rehuir de otra gente; gente que se retira de la sociedad (e.g.; retirarse del país); quedarse en casa; rechazar otra gente; gente que se retira de la sociedad (ej. retirarse del país); huir de otra gente"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}

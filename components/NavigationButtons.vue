@@ -19,6 +19,15 @@
         <span class="text-xs">Katakana</span>
       </NuxtLink>
 
+      <NuxtLink
+        to="/kanji"
+        class="flex flex-col items-center gap-1 text-gray-400 hover:text-gray-500"
+        :class="{ 'text-gray-900 font-semibold': $route.path === '/kanji' }"
+      >
+        <span class="text-2xl" lang="ja">漢</span>
+        <span class="text-xs">Kanji</span>
+      </NuxtLink>
+
       <NuxtLink 
         to="/table" 
         class="flex flex-col items-center gap-1 text-gray-400 hover:text-gray-500"

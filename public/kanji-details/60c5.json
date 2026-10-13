@@ -1,0 +1,242 @@
+{
+  "character": "情",
+  "meanings": "sentimientos, emoción, simpatía",
+  "words": [
+    {
+      "entryId": "1314010",
+      "spelling": "事情",
+      "reading": "じじょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "事情【じじょう】",
+      "meaning": "circunstancias; consideración; condiciones; situación; razones"
+    },
+    {
+      "entryId": "1356320",
+      "spelling": "情勢",
+      "reading": "じょうせい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "情勢【じょうせい】",
+      "meaning": "situación; condición; estado actual"
+    },
+    {
+      "entryId": "1356370",
+      "spelling": "情報",
+      "reading": "じょうほう",
+      "senseNumbers": [
+        11,
+        12,
+        13
+      ],
+      "japanese": "情報【じょうほう】",
+      "meaning": "información; noticias; inteligencia (militar); cotilleo; chismes"
+    },
+    {
+      "entryId": "1356700",
+      "spelling": "情況",
+      "reading": "じょうきょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "情況【じょうきょう】",
+      "meaning": "estado de las cosas (a tu alrededor); situación; circunstancias"
+    },
+    {
+      "entryId": "1356730",
+      "spelling": "情態",
+      "reading": "じょうたい",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "情態【じょうたい】",
+      "meaning": "estado actual; condición; situación; circunstancias"
+    },
+    {
+      "entryId": "1489700",
+      "spelling": "表情",
+      "reading": "ひょうじょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "表情【ひょうじょう】",
+      "meaning": "expresión facial"
+    },
+    {
+      "entryId": "1212410",
+      "spelling": "感情",
+      "reading": "かんじょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "感情【かんじょう】",
+      "meaning": "emoción; sentimiento; sentimientos"
+    },
+    {
+      "entryId": "1595260",
+      "spelling": "実情",
+      "reading": "じつじょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "実情【じつじょう】",
+      "meaning": "hechos; estado; circunstancias; estado actual"
+    },
+    {
+      "entryId": "1244520",
+      "spelling": "苦情",
+      "reading": "くじょう",
+      "senseNumbers": [
+        10
+      ],
+      "japanese": "苦情【くじょう】",
+      "meaning": "queja; reclamación"
+    },
+    {
+      "entryId": "1356330",
+      "spelling": "情熱",
+      "reading": "じょうねつ",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "情熱【じょうねつ】",
+      "meaning": "pasión; entusiasmo; celo"
+    },
+    {
+      "entryId": "1150860",
+      "spelling": "愛情",
+      "reading": "あいじょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "愛情【あいじょう】",
+      "meaning": "amor; afecto"
+    },
+    {
+      "entryId": "1356210",
+      "spelling": "情",
+      "reading": "じょう",
+      "senseNumbers": [
+        18
+      ],
+      "japanese": "情【じょう】",
+      "meaning": "pasión por ~"
+    },
+    {
+      "entryId": "1452720",
+      "spelling": "同情",
+      "reading": "どうじょう",
+      "senseNumbers": [
+        8
+      ],
+      "japanese": "同情【どうじょう】",
+      "meaning": "compadecer; sentir compasión; compasión; compadecerse; piedad; sentirlo por"
+    },
+    {
+      "entryId": "1540130",
+      "spelling": "友情",
+      "reading": "ゆうじょう",
+      "senseNumbers": [
+        7
+      ],
+      "japanese": "友情【ゆうじょう】",
+      "meaning": "amistad; compañerismo"
+    },
+    {
+      "entryId": "1360720",
+      "spelling": "心情",
+      "reading": "しんじょう",
+      "senseNumbers": [
+        6
+      ],
+      "japanese": "心情【しんじょう】",
+      "meaning": "sentimientos; emociones"
+    },
+    {
+      "entryId": "1368180",
+      "spelling": "人情",
+      "reading": "にんじょう",
+      "senseNumbers": [
+        9
+      ],
+      "japanese": "人情【にんじょう】",
+      "meaning": "compasión; sentimiento; humanitarismo"
+    },
+    {
+      "entryId": "1580510",
+      "spelling": "情緒",
+      "reading": "じょうしょ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "情緒【じょうしょ】",
+      "meaning": "sentimiento"
+    },
+    {
+      "entryId": "1580510",
+      "spelling": "情緒",
+      "reading": "じょうちょ",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "情緒【じょうちょ】",
+      "meaning": "sentimiento"
+    },
+    {
+      "entryId": "1750510",
+      "spelling": "情報部",
+      "reading": "じょうほうぶ",
+      "senseNumbers": [
+        5
+      ],
+      "japanese": "情報部【じょうほうぶ】",
+      "meaning": "oficina de información; departamento de inteligencia"
+    },
+    {
+      "entryId": "1290210",
+      "spelling": "根情",
+      "reading": "こんじょう",
+      "senseNumbers": [
+        11
+      ],
+      "japanese": "根情【こんじょう】",
+      "meaning": "temperamento; carácter; actitud"
+    }
+  ],
+  "availability": {
+    "dictionaryCharacter": true,
+    "spanishMeanings": true,
+    "spanishPriorityWords": true
+  },
+  "provenance": {
+    "kind": "original-dictionaries",
+    "source": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+    "capturedAt": "2026-10-01T18:02:12.576790+00:00",
+    "dictionaries": {
+      "kanjidic2.xml.gz": {
+        "url": "https://www.edrdg.org/kanjidic/kanjidic2.xml.gz",
+        "sha256": "1c60c9453e1c7a318f3492fd8e13ea792d20130402bcbce9ed84e6165dfa1d60",
+        "entries": 13108,
+        "file_version": "4",
+        "database_version": "2026-274",
+        "date_of_creation": "2026-10-01"
+      },
+      "JMdict.gz": {
+        "url": "https://www.edrdg.org/pub/Nihongo/JMdict.gz",
+        "sha256": "80fd072e541fb98a749d049ea3bd511a54d35445203cdeb414cb72efbecca6e0",
+        "entries": 218850,
+        "file_version": "XML DTD Rev 1.09",
+        "date_of_creation": "2026-10-01"
+      }
+    },
+    "selectionPolicy": "JMdict priority-marked spelling/reading pairs; best tier (1, 2, nf), nf bucket, marker count descending, entry ID, spelling, reading; deduplicate spelling/reading; maximum 20. Not a corpus frequency rank.",
+    "licenses": {
+      "kanjidic2": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "jmdict": "https://www.edrdg.org/edrdg/licence.html",
+      "spanish": "https://www.edrdg.org/wwwjdic/wwwjdicinf.html"
+    },
+    "spanishCredits": "KANJIDIC2: Francisco Gutierrez / Gabriel Sanroman. JMdict Spanish: HISPADIC and RUI / Francisco Barberan (WWWJDIC documentation; XML does not identify individual gloss compilers)."
+  }
+}
